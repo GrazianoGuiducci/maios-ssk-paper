@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use or discuss this working paper, please cite it using these metadata."
+title: "System Semantic Kernel (SSK): Operational Logic, Situated Meaning, and Evolution Across Agentic Systems"
+type: article
+authors:
+  - family-names: Guiducci
+    given-names: Graziano
+version: "0.1"
+date-released: 2026-09-01
+repository-code: "https://github.com/GrazianoGuiducci/maios-ssk-paper"
+url: "https://github.com/GrazianoGuiducci/maios-ssk-paper"
+abstract: >-
+  A theoretical framework and empirical programme for coupling present semantic
+  fields, situated competences, observable resultants, interpretation, causal
+  readback, competence evolution, and contextual reentry in agentic systems.
+keywords:
+  - system semantic kernel
+  - agentic AI
+  - situated competence
+  - contextual reentry
+  - causal readback
+  - competence evolution

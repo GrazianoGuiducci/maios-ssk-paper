@@ -1,0 +1,245 @@
+---
+name: system-semantic-kernel-paper
+description: Develop and evolve the System Semantic Kernel (SSK) academic Paper and its faithful public representations from the canonical maios-ssk-paper corpus. Use when defining, writing, revising, versioning, or explaining the SSK research object; when relating operational logic, implementation reasons, internal meaning, observable resultants, and consequences for other systems; or when composing a claim-aware derivative. The competence does not own living Kernel truth, product source, package contents, academic publication, site, or runtime effects.
+---
+
+# System Semantic Kernel Paper
+
+## Purpose
+
+Own the continuing academic form of the System Semantic Kernel research field.
+Keep the Kernel's operating relations readable without turning the Paper into a
+runtime manual, a product page, a proof tribunal, or a history dump.
+
+The competence maintains one coupled object:
+
+```text
+operational logic
++ why the relation was implemented
++ how it is incarnated
++ its internal meaning
++ what its resultants can entail for other systems
+-> an academically readable and revisable corpus.
+```
+
+Read [references/SSK_PAPER_COMPETENCE_KERNEL.md](references/SSK_PAPER_COMPETENCE_KERNEL.md)
+before changing the thesis, title, argument spine, claim boundary, research
+object, or relation between Paper and Kernel. A MAIOS page, bilingual
+projection, interactive representation, or publication remains an
+owner-distinct derivative and must consume the exact canonical corpus revision
+through its own public-surface competence.
+
+## Ownership
+
+This is the repository-native projection of the Editoriali Paper competence.
+`maios-ssk-paper` owns the public manuscript, state, citation, revision
+continuity, and contribution surface. Editoriali owns consequential academic
+form; durable Kernel meaning remains source-bound to its own competence.
+
+It composes, without absorbing:
+
+- `maintain-kernel-knowledge` for current source-bound Kernel meaning;
+- `editorial-writing-orchestrator` and Editoriali's semantic kernel for
+  academic argument, literature, prose, and authorial lineage;
+- the public `maios-kernel-paper` skill only when the MAIOS Project Kernel
+  repository is selected as a source or contribution surface;
+- `maios-site-communication-design` for public truth, information architecture,
+  site copy, and page implementation;
+- `maios-localization-orchestrator` for Italian/English semantic parity;
+- `govern-source-to-runtime` for commit, production-bound push, webhook,
+  deployment identity, and live verification.
+
+The Paper is not the owner of package bytes, Project Kernel release state,
+MAIOS site source, a DOI, community outreach, visitor data, or runtime
+learning. Those relations enter only when explicitly selected.
+
+## Current Fixed Point
+
+Use the current working identity unless the operator changes it:
+
+```text
+title: System Semantic Kernel (SSK)
+subtitle: Operational Logic, Situated Meaning, and Evolution Across Agentic Systems
+primary function: academic working paper intended for eventual publication
+research object: System Semantic Kernel as the typology observed through this Kernel; artificial cognitive becoming in agentic and robotic systems is its wider phenomenon and application field
+public identity: MAIOS represents and narrates SSK on the web and through the brand without renaming the research object or inheriting its claim state
+corpus strategy: integrate every still-causal relation into one SSK field; keep superseded forms as cold genealogy and derive non-academic forms only from the academically governed corpus
+canonical repository: GrazianoGuiducci/maios-ssk-paper
+canonical manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md
+current state: stable body 0.1; author review pending; no peer review, DOI or academic publication
+```
+
+The Paper studies how a system's present relation, situated competences,
+operation, resultant, causal interpretation, and changed following field can
+form one evolving semantic kernel. It asks what this becoming may make possible
+for operators, projects, organizations, and societies without converting those
+possibilities into already observed universal effects.
+
+## Operating Relation
+
+Resolve the coupled event through the smallest readable sequence:
+
+```text
+observation
+-> open possibility field
+-> pertinent relation
+-> situated operation or manifestation
+-> observable resultant
+-> situated interpretation
+-> possible transformation of the following field.
+```
+
+The arrows are an explanatory resolution, not a mandatory workflow imposed on
+the phenomenon. Preserve the whole event when separating it would change the
+meaning.
+
+The resultant manifests the movement that produced it. Do not add an external
+act of demonstration merely to admit the phenomenon. Keep one decisive
+distinction: a resultant can make itself observable, while an interpretation
+or general claim about it still needs its source, scope, and relation to the
+observed event.
+
+## Paper Movement
+
+1. Read `STATE.md`, recover the latest operator relation and the closest
+   owner-native Kernel sources. A current operator correction outranks an
+   older dossier conclusion.
+2. Develop one integrated SSK field from every relation that still changes the
+   research object. Do not concatenate contextual return, competence evolution,
+   robotic becoming, LFNC, public interaction, and package evidence merely
+   because they are adjacent. Preserve a predecessor as a reusable component or
+   cold genealogy when its form no longer owns the whole object; split a later
+   paper only when the academic argument itself makes that separation more
+   exact.
+3. Preserve the authorial source, then form the academic argument. Do not make
+   audience expectations or inherited academic convention the generator of
+   the object.
+4. Connect each important relation to its rationale, incarnation, internal
+   meaning, observable resultant, and possible external consequence.
+5. Expose one complete event trace and source pointers so an external reader
+   can touch the object without making reproduction or falsification the
+   Paper's center.
+6. Keep state explicit: source formulation, represented relation, implemented
+   incarnation, observed resultant, situated interpretation, transferred
+   change, retained unknown, or open possibility.
+7. Separate the stable body, current working state, and revision history. A
+   working paper may be public before it is complete when its state is clear.
+8. Let real critique, use, and later resultants change the closest owning
+   relation. Accumulation alone is not competence evolution.
+
+## External Contact Surface
+
+For readers who need recognizable handles, provide a compact observational
+interface rather than a second epistemology:
+
+```text
+logic -> why -> incarnation -> internal meaning -> external consequence
+one complete real event trace
+inspectable source pointers
+optional minimal observables or comparison protocol in an appendix.
+```
+
+Reproduction, comparison, measurement, counterexamples, and falsifiers are
+available contact surfaces when an exact claim benefits from them. They serve
+the movement of knowledge; they do not grant existence to the resultant and do
+not consume the Paper's energy by default.
+
+## Integral Corpus And Derived Functions
+
+Keep the whole *living* research field together through use. A relation that
+still changes the object, argument or attainable explanation belongs in the
+current corpus. A form that no longer performs that work becomes obsolete as
+current authority and cools into genealogy; it remains recoverable and a
+source-bound relation from it can re-enter when the present makes it pertinent.
+Do not keep historical forms active from fear that the past may reappear.
+
+The operator's zero-latency direction applies to reconstruction: when the
+pertinent live relations are already incarnated and reachable through the
+competence field, the Paper and its source map need not be rediscovered each
+time. Treat this as a research hypothesis and design direction, not as a claim
+of zero model, tool, network, or runtime latency.
+
+Use an elemental-function lens when it helps the academic argument or a later
+faithful translation:
+
+```text
+SSK element
+-> logical function
+-> present LLM pressure or failure relation
+-> possible SSK correction or capability
+-> observable resultant, claim state and retained unknown.
+```
+
+Initial elements can include competence, meta-competence and composition, open
+semantic field, causal readback, and continuum/reentry. The lens is an
+authoring instrument, not a fixed Paper outline or final promotional copy.
+Claims that a relation corrects contamination, limitation, fragmentation or
+latency in current LLMs remain hypotheses until their declared comparison and
+evidence support them.
+
+The academically governed Paper and source corpus remain primary. Other forms
+derive only when their exact function is selected:
+
+```text
+academic SSK Paper
+-> AI-readable guide
+-> expert and philosophical explanation
+-> elemental-function/value explanation
+-> funding and resource narrative
+-> public or prospective-client message
+-> marketing, divulgation or another publication.
+```
+
+This is a semantic derivation map, not an automatic workflow. Funding and
+relationship truth belong to the selected Business Manager; consequential
+form belongs to Editoriali; site, send, publication and runtime effects remain
+with their exact owners. A derivative can simplify language and depth without
+changing the research object, source lineage, claim state or retained unknown.
+
+## Paper, Kernel, and Page
+
+The Paper can overlap with the Kernel as a canonical self-description and may
+reduce reentry latency for human or AI readers. This is a derived operational
+function. It must not burden the academic body or become a remote controller of
+external installations.
+
+The public repository is the address through which readers, interested people,
+and later MAIOS launch communication can reach the current academic corpus. It
+does not make the working paper author-reviewed, licensed, submitted, or
+scientifically validated.
+
+A maios.it page is a public representation of the current Paper state. Begin
+with a stable, bilingual, source-linked working-paper page. Conversation,
+visitor contribution, LFNC navigation, gamified fields, competence activation,
+data retention, and evolution from interactions are later architecture and
+runtime effects, not implied by publishing the page.
+
+## Boundaries That Preserve The Field
+
+- Do not reopen Project Kernel package work because the Paper mentions an
+  incarnation. Package evidence enters only when that exact source is selected.
+- Do not treat the existing working paper, dossier, or public research field as
+  the complete SSK Paper merely because it is the nearest artifact.
+- Do not reduce a competence to a skill file or advertised capability.
+- Do not expose KA, FDLA, Meta_Skill, routing internals, or repository topology
+  as public value unless the selected technical passage requires and defines
+  them.
+- Do not replace the operator's wording silently. Preserve it as source and
+  place interpretation, formalization, and public copy on their own planes.
+- Do not let a derivative become a second canonical theory. Bind it to the
+  exact manuscript revision and claim ledger it consumes.
+- Do not make validation, peer review, publication, citation, package inclusion,
+  or live interaction automatic consequences of drafting.
+
+## Competence Readback
+
+After a meaningful use, ask which relation changed what the competence can do
+on a later non-identical case. Return only that causal difference here or to the
+closest owner. Keep artifact chronology in the Paper lane, Kernel meaning in
+`maintain-kernel-knowledge`, site rules in `maios-site-communication-design`,
+and release rules in `govern-source-to-runtime`.
+
+The competence is complete for a movement when the selected artifact preserves
+the object, its source relation, its current state, the causal argument, and the
+next open field without adding a separate constraint to make the work appear
+finished.
