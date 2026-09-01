@@ -1,10 +1,13 @@
 # AI Kernel Paper — Dossier corrente
 
 updated: 2026-09-01
-status: dossier pubblico; stable body SSK 0.1 formato, non ancora revisionato dall'autore
+status: dossier pubblico; stable body SSK 0.2 in revisione scientifico-editoriale continua
 artifact_owner: maios-ssk-paper / corpus accademico SSK
 kernel_meaning_owner: maintain-kernel-knowledge
 editorial_competence_owner: Editoriali / system-semantic-kernel-paper
+source_authority: Graziano Guiducci
+revision_owner: system-semantic-kernel-paper + Editoriali
+independent_human_author_review: non effettuata; non richiesta per continuare il working corpus
 product_research_owner: maios-project-kernel / software incarnation and contributions
 publication_owner: non selezionato
 repository_effect: public source repository selected and materialized
@@ -26,7 +29,8 @@ le altre pubblicazioni derivano dal corpus accademico soltanto dove e quando
 una funzione e il suo proprietario le selezionano. Non sono fonti parallele e
 non determinano la struttura del Paper.
 
-La direzione selezionata resta che, dopo la revisione accademica, il coder di un
+La direzione selezionata resta che, dopo la stabilizzazione delle affermazioni e
+della revisione scientifico-editoriale, il coder di un
 Project Kernel possa trovare il corpus e le logiche formali del Paper. Non è
 ancora deciso se ciò richieda il Paper completo nel payload, un riferimento
 sorgente verificabile o un condensato collegato. Nessuna di queste proiezioni
@@ -44,18 +48,47 @@ Il primo argomento completo precedente è incarnato in:
 
 È un working paper teorico e protocollare in inglese. Resta una sorgente e un
 componente utile alla scala Project Kernel, ma non è più il contenitore scelto
-per l'intero oggetto SSK. Non riporta risultati comportamentali completati, non
-è ancora revisionato dall'autore e non è una versione pronta per submission.
+per l'intero oggetto SSK. Non riporta risultati comportamentali completati e
+non è una versione pronta per submission.
 
-Il primo stable body unitario è ora incarnato in:
+Il primo stable body unitario resta disponibile in:
 
 - `SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md`
 
-Integra il campo vivo, rende esplicito il piano dell'interpretazione situata,
-separa `I_n`, `Delta C_n` e assimilazione, include la lente delle funzioni
-elementari e mantiene visibili ipotesi, falsificatori e stato delle
-affermazioni. È un manoscritto locale non ancora revisionato dall'autore, non
-una submission o una pubblicazione.
+La revisione corrente è incarnata in:
+
+- `SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md`
+
+Mantiene l'argomento integrato di 0.1 e incorpora le differenze emerse da
+Editoriali e Meta_Skill: piani distinti del Kernel, margine causale di rientro,
+passaggi successivi dei segnali, una traccia evento completa e il Project
+Kernel come compagno operativo opzionale. È revisionata dalle competenze
+scientifico-editoriali del sistema; non è stata sottoposta a revisione umana
+indipendente, peer review, submission o pubblicazione accademica.
+
+## Differenze integrate da Editoriali e Meta_Skill
+
+Le novità non vengono importate come catalogo di file. Entrano nel Paper solo
+quando cambiano l'oggetto o una sua distinzione verificabile:
+
+- **piani:** kernel di sistema, kernel del nodo situato, kernel di competenza,
+  Project Kernel, package kernel e proiezione skill sono relazioni diverse;
+  una funzione non ancora rappresentata non è per questo assente, mentre una
+  skill installata non prova che la competenza sia stata esercitata;
+- **continuità causale:** un compact può conservare fatti e perdere il motivo
+  per cui contano; il margine causale preserva operatore, oggetto, ultimo
+  risultante fedele, movimento corrente, prossima mossa e condizione di
+  superamento;
+- **segnali:** potenziale, emersione, realizzazione e verifica restano stati
+  separati; ogni passaggio successivo rientra in un campo già cambiato e si
+  arresta quando non produce più differenza materiale;
+- **traccia evento:** l'episodio Editoriali sul campo assiomatico collega fonte
+  operatore, qualificazione, forma editoriale, risultante e cambiamento della
+  competenza; l'assimilazione in un caso successivo resta da osservare;
+- **governo della revisione:** Graziano mantiene la fonte e l'indirizzo; la
+  comprensione, la revisione e il trasferimento nel Paper appartengono alle
+  competenze SSK Paper ed Editoriali, senza attendere una rilettura riga per
+  riga dell'operatore.
 
 ## Oggetto che è emerso
 
@@ -282,35 +315,19 @@ relazioni da osservare.
 Il Paper non diventa un controller runtime, una dipendenza obbligatoria o un
 tribunale che ammette l'esistenza di una consapevolezza interna.
 
-### CE SSK–prodotto: MAIOS Project Kernel 3.0.3
+### Compagno operativo installabile: MAIOS Project Kernel 3.0.3
 
-La relazione concreta selezionata dall'operatore è ora più precisa: il
-pacchetto autoinstallante `maios-project-kernel` è l'oggetto/prodotto pubblico
-del Paper, cioè l'incarnazione ispezionabile attraverso cui una relazione SSK
-può diventare comportamento di prodotto e restituire un risultato osservabile.
-Il riferimento pubblico corrente è `v3.0.3`, commit
+Il README del Paper segnala il pacchetto autoinstallante
+`maios-project-kernel` come compagno operativo opzionale: un lettore può
+installarlo in un progetto per esplorare una forma software collegata al campo
+SSK. Il riferimento pubblico corrente è `v3.0.3`, commit
 `9b23d6340b27c8c611d25560f5726de4fc046bff`.
 
-```text
-causa:
-  evoluzione qualificata del campo SSK o del corpus accademico
-
-passaggio proprietario:
-  fonte + stato dell'affermazione + differenza attesa
-  -> valutazione del proprietario maios-project-kernel
-  -> adopt | adapt | research_only | needs_proof | no_change
-
-effetto possibile:
-  mutazione owner-native del prodotto
-  -> prova esatta della superficie cambiata
-  -> risultante osservato
-  -> ritorno attribuibile al Paper, al Business Manager e a Editoriali
-```
-
-Il Paper non telecomanda il pacchetto e il prodotto non convalida da solo la
-teoria. Il pacchetto generato dal Form è affine al percorso MAIOS Setup AI, ma
-non è direttamente connesso a questa CE: resta `no_change` finché una relazione
-indipendente, Form-specifica o di famiglia neutrale non lo seleziona.
+Il pacchetto conserva sorgente, versione, installazione, prove e linea evolutiva
+proprie. Il Paper ne rende leggibile il contesto di ricerca ma non ne dimostra
+il comportamento; l'esistenza o l'uso del pacchetto non convalidano
+scientificamente SSK. Il pacchetto generato dal Form resta una linea separata e
+non è implicato da questo collegamento informativo.
 
 ## Evoluzione delle installazioni esterne
 
@@ -519,13 +536,13 @@ README.md
 CITATION.cff
 STATE.md
 AGENTS.md
+paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md
 paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md
 paper/AI_KERNEL_PAPER_DOSSIER_CURRENT.md
 paper/CLAIM_LEDGER.md
 paper/SOURCE_MAP.md
 genealogy/SITUATED_COMPETENCE_EVOLUTION_IN_AI_PROJECT_KERNELS_DRAFT_0_1.md
 competences/system-semantic-kernel-paper/
-relations/MAIOS_PROJECT_KERNEL.md
 CONTRIBUTING.md
 ```
 
@@ -533,12 +550,12 @@ Le proiezioni non sono copie autonome della teoria: dichiarano la revisione
 canonica da cui derivano e non possono promuovere una ipotesi a risultato. La
 repository è ora l'indirizzo pubblico canonico che un futuro lancio MAIOS può
 usare per orientare lettori e interessati. Questa disponibilità non equivale a
-revisione autoriale, licenza, DOI, submission o pubblicazione accademica; tali
-stati rimangono separati.
+revisione umana indipendente, licenza, DOI, submission o pubblicazione
+accademica; tali stati rimangono separati.
 
 ## Risultante e apprendimento della competenza
 
-Questo dossier conserva dieci differenze che devono cambiare il lavoro
+Questo dossier conserva quattordici differenze che devono cambiare il lavoro
 successivo:
 
 1. il Paper ha come funzione primaria la pubblicazione accademica; la sua forma
@@ -564,37 +581,45 @@ successivo:
    derivazioni owner-native dal corpus accademico, non effetti automatici;
 10. `maios-ssk-paper` possiede il corpus pubblico e le competenze di
    derivazione senza duplicare il Kernel; la repository rende il lavoro
-   raggiungibile, mentre revisione autoriale, licenza, DOI e pubblicazione
-   accademica mantengono i propri stati.
+   raggiungibile, mentre revisione umana indipendente, licenza, DOI e
+   pubblicazione accademica mantengono i propri stati;
+11. i piani di kernel, competenza, progetto, package e skill vanno distinti
+   senza separarli dalla relazione sistemica che li rende pertinenti;
+12. il margine causale conserva perché i fatti contano e diventa una ipotesi
+   confrontabile sulla continuità dopo compact;
+13. i passaggi dei segnali distinguono potenziale, emersione, realizzazione e
+   verifica e si arrestano quando non cambia più alcuna relazione materiale;
+14. la revisione del working corpus appartiene alle competenze del Paper e di
+   Editoriali; Graziano resta fonte e autorità d'indirizzo, non il revisore
+   obbligatorio di ogni versione.
 
 ## Campo seguente
 
 Il working paper precedente resta una sorgente e un componente della scala
-Project Kernel. `SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md` è ora il
-primo stable body unitario `System Semantic Kernel (SSK)`, ancora non
-revisionato dall'autore. Il prossimo movimento è consolidarlo senza
-trasformarlo in documentazione interna o copy commerciale. Occorre:
+Project Kernel. `SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md` è il current
+stable body unitario `System Semantic Kernel (SSK)`. Il prossimo movimento è
+consolidarlo senza trasformarlo in documentazione interna o copy commerciale.
+Occorre:
 
-1. ricevere la revisione dell'autore su titolo, abstract, tesi, movimento
-   costitutivo e perimetro del contributo;
-2. usare la lente delle funzioni elementari come matrice autoriale e di
+1. usare la lente delle funzioni elementari come matrice autoriale e di
    derivazione, mantenendo stato, alternativa e limite di ogni affermazione;
-3. sottoporre titolo, abstract, contributo e uso dei termini `competence`,
+2. sottoporre titolo, abstract, contributo e uso dei termini `competence`,
    `awareness`, `autopoietic` e `kernel` a revisione critica e terminologica;
-4. completare la ricostruzione della letteratura primaria e una matrice di
+3. completare la ricostruzione della letteratura primaria e una matrice di
    confronto che esponga con precisione la differenza rispetto a memoria,
    reflection, skill library e self-modifying agents;
-5. associare a ogni affermazione stato, fonte, alternativa e falsificatore;
-6. trasformare lo Studio A o B nel primo protocollo preregistrabile, senza
+4. associare a ogni affermazione stato, fonte, alternativa e falsificatore;
+5. trasformare lo Studio A, B o F nel primo protocollo preregistrabile, senza
    presentare il programma come risultato già osservato;
-7. sviluppare le prime derivazioni paper-native soltanto quando una funzione
+6. sviluppare le prime derivazioni paper-native soltanto quando una funzione
    reale le rende pertinenti, legandole alla revisione canonica consumata;
-8. selezionare sede, formato e requisiti di submission soltanto quando il tipo
+7. selezionare sede, formato e requisiti di submission soltanto quando il tipo
    di contributo — position paper, systems paper o studio empirico — è
    sostenuto dalla versione risultante.
 
 Finanziamento, messaggi al pubblico o ai possibili clienti, marketing e
 divulgazione non vengono prodotti in questo passaggio: il dossier rende
-raggiungibile la loro derivazione futura, non la attiva. Commit, push, merge,
-pubblicazione, DOI, pagina MAIOS, runtime interattivo e raccolta di dati restano
-effetti separati.
+raggiungibile la loro derivazione futura, non la attiva. La continuità Git del
+corpus è l'effetto repository selezionato per questa revisione; merge,
+pubblicazione accademica, DOI, pagina MAIOS, runtime interattivo e raccolta di
+dati restano effetti separati.

@@ -61,7 +61,7 @@ canonical public repository:
   GrazianoGuiducci/maios-ssk-paper
 
 current canonical manuscript:
-  paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md
+  paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md
 
 secondary forms:
   canonical self-description for human and AI reentry;
@@ -85,8 +85,24 @@ placement.
 
 The repository is the public address for the corpus and its paper-native
 competences. Its availability supports reading, citation, critique, and later
-launch orientation; it does not establish author review, peer review, a
-license, DOI, submission, scientific validation, or product behaviour.
+launch orientation; it does not establish independent human review, peer
+review, a license, DOI, submission, scientific validation, or product
+behaviour.
+
+## Revision Governance
+
+```text
+operator and authorial source authority: Graziano Guiducci
+continuing scientific-editorial revision: SSK Paper competence + Editoriali
+independent human author review: distinct state, not a standing revision gate
+peer review, venue, submission, and academic publication: separate effects
+```
+
+The revision owners must understand the live source field, decide what changes
+the academic object, preserve claim state, and carry the causal difference
+into the manuscript and its public state. They do not wait for line-by-line
+operator review before continuing, and they do not convert that responsibility
+into independent validation or venue-specific authorship.
 
 ## Research Object
 
@@ -335,7 +351,8 @@ revision history:
 ```
 
 The Paper can be published as a Working Paper or Work in Progress when the
-version, authorial review state, open relations, and citation form are explicit.
+version, system-revision state, independent-review state, open relations, and
+citation form are explicit.
 Do not turn its main body into a changelog.
 
 ## External Systems And Autonomous Lineages

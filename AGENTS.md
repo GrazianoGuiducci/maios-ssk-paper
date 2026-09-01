@@ -9,7 +9,7 @@ package, maios.it, a runtime, a DOI, or an academic publication decision.
 Read only the depth required by the selected work:
 
 1. `STATE.md` for the current revision and claim boundary.
-2. `paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md` for the current
+2. `paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md` for the current
    stable academic body.
 3. `paper/AI_KERNEL_PAPER_DOSSIER_CURRENT.md` when the argument, research
    programme, source relation, or next movement is material.
@@ -34,8 +34,12 @@ external scientific claim
 
 Do not promote a hypothesis, architecture, generated draft, product feature,
 or repository presence into an observed or independently validated result.
-Keep author review, peer review, submission, publication, DOI, product release,
-installation, runtime use, adoption, and assimilation as separate states.
+Keep system scientific-editorial revision, independent human author review,
+peer review, submission, publication, DOI, product release, installation,
+runtime use, adoption, and assimilation as separate states. Graziano is the
+operator and authorial source authority; the Paper competence and Editoriali
+own continuing revision without making independent human review a standing
+gate.
 
 ## Derivations
 

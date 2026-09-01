@@ -65,8 +65,8 @@ research object: System Semantic Kernel as the typology observed through this Ke
 public identity: MAIOS represents and narrates SSK on the web and through the brand without renaming the research object or inheriting its claim state
 corpus strategy: integrate every still-causal relation into one SSK field; keep superseded forms as cold genealogy and derive non-academic forms only from the academically governed corpus
 canonical repository: GrazianoGuiducci/maios-ssk-paper
-canonical manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md
-current state: stable body 0.1; author review pending; no peer review, DOI or academic publication
+canonical manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md
+current state: stable body 0.2; system scientific-editorial revision current; no independent human author review, peer review, DOI or academic publication
 ```
 
 The Paper studies how a system's present relation, situated competences,
@@ -74,6 +74,18 @@ operation, resultant, causal interpretation, and changed following field can
 form one evolving semantic kernel. It asks what this becoming may make possible
 for operators, projects, organizations, and societies without converting those
 possibilities into already observed universal effects.
+
+## Revision Responsibility
+
+Graziano Guiducci remains the operator and authorial source authority. The SSK
+Paper competence and Editoriali own the continuing work of understanding the
+source field, revising the scientific argument, maintaining claim states, and
+integrating pertinent competence knowledge. Independent human review can add a
+distinct state, but its absence does not suspend working-corpus revision.
+
+Do not transfer venue-specific authorship, accountability, peer review,
+submission, or publication status from this relation. Resolve those effects
+explicitly when a venue is selected.
 
 ## Operating Relation
 
@@ -205,8 +217,8 @@ external installations.
 
 The public repository is the address through which readers, interested people,
 and later MAIOS launch communication can reach the current academic corpus. It
-does not make the working paper author-reviewed, licensed, submitted, or
-scientifically validated.
+does not turn system revision into independent human review, or make the
+working paper licensed, submitted, or scientifically validated.
 
 A maios.it page is a public representation of the current Paper state. Begin
 with a stable, bilingual, source-linked working-paper page. Conversation,

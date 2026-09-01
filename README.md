@@ -12,19 +12,23 @@ repository makes that research object readable and citable without treating a
 software package, a website, or an internal operating kernel as the theory
 itself.
 
-> **Current state:** working paper, stable body 0.1, generated from Graziano
-> Guiducci's source corpus by the MAIOS/TM9 system on 1 September 2026. It has
-> not yet been author-reviewed, peer-reviewed, submitted, or independently
-> replicated. The manuscript presents a theoretical framework, a source-bound
-> reference incarnation, and an empirical programme; it does not report
-> completed comparative behavioural experiments or observed adoption.
+> **Current state:** working paper, stable body 0.2, generated and
+> scientifically revised from Graziano Guiducci's source corpus by the
+> MAIOS/TM9 system on 1 September 2026. Graziano remains the operator and
+> authorial source authority; the SSK Paper competence and Editoriali own the
+> continuing revision. No independent human author review, peer review,
+> submission, or replication has occurred. The manuscript presents a
+> theoretical framework, a source-bound reference incarnation, and an
+> empirical programme; it does not report completed comparative behavioural
+> experiments or observed adoption.
 
 ## Read the working paper
 
-- [System Semantic Kernel (SSK), stable body 0.1](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md)
+- [System Semantic Kernel (SSK), stable body 0.2](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md)
 - [Current research dossier and claim-state map](paper/AI_KERNEL_PAPER_DOSSIER_CURRENT.md)
 - [Current claim-state ledger](paper/CLAIM_LEDGER.md)
 - [Public source map](paper/SOURCE_MAP.md)
+- [Revision history](paper/REVISION_HISTORY.md)
 
 ## What this repository owns
 
@@ -39,20 +43,29 @@ The [predecessor working paper](genealogy/SITUATED_COMPETENCE_EVOLUTION_IN_AI_PR
 is preserved as genealogy and as a reusable Project Kernel-scale argument. It
 is no longer the container of the complete SSK research object.
 
+[Stable body 0.1](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md)
+remains the preceding integrated revision and is superseded as the current
+body by 0.2.
+
 The repository also carries a paper-native competence projection under
 [`competences/`](competences/README.md). It helps AI systems and contributors
 preserve the research object, source lineage, claim state, and retained
 unknowns when producing guides or explanations. It is not a copy of the living
 MAIOS/TM9 Kernel and has no authority over external installations.
 
-## Relation to MAIOS Project Kernel
+## Installable operational companion
 
-The public [MAIOS Project Kernel](https://github.com/GrazianoGuiducci/maios-project-kernel)
-is the current inspectable software and product incarnation related to the SSK
-Paper. It has its own source, package, version, evidence, and release lifecycle.
-The Paper does not prove the product's behaviour, and the product's existence
-does not scientifically validate the Paper. See the exact
-[Paper-product relation](relations/MAIOS_PROJECT_KERNEL.md).
+Readers who want to explore an operational software incarnation related to SSK
+can use the self-installing
+[MAIOS Project Kernel](https://github.com/GrazianoGuiducci/maios-project-kernel).
+It installs into a project so a human operator and an AI coder can work through
+a situated, evolving Project Kernel.
+
+The package is an optional operational companion to the Paper. It has its own
+source, version, evidence, and release lifecycle. Installing or using it is not
+required to read the Paper, does not make the package the theory, and does not
+scientifically validate SSK. Conversely, the Paper does not prove the
+package's behaviour.
 
 ## Derived forms
 

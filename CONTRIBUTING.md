@@ -30,6 +30,7 @@ personal data, or source material you are not entitled to share.
 ## Review states
 
 A contribution can be discussed, represented, accepted into a working
-revision, author-reviewed, peer-reviewed, or published. These are distinct
+revision, scientifically and editorially revised by the owning competences,
+independently human-reviewed, peer-reviewed, or published. These are distinct
 states. Acceptance into the repository does not imply scientific validation,
 product adoption, package inclusion, website publication, or runtime use.

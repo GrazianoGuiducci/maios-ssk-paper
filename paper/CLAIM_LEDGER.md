@@ -1,7 +1,7 @@
 # Current claim-state ledger
 
 The canonical detailed ledger is maintained in
-[Appendix A of stable body 0.1](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md#appendix-a-current-claim-state-ledger)
+[Appendix A of stable body 0.2](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md#appendix-a-current-claim-state-ledger)
 and is interpreted together with the
 [dossier's claim-state section](AI_KERNEL_PAPER_DOSSIER_CURRENT.md#stato-delle-affermazioni).
 
