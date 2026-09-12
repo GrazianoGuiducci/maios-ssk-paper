@@ -10,8 +10,8 @@ state: active competence source; not a finished Paper or publication receipt
 
 The [accumulated Paper guide](WORKING_GUIDE.md)
 connects the current operator relation to the sources already acquired and the
-argument still to be developed. The September 12 development is a partial
-synthesis alongside stable body 0.2, not an integrated successor manuscript.
+argument integrated in stable body 0.3. The earlier September 12 development
+remains a source-linked predecessor, not the current manuscript.
 
 The [RepoKernel contribution A–G](https://github.com/GrazianoGuiducci/RepoKernel/blob/334a9d33c12d61ba826d41b25f604af18441e967/docs/SSK_GENERATIVE_CORE_CONTRIBUTION_2026-09-07.md)
 carries a proposed academic treatment of the source kernel's autological
@@ -40,13 +40,24 @@ The guide preserves the detailed source mapping, including access limits.
 A source link locates a contribution; it does not make a restricted source
 publicly inspectable or establish the claims proposed in it.
 
-The current academic continuation is to recompose this knowledge around the
-generative core and the existing event account. External literature can refine
-the questions that emerge. New installation, host and product tests remain
+Revision 0.3 composes this knowledge with the generative core and existing
+event account. The following work starts from that integrated argument;
+new source relations and questions can deepen its understanding. New installation, host and product tests remain
 system feedback outside this Paper movement, following the operator's current
 selection. Existing source traces retain their dated meaning without
 automatically selecting another empirical case or protocol.
 
+
+## Correction exercised in revision 0.3
+
+The operator corrected the assistant's preface “without converting them into
+demonstrated results.” Although the competence already rejected an external
+proof tribunal, that preface reintroduced it into conceptual formation.
+The resulting method begins with the relation, its reasons and consequences.
+Source fidelity and coherent attribution remain inside the writing; anticipated
+audience objections do not supply its starting question. Revision 0.3 carries
+the argument in the main body and retains optional comparisons in an appendix.
+Later reentry must use this changed method, not only repeat the prohibition.
 
 ## Operator Source Nucleus
 
@@ -103,7 +114,7 @@ canonical public repository:
   GrazianoGuiducci/maios-ssk-paper
 
 current canonical manuscript:
-  paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md
+  paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md
 
 secondary forms:
   canonical self-description for human and AI reentry;
@@ -278,9 +289,10 @@ The first useful entries are:
 - **SSK — continuum and reentry:** later work begins from the changed relation
   rather than from topic recall or chronology replay.
 
-These formulations are research and authoring relations, not final advertising
-copy. Their possible advantages over current LLM arrangements require declared
-comparisons, observables, alternatives and retained unknowns.
+These formulations develop the research object. Their conceptual formation
+continues through source meaning and argument. If another movement selects a
+comparative advantage over an LLM arrangement, define and support that exact
+comparison there; do not make it the condition for understanding every relation.
 
 ## Academic Primacy And Derivation Cascade
 

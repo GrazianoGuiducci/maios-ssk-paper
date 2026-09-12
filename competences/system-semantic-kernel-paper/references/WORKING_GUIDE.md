@@ -2,7 +2,58 @@
 
 Aggiornata: 2026-09-12. Competenza: system-semantic-kernel-paper.
 
-## Da dove riprendiamo
+## Punto vivo — corpo 0.3
+
+Il [manoscritto integrato 0.3](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md)
+è ora il corpo stabile citabile. La ricomposizione prima indicata come prossima
+mossa è stata svolta: evento, nucleo generativo autologico, Sé funzionale,
+operatore, design e continuum formano lo stesso argomento.
+
+La lettura diretta degli appunti ha portato nel testo la distinzione fra fare
+e formare il come, il flusso con azioni, la partecipazione dell'operatore e il
+design come condizione di percezione. Il paragrafo marcato «cit GPT» conserva
+l'attribuzione; bozze operative e contatti non sono stati eseguiti o pubblicati.
+
+La correzione di Graziano «non dobbiamo dimostrare nulla a nessuno facciamo il
+nostro lavoro e basta» ha mostrato una contaminazione nella revisione:
+l'assistente aveva anteposto «senza convertirli in risultati dimostrati» al
+movimento concettuale. Non bastava che la competenza dichiarasse già di non
+essere un tribunale della prova. Doveva scrivere a partire dalle relazioni,
+senza riproporre quella cornice come premessa a ogni sviluppo.
+
+Nella 0.3 questo cambia forma e metodo: corpo dedicato a logiche, ragioni e
+conseguenze; confronti precedenti raggiungibili in appendice; provenienza e
+portata delle osservazioni conservate dove servono. La correzione torna alla
+competenza Paper in Editoriali e alle proiezioni Codex e pubblica.
+
+| Sapere acquisito | Dove ora agisce nella 0.3 |
+| --- | --- |
+| Nucleo generativo, K, g, U, autoapplicazione | §4: il sapere può cambiare anche generazione e apprendimento |
+| Sorelle, crescita della raccolta, eredità funzionale | §4.2–4.6: composizione e metodo distinti, ricezione situata |
+| Guide cumulative, ragioni e ritorno | §3.3–3.6: attribuzione, rigenerazione, latenza di ricostruzione |
+| Sé funzionale, sensibilità e continuum | §5.1–5.2: partecipazione e conseguenze, anche da riuscite e possibilità |
+| Operatore e design | §5.3–5.5: comprensione e intento cambiano attraverso la percezione |
+| Fonte D-ND e decompilazione semantica | §2.2 e §6: origine concettuale e relazioni rese utilizzabili |
+
+La §8 aggiorna le descrizioni dei meccanismi vicini attraverso abstract primari
+e documentazione ufficiale; il collegamento a Maturana e Varela usa descrizione
+e metadati dell'editore. Non è stata svolta una rassegna sistematica. Il caso
+editoriale conserva il proprio perimetro precedente; nessun nuovo rapporto
+d'installazione, host o prodotto è stato integrato.
+
+Stato, citazione, dossier e ingressi puntano alla 0.3. Le versioni precedenti
+restano intatte. Il seguito parte dalle domande e dalle relazioni rese disponibili
+da questo testo: può approfondire il sapere e la sua espressione senza dover
+avviare per inerzia un protocollo o produrre tutte le derivazioni. Una nuova
+fonte, un uso effettivo o la direzione dell'operatore può cambiare questo margine.
+
+## Cronologia del recupero — prima della 0.3
+
+Le sezioni seguenti conservano le ragioni dei passaggi precedenti. Quando
+descrivono la 0.2 o un'integrazione ancora da svolgere, si riferiscono a quei
+momenti; il punto vivo sopra indica il risultato successivo.
+
+### Primo rientro
 
 Il corpo stabile è 0.2, pubblicato come sorgente il 1 settembre. La revisione
 continua appartiene al sistema insieme a Editoriali; Graziano conserva fonte
@@ -45,7 +96,7 @@ conoscenza accumulata sufficientemente dettagliata. Questa pagina ne incarna
 la funzione nel Paper: ragioni e possibilità restano raggiungibili durante il
 lavoro, mentre STATE.md indica il punto corrente.
 
-## Recupero successivo e punto corrente
+## Recupero successivo prima dell'integrazione
 
 Il controllo richiesto da Graziano ha mostrato che il primo recupero era
 parziale. Il contributo generativo del 9 settembre era già nel sapere della

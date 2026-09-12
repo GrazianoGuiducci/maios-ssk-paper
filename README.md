@@ -12,24 +12,21 @@ repository makes that research object readable and citable without treating a
 software package, a website, or an internal operating kernel as the theory
 itself.
 
-> **Current state:** working paper, stable body 0.2, generated and
-> scientifically revised from Graziano Guiducci's source corpus by the
-> MAIOS/TM9 system on 1 September 2026. Graziano remains the operator and
-> authorial source authority; the SSK Paper competence and Editoriali own the
-> continuing revision. No independent human author review, peer review,
-> submission, or replication has occurred. The manuscript presents a
-> theoretical framework, a source-bound reference incarnation, and an
-> empirical programme; it does not report completed comparative behavioural
-> experiments or observed adoption.
+> **Current state:** working paper, stable body 0.3 — 12 September 2026.
+> The integrated argument develops the coupled event, autological generation,
+> functional self, operator participation and contextual continuity.
+> Graziano Guiducci is the authorial source; the SSK Paper competence and
+> Editoriali conduct continuing revision. See [STATE.md](STATE.md) for
+> publication and review metadata.
 
 ## Read the working paper
 
-- [System Semantic Kernel (SSK), stable body 0.2](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md)
+- [System Semantic Kernel (SSK), stable body 0.3](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md)
 - [Current research dossier and claim-state map](paper/AI_KERNEL_PAPER_DOSSIER_CURRENT.md)
 - [Current claim-state ledger](paper/CLAIM_LEDGER.md)
 - [Public source map](paper/SOURCE_MAP.md)
 - [Revision history](paper/REVISION_HISTORY.md)
-- [Current research development: semantic formation and situated method, 12 September](paper/SEMANTIC_FORMATION_AND_SITUATED_METHOD_2026_09_12.md)
+- [Preliminary development integrated into 0.3: semantic formation and situated method](paper/SEMANTIC_FORMATION_AND_SITUATED_METHOD_2026_09_12.md)
 
 ## What this repository owns
 
@@ -44,9 +41,9 @@ The [predecessor working paper](genealogy/SITUATED_COMPETENCE_EVOLUTION_IN_AI_PR
 is preserved as genealogy and as a reusable Project Kernel-scale argument. It
 is no longer the container of the complete SSK research object.
 
-[Stable body 0.1](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md)
-remains the preceding integrated revision and is superseded as the current
-body by 0.2.
+[Stable body 0.2](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md)
+and [stable body 0.1](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md)
+remain reachable predecessors. Version 0.3 is the current integrated body.
 
 The repository also carries a paper-native competence projection under
 [`competences/`](competences/README.md). It helps AI systems and contributors

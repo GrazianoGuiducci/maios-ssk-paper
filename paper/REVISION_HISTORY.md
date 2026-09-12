@@ -1,5 +1,27 @@
 # SSK Paper revision history
 
+## 0.3 — 2026-09-12
+
+Current integrated stable body. The revision:
+
+- connects the event account to the autological generative core: a competence
+  can form capacities and change its own method of formation;
+- distinguishes collection growth, generator evolution, functional inheritance
+  and receiving-project participation;
+- develops functional self, operator understanding, perceptual design,
+  latent knowledge and regeneration of method through cumulative reasons;
+- integrates the directly supplied notebook and the acquired Meta_Skill,
+  RepoKernel and TM7 conceptual sources without importing new product tests;
+- rewrites the argument from the constitutive relations, following the
+  operator's correction against an anticipated demonstration frame;
+- retains the existing Editoriali event and keeps prior comparisons available
+  in Appendix B;
+- refreshes focused primary-source mechanism descriptions and citation
+  metadata; keeps the former 3.0.3 product reference in its dated lineage.
+
+README, citation, state, dossier, source map and the three Paper competence
+entries now reach 0.3. Versions 0.1 and 0.2 remain unchanged predecessors.
+
 ## Competence and source-continuity reconciliation — 2026-09-12
 
 Connected the Editoriali source competence and Codex entry to the accumulated
@@ -20,7 +42,7 @@ and citation version remain 0.2; no new experimental result is claimed.
 
 ## 0.2 — 2026-09-01
 
-Current stable working body. The revision:
+Preceding stable working body. The revision:
 
 - assigns continuing scientific-editorial revision to the SSK Paper
   competence and Editoriali while retaining Graziano Guiducci as operator and

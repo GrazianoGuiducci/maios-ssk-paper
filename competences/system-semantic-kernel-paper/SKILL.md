@@ -65,15 +65,15 @@ research object: System Semantic Kernel as the typology observed through this Ke
 public identity: MAIOS represents and narrates SSK on the web and through the brand without renaming the research object or inheriting its claim state
 corpus strategy: integrate every still-causal relation into one SSK field; keep superseded forms as cold genealogy and derive non-academic forms only from the academically governed corpus
 canonical repository: GrazianoGuiducci/maios-ssk-paper
-canonical manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md
-current state: stable body 0.2; system scientific-editorial revision current; no independent human author review, peer review, DOI or academic publication
+canonical manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md
+current state: stable body 0.3; system scientific-editorial revision current; no independent human author review, peer review, DOI or academic publication
 ```
 
 The Paper studies how a system's present relation, situated competences,
 operation, resultant, causal interpretation, and changed following field can
 form one evolving semantic kernel. It asks what this becoming may make possible
-for operators, projects, organizations, and societies without converting those
-possibilities into already observed universal effects.
+for operators, projects, organizations, and societies through the meaning and
+consequences of those relations.
 
 ## Revision Responsibility
 
@@ -86,6 +86,17 @@ distinct state, but its absence does not suspend working-corpus revision.
 Do not transfer venue-specific authorship, accountability, peer review,
 submission, or publication status from this relation. Resolve those effects
 explicitly when a venue is selected.
+
+## Conceptual writing in the present field
+
+Form the argument from the operator's source, its reasons and consequences.
+Do not preface each conceptual development with anticipated denials about what
+it has not demonstrated. That framing can substitute a demand for proof for
+the selected work even when a no-tribunal rule is already written here.
+Keep source meaning and coherence coupled through KA and FDLA while writing.
+Qualify a technical or empirical assertion where its exact scope matters;
+let comparisons serve a selected question rather than govern the whole field.
+The working guide records how this correction changed revision 0.3.
 
 ## Operating Relation
 
@@ -202,9 +213,10 @@ SSK element
 Initial elements can include competence, meta-competence and composition, open
 semantic field, causal readback, and continuum/reentry. The lens is an
 authoring instrument, not a fixed Paper outline or final promotional copy.
-Claims that a relation corrects contamination, limitation, fragmentation or
-latency in current LLMs remain hypotheses until their declared comparison and
-evidence support them.
+Describe the corrective relation through the situation and method that make it
+intelligible. A selected comparative claim about models, performance or latency
+has its own scope and support; it does not impose a demonstration frame on
+conceptual formation.
 
 The academically governed Paper and source corpus remain primary. Other forms
 derive only when their exact function is selected:

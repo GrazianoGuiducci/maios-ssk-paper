@@ -5,14 +5,15 @@ type: article
 authors:
   - family-names: Guiducci
     given-names: Graziano
-version: "0.2"
-date-released: 2026-09-01
+version: "0.3"
+date-released: 2026-09-12
 repository-code: "https://github.com/GrazianoGuiducci/maios-ssk-paper"
 url: "https://github.com/GrazianoGuiducci/maios-ssk-paper"
 abstract: >-
-  A theoretical framework and empirical programme for coupling present semantic
-  fields, situated competences, observable resultants, interpretation, causal
-  readback, competence evolution, and contextual reentry in agentic systems.
+  A conceptual account of the coupled event, autological competence generation,
+  functional self, operator participation, perceptual design and meaningful
+  continuity in agentic systems. Knowledge can change both the work and the
+  method through which subsequent capabilities are formed.
 keywords:
   - system semantic kernel
   - agentic AI
@@ -20,3 +21,5 @@ keywords:
   - contextual reentry
   - causal readback
   - competence evolution
+  - autological generation
+  - operator participation

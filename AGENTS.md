@@ -11,13 +11,21 @@ Read only the depth required by the selected work:
 1. `STATE.md` for the current revision and claim boundary.
    Follow `competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md`
    for the accumulated reasons, acquired knowledge and active development.
-2. `paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md` for the current
+2. `paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md` for the current
    stable academic body.
 3. `paper/AI_KERNEL_PAPER_DOSSIER_CURRENT.md` when the argument, research
    programme, source relation, or next movement is material.
 4. `competences/system-semantic-kernel-paper/SKILL.md` when revising the Paper
    or producing a faithful derivative.
 5. `genealogy/` only when a current relation requires its predecessor.
+
+## Writing relation
+
+Develop the operator's conceptual source through its meaning, reasons and
+consequences. KA and FDLA preserve coherence during that movement. Do not
+substitute an anticipated obligation to demonstrate for the work being formed.
+Comparisons serve selected questions; provenance and precise claim scope stay
+with the passages they actually qualify.
 
 ## Source and claim discipline
 

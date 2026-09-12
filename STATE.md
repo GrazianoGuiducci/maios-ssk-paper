@@ -6,8 +6,8 @@ canonical_branch: `main`
 
 ```text
 research_object: System Semantic Kernel (SSK)
-current_manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md
-working_version: 0.2
+current_manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md
+working_version: 0.3
 source_authority: Graziano Guiducci
 generation_origin: MAIOS/TM9 from the author's source corpus
 revision_owner: system-semantic-kernel-paper + Editoriali
@@ -25,39 +25,35 @@ public_repository_owner: selected and materialized
 
 ## Current movement
 
-The 12 September reentry has acquired the current TM7 field notes and developed
-their Paper relation in
-`paper/SEMANTIC_FORMATION_AND_SITUATED_METHOD_2026_09_12.md`.
-The accumulated work guide is
+Stable body 0.3 integrates the coupled event with the autological generative
+core, functional self, operator participation, perceptual design and
+meaningful continuity. It uses the September source recovery and the notebook
+supplied directly by Graziano Guiducci. The earlier September 12 development
+and stable body 0.2 remain available as genealogy.
+
+The operator's correction changes the writing method: develop the conceptual
+relation through its meaning and consequences, without making anticipated
+external demonstration the generator of the argument. KA and FDLA preserve
+source and coherence within that work. Existing comparisons remain available
+in Appendix B, not as a required next phase.
+
+The accumulated reasons, source-to-section map and continuation are in
 `competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md`.
-Stable body 0.2 remains the citation baseline; the new development is not yet
-a successor integrated manuscript. The subsequent source-coverage correction
-reconciles Editoriali's acquired knowledge, the Codex adapter and the public
-competence projection through the same accumulated guide. It recovers the
-autological generative core and the prepared RepoKernel/TM7 contributions that
-the first September 12 synthesis did not fully use.
+The next field starts from this integrated body. New source knowledge or a
+question emerging from its use can deepen the argument; another protocol,
+derivative or product action is not selected by inertia.
 
-The next academic movement is conceptual recomposition around how competences
-form capabilities and can transform their own generative method, connecting
-functional self and continuum to the existing event account. Primary literature
-will accompany the questions that emerge, rather than precede this source
-reconciliation as a fixed gate. New installation, host and product tests remain
-system feedback handled elsewhere; no new test report is integrated here.
+New installation, host and product reports remain system feedback elsewhere.
+The existing Editoriali event is retained with its original scope.
 
-The repository centralizes the existing SSK Paper work and makes one public,
-citable owner available to academic readers, AI systems, contributors, and
-later MAIOS launch communication.
-
-Scientific revision is system-owned. Terminological comparison and the
-existing study proposals remain available when the developing argument makes
-them pertinent; no protocol is selected by this competence reconciliation.
-Graziano remains the operator and authorial source authority; his line-by-line
-review is not a gate
-for the corpus to continue evolving.
+The repository is the public source for academic reading and later faithful
+AI, editorial and marketing derivations. This revision updates manuscript,
+citation and competence continuity; it does not select those downstream
+publications or alter product releases.
 
 ## Supersession
 
-Update this file when a later manuscript revision, independent review event,
-submission state, license, DOI, or evidence state changes what a reader can
-rely on. Preserve previous resultants through Git history and `genealogy/` when
-their causal relation remains useful.
+Update this margin when a new source relation, manuscript revision or selected
+external effect changes the current work. Preserve useful predecessors through
+their files and Git history. Review, submission, license and DOI changes retain
+their exact states.

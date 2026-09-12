@@ -6,7 +6,8 @@ This text develops operator-origin notes preserved by ChatGPT in TM7 and the
 operating knowledge through which the present Paper work resumes. It is a
 scientific-editorial synthesis by MAIOS/TM9. Its propositions are conceptual
 extensions and research questions; it reports no new controlled experiment.
-The stable manuscript remains [version 0.2](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md).
+This preliminary development accompanied [version 0.2](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md).
+Its useful relations are now integrated into [stable body 0.3](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md).
 
 ## From available knowledge to a method that fits
 
@@ -176,7 +177,7 @@ independently inspected in this passage.
 | `chatgpt/experiments/present-frame/CURRENT_PRESENT.md` | Shared workspace and direct source availability | Source-reentry method |
 | `Meta_Skill/skills/maintain-causal-task-continuity/references/operating-guides.md` | Short margin reaching accumulated meaningful knowledge | Local owner source inspected 12 September; concurrent uncommitted source, not claimed as a published revision |
 
-No primary-literature survey was performed for this extension. It makes no
-novelty claim over existing research. Comparison with relevant primary work
-is the next step before integrating its propositions into a successor stable
-manuscript.
+No primary-literature survey was performed for this preliminary extension.
+The subsequent 0.3 revision integrates its conceptual relations and supplies a
+focused primary-source comparison. This note retains its source-development
+role; its former next-step wording no longer governs the work.
