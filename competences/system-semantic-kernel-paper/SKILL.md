@@ -113,6 +113,10 @@ observed event.
 
 ## Paper Movement
 
+Use [the accumulated work guide](references/WORKING_GUIDE.md) at reentry to
+recover the reasons, source acquisitions and current development behind the
+state. Enrich the relevant section when work changes that understanding.
+
 1. Read `STATE.md`, recover the latest operator relation and the closest
    owner-native Kernel sources. A current operator correction outranks an
    older dossier conclusion.

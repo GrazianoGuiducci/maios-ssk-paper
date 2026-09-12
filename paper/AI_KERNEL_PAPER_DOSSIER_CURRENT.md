@@ -1,6 +1,6 @@
 # AI Kernel Paper — Dossier corrente
 
-updated: 2026-09-01
+updated: 2026-09-12
 status: dossier pubblico; stable body SSK 0.2 in revisione scientifico-editoriale continua
 artifact_owner: maios-ssk-paper / corpus accademico SSK
 kernel_meaning_owner: maintain-kernel-knowledge
@@ -14,6 +14,15 @@ repository_effect: public source repository selected and materialized
 external_effect: pubblicazione della sorgente GitHub; nessuna submission, DOI o pubblicazione accademica
 
 ## Funzione primaria e proiezioni derivate
+
+Il rientro del 12 settembre sviluppa le note TM7 nella relazione tra
+formazione semantica e rigenerazione del metodo situato. Il testo corrente di
+sviluppo è [Semantic formation and situated method](SEMANTIC_FORMATION_AND_SITUATED_METHOD_2026_09_12.md),
+con fonti attribuite, limiti delle osservazioni e confronti da approfondire.
+Il corpo stabile citabile resta 0.2. La
+[guida accumulata](../competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md)
+conserva il sapere acquisito e il seguito, che ora parte dal confronto
+bibliografico delle nuove relazioni prima della prossima integrazione stabile.
 
 La funzione primaria è produrre un Paper destinato alla pubblicazione e alla
 valutazione accademica. Il testo deve quindi reggersi come ricerca: oggetto,

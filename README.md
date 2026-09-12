@@ -29,6 +29,7 @@ itself.
 - [Current claim-state ledger](paper/CLAIM_LEDGER.md)
 - [Public source map](paper/SOURCE_MAP.md)
 - [Revision history](paper/REVISION_HISTORY.md)
+- [Current research development: semantic formation and situated method, 12 September](paper/SEMANTIC_FORMATION_AND_SITUATED_METHOD_2026_09_12.md)
 
 ## What this repository owns
 

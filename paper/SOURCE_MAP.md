@@ -2,6 +2,10 @@
 
 ## Canonical corpus
 
+- [Research development, 12 September](SEMANTIC_FORMATION_AND_SITUATED_METHOD_2026_09_12.md)
+  — method regeneration, meaningful continuity, generative seeds and source-level
+  correction; includes the TM7 source ledger and explicit evidence limits.
+
 - [Stable body 0.2](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md) — current
   integrated academic argument; system scientific-editorial revision current.
 - [Stable body 0.1](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md) — preceding

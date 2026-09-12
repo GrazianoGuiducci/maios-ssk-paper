@@ -1,6 +1,6 @@
 # SSK Paper State
 
-updated: 2026-09-01
+updated: 2026-09-12
 repository: `GrazianoGuiducci/maios-ssk-paper`
 canonical_branch: `main`
 
@@ -24,6 +24,16 @@ public_repository_owner: selected and materialized
 ```
 
 ## Current movement
+
+The 12 September reentry has acquired the current TM7 field notes and developed
+their Paper relation in
+`paper/SEMANTIC_FORMATION_AND_SITUATED_METHOD_2026_09_12.md`.
+The accumulated work guide is
+`competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md`.
+Stable body 0.2 remains the citation baseline; the new development is not yet
+a successor integrated manuscript. Its next movement is primary-literature
+comparison of method regeneration, source-level correction and generative
+transfer, followed by integration where it changes the academic argument.
 
 The repository centralizes the existing SSK Paper work and makes one public,
 citable owner available to academic readers, AI systems, contributors, and

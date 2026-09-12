@@ -1,5 +1,12 @@
 # SSK Paper revision history
 
+## Research development — 2026-09-12
+
+Added a source-attributed academic development on semantic formation and
+situated method, using TM7 field notes at `1fa35303db5fcaaf0cf2fac2d69491ad22b99d11`.
+Connected an accumulated competence guide to reentry. The stable manuscript
+and citation version remain 0.2; no new experimental result is claimed.
+
 ## 0.2 — 2026-09-01
 
 Current stable working body. The revision:
