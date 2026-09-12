@@ -17,6 +17,21 @@
 - [Paper competence kernel](../competences/system-semantic-kernel-paper/references/SSK_PAPER_COMPETENCE_KERNEL.md)
   — source-bound authoring and derivation relation.
 
+## Acquired generative source knowledge
+
+The [accumulated working guide](../competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md)
+maps the September source recovery to what is already expressed and what remains
+to be developed. The [competence kernel](../competences/system-semantic-kernel-paper/references/SSK_PAPER_COMPETENCE_KERNEL.md)
+preserves the acquired distinctions: autological generation, revision of the
+generative method rather than collection growth alone, functional self,
+meaningful continuity and attribution of assisted recovery.
+
+The prepared [RepoKernel contribution](https://github.com/GrazianoGuiducci/RepoKernel/blob/334a9d33c12d61ba826d41b25f604af18441e967/docs/SSK_GENERATIVE_CORE_CONTRIBUTION_2026-09-07.md)
+and [TM7 conceptual contribution](https://github.com/GrazianoGuiducci/tm7/blob/1fa35303db5fcaaf0cf2fac2d69491ad22b99d11/chatgpt/experiments/maios-form-package-alignment/references/SSK_PAPER_SELF_INSTITUTION.md)
+are source locators, potentially access-restricted. They are not new manuscript
+sections or independently verified results. New installation and product tests
+remain system feedback outside the current Paper movement.
+
 ## Installable operational companion
 
 - [MAIOS Project Kernel](https://github.com/GrazianoGuiducci/maios-project-kernel)

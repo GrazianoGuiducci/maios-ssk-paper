@@ -117,6 +117,19 @@ Use [the accumulated work guide](references/WORKING_GUIDE.md) at reentry to
 recover the reasons, source acquisitions and current development behind the
 state. Enrich the relevant section when work changes that understanding.
 
+A source deposit, acquisition by the competence, this public projection and
+integration into the manuscript are different results. Read the acquired
+knowledge relevant to the resumed relation, rather than choosing sources by
+date alone. Reconnect a missed entry when the knowledge already exists; deepen
+the competence when the relation itself has not been acquired. The guide stays
+at this corpus owner and remains reachable from Editoriali and the host adapter.
+
+Source knowledge can change the next academic question. Literature, comparisons
+and protocols serve the claims that need them; they are not a fixed next-step
+sequence. Operational feedback supplied for system maintenance stays with that
+owner unless its Paper use is selected. An arriving report alone does not select
+an academic case.
+
 1. Read `STATE.md`, recover the latest operator relation and the closest
    owner-native Kernel sources. A current operator correction outranks an
    older dossier conclusion.

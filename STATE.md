@@ -31,18 +31,28 @@ their Paper relation in
 The accumulated work guide is
 `competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md`.
 Stable body 0.2 remains the citation baseline; the new development is not yet
-a successor integrated manuscript. Its next movement is primary-literature
-comparison of method regeneration, source-level correction and generative
-transfer, followed by integration where it changes the academic argument.
+a successor integrated manuscript. The subsequent source-coverage correction
+reconciles Editoriali's acquired knowledge, the Codex adapter and the public
+competence projection through the same accumulated guide. It recovers the
+autological generative core and the prepared RepoKernel/TM7 contributions that
+the first September 12 synthesis did not fully use.
+
+The next academic movement is conceptual recomposition around how competences
+form capabilities and can transform their own generative method, connecting
+functional self and continuum to the existing event account. Primary literature
+will accompany the questions that emerge, rather than precede this source
+reconciliation as a fixed gate. New installation, host and product tests remain
+system feedback handled elsewhere; no new test report is integrated here.
 
 The repository centralizes the existing SSK Paper work and makes one public,
 citable owner available to academic readers, AI systems, contributors, and
 later MAIOS launch communication.
 
-The next academic movement is system-owned scientific revision: expand the
-primary literature comparison, sharpen terminology and discriminants, and
-turn Study A, B, or F into a preregisterable protocol. Graziano remains the
-operator and authorial source authority; his line-by-line review is not a gate
+Scientific revision is system-owned. Terminological comparison and the
+existing study proposals remain available when the developing argument makes
+them pertinent; no protocol is selected by this competence reconciliation.
+Graziano remains the operator and authorial source authority; his line-by-line
+review is not a gate
 for the corpus to continue evolving.
 
 ## Supersession

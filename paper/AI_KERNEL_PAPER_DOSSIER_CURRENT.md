@@ -21,8 +21,14 @@ sviluppo è [Semantic formation and situated method](SEMANTIC_FORMATION_AND_SITU
 con fonti attribuite, limiti delle osservazioni e confronti da approfondire.
 Il corpo stabile citabile resta 0.2. La
 [guida accumulata](../competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md)
-conserva il sapere acquisito e il seguito, che ora parte dal confronto
-bibliografico delle nuove relazioni prima della prossima integrazione stabile.
+conserva il sapere acquisito e il seguito. Il controllo successivo ha recuperato
+il nucleo generativo autologico e i contributi RepoKernel/TM7 che la prima
+sintesi non aveva pienamente utilizzato. La competenza sorgente, l'ingresso
+Codex e la proiezione pubblica ora raggiungono questo sapere e la stessa guida.
+Il seguito accademico parte dalla loro ricomposizione con il modello di evento
+esistente; la bibliografia accompagna le domande che ne emergono. I nuovi test
+d'installazione, host e prodotto restano feedback di sistema in altra sede,
+senza acquisizione automatica come casi del Paper.
 
 La funzione primaria è produrre un Paper destinato alla pubblicazione e alla
 valutazione accademica. Il testo deve quindi reggersi come ricerca: oggetto,
@@ -45,11 +51,12 @@ ancora deciso se ciò richieda il Paper completo nel payload, un riferimento
 sorgente verificabile o un condensato collegato. Nessuna di queste proiezioni
 deve appesantire il Paper.
 
-Nel contratto pubblico corrente la ricerca repository-native partecipa ancora
-all'identità content-addressed della sorgente: una modifica del Paper può
-rigenerare i metadati deterministici di manifesto e inventario senza inserire
-il Paper nel payload. Questa relazione del builder resta distinta dalla scelta
-di includere un condensato operativo.
+Nel precedente contratto del Project Kernel la ricerca repository-native
+partecipava all'identità content-addressed della sorgente: una modifica del
+Paper poteva rigenerare i metadati di manifesto e inventario senza inserire
+il Paper nel payload. Questa relazione storica del builder non descrive il
+contratto corrente del repository separato `maios-ssk-paper`: aggiornare il
+corpus non seleziona rigenerazioni del prodotto o un condensato operativo.
 
 Il primo argomento completo precedente è incarnato in:
 
@@ -606,9 +613,13 @@ successivo:
 
 Il working paper precedente resta una sorgente e un componente della scala
 Project Kernel. `SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md` è il current
-stable body unitario `System Semantic Kernel (SSK)`. Il prossimo movimento è
-consolidarlo senza trasformarlo in documentazione interna o copy commerciale.
-Occorre:
+stable body unitario `System Semantic Kernel (SSK)`. Il prossimo movimento
+accademico è ricomporre il nucleo generativo autologico, il Sé funzionale e il
+continuum con l'argomento già presente. La guida accumulata conserva sorgenti,
+distinzioni già acquisite e approfondimenti ancora da incarnare nel manoscritto.
+I nuovi test rimangono nel feedback di sistema; non sono il lavoro del Paper.
+
+Restano disponibili, secondo le domande generate dalla revisione:
 
 1. usare la lente delle funzioni elementari come matrice autoriale e di
    derivazione, mantenendo stato, alternativa e limite di ogni affermazione;
@@ -618,8 +629,8 @@ Occorre:
    confronto che esponga con precisione la differenza rispetto a memoria,
    reflection, skill library e self-modifying agents;
 4. associare a ogni affermazione stato, fonte, alternativa e falsificatore;
-5. trasformare lo Studio A, B o F nel primo protocollo preregistrabile, senza
-   presentare il programma come risultato già osservato;
+5. sviluppare uno studio o protocollo quando una domanda lo rende pertinente,
+   senza selezionarlo per inerzia né presentarlo come risultato già osservato;
 6. sviluppare le prime derivazioni paper-native soltanto quando una funzione
    reale le rende pertinenti, legandole alla revisione canonica consumata;
 7. selezionare sede, formato e requisiti di submission soltanto quando il tipo

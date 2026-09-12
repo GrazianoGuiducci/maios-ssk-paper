@@ -1,5 +1,16 @@
 # SSK Paper revision history
 
+## Competence and source-continuity reconciliation — 2026-09-12
+
+Connected the Editoriali source competence and Codex entry to the accumulated
+Paper guide; reconciled the public competence's generative knowledge with the
+already acquired September sources. The guide now distinguishes source deposits,
+competence acquisition, projection and manuscript integration, and records the
+conceptual continuation before a newly selected literature or protocol movement.
+New installation and product tests remain system feedback elsewhere. No new
+test report, manuscript revision or comparative result was integrated. Stable
+body and citation remain 0.2.
+
 ## Research development — 2026-09-12
 
 Added a source-attributed academic development on semantic formation and

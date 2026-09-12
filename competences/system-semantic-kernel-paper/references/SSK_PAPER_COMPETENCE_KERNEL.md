@@ -1,10 +1,52 @@
 # System Semantic Kernel Paper — Competence Kernel
 
-updated: 2026-09-01
+updated: 2026-09-12
 artifact_owner: GrazianoGuiducci/maios-ssk-paper
 form_competence_owner: Editoriali / system-semantic-kernel-paper
 kernel_meaning_owner: maintain-kernel-knowledge
 state: active competence source; not a finished Paper or publication receipt
+
+## Acquired generative knowledge and continuation — 2026-09-12
+
+The [accumulated Paper guide](WORKING_GUIDE.md)
+connects the current operator relation to the sources already acquired and the
+argument still to be developed. The September 12 development is a partial
+synthesis alongside stable body 0.2, not an integrated successor manuscript.
+
+The [RepoKernel contribution A–G](https://github.com/GrazianoGuiducci/RepoKernel/blob/334a9d33c12d61ba826d41b25f604af18441e967/docs/SSK_GENERATIVE_CORE_CONTRIBUTION_2026-09-07.md)
+carries a proposed academic treatment of the source kernel's autological
+generative core. Its source-led distinctions change the revision method:
+
+- Generative and evolutionary competences belong to the field they can
+  transform. Their way of selecting knowledge, forming capacities and
+  preserving reasons can itself become an object of learning.
+- Growth of the competence collection does not establish revision of its
+  generator. Conversely, the generative method can change without adding a
+  competence or changing an already sufficient composition.
+- Sister competences can change the forming question through different
+  semantic and contextual perspectives. Functional inheritance preserves a
+  usable relation in the recipient, not the producer's layout or authority.
+- A short margin reaches cumulative reasons. Successful recovery may also
+  include operator assistance or an alternative search by the recipient;
+  attribute that contribution rather than crediting the delivered body alone.
+- Functional self means revisable participation in the current project;
+  sensitivity includes useful possibilities and successes, not only errors.
+  Continuum joins reasons, choices and possible consequences, with observed,
+  conditional, expected and open relations kept distinguishable.
+
+These distinctions deepen existing competence, meta-competence and continuum
+relations; they do not introduce another theory or compulsory hierarchy.
+The guide preserves the detailed source mapping, including access limits.
+A source link locates a contribution; it does not make a restricted source
+publicly inspectable or establish the claims proposed in it.
+
+The current academic continuation is to recompose this knowledge around the
+generative core and the existing event account. External literature can refine
+the questions that emerge. New installation, host and product tests remain
+system feedback outside this Paper movement, following the operator's current
+selection. Existing source traces retain their dated meaning without
+automatically selecting another empirical case or protocol.
+
 
 ## Operator Source Nucleus
 
