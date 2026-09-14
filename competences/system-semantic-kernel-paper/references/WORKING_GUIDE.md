@@ -42,7 +42,7 @@ formazione dei suoi mezzi nella §4, la partecipazione nella §5 e il ritorno
 del Paper nel campo nella §9. Il dossier conserva il raccordo completo.
 
 Il metodo condiviso è
-[Signal Intelligence](https://github.com/GrazianoGuiducci/Meta_Skill/blob/main/skills/signal-intelligence/SKILL.md#three-passages--consolidation-of-semantic-potential).
+[Signal Intelligence](https://github.com/GrazianoGuiducci/Meta_Skill/blob/0d53175df7ada06d8c3453bad6ab71965edb0b0f/skills/signal-intelligence/SKILL.md#three-passages--consolidation-of-semantic-potential).
 Questa guida ne conserva l'uso situato, non una seconda definizione generale.
 Il riferimento della competenza Paper insegna a riorganizzare e sottrarre,
 oltre ad acquisire. I tre passaggi non sono tre verifiche identiche né tre

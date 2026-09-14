@@ -10,7 +10,7 @@ state: active competence source; not a finished Paper or publication receipt
 
 Graziano selected the third passage to organize the whole and canonize the
 method of consolidating semantic potential. The shared method is owned by
-[Signal Intelligence](https://github.com/GrazianoGuiducci/Meta_Skill/blob/main/skills/signal-intelligence/SKILL.md#three-passages--consolidation-of-semantic-potential).
+[Signal Intelligence](https://github.com/GrazianoGuiducci/Meta_Skill/blob/0d53175df7ada06d8c3453bad6ab71965edb0b0f/skills/signal-intelligence/SKILL.md#three-passages--consolidation-of-semantic-potential).
 For Paper work its three functions act as follows:
 
 - Encounter source meanings and open possibilities through their actual
