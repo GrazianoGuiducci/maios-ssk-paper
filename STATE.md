@@ -1,6 +1,6 @@
 # SSK Paper State
 
-updated: 2026-09-12
+updated: 2026-09-14
 repository: `GrazianoGuiducci/maios-ssk-paper`
 canonical_branch: `main`
 
@@ -11,7 +11,7 @@ working_version: 0.3
 source_authority: Graziano Guiducci
 generation_origin: MAIOS/TM9 from the author's source corpus
 revision_owner: system-semantic-kernel-paper + Editoriali
-system_revision: current
+system_revision: stable body 0.3; next argument organization consolidated 2026-09-14
 independent_human_author_review: not performed; not required for working-corpus continuation
 peer_review: none
 submission: none selected
@@ -24,6 +24,17 @@ public_repository_owner: selected and materialized
 ```
 
 ## Current movement
+
+The three-passage source recovery, relational recomposition and consolidation
+have produced a revised argument organization in the current dossier. The
+Paper's working competence now uses this method. The manuscript and citation
+remain 0.3: organization and method are consolidated; integrated prose revision
+is the next movement, not an effect already completed.
+
+The new argument connects access and perception, the formation of methods and
+their means of acquisition, generative inheritance, and a Paper that can
+participate in possibilities forming across nodes. The accumulated guide
+reaches the September 13 SSK recipient contributions and their source meaning.
 
 Stable body 0.3 integrates the coupled event with the autological generative
 core, functional self, operator participation, perceptual design and

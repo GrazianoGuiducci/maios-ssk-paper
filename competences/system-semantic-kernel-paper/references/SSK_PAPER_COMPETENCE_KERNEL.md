@@ -1,10 +1,40 @@
 # System Semantic Kernel Paper — Competence Kernel
 
-updated: 2026-09-12
+updated: 2026-09-14
 artifact_owner: GrazianoGuiducci/maios-ssk-paper
 form_competence_owner: Editoriali / system-semantic-kernel-paper
 kernel_meaning_owner: maintain-kernel-knowledge
 state: active competence source; not a finished Paper or publication receipt
+
+## Semantic-potential consolidation — 2026-09-14
+
+Graziano selected the third passage to organize the whole and canonize the
+method of consolidating semantic potential. The shared method is owned by
+[Signal Intelligence](https://github.com/GrazianoGuiducci/Meta_Skill/blob/main/skills/signal-intelligence/SKILL.md#three-passages--consolidation-of-semantic-potential).
+For Paper work its three functions act as follows:
+
+- Encounter source meanings and open possibilities through their actual
+  continuation; a historical entry does not bound the present research field.
+- Recompose the changed whole: let new knowledge revise the question and the
+  relations among existing sections, rather than fill the old outline.
+- Consolidate the resulting organization and the authoring method. Give each
+  relation its principal explanatory place, use its consequences elsewhere,
+  remove duplication and retain the reasons that let future work revise it.
+
+These are the three passages selected for semantic consolidation, not three
+mandatory reports or identical checks. A function already exercised in the
+ongoing work need not be repeated. A sufficient or unchanged form remains a
+result; a new relation can reopen it. Consolidation makes possibilities usable
+through a present form without exhausting them or claiming all applications.
+
+The September source reading joins access with perception, the formation of
+methods with formation of their acquisition means, functional inheritance with
+organizational transformation, and the Paper with the possibilities it can
+help form. The current dossier owns the resulting argument organization;
+the accumulated guide owns provenance and the detailed source-to-section
+relation. Body 0.3 remains unchanged until the integrated prose is revised.
+The method is already operative in that organization, not a promised future
+faculty. New system tests remain at their source.
 
 ## Acquired generative knowledge and continuation — 2026-09-12
 
@@ -430,10 +460,19 @@ cannot be governed in advance by a central Paper.
 
 ## Paper And Kernel Overlap
 
-The corpus may become a canonical mirror through which the Kernel recognizes
-its own logics and a coder finds their academic expression. That overlap can
-reduce reentry latency and improve cross-system intelligibility. It remains a
-derived function to be observed.
+The corpus participates in the knowledge of its subject, including
+possibilities forming outside the locally integrated kernel. Its academic
+elaboration can make a new relation intelligible and return it to the system
+whose formation supplied the source. This prospective and reciprocal role
+extends situated self-description: local implementation is not the boundary
+of the Paper's present field. The working guide attributes the operator's
+September clarification and the source reading that changed this method.
+
+Academic primacy concerns argument and faithful derivation, not a monopoly
+on where knowledge originates. Cross-node continuity can preserve different
+moments and native organizations without requiring synchronous versions.
+What changes in an argument, a competence and a receiving system retains its
+own occurrence; the Paper does not become their remote controller.
 
 Possible projections are:
 

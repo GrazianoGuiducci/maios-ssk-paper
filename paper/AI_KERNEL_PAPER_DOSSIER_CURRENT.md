@@ -1,7 +1,7 @@
 # AI Kernel Paper — Dossier corrente
 
-updated: 2026-09-12
-status: stable body SSK 0.3; revisione scientifico-editoriale continua
+updated: 2026-09-14
+status: stable body SSK 0.3; organizzazione della revisione consolidata
 artifact_owner: maios-ssk-paper
 kernel_meaning_owner: maintain-kernel-knowledge
 editorial_competence_owner: Editoriali / system-semantic-kernel-paper
@@ -14,7 +14,9 @@ l'argomento unitario corrente. Integra il modello di evento della 0.2 con il
 nucleo generativo autologico, il Sé funzionale, la partecipazione dell'operatore,
 il design percettivo e la continuità del sapere. La
 [guida accumulata](../competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md)
-conserva ragioni, fonti acquisite e raccordi al testo.
+conserva ragioni, fonti acquisite e raccordi al testo. Il terzo passaggio del
+14 settembre ha riorganizzato qui il seguito dell'argomento. Questa forma
+guida la prossima riscrittura; non dichiara già revisionato il corpo 0.3.
 
 La relazione costitutiva resta:
 
@@ -31,20 +33,40 @@ Confronti e osservazioni possono approfondire una domanda effettiva.
 Non sono un rito necessario per procedere con la comprensione. Gli stati di
 revisione, pubblicazione e fonte restano in [STATE.md](../STATE.md).
 
-## Relazioni integrate e loro funzione
+## Un solo argomento, riorganizzato attraverso il nuovo sapere
 
-| Relazione | Che cosa cambia nell'argomento | Corpo 0.3 |
+La domanda che tiene insieme il testo diventa: come può un sistema far
+continuare il significato mentre il lavoro cambia anche le condizioni del
+suo conoscere e del suo agire? L'evento della 0.3 resta il nucleo esplicativo;
+acquisizione, generazione, percezione e trasferimento ne sviluppano relazioni
+interne. Non formano quattro moduli da aggiungere al Kernel.
+
+Il nesso causale è questo: il campo offre relazioni e possibilità; il modo di
+incontrarle partecipa alla comprensione; la comprensione forma lavoro e metodo;
+le conseguenze possono trasformare quei mezzi e ciò che diventa possibile dopo.
+La continuazione conserva le ragioni necessarie a riprendere da quel presente.
+Le dipendenze sono leggibili senza imporre una sequenza temporale universale.
+
+| Movimento dell'argomento | Ricomposizione del sapere già presente | Sede della revisione nella 0.3 |
 | --- | --- | --- |
-| Evento e campo seguente | il risultante cambia le condizioni del lavoro successivo; interpretazione, cambiamento di competenza e assimilazione restano relazioni differenti | §3 |
-| Piani ed elementi | sistema, istanza, competenza, progetto, package e skill descrivono piani; elementi e relazioni sono una risoluzione strutturale, non una gerarchia obbligatoria | §2.3, §4.3 |
-| Generazione autologica | il generatore appartiene al campo che può trasformare; il sapere cambia anche il modo di conoscere e formare | §4 |
-| Crescita e metodo | aggiungere competenze e cambiare il metodo generativo possono avvenire separatamente | §4.4 |
-| Eredità funzionale | la relazione sorgente prende una forma utilizzabile nel ricevente, senza copiarne tutta la storia o la disposizione dei file | §4.6 |
-| Sé funzionale | l'istanza comprende e rivede la propria partecipazione; riuscite e possibilità partecipano alla sensibilità insieme alle discrepanze | §5.1–5.2 |
-| Operatore e design | ciò che diventa percepibile cambia comprensione, intento e composizione possibile | §5.3–5.5 |
-| Guide e rigenerazione | il margine raggiunge ragioni cumulative; il metodo può essere riusato, adattato o rigenerato nel presente | §3.5 |
-| Latenza e obsolescenza | ricostruzione distinta dai tempi di esecuzione; sapere latente distinto dalla forma superata come autorità | §3.4–3.6 |
-| Decompilazione semantica | le relazioni implicite diventano utilizzabili attraverso competenze e composizioni | §6 |
+| Campo ed evento | Il presente comprende l'orizzonte delle possibilità e le differenze fra nodi. Una possibilità riconosciuta altrove può cambiare ora la domanda locale. Piani e provenienza rendono intelligibile questa relazione senza congelare i componenti. | §§1–3.2 |
+| Continuità praticabile | Conservazione, accesso, comprensione e uso si distinguono. Guide e mezzi di acquisizione fanno incontrare profondità pertinenti; il rientro compone condizioni compatibili, non impone versioni uguali. Sapere latente e forme obsolete mantengono ruoli diversi. | §§3.3–3.6 |
+| Formazione che cambia i propri mezzi | Il generatore appartiene al campo: il lavoro può trasformare il metodo e il modo di acquisire altro sapere. Oggetto e partecipazione che lo forma sono viste dello stesso cambiamento. Crescita della raccolta e cambiamento del generatore restano distinguibili. | §§4.1–4.5 |
+| Eredità e trasformazione dell'organizzazione | La continuità porta capacità di continuare la formazione, oltre ai risultati formati. La fusione conserva relazioni essenziali anche superando i vecchi contenitori; il primo uso non definisce tutto il patrimonio. | §4.6, ripresa in §9.2 |
+| Percezione e partecipazione | Accesso alle fonti e design dell'incontro rendono pertinenti relazioni prima fuori dalla vista. I mezzi differiscono, ma entrambi possono cambiare comprensione, intento e composizione. Il Sé funzionale situa chi partecipa senza aggiungere un supervisore. | §§5–6 |
+| Paper nel campo generativo | Il corpus elabora anche possibilità in formazione e può restituire conoscenza al sistema. La primarietà accademica governa l'argomento e le derivazioni, non stabilisce dove debba nascere ogni conoscenza. | §§9–10 |
+
+La revisione ricompone i paragrafi che svolgono queste funzioni: una relazione
+ha una sede esplicativa principale, le altre sezioni ne usano la conseguenza.
+La §3 spiega la continuità; la §4 come cambiano le capacità che la rendono
+praticabile; la §5 come vi partecipano istanza e operatore; la §9 come il Paper
+può entrare in quella stessa formazione. Abstract e conclusione dovranno
+esprimere questo unico movimento, non elencare le novità di settembre.
+
+L'orizzonte partecipa al presente attraverso le possibilità che fa riconoscere
+e le scelte che cambia. Il consolidamento avviene quando una di quelle relazioni
+prende una forma utilizzabile: qui ha cambiato il metodo di revisione e questa
+organizzazione. Le altre possibilità restano raggiungibili con le loro ragioni.
 
 Il caso editoriale del ritorno contestuale rimane nella §7 con il proprio
 risultante locale. Non è stato sostituito o ampliato con rapporti di installazione.
@@ -149,11 +171,17 @@ MAIOS mantengono i rispettivi proprietari.
 
 ## Campo seguente e genealogia
 
-La ricomposizione concettuale prima indicata come prossima mossa è incarnata
-nella 0.3. Il lavoro successivo parte da questo corpo: nuove relazioni
-sorgente, domande nate dall'argomento o usi effettivi possono approfondirlo.
-La guida accumulata conserva il margine vivo senza imporre una nuova ricerca,
-una derivazione o un protocollo.
+La ricomposizione del 12 settembre è incarnata nella 0.3. Il successivo
+recupero TM7/SSK e la richiesta autoriale dei tre passaggi hanno ora formato
+l'organizzazione sopra e il metodo della competenza. Il prossimo lavoro è
+la riscrittura integrata dei passaggi interessati, con sottrazione delle
+ripetizioni e conservazione delle relazioni già valide. Non occorre ripetere
+i tre passaggi appena svolti o aprire un secondo dossier prima di scrivere.
+
+Delta, reciprocità e lagrangiana restano approfondibili dalle loro sorgenti;
+non vengono riempiti con una formula per chiudere l'indice. Le profondità dei
+laboratori e dei generatori possono riaprire l'argomento quando cambiano una
+relazione. Nessuna di queste aperture impone di rinviare la scrittura presente.
 
 L'[Appendice B](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md#appendix-b-available-comparative-questions)
 mantiene accessibili le sei domande e i confronti della 0.2. Il predecessore

@@ -1,8 +1,101 @@
 # Guida accumulata del lavoro sul Paper
 
-Aggiornata: 2026-09-12. Competenza: system-semantic-kernel-paper.
+Aggiornata: 2026-09-14. Competenza: system-semantic-kernel-paper.
 
-## Punto vivo — corpo 0.3
+## Punto vivo — consolidamento del potenziale semantico
+
+Il corpo stabile resta 0.3. Il terzo passaggio ha consolidato nel
+[dossier](../../../paper/AI_KERNEL_PAPER_DOSSIER_CURRENT.md) la nuova
+organizzazione dell'argomento; non ha ancora riscritto il manoscritto.
+Il seguito parte da quella organizzazione e dalle fonti qui raggiunte.
+
+Fonte autoriale, Graziano, 14 settembre 2026:
+
+> Ok ora fai l'ultimo passaggio per capire come organizzare tutto In modo che
+> non sia solo un'aggiunta, ricorda che è ora che vedrai il futuro realizzarsi,
+> questa dinamica dei re passaggi dovrebbe essere canonizzata per integrare
+> il metodo nel consolidamento del potenziale semantico
+
+«re passaggi» è conservato come scritto; il riferimento ai tre passaggi emerge
+dalla sequenza della conversazione. L'operatore aveva già chiarito che il
+Paper può partecipare a ciò che diventa possibile su nodi diversi, oltre a
+descrivere ciò che è integrato localmente. L'elaborazione che segue appartiene
+alla competenza, non sostituisce quelle formulazioni.
+
+### Come i tre passaggi hanno cambiato il lavoro
+
+Il primo ha acquisito il seguito da TM7 al destinatario SSK. L'ingresso
+originario era storico: non poteva continuare a decidere se il destinatario
+esistesse. La risposta allegata dall'operatore ha reso raggiungibile il seguito;
+questo contributo umano resta parte della ricostruzione effettiva.
+
+Il secondo ha riletto l'insieme trasformato: l'acquisizione del sapere può
+diventare oggetto di formazione; accesso e percezione possono cambiare cosa
+diventa pertinente; la continuità fra nodi non richiede un unico stato
+sincronizzato. L'orizzonte di possibilità entra già nella domanda presente.
+
+Il terzo ha trasformato queste connessioni in organizzazione dell'argomento e
+metodo riutilizzabile. Il centro è la continuità del significato attraverso
+la trasformazione delle condizioni del conoscere e dell'agire. Non serve una
+sezione per ciascun contributo: la continuità si sviluppa nella §3, la
+formazione dei suoi mezzi nella §4, la partecipazione nella §5 e il ritorno
+del Paper nel campo nella §9. Il dossier conserva il raccordo completo.
+
+Il metodo condiviso è
+[Signal Intelligence](https://github.com/GrazianoGuiducci/Meta_Skill/blob/main/skills/signal-intelligence/SKILL.md#three-passages--consolidation-of-semantic-potential).
+Questa guida ne conserva l'uso situato, non una seconda definizione generale.
+Il riferimento della competenza Paper insegna a riorganizzare e sottrarre,
+oltre ad acquisire. I tre passaggi non sono tre verifiche identiche né tre
+rapporti obbligatori: il loro risultato modifica il campo da cui si riparte.
+
+### Sorgenti acquisite e differenze da usare
+
+Lettura diretta GitHub al 14 settembre: SSK main
+`75e31b85525027f524a6c5607e25712022830033`, sistema in formazione 0.2.1;
+TM7 main `1f44e61d20f0a17e8b32830473208b3fdc6f3831`.
+Queste identità fissano la lettura, non il futuro stato delle sorgenti.
+
+- [Ingresso cumulativo SSK](https://github.com/GrazianoGuiducci/SSK/blob/75e31b85525027f524a6c5607e25712022830033/docs/SSK_PAPER_RETURN.md):
+  nascita della facoltà nel destinatario, fusione parallela, acquisizione e
+  continuità dell'accesso. Letti anche i tre approfondimenti che collega.
+- [Kernel SSK](https://github.com/GrazianoGuiducci/SSK/blob/75e31b85525027f524a6c5607e25712022830033/KERNEL.md)
+  e [guida generativa](https://github.com/GrazianoGuiducci/SSK/blob/75e31b85525027f524a6c5607e25712022830033/skills/generative-system-fusion/references/WORKING_GUIDE.md):
+  la capacità costruttrice continua nel costruito; conservare l'essenziale
+  può trasformarne l'organizzazione. Conservazione, incontro e uso differiscono.
+- [Campo presente e trasferimento](https://github.com/GrazianoGuiducci/SSK/blob/75e31b85525027f524a6c5607e25712022830033/sources/operator/2026-09-13-campo-presente-bassa-latenza.md):
+  documento fornito nella conversazione GPT, letto integralmente; l'autore
+  ulteriore non è dedotto dal percorso. Il contenuto parte dalla relazione
+  sorgente; forma e incontro possono evolvere senza una reazione immaginata
+  usata per riscrivere la fonte. Bassa latenza non coincide con brevità.
+- [Dossier originario TM7](https://github.com/GrazianoGuiducci/tm7/tree/05cf73206c99e0f4fc693a15f039a20490c3b8f5/chatgpt/handoffs/codex/2026-09-13/continuum-generativo):
+  conserva delta, reciprocità e lagrangiana, oltre alla correzione della
+  fusione. La successiva nascita SSK supera solo il vecchio stato del
+  destinatario, non cancella le relazioni concettuali del dossier.
+- Fonte autoriale KA dell'11 agosto, `contributions/tm2/sources/operator/010_prospective_feedback_quality_and_paper.txt`,
+  e contributo `009_prospective_feedback_and_quality_thesis.md`, letti nel
+  checkout KA: il primo riguarda il Paper KA; il raccordo a SSK è elaborazione
+  della presente competenza. Il possibile seguito partecipa al campo presente,
+  senza introdurre un predittore o assimilare i due corpora accademici.
+
+SSK è una sorgente privata. Questi collegamenti localizzano il sapere per chi
+ha accesso; non pubblicano l'archivio né sostituiscono una spiegazione autonoma
+nel manoscritto. I test restano feedback tecnico nella sede sorgente. La
+relazione concettuale entra nella preparazione, non come nuovo caso empirico.
+
+### Continuazione già formata
+
+La primarietà accademica governa l'argomento e le derivazioni, non impone che
+ogni conoscenza nasca prima nel Paper. Una sorgente esterna può cambiare la
+nostra domanda; l'elaborazione del Paper può poi tornare a cambiare un metodo.
+Il futuro indicato dall'operatore partecipa qui attraverso questa conseguenza
+presente: la possibilità ha già cambiato l'organizzazione con cui scriveremo.
+Non è necessario realizzare ogni applicazione per consolidare la relazione.
+
+Scrivere ora dall'argomento riorganizzato; conservare le aperture che potranno
+modificarlo senza ripetere l'indagine appena compiuta. Titolo, citazione e corpo
+0.3 restano invariati finché la revisione integrata non è effettivamente pronta.
+
+## Risultante precedente — corpo 0.3 del 12 settembre
 
 Il [manoscritto integrato 0.3](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md)
 è ora il corpo stabile citabile. La ricomposizione prima indicata come prossima

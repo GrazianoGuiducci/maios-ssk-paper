@@ -1,5 +1,19 @@
 # SSK Paper revision history
 
+## Argument organization and semantic-potential consolidation — 2026-09-14
+
+Acquired the native SSK recipient's cumulative contribution after the TM7
+formation dossier. Reorganized the current dossier around one causal argument:
+continuity through changing conditions of knowing and acting. Source access,
+generative inheritance, perception and Paper participation now change the
+revision method and its argument map rather than form an appended topic list.
+The competence canonizes encounter, relational recomposition and consolidation
+as three functions of the selected movement. The shared method remains at
+Signal Intelligence; the Paper guide preserves this use and its reasons.
+Stable manuscript, citation and academic publication state remain 0.3 and
+unchanged; integrated prose revision is the next movement. New system tests
+remain at their technical source.
+
 ## 0.3 — 2026-09-12
 
 Current integrated stable body. The revision:

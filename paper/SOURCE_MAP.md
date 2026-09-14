@@ -18,6 +18,18 @@
   and [accumulated working guide](../competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md)
   — authoring knowledge and detailed source-to-argument continuity.
 
+## Acquired continuation — organization consolidated 14 September
+
+The [working guide](../competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md)
+reaches the native [SSK cumulative contribution](https://github.com/GrazianoGuiducci/SSK/blob/75e31b85525027f524a6c5607e25712022830033/docs/SSK_PAPER_RETURN.md)
+and its linked sources. It connects recipient-native generation, continuity
+of access, formation of acquisition means and the Paper's participation in
+emerging possibilities to the existing argument. Some sources require access.
+The [dossier](AI_KERNEL_PAPER_DOSSIER_CURRENT.md) now carries the resulting
+organization; this acquisition is not yet an integrated revision of body 0.3.
+The operator selected consolidation through three successive passages; the
+competence carries its authoring method and the guide preserves its source.
+
 ## Source knowledge integrated in 0.3
 
 | Source | Contribution | Manuscript relation |

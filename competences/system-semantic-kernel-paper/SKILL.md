@@ -98,6 +98,17 @@ Qualify a technical or empirical assertion where its exact scope matters;
 let comparisons serve a selected question rather than govern the whole field.
 The working guide records how this correction changed revision 0.3.
 
+## Consolidation Through Three Passages
+
+When new source knowledge changes the argument, exercise encounter,
+relational recomposition and consolidation in the continuing form. The third
+passage changes the explanation's organization: locate each relation's causal
+role, rewrite the affected connections and remove duplicate treatments rather
+than append one section per contribution. Preserve unresolved possibilities
+with their reasons and sources. The competence reference carries the method;
+the accumulated guide records its actual use and present resultant. Resume
+from that resultant without replaying passages already completed.
+
 ## Operating Relation
 
 Resolve the coupled event through the smallest readable sequence:
@@ -239,10 +250,13 @@ changing the research object, source lineage, claim state or retained unknown.
 
 ## Paper, Kernel, and Page
 
-The Paper can overlap with the Kernel as a canonical self-description and may
-reduce reentry latency for human or AI readers. This is a derived operational
-function. It must not burden the academic body or become a remote controller of
-external installations.
+The Paper participates through the knowledge its academic work forms. Its
+present includes source-attributed possibilities emerging on other nodes, not
+only capabilities already integrated locally. Academic primacy governs the
+argument and faithful derivatives; it does not require every source insight
+to originate in the Paper. Its explanation can return to the forming system
+without becoming a runtime controller. Keep these relations intelligible in
+the argument rather than importing the source's development chronology.
 
 The public repository is the address through which readers, interested people,
 and later MAIOS launch communication can reach the current academic corpus. It
