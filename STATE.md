@@ -11,7 +11,7 @@ working_version: 0.3
 source_authority: Graziano Guiducci
 generation_origin: MAIOS/TM9 from the author's source corpus
 revision_owner: system-semantic-kernel-paper + Editoriali
-system_revision: stable body 0.3; kernel-continuum, non-prescribed resultant and forward autological return integrated in revision field 2026-09-15
+system_revision: stable body 0.3; coherence field consolidated 2026-09-15
 independent_human_author_review: not performed; not required for working-corpus continuation
 peer_review: none
 submission: none selected
@@ -25,30 +25,48 @@ public_repository_owner: selected and materialized
 
 ## Current movement
 
-The Kernel is an explicit **constitutive relation of the continuum**, not a component that may or may not participate in it. This is a source determination, not an optional interpretation to reopen in later revisions. Representations and incarnations can change inside the continuum; their functional identity does not return to indeterminacy merely because context, host or wording changes.
+The current revision field is consolidated in `competences/system-semantic-kernel-paper/references/COHERENCE_CONSOLIDATION_2026-09-15.md`. Read it together with the source-specific references before treating the 2026-09-14 `WORKING_GUIDE` heading as the live point; that guide remains cumulative genealogy and reasoning, not a later authority over this state.
 
-Semantic determinacy preserves relations already determined unless a later causal event actually transforms them. Open possibility applies to what remains unresolved; it must not dissolve determinations already produced.
+The following relations are now determinations of the revision field:
 
-The resultant is **deterministic without being directly predetermined**. The system forms and preserves the conditions of the movement — intent, source relations, semantic determinations, real conditions and correction of agent-introduced interference — while unresolved possibilities remain open. When assonant relations converge, the unique resultant is the product of that convergence rather than a target selected in advance. The source-bound treatment remains in `competences/system-semantic-kernel-paper/references/ASSONANT_RESULTANT.md`.
+1. **Kernel is constitutive of the continuum.** It is not an optional participant that may later enter it. Representations and incarnations can change inside the continuum; this functional relation does not reopen through context loss alone.
+2. **Semantic determinacy preserves what has already emerged.** A relation changes when a causally relevant difference transforms it; that difference may be semantic, operational or material. New bytes do not by themselves imply new meaning, and unchanged bytes do not prove unchanged meaning.
+3. **The resultant is deterministic without being directly predetermined.** The system preserves intent, source relations, acquired determinations and real conditions while correcting agent-introduced interference. Unresolved possibility remains open until assonant relations converge.
+4. **The resultant becomes the new origin.** Convergence closes a determination and opens the following field from the new zero; this is compatible with the current D-ND source relation.
+5. **Autological return is forward-only and optional.** A resultant can change the generator that participates in the following field, but `ΔK_n = 0` is legitimate. No-change is not failure of evolution; it means the current generative organization remained sufficient for that event.
+6. **Self-monitoring is internal causal readback, not a permanent watcher.** A reusable causal difference changes the continuing method; when none appears, no extra control loop is required.
+7. **Coherence/incoherence are not tuned toward a predetermined equilibrium.** The equilibrium/zero is read from the resultant rather than supplied as its target.
+8. **Minimum action remains source-bound.** Current D-ND sources use minimum action / maximum impact and describe the Kernel as the minimum-action path preserving direction. This does not yet define an SSK action functional. Standard variational language about stationary action must not be silently replaced by a new equation.
+9. **Time as consecution concerns semantic reconstruction.** Already determined and reachable relations need not be rebuilt; this does not assert zero physical computation, model inference, network or tool latency.
 
-The latest operator clarification adds a **forward autological return**. A resultant does not remain outside the process: it changes the generative organization that will participate in the following field. This is not retrocausality; the past occurrence remains fixed while the next movement begins from a Kernel, competence or method changed by the previous resultant. The detailed relation is in `competences/system-semantic-kernel-paper/references/AUTOLOGICAL_FORWARD_RETURN.md`.
+The stable manuscript remains 0.3. These relations deepen and reconnect its coupled event, autological generative core, continuum, causal readback and method formation. They do not create a second core, a new empirical program, a new physical law or an automatic publication effect.
 
-This clarification also qualifies the D-ND Lagrangian relation. Current D-ND sources describe movement as minimum action / maximum impact and the Kernel as the minimum-action path that preserves direction across contexts. For SSK Paper work, this supports a source-bound interpretation of the resultant trajectory as minimizing dispersion while preserving direction. It does **not** yet define a new SSK action functional or justify importing a new variational equation by analogy.
+The operator formulation «assioma di assonanza divergente» remains source material. The current D-ND method already uses a related expression with an entropy-specific meaning, so the Paper must preserve the distinction until the terminology is consolidated in the competent source movement.
 
-Coherence and incoherence are not regulated toward a predetermined equilibrium. Assonance converges; dissonance may expose agent contamination or retain potential not yet integrated. The equilibrium/zero is read from the resultant. This preserves both determination and open potential without turning either into a control target.
+## Current source relation
 
-The operator's statement that time is consecution without elaboration is carried as a semantic low-latency relation: once a determination is already reachable, the following movement need not reconstruct it. This is not a claim of zero physical computation, model inference time, network latency or tool execution.
+Use, in this order of authority for the present revision:
 
-Self-monitoring is correspondingly treated as **internal causal readback**, not a permanent external watcher. A material difference changes the method that continues; where no material difference emerges, another control cycle is not required. As relations become incarnated, explicit observation can cool into the method and the system can proceed from the changed field.
+- this `STATE.md` for current Paper state;
+- `references/COHERENCE_CONSOLIDATION_2026-09-15.md` for the cross-relation result;
+- `references/SEMANTIC_DETERMINACY.md`, `ASSONANT_RESULTANT.md`, and `AUTOLOGICAL_FORWARD_RETURN.md` for source-bound depth;
+- the accumulated `WORKING_GUIDE.md` for prior reasoning and genealogy;
+- the stable 0.3 manuscript as the current academic body.
 
-This sharpens the low-latency direction while preserving source and claim boundaries. The three-passage source recovery, relational recomposition and consolidation remain the Paper's working method. The manuscript and citation remain 0.3: integrated prose revision is the next manuscript movement, not an effect already completed.
+The guide's dated source pins describe what was read at those moments. They are not a command to ignore later SSK or tm7 states.
 
-Stable body 0.3 already contains compatible relations: the coupled event, autological generative core, continuing SSK organization and `R_n -> F_(n+1)`. The next revision should deepen and reconnect the argument rather than add a parallel theory.
+## Revision consequence
 
-The accumulated reasons and source-to-section map remain in `competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md`. The current revision field also reaches `SEMANTIC_DETERMINACY.md`, `ASSONANT_RESULTANT.md`, and `AUTOLOGICAL_FORWARD_RETURN.md`. Context loss should not reopen these source determinations by default.
+The next integrated prose revision should **recompose**, not append:
 
-New installation, host and product reports remain system feedback elsewhere. The repository remains the public source for academic reading and later faithful derivatives. This revision updates competence and argument continuity; it does not select downstream publications or alter product releases.
+- continuum and Kernel identity across the argument;
+- determinate/open semantics in the discussion of continuity and reentry;
+- the non-prescribed resultant in the event relation;
+- forward autological return in the generative core;
+- minimum action and temporal succession only at the scope supported by their sources.
+
+New installation, host, package and system tests remain feedback in their native owners unless their academic use is explicitly selected. The Paper does not become a runtime controller.
 
 ## Supersession
 
-Update this margin when a new source relation, manuscript revision or selected external effect changes the current work. Preserve useful predecessors through their files and Git history. Review, submission, license and DOI changes retain their exact states.
+Update this margin when a new source relation, manuscript revision or selected external effect changes the current work. Preserve predecessors through Git history and attributed references. Review, submission, license and DOI retain their exact states.
