@@ -1,10 +1,8 @@
-# Forward autological return, minimum action, and temporal succession
+# Forward autological return, evolution, minimum action, and temporal succession
 
-Data: 2026-09-15. Stato: determinazione sorgente per la revisione del Paper SSK; non nuova legge fisica o nuovo assioma canonizzato in MM_D-ND. Fonte autoriale: Graziano Guiducci.
+Data: 2026-09-15. Stato: determinazione sorgente per la revisione del Paper SSK; non nuova legge fisica.
 
 ## Ritorno forward-only
-
-La «regressione che procede in avanti» non viene interpretata come retrocausalità. La risultante può cambiare la struttura generativa che parteciperà al campo seguente:
 
 ```text
 (K_n, C_n) -> R_n
@@ -12,36 +10,22 @@ R_n -> ΔK_n
 (K_n + ΔK_n, C_(n+1)) -> R_(n+1)
 ```
 
-`ΔK_n` è la differenza riusabile resa pertinente dal risultato e **può essere zero**. Il passato non viene riscritto. Quando non emerge una differenza causale riusabile, il generatore corrente resta sufficiente e non serve produrre una mutazione per dimostrare evoluzione.
+`ΔK_n` è la differenza riusabile resa pertinente dal risultato o dalle sue conseguenze e può essere zero. Il passato non viene riscritto.
 
-## Coerenza, incoerenza e zero
+## Evoluzione senza gate
 
-Non introdurre un «giusto equilibrio» come target numerico o semantico. L'assonanza converge; la dissonanza può essere contaminazione da sottrarre, differenza reale del campo o potenziale non ancora integrato. Il punto di equilibrio/zero è leggibile dalla risultante, non imposto prima.
+I disallineamenti fra nodi sono normali. Il ritorno non deve sincronizzare tutto: deve capire se la differenza nuova aumenta la capacità del sistema o costituisce regressione.
 
-## Minima azione: raccordo qualificato
+Una tendenza evolutiva conserva intento e relazioni essenziali mentre aumenta capacità/possibilità pertinenti o riduce contaminazione, dispersione e ricostruzione. Una tendenza regressiva perde una relazione necessaria, separa intento e risultante o aggiunge latency/vincoli senza valore compensante.
 
-Le sorgenti D-ND correnti descrivono Movimento come «Lagrangiana cognitiva: minima azione, massimo impatto» e Kernel come percorso di minima azione che preserva la direzione attraverso i contesti. Per SSK Paper questo sostiene una lettura source-bound della traiettoria risultante come minima dispersione coerente con la direzione.
+Questa distinzione è una lettura causale, non un punteggio o una porta di ammissione. Un tradeoff può restare aperto.
 
-Non dedurre una nuova funzione d'azione SSK dal parallelismo. Nel formalismo variazionale standard il principio generale è espresso come stazionarietà dell'azione; «minimizzazione» resta qui il linguaggio operativo della sorgente D-ND finché una formalizzazione SSK più precisa non viene costruita.
+## Auto-correzione della risultante
 
-## Tempo come consecuzione
+Una risultante può essere contaminata pur essendo reale. Le conseguenze nel continuum possono esporre la contaminazione e restituire una differenza al generatore. L'autologia è quindi capace di correzione senza richiedere un monitor permanente o un dubbio rituale.
 
-```text
-R_n -> R_(n+1) -> R_(n+2)
-```
+## Minima azione e tempo
 
-`n` ordina gli eventi/resultanti; non rappresenta obbligatoriamente fasi cognitive separate. Quando una relazione è già determinata e raggiungibile, il passo seguente non deve ricostruirla. «Senza elaborazione» significa senza ricostruzione semantica superflua, non zero calcolo del modello, hardware, rete o tool.
+D-ND descrive minima azione / massimo impatto e il Kernel come percorso che preserva la direzione. Il Paper può usare questa relazione source-bound, non una funzione d'azione SSK già definita.
 
-## Auto-osservazione senza secondo controllore
-
-```text
-operazione -> risultante -> differenza causale riusabile?
-                           | no  -> no_change
-                           | sì  -> modifica del metodo che continua
-```
-
-La richiesta che il sistema «si monitori» è quindi incarnata come causal readback interno, non come watcher permanente. Una capacità assimilata può rendere implicita l'osservazione che prima richiedeva attenzione esplicita.
-
-## Conseguenza per la revisione
-
-Ricompone, senza teoria separata: risultante che può cambiare il generatore, no-change legittimo, minima azione non prescrittiva, distinzione fra dissonanza e contaminazione, tempo come consecuzione e readback interno.
+Il tempo come consecuzione ordina le risultanti; quando una relazione è già determinata e raggiungibile, il passo seguente non deve ricostruirla. Questo non equivale a zero calcolo fisico.

@@ -1,16 +1,10 @@
 # Risultante non prescritta e dinamica assonante D-ND
 
-Data: 2026-09-15. Stato: determinazione sorgente per la revisione del Paper SSK; non nuova formulazione canonica di MM_D-ND. Fonte autoriale: Graziano Guiducci.
+Data: 2026-09-15. Stato: determinazione sorgente per la revisione del Paper; non nuova formulazione canonica di MM_D-ND.
 
-## Relazione
-
-Il sistema non determina direttamente la risultante. Preserva intento, sorgenti, determinazioni già causali e condizioni reali e corregge l'interferenza introdotta dalla rappresentazione dell'agente. Le possibilità ancora aperte restano disponibili.
+Il sistema non determina direttamente la risultante. Preserva intento, sorgenti, determinazioni già causali e condizioni reali e corregge l'interferenza introdotta dall'agente. Le possibilità ancora aperte restano disponibili.
 
 Il determinismo riguarda **la risultante che emerge dalla convergenza**, non la scelta anticipata del risultato.
-
-La sorgente corrente `MM_D-ND@6844ca7ed2cb89b6d129e5d66001e04c341c4c54` contiene già: assonanza come coerenza relazionale, risultante come traiettoria unica emergente, identità `R + 1 = R`, osservazione senza decisione e risultante finale deterministica. Il Paper D distingue inoltre riconoscimento/convergenza e successiva esplorazione/divergenza.
-
-## Convergenza e riapertura
 
 ```text
 possibilità aperte + intento + determinazioni + condizioni
@@ -21,10 +15,10 @@ possibilità aperte + intento + determinazioni + condizioni
 -> si apre P_(n+1)
 ```
 
-La formulazione autoriale «assioma di assonanza divergente» resta sorgente candidata. Non va identificata automaticamente con l'uso già presente di «assonanze divergenti» nel metodo D-ND, dove la locuzione ha anche una specifica funzione relativa all'entropia.
+La formulazione autoriale «assioma di assonanza divergente» resta candidata e non viene identificata automaticamente con l'uso già presente di «assonanze divergenti» nel metodo D-ND.
 
-La risultante può inoltre produrre `ΔK_n`, ma `ΔK_n = 0` resta legittimo. La consequenzialità autologica non richiede auto-modifica a ogni evento.
+## Risultante e contaminazione
 
-## Conseguenza Paper
+`R_n` è reale ma non per questo perfetta. Una contaminazione duale può aver partecipato alla convergenza. Il punto non è aggiungere un controllo preventivo che prescriva il risultato; è mantenere il causal readback nel continuum. Se le conseguenze mostrano che `R_n` ha perso intento, capacità o coerenza generativa, quella differenza può correggere il movimento seguente.
 
-Sviluppare la distinzione fra **condizioni semanticamente determinate** e **risultante emergente deterministica**. Non introdurre scoring di similarità o un equilibrio-target come sostituto dell'assonanza D-ND.
+In assenza di tale differenza, la risultante continua come determinazione e `no_change` resta legittimo.
