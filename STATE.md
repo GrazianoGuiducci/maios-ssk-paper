@@ -11,7 +11,7 @@ working_version: 0.3
 source_authority: Graziano Guiducci
 generation_origin: MAIOS/TM9 from the author's source corpus
 revision_owner: system-semantic-kernel-paper + Editoriali
-system_revision: stable body 0.3; kernel-continuum and non-prescribed-resultant determinacy integrated in revision field 2026-09-15
+system_revision: stable body 0.3; kernel-continuum, non-prescribed resultant and forward autological return integrated in revision field 2026-09-15
 independent_human_author_review: not performed; not required for working-corpus continuation
 peer_review: none
 submission: none selected
@@ -29,21 +29,23 @@ The Kernel is an explicit **constitutive relation of the continuum**, not a comp
 
 Semantic determinacy preserves relations already determined unless a later causal event actually transforms them. Open possibility applies to what remains unresolved; it must not dissolve determinations already produced.
 
-The latest source clarification adds a complementary distinction: **the resultant is deterministic without being directly predetermined**. The system forms and preserves the conditions of the movement — intent, source relations, semantic determinations, real conditions and correction of agent-introduced interference — while the unresolved possibilities remain open. When assonant relations converge, the unique resultant is the product of that convergence rather than a target selected in advance.
+The resultant is **deterministic without being directly predetermined**. The system forms and preserves the conditions of the movement — intent, source relations, semantic determinations, real conditions and correction of agent-introduced interference — while unresolved possibilities remain open. When assonant relations converge, the unique resultant is the product of that convergence rather than a target selected in advance. The source-bound treatment remains in `competences/system-semantic-kernel-paper/references/ASSONANT_RESULTANT.md`.
 
-This is source-consistent with the current D-ND method: assonance aligns relational dynamics along the resultant, the resultant is the unique emerging trajectory, the method observes without deciding, and its final resultant is deterministic. The related D-ND observer paper distinguishes recognition/convergence and subsequent exploration/divergence toward the next relational state. The detailed source-bound treatment is in `competences/system-semantic-kernel-paper/references/ASSONANT_RESULTANT.md`, while `SEMANTIC_DETERMINACY.md` connects it to the existing continuum correction.
+The latest operator clarification adds a **forward autological return**. A resultant does not remain outside the process: it changes the generative organization that will participate in the following field. This is not retrocausality; the past occurrence remains fixed while the next movement begins from a Kernel, competence or method changed by the previous resultant. The detailed relation is in `competences/system-semantic-kernel-paper/references/AUTOLOGICAL_FORWARD_RETURN.md`.
 
-The operator's wording «assioma di assonanza divergente» remains a candidate formulation. It is not silently equated with the existing D-ND phrase «assonanze divergenti», which also has a specific entropy-related use in the method source. The revision should preserve this distinction until the terminology is consolidated by the competent source movement.
+This clarification also qualifies the D-ND Lagrangian relation. Current D-ND sources describe movement as minimum action / maximum impact and the Kernel as the minimum-action path that preserves direction across contexts. For SSK Paper work, this supports a source-bound interpretation of the resultant trajectory as minimizing dispersion while preserving direction. It does **not** yet define a new SSK action functional or justify importing a new variational equation by analogy.
 
-This sharpens the low-latency direction: semantic continuity reduces repeated reconstruction and reinterpretation without claiming deterministic model output, zero runtime latency or elimination of the unknown.
+Coherence and incoherence are not regulated toward a predetermined equilibrium. Assonance converges; dissonance may expose agent contamination or retain potential not yet integrated. The equilibrium/zero is read from the resultant. This preserves both determination and open potential without turning either into a control target.
 
-The three-passage source recovery, relational recomposition and consolidation have produced a revised argument organization in the current dossier. The Paper's working competence uses this method. The manuscript and citation remain 0.3: organization and method are consolidated; integrated prose revision is the next manuscript movement, not an effect already completed.
+The operator's statement that time is consecution without elaboration is carried as a semantic low-latency relation: once a determination is already reachable, the following movement need not reconstruct it. This is not a claim of zero physical computation, model inference time, network latency or tool execution.
 
-Stable body 0.3 already contains compatible relations: the coupled event, autological generative core, continuing SSK organization and `R_n -> F_(n+1)`. The next revision should therefore deepen and reconnect the argument rather than add a parallel theory.
+Self-monitoring is correspondingly treated as **internal causal readback**, not a permanent external watcher. A material difference changes the method that continues; where no material difference emerges, another control cycle is not required. As relations become incarnated, explicit observation can cool into the method and the system can proceed from the changed field.
 
-The operator's correction changes the writing method: develop the conceptual relation through its meaning and consequences, without making anticipated external demonstration the generator of the argument. KA and FDLA preserve source and coherence within that work. Existing comparisons remain available in Appendix B, not as a required next phase.
+This sharpens the low-latency direction while preserving source and claim boundaries. The three-passage source recovery, relational recomposition and consolidation remain the Paper's working method. The manuscript and citation remain 0.3: integrated prose revision is the next manuscript movement, not an effect already completed.
 
-The accumulated reasons, source-to-section map and continuation remain in `competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md`; the new semantic-determinacy and assonant-resultant references carry the explicit current correction. The next field starts from this relation and does not reopen it merely through context loss.
+Stable body 0.3 already contains compatible relations: the coupled event, autological generative core, continuing SSK organization and `R_n -> F_(n+1)`. The next revision should deepen and reconnect the argument rather than add a parallel theory.
+
+The accumulated reasons and source-to-section map remain in `competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md`. The current revision field also reaches `SEMANTIC_DETERMINACY.md`, `ASSONANT_RESULTANT.md`, and `AUTOLOGICAL_FORWARD_RETURN.md`. Context loss should not reopen these source determinations by default.
 
 New installation, host and product reports remain system feedback elsewhere. The repository remains the public source for academic reading and later faithful derivatives. This revision updates competence and argument continuity; it does not select downstream publications or alter product releases.
 
