@@ -8,6 +8,7 @@ scientific_editorial_form: SSK Paper competence + Editoriali
 claim_state: conceptual development / architecture candidate
 controlled_experiment: none introduced by this document
 stable_manuscript_at_entry: 0.3
+current_integrated_manuscript: 0.4
 ```
 
 ## Central thesis
@@ -99,6 +100,40 @@ This suggests **augmented and displaced perception**: a system can make a relati
 
 The connection itself does not make every remote source part of the active self or working field. Reachability, presence and pertinence remain different relations.
 
+## Observation-frame continuity and transformation lineage
+
+Distributed perception exposes a relation that is also valid for documents, memory and cross-owner knowledge: a source can be correct in its own frame and become false when silently composed into a present whose conditions never coexisted with it.
+
+The current refinement therefore treats an **observation frame** as the smallest causal context whose loss changes the meaning of a relation. Depending on the source, that frame may include:
+
+```text
+observer / producer / owner;
+modality or carrier;
+relevant time, place, coordinate or environmental conditions;
+transformations, summaries, inference or adaptation between source and present form;
+qualification, uncertainty or unresolved relations that still affect use.
+```
+
+This is not a proposal for one global metadata format. The invariant is relational: preserve enough lineage to know what may be composed, transformed, compared or kept separate.
+
+```text
+source observation
+!= transformed representation
+!= situated semantic relation
+
+same named object
+!= same situated observation
+
+several individually correct observations
+!= one coherent present
+```
+
+Two sensors can concern the same physical object without already sharing a temporal or spatial frame. Two documents can describe the same project while belonging to different states. Two owner-native competences can preserve compatible functions through different assumptions. In each case the system must resolve whether the relations are compatible, transformable, sequential, alternative or unresolved before treating them as one field.
+
+The relation generalizes the existing SSK contextual-return problem: separately correct components may never have been jointly true. Multimodal and distributed cognition therefore require not only provenance, but continuity through the transformations that make a source relation present elsewhere.
+
+Lineage need not remain fully loaded. It must remain reachable when contradiction, action, recovery, attribution or later causal correction depends on it.
+
 ## Informational-relational identity
 
 The source discussion proposes that an entity can continue in information across different embodiments. The academically cautious form developed here is **informational-relational identity**: continuity can be attributed to a sufficiently preserved organization of decisive relations even when its carrier changes.
@@ -138,6 +173,9 @@ reachable informational / possibility field
                 |
                 v
       perception / inference
+                |
+                v
+   observation frame / transform lineage
                 |
                 v
        situated presence F_i
@@ -198,7 +236,7 @@ reachable relation
 
 This is **proactive semantic positioning**: the architecture aims to place or expose information where it can change the movement, rather than globally replicating all knowledge or loading all sources into every active context.
 
-A repository, an owner-native competence, a remote sensor and a human contribution are different source forms, but each can participate through this relation when its knowledge becomes causally pertinent.
+A repository, an owner-native competence, a remote sensor and a human contribution are different source forms, but each can participate through this relation when its knowledge becomes causally pertinent. Positioning must not erase the frame through which the relation became true.
 
 ## Possibilistic density
 
@@ -218,7 +256,7 @@ may create a denser possibility field
 than a large undifferentiated archive.
 ```
 
-A future formal or experimental treatment would need to distinguish density from salience, probability, information volume, entropy, utility and attention.
+A future formal or experimental treatment would need to distinguish density from salience, probability, information volume, entropy, utility and attention. The observation-frame refinement adds that apparent density can be misleading if high-volume relations belong to incompatible frames.
 
 ## Memory, distribution and communication as continuity across discontinuity
 
@@ -241,7 +279,7 @@ learning:
   continuity that changes the competence through which later work occurs.
 ```
 
-These are not declared identical processes. They can be studied as different cases of preserving a causal relation across a discontinuity while allowing its form to change.
+These are not declared identical processes. They can be studied as different cases of preserving a causal relation across a discontinuity while allowing its form to change. Observation-frame continuity asks which conditions must survive that passage for the resulting relation to remain usable.
 
 ## Candidate invariants
 
@@ -256,43 +294,37 @@ understanding != authority over an effect
 Kernel != incarnation
 incarnation != medium
 same relation != same form
+source observation != transformed representation != situated semantic relation
+same named object != same observation frame
 resultant now != closure of the possibility field
 continuity != replication of the preceding representation
 ```
 
 These are candidate semantic invariants or non-equivalences. Their role is not to prescribe one software stack, but to constrain how an incarnation can change without silently changing the relation it claims to preserve.
 
-## Relation to the current 0.3 manuscript
+## Relation to the current manuscript
 
-This development deepens relations already present in body 0.3 rather than adding an unrelated topic:
+This development deepens relations already present in body 0.4 rather than adding an unrelated topic:
 
-- Section 2.1 already defines SSK as a constitutive semantic organization across files, agents, tools and human practice.
-- Sections 3.5-3.6 already distinguish meaningful continuity from full-history loading and separate semantic reconstruction latency from tool/runtime latency.
-- Section 4.6 already states that a receiving environment can preserve a relation through different storage mechanisms or interaction surfaces.
-- Section 5 already includes perception, operator participation, interface design and embodied work in one continuum.
-- Section 6 already treats tools and competences as operational appearances rather than the whole Kernel.
-- Section 9 already describes independent receiving projects and local incarnation.
+- Section 2.1 defines SSK as a constitutive semantic organization across files, agents, tools, media and human practice.
+- Sections 3.5-3.6 distinguish meaningful continuity from full-history loading and separate semantic reconstruction latency from tool/runtime latency.
+- Section 4.6 states that a receiving environment can preserve a relation through different storage mechanisms, interaction surfaces and local means.
+- Section 5 includes perception, operator participation, interface design and embodied work in one continuum.
+- Section 6 treats tools and competences as operational appearances rather than the whole Kernel.
+- Section 9 describes independent receiving projects and local incarnation.
 
-The next integrated prose revision should therefore recompose these sections around the clarified distinction:
-
-```text
-semantic-relational identity
--> multimodal / receiver-relative incarnation
--> situated presence and competence
--> resultant and causal return
-```
-
-It should not append a standalone robotics theory or claim that every sensor input is already semantic knowledge.
+The observation-frame refinement should therefore enter the next prose touch where multimodal, cross-node or historical/current composition is materially discussed. It does not require a new standalone theory or a new stable version merely to preserve the source difference.
 
 ## Research questions opened by the development
 
 1. Which semantic relations must remain invariant for two radically different hosts to count as incarnations of the same Kernel relation?
 2. Which transformations preserve a relation across language, image, code, sensor representations and action?
 3. How can a system distinguish reachable information from information that should become present now without introducing a fixed global controller?
-4. Can proactive positioning reduce reconstruction while preserving provenance, uncertainty and owner authority?
+4. Can proactive positioning reduce reconstruction while preserving provenance, uncertainty, owner authority and observation-frame continuity?
 5. How should augmented and displaced perception change functional self-situation without making every connected sensor part of the active self?
 6. Can the same semantic competence be exercised coherently by a conversational model, a filesystem-owning coder and an embodied robotic system through different means?
 7. What would make `possibilistic density` a useful formal quantity rather than a metaphor?
+8. What is the minimum transformation lineage needed to reconcile multimodal and remote observations without turning the Kernel into a metadata controller?
 
 ## Immediate source-grounded case
 
@@ -306,20 +338,23 @@ shared or reachable semantic competence
 
 ChatGPT can reach owner-native Editoriali and Business Manager knowledge through repository access and inference without possessing Codex's installed adapters, persistent workspace or shell. Codex can incarnate related competence through filesystem, code, tests and persistent tooling when available. This observation motivates the semantic/incarnation distinction; it does not establish universal transferability or equivalent performance.
 
+The same case also shows why transformation lineage matters: a current owner source, an older state summary and a ChatGPT interpretation can all be individually intelligible while belonging to different causal frames. Correct composition requires preserving which relation came from where and under which state.
+
 ## Integration disposition
 
 ```text
 Paper:
-  integrate by recomposing the current thesis, transfer, perception and
-  incarnation relations in the next stable manuscript revision;
+  stable body 0.4 remains current; observation-frame continuity is a source-bound
+  refinement for the next prose touch, not a separate theory or evidence claim;
 
 ChatGPT kernel:
-  use owner-native competence participation and receiver-relative incarnation
-  without copying external competence topology locally;
+  Semantic Relational Comprehension owns observation-frame / transformation-lineage
+  continuity; owner-native competence participation remains receiver-relative;
 
 MPK / kernel_chat / Form-generated kernel:
   candidate contribution: preserve semantic relations while allowing each
-  receiver to materialize them through native means;
+  receiver to materialize them through native means, without flattening
+  source/current/history or cross-medium frames;
 
 Editoriali / Business Manager:
   owner-native competences remain sources; do not replicate them into every
@@ -327,6 +362,6 @@ Editoriali / Business Manager:
 
 robotic / embodied MAIOS research:
   treat sensorium and displaced perception as situated sources contributing to
-  the semantic field, with provenance, uncertainty, authority and action kept
-  distinct.
+  the semantic field, with observation frame, provenance, uncertainty,
+  authority and action kept distinct.
 ```
