@@ -9,19 +9,21 @@ SSK studies how an agentic system can keep observation, source, present
 context, situated competences, action, resultant, interpretation, causal
 readback, evolution, and reentry inside one continuing semantic field. The
 repository makes that research object readable and citable without treating a
-software package, a website, or an internal operating kernel as the theory
-itself.
+software package, a website, a particular medium, sensorium, body or internal
+operating kernel as the theory itself.
 
-> **Current state:** working paper, stable body 0.3 — 12 September 2026.
+> **Current state:** working paper, stable body 0.4 — 16 September 2026.
 > The integrated argument develops the coupled event, autological generation,
-> functional self, operator participation and contextual continuity.
-> Graziano Guiducci is the authorial source; the SSK Paper competence and
-> Editoriali conduct continuing revision. See [STATE.md](STATE.md) for
-> publication and review metadata.
+> functional self, operator participation, receiver-relative incarnation,
+> multimodal perception/inference, semantic positioning and contextual
+> continuity. Graziano Guiducci is the authorial source; the SSK Paper
+> competence and Editoriali conduct continuing revision. See
+> [STATE.md](STATE.md) for publication and review metadata.
 
 ## Read the working paper
 
-- [System Semantic Kernel (SSK), stable body 0.3](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md)
+- [System Semantic Kernel (SSK), stable body 0.4](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md)
+- [Semantic core, situated incarnation and the multimodal field — source development integrated into 0.4](paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md)
 - [Current research dossier and claim-state map](paper/AI_KERNEL_PAPER_DOSSIER_CURRENT.md)
 - [Current claim-state ledger](paper/CLAIM_LEDGER.md)
 - [Public source map](paper/SOURCE_MAP.md)
@@ -41,15 +43,30 @@ The [predecessor working paper](genealogy/SITUATED_COMPETENCE_EVOLUTION_IN_AI_PR
 is preserved as genealogy and as a reusable Project Kernel-scale argument. It
 is no longer the container of the complete SSK research object.
 
-[Stable body 0.2](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md)
-and [stable body 0.1](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md)
-remain reachable predecessors. Version 0.3 is the current integrated body.
+[Stable body 0.3](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md),
+[stable body 0.2](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md) and
+[stable body 0.1](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md)
+remain reachable predecessors. Version 0.4 is the current integrated body.
 
 The repository also carries a paper-native competence projection under
 [`competences/`](competences/README.md). It helps AI systems and contributors
 preserve the research object, source lineage, claim state, and retained
 unknowns when producing guides or explanations. It is not a copy of the living
 MAIOS/TM9 Kernel and has no authority over external installations.
+
+## Semantic core and situated incarnation
+
+Revision 0.4 makes explicit that SSK's semantic identity is not one particular
+runtime or carrier. A receiving system can preserve a decisive relation while
+using different competences, interfaces, persistence mechanisms, perceptual
+modalities or operational means. `Semantic` does not mean `language only`:
+images, spatial representations, code, interfaces, proprioception, radar,
+lidar, touch, telemetry, remote sensing, other agents and human observations
+can contribute differently when they make a relation causally present.
+
+This is an architecture and research relation, not a claim that all media are
+equivalent, that raw sensor data is already semantic knowledge, or that a
+semantic kernel executes without a physical/computational carrier.
 
 ## Installable operational companion
 
@@ -68,10 +85,11 @@ package's behaviour.
 ## Derived forms
 
 AI-readable guides, expert or philosophical explanations, elemental-function
-maps, funding narratives, public or prospective-client messages, marketing,
-and divulgation may derive from the academic corpus. Each derivative must name
-the corpus revision it uses and preserve the state of every material claim.
-Their creation or publication is not implied by this repository.
+maps, funding narratives, public or prospective-client messages, images,
+diagrams, interactive representations, marketing, and divulgation may derive
+from the academic corpus. Each derivative must name the corpus revision it uses
+and preserve the state of every material claim. Their creation or publication
+is not implied by this repository.
 
 ## Contributing
 
