@@ -5,19 +5,24 @@ type: article
 authors:
   - family-names: Guiducci
     given-names: Graziano
-version: "0.3"
-date-released: 2026-09-12
+version: "0.4"
+date-released: 2026-09-16
 repository-code: "https://github.com/GrazianoGuiducci/maios-ssk-paper"
 url: "https://github.com/GrazianoGuiducci/maios-ssk-paper"
 abstract: >-
   A conceptual account of the coupled event, autological competence generation,
-  functional self, operator participation, perceptual design and meaningful
-  continuity in agentic systems. Knowledge can change both the work and the
-  method through which subsequent capabilities are formed.
+  functional self, operator participation, receiver-relative incarnation,
+  multimodal perception and inference, proactive semantic positioning, and
+  meaningful continuity in agentic and embodied systems. The semantic identity
+  of the Kernel is distinguished from the media and operational mechanisms
+  through which a receiving system incarnates it.
 keywords:
   - system semantic kernel
   - agentic AI
   - situated competence
+  - situated incarnation
+  - multimodal systems
+  - embodied AI
   - contextual reentry
   - causal readback
   - competence evolution
