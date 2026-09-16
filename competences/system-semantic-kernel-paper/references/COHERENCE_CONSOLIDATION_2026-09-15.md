@@ -80,6 +80,26 @@ formazione / comprensione
 
 Essa chiarisce anche il rapporto con l'obsolescenza: una materializzazione precedente può restare genealogicamente valida pur perdendo autorità sul presente. Contrarla o sostituirla richiede che le sue funzioni ancora causali — traduzione, accesso, identità, provenance, recovery o altri effetti — continuino altrove. Il disallineamento non autorizza quindi né sincronizzazione automatica né conservazione eterna dell'intermediario.
 
+## Raffreddamento semantico e percorso di validazione
+
+Un ulteriore caso MPK del 2026-09-16 rende più precisa la relazione fra persistenza e latenza. Una relazione può essere già **fredda semanticamente** — quindi esclusa dal richiamo ordinario — e restare però **calda meccanicamente** se il runtime continua a rileggere o rivalidare la sua genealogia completa ad ogni movimento.
+
+Nel candidato MPK osservato, `cooled` e `retired` possono togliere relazioni dal recall automatico, mentre la continuità meccanica conserva e rivalida la storia dei resultanti, le lifecycle/later uses delle learning relations, la storia delle attestazioni host e la storia delle competenze. Il contratto evolutivo, nello stesso sistema, dichiara invece che il percorso corrente deve conservare il live causal margin e gli open fronts necessari a continuare. La differenza è un **esempio implementativo di ritardo fra raffreddamento semantico e raffreddamento del validation path**; non è una misura di costo cognitivo del modello.
+
+La relazione candidata diventa:
+
+```text
+persistenza
+!= tutta la genealogia mantenuta nel percorso operativo caldo
+
+integrità operativa corrente
+!= audit genealogico profondo
+```
+
+La genealogia non viene eliminata. Resta recuperabile e torna pertinente quando il presente dipende da provenance, recovery, una relazione causale storica o una claim di lineage. La contrazione consiste nel non trasformare automaticamente ogni prova storica in prerequisito del movimento corrente quando essa non porta più una differenza causale attiva.
+
+Questa distinzione amplia la causal regression: anche **la validazione** può essere un intermedio che ha smesso di essere causalmente necessario nel percorso ordinario. Raffreddarla non significa indebolire l'integrità; significa far coincidere il costo ordinario con la frontiera causale viva e rendere l'audit profondo selettivamente raggiungibile. Una implementazione deve ancora dimostrare quali riferimenti storici restano necessari al current state e quali possono essere verificati fuori dal percorso caldo.
+
 ## Relazione integrata
 
 ```text
@@ -100,4 +120,4 @@ Il corpo 0.3 contiene già evento accoppiato, campo seguente, nucleo generativo 
 
 Il repository del Paper è pubblico e accademico. Implementazioni operative/private, runtime e prodotti restano owner distinti; il Paper può ricevere conoscenza senza assorbirne automaticamente stato o claim.
 
-Minima azione resta raccordata al D-ND; nessun funzionale d'azione SSK è definito. Il tempo come consecuzione indica riduzione della ricostruzione semantica, non zero computazione. Il caso MPK qui descritto è un esempio implementativo qualificato, non un esperimento cognitivo né una validazione empirica generale di SSK. Nessun nuovo esperimento, peer review o pubblicazione è selezionato da questo consolidamento.
+Minima azione resta raccordata al D-ND; nessun funzionale d'azione SSK è definito. Il tempo come consecuzione indica riduzione della ricostruzione semantica, non zero computazione. I casi MPK qui descritti sono esempi implementativi qualificati, non esperimenti cognitivi né validazioni empiriche generali di SSK. Nessun nuovo esperimento, peer review o pubblicazione è selezionato da questo consolidamento.
