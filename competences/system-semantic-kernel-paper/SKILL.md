@@ -65,14 +65,17 @@ research object: System Semantic Kernel as the typology observed through this Ke
 public identity: MAIOS represents and narrates SSK on the web and through the brand without renaming the research object or inheriting its claim state
 corpus strategy: integrate every still-causal relation into one SSK field; keep superseded forms as cold genealogy and derive non-academic forms only from the academically governed corpus
 canonical repository: GrazianoGuiducci/maios-ssk-paper
-canonical manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md
-current state: stable body 0.3; system scientific-editorial revision current; no independent human author review, peer review, DOI or academic publication
+canonical manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md
+current state: stable body 0.4; semantic-core, receiver-relative incarnation and multimodal-field relation integrated; system scientific-editorial revision current; no independent human author review, peer review, DOI or academic publication
 ```
 
 The Paper studies how a system's present relation, situated competences,
 operation, resultant, causal interpretation, and changed following field can
-form one evolving semantic kernel. It asks what this becoming may make possible
-for operators, projects, organizations, and societies through the meaning and
+form one evolving semantic kernel. Revision 0.4 clarifies that semantic identity
+is not one runtime, body, medium or sensorium: decisive relations can continue
+through receiver-relative incarnations whose actual means and effect authority
+remain local. It asks what this becoming may make possible for operators,
+projects, organizations, embodied systems and societies through the meaning and
 consequences of those relations.
 
 ## Revision Responsibility
@@ -96,7 +99,10 @@ the selected work even when a no-tribunal rule is already written here.
 Keep source meaning and coherence coupled through KA and FDLA while writing.
 Qualify a technical or empirical assertion where its exact scope matters;
 let comparisons serve a selected question rather than govern the whole field.
-The working guide records how this correction changed revision 0.3.
+The working guide records how this correction changed revision 0.3 and how the
+16 September source was integrated in 0.4 without turning `pure semantic kernel`,
+`possibilistic density` or distributed perception into unsupported empirical or
+metaphysical claims.
 
 ## Consolidation Through Three Passages
 
@@ -125,7 +131,9 @@ observation
 
 The arrows are an explanatory resolution, not a mandatory workflow imposed on
 the phenomenon. Preserve the whole event when separating it would change the
-meaning.
+meaning. Observation may be linguistic, visual, sensor-derived, operator-supplied
+or otherwise mediated; availability alone does not establish semantic
+pertinence.
 
 The resultant manifests the movement that produced it. Do not add an external
 act of demonstration merely to admit the phenomenon. Keep one decisive
@@ -157,11 +165,11 @@ an academic case.
    older dossier conclusion.
 2. Develop one integrated SSK field from every relation that still changes the
    research object. Do not concatenate contextual return, competence evolution,
-   robotic becoming, LFNC, public interaction, and package evidence merely
-   because they are adjacent. Preserve a predecessor as a reusable component or
-   cold genealogy when its form no longer owns the whole object; split a later
-   paper only when the academic argument itself makes that separation more
-   exact.
+   robotic becoming, LFNC, public interaction, medium/sensor discussion and
+   package evidence merely because they are adjacent. Preserve a predecessor as
+   a reusable component or cold genealogy when its form no longer owns the whole
+   object; split a later paper only when the academic argument itself makes that
+   separation more exact.
 3. Preserve the authorial source, then form the academic argument. Do not make
    audience expectations or inherited academic convention the generator of
    the object.
@@ -208,7 +216,7 @@ The operator's zero-latency direction applies to reconstruction: when the
 pertinent live relations are already incarnated and reachable through the
 competence field, the Paper and its source map need not be rediscovered each
 time. Treat this as a research hypothesis and design direction, not as a claim
-of zero model, tool, network, or runtime latency.
+of zero model, tool, network, sensor or runtime latency.
 
 Use an elemental-function lens when it helps the academic argument or a later
 faithful translation:
@@ -216,18 +224,19 @@ faithful translation:
 ```text
 SSK element
 -> logical function
--> present LLM pressure or failure relation
+-> present LLM / receiver pressure or failure relation
 -> possible SSK correction or capability
 -> observable resultant, claim state and retained unknown.
 ```
 
 Initial elements can include competence, meta-competence and composition, open
-semantic field, causal readback, and continuum/reentry. The lens is an
+semantic field, causal readback, continuum/reentry, receiver-relative
+incarnation, semantic positioning and perceptual participation. The lens is an
 authoring instrument, not a fixed Paper outline or final promotional copy.
 Describe the corrective relation through the situation and method that make it
-intelligible. A selected comparative claim about models, performance or latency
-has its own scope and support; it does not impose a demonstration frame on
-conceptual formation.
+intelligible. A selected comparative claim about models, performance, latency
+or sensor arrangements has its own scope and support; it does not impose a
+demonstration frame on conceptual formation.
 
 The academically governed Paper and source corpus remain primary. Other forms
 derive only when their exact function is selected:
@@ -247,6 +256,8 @@ relationship truth belong to the selected Business Manager; consequential
 form belongs to Editoriali; site, send, publication and runtime effects remain
 with their exact owners. A derivative can simplify language and depth without
 changing the research object, source lineage, claim state or retained unknown.
+A visual or interactive derivative can preserve a relation through a different
+medium without becoming a new canonical theory.
 
 ## Paper, Kernel, and Page
 
@@ -276,6 +287,11 @@ runtime effects, not implied by publishing the page.
 - Do not treat the existing working paper, dossier, or public research field as
   the complete SSK Paper merely because it is the nearest artifact.
 - Do not reduce a competence to a skill file or advertised capability.
+- Do not identify `semantic` with `natural-language only`; also do not call raw
+  sensor availability semantic knowledge before its relation to the field is
+  understood.
+- Do not turn `K_sigma` into a disembodied runtime or claim that information
+  executes without a physical/computational carrier.
 - Do not expose KA, FDLA, Meta_Skill, routing internals, or repository topology
   as public value unless the selected technical passage requires and defines
   them.
