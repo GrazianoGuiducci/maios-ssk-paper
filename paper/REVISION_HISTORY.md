@@ -1,5 +1,24 @@
 # SSK Paper revision history
 
+## 0.4 observation-frame refinement — 2026-09-16
+
+A final same-day pass after 0.4 exposed one further relation without requiring a new stable manuscript version: **observation-frame continuity / transformation lineage**.
+
+The source development and current state now preserve that a relation may be correct in its original conditions yet become false when silently combined into a present whose components never coexisted. The smallest causal frame whose loss changes meaning can include source/observer or owner, modality, relevant time/place or conditions, transformation/inference path and material qualification or uncertainty.
+
+The refinement generalizes the earlier contextual-return relation to multimodal and distributed perception:
+
+```text
+source observation
+!= transformed representation
+!= situated semantic relation
+
+several individually correct observations
+!= one coherent present
+```
+
+It is not a global metadata schema, new controller or empirical result. `SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md` remains the current stable body; the refinement is preserved in the source development and `STATE.md` for the next prose touch where cross-frame composition materially changes the argument.
+
 ## 0.4 — 2026-09-16
 
 Current integrated stable body. The revision:
