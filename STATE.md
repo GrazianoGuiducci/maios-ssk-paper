@@ -12,7 +12,7 @@ working_version: 0.4
 integrated_development: paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md
 source_authority: Graziano Guiducci
 revision_owner: system-semantic-kernel-paper + Editoriali
-system_revision: stable body 0.4; semantic-core / receiver-relative incarnation / multimodal-field development integrated 2026-09-16
+system_revision: stable body 0.4; semantic-core / receiver-relative incarnation / multimodal-field development integrated 2026-09-16; observation-frame continuity refined after integration
 independent_human_author_review: not performed
 peer_review: none
 submission: none selected
@@ -44,6 +44,18 @@ semantic-relational core
 `Semantic` therefore does not mean `linguistic only`. Language, image, spatial representation, code, interface state, proprioception, radar, lidar, touch, telemetry, remote sensors, other agents and human observation can contribute through different transformations when they make a relation causally present. Human perception and artificial inference remain distinct modes of participation; the Paper does not infer phenomenal equivalence from their inclusion in one continuum.
 
 Revision 0.4 also integrates **proactive semantic positioning**: a relation need not be replicated in every node or remain continuously loaded. It can stay reachable at its source or owner until a situated need or possibility makes it pertinent at the point where a competence can use it. This extends existing SSK continuity, functional inheritance and reentry without introducing a global router or mandatory controller.
+
+The final 16 September refinement adds **observation-frame continuity / transformation lineage**. A source relation can be correct in its own conditions and become false when combined with another relation as though both belonged to the same present. The Paper therefore keeps distinct:
+
+```text
+source observation
+!= transformed representation
+!= situated semantic relation
+```
+
+The observation frame is not a compulsory metadata format. It is the smallest causal context whose loss changes meaning: source/observer or owner, modality, relevant time/place or conditions, transformation/inference path, and any qualification or unresolved relation that still affects use. For distributed perception this can include sensor locality and spatial/temporal reference; for documents it can include historical/current state and the transformations through which a summary or interpretation was formed.
+
+Several individually correct observations do not automatically form one coherent present. The system must be able to distinguish compatible, transformable, sequential, alternative and unresolved relations before treating them as one action field. This refines the 0.4 source development without opening a separate theory or requiring a new stable manuscript version today.
 
 The operator's phrase `densità possibilistica` is retained as a qualitative research construct: local concentration of reachable relations capable of materially opening, transforming or preserving possibilities in the present field. No scalar metric, probability model or action functional is claimed.
 
@@ -83,19 +95,20 @@ For the present revision use:
 
 1. this `STATE.md` for current Paper state;
 2. `paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md` as the current stable academic body;
-3. `paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md` for the source development integrated into 0.4;
+3. `paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md` for the source development integrated into 0.4 and its final observation-frame refinement;
 4. `competences/system-semantic-kernel-paper/references/COHERENCE_CONSOLIDATION_2026-09-15.md` for the preceding coherence delta;
 5. `SEMANTIC_DETERMINACY.md`, `ASSONANT_RESULTANT.md`, and `AUTOLOGICAL_FORWARD_RETURN.md` for source-bound depth;
 6. `WORKING_GUIDE.md` for accumulated reasoning and genealogy.
 
-Revision 0.3 remains the stable predecessor and explicit genealogy. Revision 0.4 recomposes rather than appends the new relation across the Abstract, kernel definition, functional inheritance, perception/embodiment, operational appearance, receiving systems and Conclusion.
+Revision 0.3 remains the stable predecessor and explicit genealogy. Revision 0.4 recomposes rather than appends the semantic-core relation across the Abstract, kernel definition, functional inheritance, perception/embodiment, operational appearance, receiving systems and Conclusion. The observation-frame refinement is preserved in the source development and current state for the next prose touch where cross-frame composition materially matters.
 
-The principal architecture now carried by the manuscript is:
+The principal architecture now carried by the manuscript and source development is:
 
 ```text
 reachable informational / possibility field
 -> modality / carrier
 -> perception or inference
+-> observation frame / transformation lineage
 -> situated presence
 -> pertinent competence
 -> operation / manifestation
