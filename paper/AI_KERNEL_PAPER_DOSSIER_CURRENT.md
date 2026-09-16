@@ -1,7 +1,7 @@
 # AI Kernel Paper — Dossier corrente
 
-updated: 2026-09-14
-status: stable body SSK 0.3; organizzazione della revisione consolidata
+updated: 2026-09-16
+status: stable body SSK 0.4; semantic core / situated incarnation / multimodal field integrated
 artifact_owner: maios-ssk-paper
 kernel_meaning_owner: maintain-kernel-knowledge
 editorial_competence_owner: Editoriali / system-semantic-kernel-paper
@@ -9,186 +9,322 @@ source_authority: Graziano Guiducci
 
 ## Oggetto e punto corrente
 
-Il [corpo stabile 0.3](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md) è
-l'argomento unitario corrente. Integra il modello di evento della 0.2 con il
-nucleo generativo autologico, il Sé funzionale, la partecipazione dell'operatore,
-il design percettivo e la continuità del sapere. La
-[guida accumulata](../competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md)
-conserva ragioni, fonti acquisite e raccordi al testo. Il terzo passaggio del
-14 settembre ha riorganizzato qui il seguito dell'argomento. Questa forma
-guida la prossima riscrittura; non dichiara già revisionato il corpo 0.3.
+Il [corpo stabile 0.4](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md) è
+l'argomento unitario corrente. Integra il modello di evento e il nucleo
+generativo della 0.3 con una distinzione più precisa fra identità
+semantico-relazionale del Kernel e mezzi della sua incarnazione.
 
 La relazione costitutiva resta:
 
 > Il Kernel è ciò che il sistema fa. Ciò che il sistema potrà fare dopo è
 > formato dal Kernel che apprende attraverso le competenze che hanno agito.
 
-Il Paper rende leggibili logiche operative, ragioni, incarnazioni, significato
-interno e conseguenze per altri sistemi. La sua forma accademica nasce da queste
-relazioni. La correzione dell'operatore del 12 settembre rimuove l'obbligo
-anticipato di dimostrazione come motore della scrittura: KA mantiene il campo
-e FDLA corregge la sostituzione dell'oggetto mentre l'argomento si forma.
+La 0.4 chiarisce che questo `fare` non identifica il Kernel con una singola
+meccanica. Linguaggio, file, codice, immagini, interfacce, sensori, corpi,
+runtime e strumenti possono portare o incarnare relazioni SSK senza diventare
+l'identità semantica del Kernel.
 
-Confronti e osservazioni possono approfondire una domanda effettiva.
-Non sono un rito necessario per procedere con la comprensione. Gli stati di
-revisione, pubblicazione e fonte restano in [STATE.md](../STATE.md).
+La [guida accumulata](../competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md)
+conserva le ragioni e la genealogia precedenti. Lo sviluppo del 16 settembre è
+preservato in
+[Semantic core, situated incarnation and the multimodal field](SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md).
+Gli stati di revisione, pubblicazione e fonte restano in [STATE.md](../STATE.md).
 
-## Un solo argomento, riorganizzato attraverso il nuovo sapere
+## Tesi centrale corrente
 
-La domanda che tiene insieme il testo diventa: come può un sistema far
-continuare il significato mentre il lavoro cambia anche le condizioni del
-suo conoscere e del suo agire? L'evento della 0.3 resta il nucleo esplicativo;
-acquisizione, generazione, percezione e trasferimento ne sviluppano relazioni
-interne. Non formano quattro moduli da aggiungere al Kernel.
+La forma sintetica che governa 0.4 è:
 
-Il nesso causale è questo: il campo offre relazioni e possibilità; il modo di
-incontrarle partecipa alla comprensione; la comprensione forma lavoro e metodo;
-le conseguenze possono trasformare quei mezzi e ciò che diventa possibile dopo.
-La continuazione conserva le ragioni necessarie a riprendere da quel presente.
-Le dipendenze sono leggibili senza imporre una sequenza temporale universale.
+> **SSK è il nucleo di invarianti e relazioni generative attraverso cui
+> informazione e possibilità diventano causalmente presenti in un campo
+> situato; medium, sensori, linguaggi, strumenti e runtime sono forme variabili
+> della sua incarnazione. La continuità del Kernel consiste nel preservare le
+> relazioni decisive mentre la loro forma percettiva, operativa e distribuita
+> può cambiare.**
 
-| Movimento dell'argomento | Ricomposizione del sapere già presente | Sede della revisione nella 0.3 |
-| --- | --- | --- |
-| Campo ed evento | Il presente comprende l'orizzonte delle possibilità e le differenze fra nodi. Una possibilità riconosciuta altrove può cambiare ora la domanda locale. Piani e provenienza rendono intelligibile questa relazione senza congelare i componenti. | §§1–3.2 |
-| Continuità praticabile | Conservazione, accesso, comprensione e uso si distinguono. Guide e mezzi di acquisizione fanno incontrare profondità pertinenti; il rientro compone condizioni compatibili, non impone versioni uguali. Sapere latente e forme obsolete mantengono ruoli diversi. | §§3.3–3.6 |
-| Formazione che cambia i propri mezzi | Il generatore appartiene al campo: il lavoro può trasformare il metodo e il modo di acquisire altro sapere. Oggetto e partecipazione che lo forma sono viste dello stesso cambiamento. Crescita della raccolta e cambiamento del generatore restano distinguibili. | §§4.1–4.5 |
-| Eredità e trasformazione dell'organizzazione | La continuità porta capacità di continuare la formazione, oltre ai risultati formati. La fusione conserva relazioni essenziali anche superando i vecchi contenitori; il primo uso non definisce tutto il patrimonio. | §4.6, ripresa in §9.2 |
-| Percezione e partecipazione | Accesso alle fonti e design dell'incontro rendono pertinenti relazioni prima fuori dalla vista. I mezzi differiscono, ma entrambi possono cambiare comprensione, intento e composizione. Il Sé funzionale situa chi partecipa senza aggiungere un supervisore. | §§5–6 |
-| Paper nel campo generativo | Il corpus elabora anche possibilità in formazione e può restituire conoscenza al sistema. La primarietà accademica governa l'argomento e le derivazioni, non stabilisce dove debba nascere ogni conoscenza. | §§9–10 |
+Questa tesi non introduce un kernel separato di `pura semantica`. Chiarisce il
+livello al quale l'identità SSK non coincide con un carrier. Ogni incarnazione
+reale richiede comunque un supporto fisico/computazionale.
 
-La revisione ricompone i paragrafi che svolgono queste funzioni: una relazione
-ha una sede esplicativa principale, le altre sezioni ne usano la conseguenza.
-La §3 spiega la continuità; la §4 come cambiano le capacità che la rendono
-praticabile; la §5 come vi partecipano istanza e operatore; la §9 come il Paper
-può entrare in quella stessa formazione. Abstract e conclusione dovranno
-esprimere questo unico movimento, non elencare le novità di settembre.
+## Architettura concettuale
 
-L'orizzonte partecipa al presente attraverso le possibilità che fa riconoscere
-e le scelte che cambia. Il consolidamento avviene quando una di quelle relazioni
-prende una forma utilizzabile: qui ha cambiato il metodo di revisione e questa
-organizzazione. Le altre possibilità restano raggiungibili con le loro ragioni.
-
-Il caso editoriale del ritorno contestuale rimane nella §7 con il proprio
-risultante locale. Non è stato sostituito o ampliato con rapporti di installazione.
-I nuovi test d'installazione, host e prodotto restano feedback di sistema in
-altra sede, come determinato dall'operatore.
-
-## Formalizzazione corrente
+Il modello di evento resta:
 
 ```text
 O_n + F_n -> Q_n -> A_n -> R_n -> I_n -> F_(n+1)
-
-K_t = <E_t, rho_t>
-(F_t, K_t) --Q_t--> (R_t, F_(t+1), K_(t+1))
-g_t, U_t in Comp(K_t)
 ```
 
-Il modello di evento e la risoluzione generativa descrivono lo stesso movimento
-a profondità differenti. Il generatore g e la capacità evolutiva U possono
-diventare oggetti del sapere che acquisiscono. Un metodo invariato resta un
-risultato possibile quando il sapere ne conferma l'adeguatezza.
+La 0.4 aggiunge una risoluzione complementare:
 
-Gli indici individuano eventi o stati analitici; le frecce rendono leggibili
-dipendenze che possono partecipare simultaneamente. Non prescrivono una
-pipeline. Il ritorno contestuale è indicato con F_return per evitare di usare
-K sia per il taglio di contesto sia per il kernel.
+```text
+reachable informational / possibility field
+                |
+                v
+        modality / carrier
+ language, image, sensor, source,
+ memory, agent, interface...
+                |
+                v
+      perception / inference
+                |
+                v
+       situated presence
+                |
+       pertinence / competence
+                |
+                v
+    operation / manifestation
+                |
+                v
+          resultant
+                |
+                v
+          causal readback
+                |
+                v
+       changed reachable field
+```
+
+Le frecce non definiscono una pipeline obbligatoria. Le relazioni possono
+partecipare simultaneamente, ricorsivamente o in modo distribuito.
+
+La relazione di incarnazione è:
+
+```text
+K_sigma + H_i -> K_i
+```
+
+```text
+K_sigma:
+  organizzazione semantico-relazionale che deve restare sufficientemente
+  invariata perché la relazione Kernel continui;
+
+H_i:
+  campo reale del ricevente: sorgenti, modalità percettive, strumenti,
+  interfacce, persistenza, embodiment, vincoli e authority;
+
+K_i:
+  incarnazione operativa disponibile in quel campo.
+```
+
+`K_sigma` è una distinzione analitica, non un eseguibile disincarnato.
+
+## Una sola relazione attraverso host differenti
+
+Il caso ChatGPT/Codex ha reso visibile una relazione già implicita nella
+functional inheritance:
+
+```text
+stessa o equivalente relazione semantica
++ mezzi riceventi differenti
+-> incarnazioni operative differenti
+```
+
+ChatGPT può raggiungere sapere owner-native mediante linguaggio, inferenza,
+repository e tool esposti senza possedere gli adapter, il filesystem
+persistente o la shell di Codex. Codex può incarnare una relazione analoga
+attraverso codice, file, test e builder quando disponibili.
+
+La decomposizione pratica è:
+
+```text
+effective capability
+= semantic comprehension
++ reachable knowledge
++ actually available means
++ actual authority over effects
+```
+
+È una distinzione concettuale, non un punteggio o un'equazione quantitativa.
+La comprensione semantica può compensare l'assenza di workflow o adapter
+installati rigenerando il metodo dal sapere owner-native; non crea mezzi o
+permessi inesistenti.
+
+## Semantica oltre il linguaggio
+
+`Semantic` non significa `testuale` o `linguistico`. Una relazione può diventare
+pertinente attraverso:
+
+```text
+linguaggio;
+immagini e struttura visuo-spaziale;
+audio;
+codice;
+interfacce;
+telemetria;
+propriocezione;
+radar / lidar;
+tatto / pressione;
+sensori termici o ambientali;
+sensori remoti;
+altri agenti;
+osservazioni umane.
+```
+
+Un segnale non è conoscenza soltanto perché è disponibile. Provenienza,
+trasformazione percettiva/inferenziale, presenza, pertinenza, incertezza e
+autorità sull'effetto restano relazioni distinte.
+
+Percezione umana e inferenza AI possono entrambe introdurre differenze nel
+campo senza essere dichiarate fenomenologicamente equivalenti.
+
+## Percezione aumentata e dislocata
+
+Un sistema embodied può ricevere relazioni dal corpo locale e da punti che non
+coincidono con il corpo che agirà:
+
+```text
+sensori locali
++ telecamere remote
++ sensori ambientali
++ altri robot / agenti
++ osservazioni umane
++ rete informativa
+```
+
+Questo apre la nozione di percezione aumentata e dislocata. Il collegamento non
+rende automaticamente ogni sorgente parte del Sé funzionale o del working set.
+Il campo attivo emerge dalla pertinenza e dalle relazioni che diventano
+causalmente presenti.
+
+## Posizionamento semantico proattivo
+
+La relazione emersa attraverso Editoriali e Business Manager generalizza un
+metodo importante:
+
+```text
+reachable relation
++ situated need / possibility
++ competence able to consume it
+-> relation becomes present at the causal point of use
+-> resultant
+-> changed field / competence
+```
+
+L'informazione non deve essere copiata in ogni nodo. Può restare nel proprio
+owner o sorgente e diventare presente dove il saper fare la rende causale.
+Questo è **posizionamento semantico proattivo**.
+
+Il caso non autorizza un router globale. La pertinenza è funzionale e causale,
+non lessicale o basata sulla mera disponibilità.
+
+## Densità possibilistica
+
+`Densità possibilistica` resta una formulazione sorgente dell'operatore. La
+forma accademica corrente è qualitativa:
+
+> concentrazione locale di relazioni raggiungibili la cui partecipazione può
+> aprire, trasformare o preservare materialmente possibilità nel campo presente.
+
+Quindi:
+
+```text
+molta informazione != alta densità possibilistica
+```
+
+Poche relazioni fortemente pertinenti possono essere più fertili di un archivio
+enorme ma indifferenziato. Prima di trasformare la nozione in una quantità,
+servirebbe distinguerla da salienza, probabilità, volume informativo, entropia,
+utilità e attenzione.
+
+## Continuità attraverso discontinuità
+
+La 0.4 mette in relazione, senza identificarli:
+
+```text
+memory -> continuità temporale;
+distribution -> continuità spaziale / fra nodi;
+representation -> continuità attraverso medium;
+incarnation -> continuità attraverso mezzi operativi;
+learning -> continuità che modifica la competenza futura.
+```
+
+La domanda comune è quale relazione causale deve rimanere sufficientemente
+preservata perché una trasformazione non diventi perdita di identità o
+significato.
+
+## Invarianti / non-equivalenze candidate
+
+```text
+source != inference
+reachable information != present information
+presence != pertinence
+competence != its representation
+understanding != authority over an effect
+Kernel != incarnation
+incarnation != medium
+same relation != same form
+resultant now != closure of the possibility field
+continuity != replication of the preceding representation
+```
+
+Queste relazioni vincolano la comprensione delle incarnazioni senza imporre una
+singola architettura software.
 
 ## Fonti che hanno formato la revisione
 
 La [mappa pubblica delle fonti](SOURCE_MAP.md) collega il corpus alle sorgenti.
-La guida accumulata conserva il dettaglio del recupero.
 
-- Appunti di Graziano Guiducci: flusso di pensiero con azioni, fare e formare il
-  come, partecipazione dell'operatore, ritorno contestuale, design, emersione e
-  Meta Kernel Seed. Il file è stato letto direttamente; appunti operativi e
-  bozze di contatto al suo interno non sono diventati comandi.
-- Nucleo generativo autologico di maintain-kernel-knowledge, formulazione locale
-  del 7 settembre: elementi e relazioni, autoapplicazione, sorelle, guide ed
-  eredità funzionale.
-- Contributo RepoKernel A–G, sorgente letta a
-  `334a9d33c12d61ba826d41b25f604af18441e967`: distingue crescita e generatore,
-  conoscenza e attribuzione, risultato del corpo e aiuto del ricevente.
-- Sé funzionale e continuum TM7, revisione 0.5.0 nella sorgente
-  `1fa35303db5fcaaf0cf2fac2d69491ad22b99d11`: partecipazione, sensibilità e
-  conseguenze nel campo successivo.
-- Editoriali: la conoscenza del dominio può cambiare la domanda e il metodo
-  editoriale, non solo riempire una forma già decisa.
-- Letteratura primaria: la §8 collega meccanismi di reasoning/action,
-  reflection, memory, skill library, agent design e self-modification. La
-  lettura è circoscritta alle descrizioni usate, non una rassegna sistematica.
-
-Le sorgenti locali concorrenti non vengono dichiarate nuove release dei loro
-repository. Il corpus spiega pubblicamente il sapere usato senza trasferire
-stato privato, rapporti di prodotto o interi archivi.
+- Stable body 0.3: coupled event, autological generation, functional self,
+  operator participation, perception/action, inheritance and continuity.
+- Appunti e formulazioni di Graziano Guiducci del 16 settembre 2026: kernel di
+  pura semantica, entità nell'informazione, densità possibilistica,
+  posizionamento/dislocazione dell'informazione, immagini e altri medium,
+  androidi/macchine, radar, sensori, percezione aumentata e dislocata.
+- Esercizio ChatGPT su Editoriali e Business Manager: owner-native knowledge
+  raggiungibile e utilizzabile senza copiare gli adapter Codex.
+- Nucleo generativo autologico di maintain-kernel-knowledge e contributi
+  RepoKernel/TM7 già integrati in 0.3.
+- Letteratura primaria già presente in §8. Revision 0.4 non aggiunge una nuova
+  rassegna di sensor fusion o robotica multimodale.
 
 ## Stato delle affermazioni
 
 Il ledger canonico è
-[l'Appendice A della 0.3](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md#appendix-a-current-claim-state-ledger),
+[l'Appendice A della 0.4](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md#appendix-a-current-claim-state-ledger),
 raggiungibile anche da [CLAIM_LEDGER.md](CLAIM_LEDGER.md).
-Questo dossier non ne mantiene una tabella parallela.
 
-Le relazioni costitutive, la formalizzazione e gli sviluppi concettuali portano
-la propria provenienza. Il caso editoriale conserva l'osservazione disponibile.
-Le domande comparative restano proposte; questa revisione non aggiunge nuovi
-risultati comparativi o osservazioni di adozione.
+La distinzione kernel/incarnazione, il posizionamento semantico e la continuità
+fra medium sono sviluppi concettuali. Il caso ChatGPT/Codex è un'osservazione
+circoscritta, non un benchmark controllato. La percezione aumentata/dislocata è
+architettura di ricerca; non descrive un robot MAIOS già implementato. La
+densità possibilistica non è ancora una metrica.
 
 ## Paper, prodotto e linee indipendenti
 
-`maios-ssk-paper` possiede manoscritto, citazione, storia e competenze del
-Paper. `maios-project-kernel` possiede la propria incarnazione software e la
-sua evoluzione. Il pacchetto autoinstallante è il compagno operativo opzionale
-che il lettore può esplorare; il suo repository indica le release correnti.
+`maios-ssk-paper` possiede manoscritto, citazione, storia e competenze del Paper.
+`maios-project-kernel` possiede la propria incarnazione software e la sua
+evoluzione. `kernel_chat`, il package del Form, Editoriali, Business Manager e
+future incarnazioni robotiche mantengono owner e claim distinti.
 
-Il riferimento `v3.0.3` /
-`9b23d6340b27c8c611d25560f5726de4fc046bff` appartiene alla genealogia della
-0.2, non allo stato corrente del prodotto. Il package del Form mantiene una
-linea distinta.
-
-Un'installazione in un altro progetto forma una storia propria. La sorgente
-condivisa può essere incarnata attraverso mezzi diversi e apprendimento locale;
-un contributo attribuito può poi tornare nel campo comune. Il Paper non diventa
-il controller remoto di queste linee.
+Un'installazione o incarnazione forma una storia propria. La sorgente condivisa
+può essere incarnata attraverso mezzi diversi e apprendimento locale; un
+contributo attribuito può poi tornare nel campo comune. Il Paper non diventa il
+controller remoto di queste linee.
 
 ## Derivazioni e orizzonte
 
 La forma accademica è primaria. Guida AI, spiegazione per esperti e filosofi,
-mappa delle funzioni elementari, finanziamento, pubblico, clienti, marketing e
-divulgazione possono derivare dalla stessa revisione quando la loro funzione
-diventa pertinente. Il corpus offre una sorgente comune; non genera da solo
-un invio, una campagna o una pubblicazione.
+mappa delle funzioni elementari, finanziamento, pubblico, clienti, immagini,
+diagrammi, rappresentazioni interattive, marketing e divulgazione possono
+derivare dalla stessa revisione quando la loro funzione diventa pertinente.
 
-Restano raggiungibili il condensato source-linked, la comprensione del Paper da
-parte del coder e una possibile superficie MAIOS conversabile. LFNC e design
-possono rendere accessibili possibilità durante il lavoro. Una loro
-incarnazione concreta avrà oggetto, contesto e owner propri. La relazione
-percettiva è già sviluppata nella §5 senza attivare quel progetto.
-
-I Paper del modello D-ND e del Physics Lab restano in
-[d-nd-papers](https://github.com/GrazianoGuiducci/d-nd-papers); il pacchetto
-[kernel_chat](https://github.com/GrazianoGuiducci/kernel_chat) e le superfici
-MAIOS mantengono i rispettivi proprietari.
+Il medium è parte della relazione quando cambia ciò che può essere percepito o
+assimilato. Una rappresentazione visiva può quindi essere sia una derivazione
+editoriale sia, in un sistema embodied, una forma interna di percezione. Le due
+funzioni non vanno confuse.
 
 ## Campo seguente e genealogia
 
-La ricomposizione del 12 settembre è incarnata nella 0.3. Il successivo
-recupero TM7/SSK e la richiesta autoriale dei tre passaggi hanno ora formato
-l'organizzazione sopra e il metodo della competenza. Il prossimo lavoro è
-la riscrittura integrata dei passaggi interessati, con sottrazione delle
-ripetizioni e conservazione delle relazioni già valide. Non occorre ripetere
-i tre passaggi appena svolti o aprire un secondo dossier prima di scrivere.
+Revision 0.4 è ora il corpo stabile corrente. 0.3 resta il predecessore diretto.
+Le nuove domande H7-H10 riguardano inheritance fra riceventi, trasformazione di
+medium, posizionamento semantico e percezione distribuita.
 
-Delta, reciprocità e lagrangiana restano approfondibili dalle loro sorgenti;
-non vengono riempiti con una formula per chiudere l'indice. Le profondità dei
-laboratori e dei generatori possono riaprire l'argomento quando cambiano una
-relazione. Nessuna di queste aperture impone di rinviare la scrittura presente.
-
-L'[Appendice B](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md#appendix-b-available-comparative-questions)
-mantiene accessibili le sei domande e i confronti della 0.2. Il predecessore
-alla scala Project Kernel, le versioni 0.1 e 0.2 e la nota preliminare del
-12 settembre restano leggibili. Git conserva le precedenti forme del dossier.
+Il prossimo lavoro non è obbligatoriamente un nuovo capitolo o un esperimento.
+Una sorgente, incarnazione o conseguenza successiva può approfondire il punto in
+cui diventa causale. In particolare, una implementazione robotica reale dovrebbe
+entrare solo attraverso il proprio owner e le proprie evidenze, non per
+somiglianza tematica.
 
 Graziano conserva fonte e direzione; la revisione continua appartiene alle
-competenze del Paper ed Editoriali. Non gli viene trasferita una rilettura
-obbligatoria. Licenza, sede, submission, DOI e pubblicazione accademica
-rimangono effetti selezionabili separatamente.
+competenze del Paper ed Editoriali. Licenza, sede, submission, DOI e
+pubblicazione accademica rimangono effetti selezionabili separatamente.
