@@ -44,6 +44,16 @@ tendenza regressiva:
 
 Non trasformare questo schema in un gate. Il nuovo non è automaticamente migliore; un tradeoff può restare aperto e una differenza può essere semplicemente non ancora ordinabile.
 
+## Influenza delle risultanti e contesto sostenibile
+
+Approfondimento del 2026-09-16, dalla nota di Graziano sul possibile peso degradante dei risultati accumulati. La nota resta un'ipotesi operativa; questa formulazione non identifica un meccanismo interno del modello né riporta un esperimento controllato.
+
+Una risultante può orientare il seguito perché porta una determinazione, un metodo o una dipendenza ancora necessaria. La sua salienza documentale è un'altra relazione: lunghezza, ripetizione, recenza e lavoro già speso non aggiungono da soli evidenza. Quando una medesima interpretazione passa attraverso più documenti o repository, la sua migliore raggiungibilità non costituisce corroborazione indipendente. Una nuova osservazione o lettura indipendente mantiene invece il proprio contributo, da attribuire esplicitamente. Separare influenza operativa, ragione epistemica, stato implementativo e autorità evita di promuovere una rappresentazione per la sola circolazione.
+
+Anche la partecipazione di una competenza può confermare una determinazione sufficiente senza cambiarla. Il risultato utile non deve essere forzato verso una modifica per mostrare che una competenza ha agito. Il contesto sostenibile mantiene attive le relazioni necessarie alla decisione presente e raggiungibili le ragioni e le aperture che non richiedono lo stesso livello di attenzione. Questo non equivale né a caricare tutto il patrimonio né a cancellare le possibilità rare per ridurre testo.
+
+Nel lavoro della competenza Paper, riconoscere una perdita concreta prima di aggiungere una protezione: un resoconto che sostituisce il problema, una stessa inferenza citata come più prove, una premessa rara ma necessaria non più raggiunta. Correggere allora la relazione causale e la sua espressione, senza istituire un controllo continuo. Nella prossima revisione del manoscritto ricomporre questa precisazione nelle sezioni 3.3–3.6 su attribuzione, obsolescenza, guide e latenza; il corpo 0.3 resta invariato in questo intervento. I casi descritti sono discriminanti concettuali, non risultati sperimentali o misure di risparmio.
+
 ## Relazione integrata
 
 ```text
