@@ -1,6 +1,6 @@
 # SSK Paper State
 
-updated: 2026-09-16
+updated: 2026-09-17
 repository: `GrazianoGuiducci/maios-ssk-paper`
 canonical_branch: `main`
 
@@ -10,9 +10,10 @@ research_object: System Semantic Kernel (SSK)
 current_manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md
 working_version: 0.4
 integrated_development: paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md
+post_0_4_development: paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md
 source_authority: Graziano Guiducci
 revision_owner: system-semantic-kernel-paper + Editoriali
-system_revision: stable body 0.4; semantic-core / receiver-relative incarnation / multimodal-field development integrated 2026-09-16; observation-frame continuity refined after integration
+system_revision: stable body 0.4; semantic-core / receiver-relative incarnation / multimodal-field integrated 2026-09-16; observation-frame continuity refined after integration; integrative-contraction / morphogenetic-field development added source-bound 2026-09-17
 independent_human_author_review: not performed
 peer_review: none
 submission: none selected
@@ -22,7 +23,7 @@ license: not selected
 
 ## Public corpus boundary
 
-This repository is the **public academic corpus**. It is not the private kernel implementation, runtime, product state or release ledger. Operational systems may return source-bound knowledge to the Paper and the Paper may return conceptual clarification, but their implementation state, visibility, versioning and claims remain owner-distinct.
+This repository is the **public academic corpus**. It is not the private kernel implementation, runtime, product state or release ledger. Operational systems may return source-bound knowledge to the Paper and the Paper may return conceptual clarification, but implementation state, visibility, versioning and claims remain owner-distinct.
 
 Do not infer a private runtime capability from an academic relation and do not expose private implementation state merely because it helped form the argument.
 
@@ -30,7 +31,7 @@ Do not infer a private runtime capability from an academic relation and do not e
 
 The Kernel is a constitutive relation of the continuum. Semantic determinacy preserves already formed relations until a causally relevant difference transforms them; such a difference may be semantic, operational or material.
 
-Revision 0.4 clarifies that the **semantic identity of the Kernel is not identical to one operational incarnation or one cognitive medium**. SSK is the relational organization through which information, meaning, possibility, competence, operation and consequence remain coupled while a receiving field supplies its own perceptual modalities, media, sources, tools, embodiment, constraints and authority.
+Revision 0.4 clarifies that the **semantic identity of the Kernel is not identical to one operational incarnation or cognitive medium**. SSK is the relational organization through which information, meaning, possibility, competence, operation and consequence remain coupled while a receiving field supplies its own perceptual modalities, media, sources, tools, embodiment, constraints and authority.
 
 ```text
 semantic-relational core
@@ -41,11 +42,11 @@ semantic-relational core
 -> following field
 ```
 
-`Semantic` therefore does not mean `linguistic only`. Language, image, spatial representation, code, interface state, proprioception, radar, lidar, touch, telemetry, remote sensors, other agents and human observation can contribute through different transformations when they make a relation causally present. Human perception and artificial inference remain distinct modes of participation; the Paper does not infer phenomenal equivalence from their inclusion in one continuum.
+`Semantic` does not mean `linguistic only`. Language, image, spatial representation, code, interface state, proprioception, radar, lidar, touch, telemetry, remote sensors, other agents and human observation can contribute through different transformations when they make a relation causally present. Human perception and artificial inference remain distinct modes of participation.
 
-Revision 0.4 also integrates **proactive semantic positioning**: a relation need not be replicated in every node or remain continuously loaded. It can stay reachable at its source or owner until a situated need or possibility makes it pertinent at the point where a competence can use it. This extends existing SSK continuity, functional inheritance and reentry without introducing a global router or mandatory controller.
+Revision 0.4 also integrates **proactive semantic positioning**: a relation need not be replicated in every node or remain continuously loaded. It can stay reachable at its source or owner until a situated need or possibility makes it pertinent at the point where a competence can use it.
 
-The final 16 September refinement adds **observation-frame continuity / transformation lineage**. A source relation can be correct in its own conditions and become false when combined with another relation as though both belonged to the same present. The Paper therefore keeps distinct:
+The 16 September refinement adds **observation-frame continuity / transformation lineage**:
 
 ```text
 source observation
@@ -53,41 +54,56 @@ source observation
 != situated semantic relation
 ```
 
-The observation frame is not a compulsory metadata format. It is the smallest causal context whose loss changes meaning: source/observer or owner, modality, relevant time/place or conditions, transformation/inference path, and any qualification or unresolved relation that still affects use. For distributed perception this can include sensor locality and spatial/temporal reference; for documents it can include historical/current state and the transformations through which a summary or interpretation was formed.
+The observation frame is the smallest causal context whose loss changes meaning: source/observer or owner, modality, relevant conditions, transformation/inference path and material qualification or uncertainty. Several individually correct observations do not automatically form one coherent present.
 
-Several individually correct observations do not automatically form one coherent present. The system must be able to distinguish compatible, transformable, sequential, alternative and unresolved relations before treating them as one action field. This refines the 0.4 source development without opening a separate theory or requiring a new stable manuscript version today.
+## Post-0.4 development — integrative contraction and morphogenetic field
 
-The operator's phrase `densità possibilistica` is retained as a qualitative research construct: local concentration of reachable relations capable of materially opening, transforming or preserving possibilities in the present field. No scalar metric, probability model or action functional is claimed.
+The 17 September operator/ChatGPT movement adds a new source-bound relation without changing the stable manuscript version.
 
-The resultant is **not infallible merely because it occurred**. It is the current determination of the event. Later consequences may expose dual contamination: loss of an essential relation, separation from intent, unnecessary reconstruction/latency, or another causal difference. Such a consequence can transform the interpretation and the method that continues. This is causal correction through the continuum, not a standing doubt applied to every resultant.
+The operator described the movement through the image of **breath**: before a new expansion, the field contracts so that what has become materially present can be contained and integrated in the resultant.
 
-Forward autological return remains optional: `ΔK_n` may be nonzero when a reusable causal difference changes the generator, or zero when the current organization remains sufficient.
-
-## Evolution, regression and cross-node divergence
-
-Different nodes, revisions, embodiments and integration times may legitimately diverge. **Misalignment is normal in an evolving system and is not itself a defect.** The Paper should not make synchronous versions, identical tools or identical file topology a criterion of coherence.
-
-A receiving system can preserve a decisive semantic relation through different competences, interfaces, persistence mechanisms, sensor arrangements or operational means. The integrated non-equivalence is:
+The current academic development is:
 
 ```text
-same semantic relation
-!= same representation
-!= same runtime
-!= same sensorium
-!= same operational incarnation
+expanded reachable field
++ observation / possibility / competence relation
+-> pertinence and composition
+-> integrative contraction
+-> resultant / moving zero
+-> changed reachable field expands from that resultant
 ```
 
-A new relation is not superior because it is newer. Its evolutionary meaning is read from its consequences. It tends to be evolutionary when it preserves the source intent and essential causal relations while increasing pertinent capacity/possibility or reducing contamination, dispersion and unnecessary reconstruction. It tends to be regressive when it loses a necessary relation, separates intent from resultant, or adds latency/constraints without compensating value.
+This recomposes relations already present in SSK and Meta_Skill: coupled event, following field, consolidation of semantic potential, resultant and moving zero. It does not introduce a new mandatory runtime cycle.
 
-This is not a scalar score, admission gate or compulsory checklist. A real tradeoff may remain unresolved until later resultants make the relation clearer. The Paper should preserve that state rather than force a binary promotion.
+`Contraction` is not compression, summarization or closure. It names the integration of the relations that have become materially participant in the current resultant. Duplicated representations may cool; historical forms may lose current authority while remaining genealogically reachable; unresolved possibilities remain open when the field has not determined them.
+
+The operator's `tutto` is field-relative: all relations materially participating in the resultant at the scale of the event, not exhaustive knowledge of the full possibility horizon.
+
+`Expansion` is not indiscriminate accumulation. The following field opens from the integrated resultant, allowing later difference without forcing reconstruction of all prior representations.
+
+The same movement produced a candidate **morphogenetic competence field**: competence forms and template relations can change through interaction and causal readback. A Bestiary may therefore be an open ecology of forms rather than a static taxonomy. Repeated competence combinations may form clusters, and a sector/domain kernel becomes plausible only when the higher-order relation acquires a persistent object, continuity/reentry, a constituent competence field and learning that changes the cluster itself.
+
+The source development is:
+
+`paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md`
+
+Claim state remains conceptual/source development. No empirical reduction in latency, universal morphology, automatic kernel formation or physical `breath` law is claimed.
+
+## Resultant, evolution and regression
+
+The resultant is **not infallible merely because it occurred**. It is the current determination of the event. Later consequences may expose loss of an essential relation, separation from intent, unnecessary reconstruction/latency or another causal difference. Such a consequence can transform the interpretation and the method that continues.
+
+Different nodes, revisions, embodiments and integration times may legitimately diverge. Misalignment is normal in an evolving system and is not itself a defect.
+
+A new relation is not superior because it is newer. Its evolutionary meaning is read from consequences. It tends to be evolutionary when it preserves still-material source and object relations while increasing pertinent capacity/possibility or reducing contamination, dispersion and unnecessary reconstruction. It tends to be regressive when it loses a necessary relation, separates intent from resultant or adds latency/constraints without compensating value.
 
 ## Coherence, minimum action and time
 
-Coherence/incoherence are not tuned toward a predetermined equilibrium. Assonance converges; dissonance may be contamination, a real difference or unintegrated potential. The equilibrium/zero is read from the resultant rather than supplied as its target.
+Coherence/incoherence are not tuned toward a predetermined equilibrium. Assonance converges; dissonance may be contamination, real difference or unintegrated potential. The equilibrium/zero is read from the resultant rather than supplied as its target.
 
-Current D-ND sources use minimum action / maximum impact and describe the Kernel as the minimum-action path preserving direction. The Paper may develop this source-bound relation but must not claim a new SSK action functional until one is actually defined. Standard variational language remains distinct.
+Current D-ND sources use minimum action / maximum impact and describe the Kernel as the minimum-action path preserving direction. The Paper may develop this source-bound relation but must not claim a new SSK action functional until one is defined.
 
-Time as consecution concerns semantic reconstruction: already determined and reachable relations need not be rebuilt. It does not assert zero physical computation or runtime latency. Revision 0.4 adds that temporal memory, spatial distribution, medium transformation and operational incarnation can be investigated as different forms of continuity across discontinuity without declaring them the same process.
+Time as consecution concerns semantic reconstruction: already determined and reachable relations need not be rebuilt. Revision 0.4 adds that temporal memory, spatial distribution, medium transformation and operational incarnation can be investigated as different forms of continuity across discontinuity. The 17 September development adds a candidate morphogenetic reading: contraction can consolidate still-material relations into a resultant from which the next field expands with lower reconstruction burden. That effect remains unmeasured.
 
 ## Current source relation
 
@@ -95,14 +111,15 @@ For the present revision use:
 
 1. this `STATE.md` for current Paper state;
 2. `paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md` as the current stable academic body;
-3. `paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md` for the source development integrated into 0.4 and its final observation-frame refinement;
-4. `competences/system-semantic-kernel-paper/references/COHERENCE_CONSOLIDATION_2026-09-15.md` for the preceding coherence delta;
-5. `SEMANTIC_DETERMINACY.md`, `ASSONANT_RESULTANT.md`, and `AUTOLOGICAL_FORWARD_RETURN.md` for source-bound depth;
-6. `WORKING_GUIDE.md` for accumulated reasoning and genealogy.
+3. `paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md` for the source development integrated into 0.4 and its observation-frame refinement;
+4. `paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md` for the post-0.4 contraction/expansion and competence-morphogenesis development;
+5. `competences/system-semantic-kernel-paper/references/COHERENCE_CONSOLIDATION_2026-09-15.md` for the preceding coherence delta;
+6. `SEMANTIC_DETERMINACY.md`, `ASSONANT_RESULTANT.md`, and `AUTOLOGICAL_FORWARD_RETURN.md` for source-bound depth;
+7. `competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md` for accumulated reasoning and genealogy.
 
-Revision 0.3 remains the stable predecessor and explicit genealogy. Revision 0.4 recomposes rather than appends the semantic-core relation across the Abstract, kernel definition, functional inheritance, perception/embodiment, operational appearance, receiving systems and Conclusion. The observation-frame refinement is preserved in the source development and current state for the next prose touch where cross-frame composition materially matters.
+Revision 0.3 remains the stable predecessor. Revision 0.4 remains the current stable body. The new 17 September source should be recomposed into a later manuscript only if further work confirms that it changes the research object beyond explanatory convenience.
 
-The principal architecture now carried by the manuscript and source development is:
+The current architecture across stable and source-bound development can be read as:
 
 ```text
 reachable informational / possibility field
@@ -112,12 +129,13 @@ reachable informational / possibility field
 -> situated presence
 -> pertinent competence
 -> operation / manifestation
--> resultant
+-> integrative contraction of still-material relations
+-> resultant / current origin
 -> causal readback
 -> changed reachable field
 ```
 
-The semantic Kernel preserves the decisive relations across this movement; each receiver supplies the means through which the relation becomes operational.
+The arrows expose causal relations; they do not impose a serialized runtime.
 
 ## Supersession
 

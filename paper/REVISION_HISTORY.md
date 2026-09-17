@@ -1,5 +1,30 @@
 # SSK Paper revision history
 
+## Post-0.4 integrative-contraction / morphogenetic-field development — 2026-09-17
+
+The 17 September operator/ChatGPT movement added a new source-bound relation without promoting a new stable manuscript version.
+
+The operator described the field through the image of **breath**: before a new expansion, the movement contracts so that what has become materially present can be contained and integrated in the resultant. The Paper development connects this formulation to existing source relations: coupled event, following field, consolidation of semantic potential, situated resultant and Meta_Skill's moving-zero relation.
+
+The resulting explanatory relation is:
+
+```text
+expanded reachable field
++ observation / possibility / competence relation
+-> pertinence and composition
+-> integrative contraction
+-> resultant / moving zero
+-> changed reachable field expands from that resultant
+```
+
+`Contraction` is explicitly distinguished from compression, summarization and closure. It concerns integration of the relations that have become materially participant in the resultant; duplicated representations may cool, genealogy remains reachable and unresolved possibilities can remain open. The operator's `tutto` is interpreted field-relatively, not as exhaustive knowledge of the possibility horizon.
+
+The same movement develops a candidate **morphogenetic competence field**: competence forms, template seeds and repeated compositions can change through interaction and causal readback. A Bestiary is therefore treated as an open morphology field rather than a fixed taxonomy; repeated competence compositions may form durable clusters or sector-kernel candidates only when the higher-order relation itself acquires continuity and learning.
+
+The source development is `INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md`.
+
+Claim state remains conceptual/source development. Stable body `0.4` remains current. No empirical latency reduction, universal competence morphology, automatic kernel promotion or physical breath law is claimed.
+
 ## 0.4 observation-frame refinement — 2026-09-16
 
 A final same-day pass after 0.4 exposed one further relation without requiring a new stable manuscript version: **observation-frame continuity / transformation lineage**.
