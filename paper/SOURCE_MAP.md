@@ -2,16 +2,54 @@
 
 ## Canonical corpus
 
-- [Stable body 0.4](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md) — current integrated argument: coupled event, autological generation, functional self, semantic core, receiver-relative incarnation, multimodal perception/inference, proactive semantic positioning and continuity.
-- [Semantic core, situated incarnation and the multimodal field — 16 September](SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md) — operator-origin development integrated into 0.4.
-- [Integrative contraction and the morphogenetic competence field — 17 September](INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md) — post-0.4 source development on consolidation, resultant/following-field dynamics and competence morphogenesis; not yet integrated into a new stable manuscript.
-- [Stable body 0.3](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md), [stable body 0.2](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md) and [stable body 0.1](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md) — preserved integrated predecessors.
-- [Preliminary development, 12 September](SEMANTIC_FORMATION_AND_SITUATED_METHOD_2026_09_12.md) — method regeneration and source ledger, integrated into 0.3 and inherited by 0.4.
+- [Stable body 0.5](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md) — current integrated argument: coupled event, autological generation, functional self, semantic core, receiver-relative incarnation, multimodal perception/inference, proactive semantic positioning, integrative contraction, reconstruction economy and continuity.
+- [Distributed reachability, reconstruction economy, and situated delegation — 23 September](DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md) — source development integrated into 0.5; bounded R0.19 and MAIOS Launch operational specimens, no independent performance claim.
+- [Integrative contraction and the morphogenetic competence field — 17 September](INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md) — source development integrated into 0.5.
+- [Semantic core, situated incarnation and the multimodal field — 16 September](SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md) — source development integrated into 0.4 and inherited by 0.5.
+- [Stable body 0.4](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md), [stable body 0.3](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md), [stable body 0.2](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md) and [stable body 0.1](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md) — preserved integrated predecessors.
+- [Preliminary development, 12 September](SEMANTIC_FORMATION_AND_SITUATED_METHOD_2026_09_12.md) — method regeneration and source ledger, integrated into 0.3 and inherited by later bodies.
 - [Current dossier](AI_KERNEL_PAPER_DOSSIER_CURRENT.md) — argument map, source relations and continuation.
 - [Project Kernel-scale predecessor](../genealogy/SITUATED_COMPETENCE_EVOLUTION_IN_AI_PROJECT_KERNELS_DRAFT_0_1.md) — earlier argument at a component scale.
 - [Paper competence kernel](../competences/system-semantic-kernel-paper/references/SSK_PAPER_COMPETENCE_KERNEL.md) and [accumulated working guide](../competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md) — authoring knowledge and detailed source-to-argument continuity.
 
-## Post-0.4 development — 17 September 2026
+## Source development integrated into 0.5 — 23 September 2026
+
+The 23 September movement began from a practical question about distributed
+competence reuse: whether a deeper system field required per-turn repository
+search, registry inspection or full service-profile transfer. R0.19 established
+a demand-driven receiver relation: use a known sufficient owner directly;
+widen only for material owner/gap/cross-kernel uncertainty; keep full service
+profiles owner-side and use compact references in ordinary result exchange.
+
+A later MAIOS Launch exercise supplied a non-identical operational specimen.
+Project-to-GitHub migration and creator outreach behaved as independent
+surface-native work; a combined Reddit/LinkedIn/measurement lane had to
+reconstruct too much of the same unresolved launch field. The operator
+identified the duplicated reconstruction cost and corrected the delegation
+method.
+
+The resulting Paper relation is:
+
+```text
+reachable depth != active working set
+distributed field != distributed active load
+
+unresolved shared cognition
+-> keep composed
+
+sufficient resultant + distinct owner/surface/effect
+-> bounded delegation
+-> compact consequence / learning return
+```
+
+The source development is
+`DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md`.
+
+It remains a conceptual development informed by bounded operational specimens.
+No independent validation, token saving, latency reduction or universal
+distributed-architecture advantage is claimed.
+
+## Source development integrated into 0.5 — 17 September 2026
 
 The 17 September operator/ChatGPT movement began in a practical competence-formation problem. A proposed menu of templates evolved into a **Competence Morphology Bestiary**: an open field of possible competence bodies, activation relations, temperatures, incarnations and compositions rather than a fixed taxonomy.
 
@@ -45,7 +83,7 @@ The operator's `tutto` is field-relative: all materially participating relations
 
 The same development treats competence morphology as potentially **morphogenetic**: template seeds can help form competences, while real competence resultants can reform the morphology field used for later formation. Repeated competence compositions may become durable clusters or sector-kernel candidates only when the higher-order relation itself acquires continuity and learning.
 
-This development is preserved in `INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md`. It remains conceptual/source-bound. The stable manuscript remains 0.4.
+This development is preserved in `INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md`. It remains conceptual/source-bound and is integrated into stable body 0.5.
 
 ## Integrated development — 16 September 2026
 
@@ -98,13 +136,15 @@ The consolidation through encounter, relational recomposition and third-pass org
 | ChatGPT owner-native Editoriali / Business Manager investigation | same competence relation can be reached through different receiver mechanics; semantic comprehension does not transfer tools/authority | §§4.2, 4.6, 7, 9.2 |
 | tm7/chatgpt local embodiment, 16 September | receiver-relative owner-native competence participation and explicit non-equivalence between semantic relation and runtime | conceptual specimen and return path; not independent external evidence |
 
-## New source relations after 0.4
+## Source relations integrated into 0.5
 
 | Source | Contribution | Current claim state |
 | --- | --- | --- |
 | Graziano Guiducci, conversation 17 September 2026 | competence Bestiary as morphogenetic field; rules reform through interacting competence resultants | source development / candidate architecture |
 | Graziano Guiducci, same conversation | breath: contraction before expansion to contain/integrate the materially participating field in the resultant | operator-origin explanatory relation |
 | tm7/chatgpt Semantic–Causal Incarnation | semantic hook / persistent-incarnation drift, morphology contract and sparse morphogenesis ledger | local operational specimen; not independent evidence |
+| tm7/chatgpt R0.19 distributed competence practicality | demand-driven owner resolution; search failure != competence absence; carrier kept optional | bounded operational specimen; not independent performance evidence |
+| MAIOS Launch parallel-work readback | distinct owner/surface delegation vs duplicated shared-field reconstruction | bounded operational specimen; not independent performance evidence |
 | Meta_Skill current sources | resultant as moving zero, independent taxonomy axes, optional lifecycle and mini-kernel competence form | pre-existing source relations used to avoid false novelty |
 
 ## Existing editorial event
@@ -113,7 +153,7 @@ The retained event originates in Editoriali's `KERNEL_MAIOS_RITORNO_CONTESTUALE.
 
 ## External literature and operational companion
 
-The manuscript's §8 and References link the primary sources used for specified mechanism descriptions. Revision 0.4 does not claim a new literature survey for multimodal robotics, competence morphogenesis or distributed perception. Such literature should enter when an exact research claim makes it material.
+The manuscript's §8 and References link the primary sources used for specified mechanism descriptions. Revision 0.5 does not claim a new literature survey for multimodal robotics, competence morphogenesis, distributed perception or distributed competence/work orchestration. Such literature should enter when an exact research claim makes it material.
 
 [MAIOS Project Kernel](https://github.com/GrazianoGuiducci/maios-project-kernel) is the optional self-installing software companion. Its own repository governs current product source, release and use information.
 
