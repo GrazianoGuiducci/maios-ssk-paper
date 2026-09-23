@@ -1,17 +1,18 @@
 # System Semantic Kernel Paper — Competence Kernel
 
-updated: 2026-09-16
+updated: 2026-09-23
 artifact_owner: GrazianoGuiducci/maios-ssk-paper
 form_competence_owner: Editoriali / system-semantic-kernel-paper
 kernel_meaning_owner: maintain-kernel-knowledge
 state: active competence source; not a finished Paper or publication receipt
 
-## Current resultant — stable body 0.4
+## Current resultant — stable body 0.5
 
-Revision 0.4 is the current integrated academic body. It preserves the coupled
-event, autological generative core, functional self, operator participation and
-continuity of 0.3 while clarifying a relation that was already latent in
-functional inheritance:
+Revision 0.5 is the current integrated academic body. It preserves the coupled
+event, autological generative core, functional self, operator participation,
+semantic-core and receiver-relative relations of 0.4 while integrating
+integrative contraction, competence morphogenesis, distributed reachability
+and reconstruction economy.
 
 ```text
 semantic-relational Kernel
@@ -22,18 +23,22 @@ semantic-relational Kernel
 != authority over effects
 ```
 
-The source development is
-[`SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md`](../../../paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md).
+The integrated source developments are:
+- [`SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md`](../../../paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md)
+- [`INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md`](../../../paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md)
+- [`DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md`](../../../paper/DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md)
+
 The integrated manuscript is
-[`SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md`](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md).
+[`SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md`](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md).
 
 The central thesis is:
 
 > **SSK is the core of invariants and generative relations through which
-> information and possibility become causally present in a situated field;
-> media, sensors, languages, tools and runtimes are variable forms of its
-> incarnation. Kernel continuity consists in preserving decisive relations
-> while their perceptual, operational and distributed form can change.**
+> information and possibility become causally present in a situated field.
+> Reachable depth need not equal the active working set: decisive relations can
+> remain owner-native until pertinent, while a sufficiently formed resultant
+> can continue through receiver-native means without reconstructing the whole
+> reachable field.**
 
 This does not posit a disembodied executable kernel. Every actual incarnation
 requires physical/computational carriers. The distinction identifies the
@@ -67,7 +72,7 @@ equivalent performance or a robotic implementation.
 
 ## Proactive semantic positioning
 
-Revision 0.4 integrates a further relation that emerged while ChatGPT learned
+Revision 0.5 preserves a further relation that emerged while ChatGPT learned
 to use Editoriali and Business Manager owner-native knowledge without copying
 their runtime adapters:
 
@@ -91,6 +96,58 @@ research construct: local concentration of reachable relations whose
 participation can materially open, transform or preserve possibilities in the
 present field. Do not turn it into a scalar, probability, action functional or
 attention score until a useful formal quantity is actually defined.
+
+## Integrative contraction and reconstruction economy
+
+Revision 0.5 adds the following conceptual relation:
+
+```text
+expanded reachable field
++ materially participating relations
+-> integrative contraction
+-> sufficient resultant / moving zero
+-> changed reachable field
+
+reachable depth != active working set
+```
+
+Contraction is not compression or closure. It gives the materially participating
+relations a coherent current seat while genealogy and unresolved possibilities
+remain reachable.
+
+The 23 September R0.19 and MAIOS Launch specimens then expose a demand-driven
+distribution boundary:
+
+```text
+known sufficient owner
+-> direct competent action
+
+material owner/gap uncertainty
+-> bounded distributed resolution
+
+unresolved shared cognition
+-> keep composed
+
+sufficient resultant + distinct owner/surface/effect
+-> bounded delegation
+-> compact consequence / learning return
+```
+
+Treat these as bounded operational specimens that changed the system's own
+method, not as independent validation or measured token/latency/cost evidence.
+
+Keep distinct:
+
+```text
+semantic competence field
+!= registry / carrier
+!= receiver
+!= executor
+!= authority
+```
+
+The carrier may reduce reconstruction; it is not the semantic owner or a
+precondition for competence participation.
 
 ## Embodied and distributed perception
 
@@ -141,15 +198,16 @@ These are not three mandatory reports or identical checks. A function already
 exercised need not be replayed. A sufficient or unchanged form remains a valid
 result; a new material relation can reopen it.
 
-This method is exactly how the 16 September source became 0.4: the relation was
-not appended as a robotics chapter. It changed Abstract, Kernel definition,
-continuity, functional inheritance, perception/action, operational appearance,
-receiving systems and Conclusion.
+This method is how both 0.4 and 0.5 were formed. The 16 September source did
+not become a robotics appendix; the 17/23 September sources did not become a
+separate distributed-systems chapter. They rewrote their causal seats across
+continuity, competence composition, operational appearance, receiving systems,
+claim state and Conclusion.
 
 ## Acquired generative knowledge and continuation
 
 The [accumulated Paper guide](WORKING_GUIDE.md) connects the operator relation
-to acquired sources and the reasons behind their integration. Stable 0.3
+to acquired sources and the reasons behind their integration. Stable 0.4
 remains the direct predecessor; the September 12 preliminary development is a
 source-linked predecessor, not the current manuscript.
 
@@ -171,8 +229,8 @@ and related source knowledge contribute these durable distinctions:
 - functional self is revisable participation in the present project;
   sensitivity includes possibilities and successes, not only error signals.
 
-Revision 0.4 extends functional inheritance across receiver mechanics and
-media. It does not supersede these relations or introduce a hierarchy above
+Revision 0.5 preserves that functional inheritance across receiver mechanics and
+media and adds demand-driven reachability across competence/distribution boundaries. It does not supersede these relations or introduce a hierarchy above
 them.
 
 ## Correction exercised in revision 0.3 and retained
@@ -184,7 +242,7 @@ resulting method begins with the relation, its reasons and consequences.
 Source fidelity and coherent attribution remain inside the writing;
 anticipated audience objections do not supply its starting question.
 
-Revision 0.4 follows the same correction. It distinguishes conceptual
+Revision 0.5 follows the same correction. It distinguishes conceptual
 architecture, bounded observation and empirical claim without making a denial
 or proof demand the generator of the source relation.
 
@@ -231,8 +289,8 @@ fundamental axioms and invariants should survive future changes of medium and
 mechanism.
 ```
 
-The academically bounded interpretation is preserved in stable body 0.4 and
-its source development.
+The academically bounded interpretation is preserved in stable body 0.5 and
+its source developments.
 
 ## Working Identity
 
@@ -250,10 +308,12 @@ canonical public repository:
   GrazianoGuiducci/maios-ssk-paper
 
 current canonical manuscript:
-  paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md
+  paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md
 
-current source development:
+current source developments:
   paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md
+  paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md
+  paper/DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md
 
 secondary forms:
   canonical self-description for human and AI reentry;
