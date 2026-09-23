@@ -12,17 +12,18 @@ repository makes that research object readable and citable without treating a
 software package, a website, a particular medium, sensorium, body or internal
 operating kernel as the theory itself.
 
-> **Current state:** working paper, stable body 0.4 — 16 September 2026.
+> **Current state:** working paper, stable body 0.5 — 23 September 2026.
 > The integrated argument develops the coupled event, autological generation,
 > functional self, operator participation, receiver-relative incarnation,
-> multimodal perception/inference, semantic positioning and contextual
-> continuity. Graziano Guiducci is the authorial source; the SSK Paper
+> multimodal perception/inference, semantic positioning, integrative contraction,
+> reconstruction economy and contextual continuity. Graziano Guiducci is the authorial source; the SSK Paper
 > competence and Editoriali conduct continuing revision. See
 > [STATE.md](STATE.md) for publication and review metadata.
 
 ## Read the working paper
 
-- [System Semantic Kernel (SSK), stable body 0.4](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md)
+- [System Semantic Kernel (SSK), stable body 0.5](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md)
+- [Distributed reachability, reconstruction economy, and situated delegation — source development integrated into 0.5](paper/DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md)
 - [Semantic core, situated incarnation and the multimodal field — source development integrated into 0.4](paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md)
 - [Current research dossier and claim-state map](paper/AI_KERNEL_PAPER_DOSSIER_CURRENT.md)
 - [Current claim-state ledger](paper/CLAIM_LEDGER.md)
@@ -43,10 +44,11 @@ The [predecessor working paper](genealogy/SITUATED_COMPETENCE_EVOLUTION_IN_AI_PR
 is preserved as genealogy and as a reusable Project Kernel-scale argument. It
 is no longer the container of the complete SSK research object.
 
-[Stable body 0.3](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md),
+[Stable body 0.4](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md),
+[stable body 0.3](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md),
 [stable body 0.2](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md) and
 [stable body 0.1](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md)
-remain reachable predecessors. Version 0.4 is the current integrated body.
+remain reachable predecessors. Version 0.5 is the current integrated body.
 
 The repository also carries a paper-native competence projection under
 [`competences/`](competences/README.md). It helps AI systems and contributors
@@ -56,7 +58,7 @@ MAIOS/TM9 Kernel and has no authority over external installations.
 
 ## Semantic core and situated incarnation
 
-Revision 0.4 makes explicit that SSK's semantic identity is not one particular
+Revision 0.5 preserves the 0.4 result that SSK's semantic identity is not one particular
 runtime or carrier. A receiving system can preserve a decisive relation while
 using different competences, interfaces, persistence mechanisms, perceptual
 modalities or operational means. `Semantic` does not mean `language only`:
@@ -67,6 +69,21 @@ can contribute differently when they make a relation causally present.
 This is an architecture and research relation, not a claim that all media are
 equivalent, that raw sensor data is already semantic knowledge, or that a
 semantic kernel executes without a physical/computational carrier.
+
+## Reachable depth and reconstruction economy
+
+Revision 0.5 makes explicit that **reachable system depth and active working set
+are different relations**. Knowledge and competences can remain owner-native
+and reachable until a situated need makes them pertinent. Integrative
+contraction forms a coherent current resultant from the relations that have
+become materially participant; demand-driven distribution lets a genuinely
+distinct receiver or surface continue from that resultant without rebuilding
+the whole field.
+
+This is a conceptual/design relation. The Paper does not claim measured token,
+latency or cost reduction, nor that distributed architectures universally
+outperform centralized ones. H11 in Appendix B preserves that comparison as an
+open research question.
 
 ## Installable operational companion
 
