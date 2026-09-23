@@ -1,11 +1,33 @@
 # Guida accumulata del lavoro sul Paper
 
-Aggiornata: 2026-09-16. Competenza: system-semantic-kernel-paper.
+Aggiornata: 2026-09-23. Competenza: system-semantic-kernel-paper.
 
-## Punto vivo — corpo 0.4, nucleo semantico e incarnazione situata
+## Punto vivo — corpo 0.5, profondità raggiungibile e ricostruzione situata
 
-Il [manoscritto integrato 0.4](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md)
-è ora il corpo stabile corrente. La 0.3 resta il predecessore diretto. Lo
+Il [manoscritto integrato 0.5](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md)
+è ora il corpo stabile corrente. La 0.4 resta il predecessore diretto. Lo sviluppo 0.5 integra anche:
+
+- [Integrative contraction and the morphogenetic competence field](../../../paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md);
+- [Distributed reachability, reconstruction economy, and situated delegation](../../../paper/DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md).
+
+La nuova relazione non sostituisce il nucleo 0.4. Lo approfondisce:
+
+```text
+reachable depth != active working set
+
+expanded reachable field
+-> pertinence
+-> integrative contraction
+-> sufficient resultant
+-> distinct downstream work when surface/owner is really independent
+-> causal return
+```
+
+R0.19 e il Launch multi-instance sono specimen operativi bounded: hanno cambiato
+il metodo reale del sistema, ma non costituiscono benchmark indipendenti né
+misure di token, costo o latenza.
+
+Lo
 sviluppo sorgente del 16 settembre è conservato in
 [Semantic core, situated incarnation and the multimodal field](../../../paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md).
 
@@ -63,7 +85,7 @@ Il modello di evento rimane:
 O_n + F_n -> Q_n -> A_n -> R_n -> I_n -> F_(n+1)
 ```
 
-La 0.4 aggiunge una risoluzione complementare:
+La 0.5 conserva e amplia la risoluzione complementare:
 
 ```text
 reachable informational / possibility field
@@ -80,6 +102,9 @@ reachable informational / possibility field
        situated presence
                 |
        pertinence / competence
+                |
+                v
+  integrative contraction
                 |
                 v
     operation / manifestation
@@ -149,9 +174,34 @@ pertinenza è funzionale, non una keyword e non un punteggio obbligatorio.
 di relazioni raggiungibili capaci di aprire, trasformare o preservare
 materialmente possibilità nel campo presente. Non è stata definita una misura.
 
+### Economia di ricostruzione e distribuzione demand-driven
+
+Il sapere può restare owner-native e raggiungibile senza diventare carico
+attivo permanente. La distribuzione diventa utile quando riduce la
+ricostruzione e non spezza la relazione sorgente-resultant:
+
+```text
+owner/funzione già sufficienti
+-> uso diretto
+
+owner/gap realmente incerto
+-> lookup distribuito bounded
+
+cognizione condivisa ancora irrisolta
+-> resta composta
+
+resultant sufficiente + owner/superficie/effetto distinto
+-> delega bounded
+-> ritorno compatto della conseguenza
+```
+
+Il campo semantico distribuito non coincide con registry, carrier, receiver,
+executor o authority. Il carrier può diminuire il costo di discovery; non è
+condizione dell'esistenza o dell'attivazione della competenza.
+
 ### Continuità attraverso discontinuità
 
-La 0.4 mette in relazione, senza identificarli:
+La 0.5 mette in relazione, senza identificarli:
 
 ```text
 memory -> continuità temporale;
@@ -170,16 +220,17 @@ Il caso ChatGPT/Codex è un **bounded conceptual specimen**, non un benchmark.
 La 0.4 non contiene un robot MAIOS, un esperimento di sensor fusion, una misura
 di densità possibilistica o un risultato di universal portability.
 
-Le nuove domande H7-H10 riguardano:
+Le domande H7-H11 riguardano:
 
 - inheritance semantica receiver-relative;
 - trasformazione fra medium;
 - posizionamento semantico;
-- percezione distribuita.
+- percezione distribuita;
+- reachability distribuita demand-driven e ricostruzione.
 
 Restano domande di ricerca finché una situazione ne seleziona il protocollo.
 
-## Metodo di consolidamento — acquisito il 14 settembre, esercitato nella 0.4
+## Metodo di consolidamento — acquisito il 14 settembre, esercitato nella 0.4 e 0.5
 
 Graziano aveva selezionato il terzo passaggio per organizzare il tutto e
 canonizzare il consolidamento del potenziale semantico. La fonte del metodo
@@ -196,7 +247,7 @@ Per il Paper:
    e preservando ragioni e possibilità ancora vive.
 
 Non sono tre report obbligatori. Il risultato di ogni passaggio modifica il
-campo da cui parte il successivo. La 0.4 costituisce un esercizio effettivo di
+campo da cui parte il successivo. La 0.4 e la 0.5 costituiscono esercizi effettivi di
 questo metodo: il nuovo nucleo non è diventato un'aggiunta tematica ma ha
 ricomposto Abstract, definizione, inheritance, percezione, incarnazione,
 receiving systems e conclusione.
@@ -248,6 +299,8 @@ restano automaticamente current authority.
   recuperare significato e destinazione, non concatenare testi.
 - Editoriali: il sapere del dominio può cambiare domanda e metodo editoriale,
   non soltanto riempire una forma.
+- Sviluppo 17 settembre: contrazione integrativa, moving zero e campo morfogenetico delle competenze.
+- R0.19 + MAIOS Launch 23 settembre: profondità raggiungibile vs working set attivo, lookup/delega demand-driven, campo semantico distinto dal carrier.
 - Discussione Graziano / ChatGPT 16 settembre: kernel di pura semantica,
   identità informazionale, medium, percezione/inferenza, androidi, sensori,
   posizionamento/dislocazione, densità possibilistica.
@@ -259,7 +312,9 @@ Le sorgenti private restano localizzatori per chi ha accesso. Il manoscritto
 deve spiegare autonomamente le relazioni che usa e non trasferire state o
 archivi privati.
 
-## Risultante precedente — corpo 0.3 del 12 settembre
+## Predecessori stabili — corpi 0.4 e 0.3
+
+Il [manoscritto integrato 0.4](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md) è il predecessore stabile diretto della 0.5. Conserva il nucleo semantico, l'incarnazione receiver-relative e il campo multimodale.
 
 Il [manoscritto integrato 0.3](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md)
 è il predecessore stabile diretto. Evento, nucleo generativo autologico, Sé
