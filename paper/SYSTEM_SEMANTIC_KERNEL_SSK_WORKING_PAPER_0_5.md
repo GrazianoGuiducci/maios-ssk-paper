@@ -1394,8 +1394,9 @@ than silently promoting them to established empirical or metaphysical claims.
 
 The [public source map](SOURCE_MAP.md) and
 [accumulated working guide](../competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md)
-retain the preceding source lineage. Revision 0.3 remains the stable
-predecessor in Git history and as an explicit manuscript file.
+retain the preceding source lineage. Revision 0.4 remains the direct stable
+predecessor; revision 0.3 remains its preserved predecessor in Git history and
+as an explicit manuscript file.
 
 The operator notebook, *Un sistema AI è un Flusso di pensie*, was supplied
 directly by Graziano Guiducci and read as source material for preceding
@@ -1413,8 +1414,9 @@ is written here so the argument does not depend on access to restricted
 repositories.
 
 Section 8 uses the primary abstracts and official documentation already cited
-for the specified mechanism descriptions. Revision 0.4 does not add a new
-literature survey for multimodal robotics or distributed sensing. Such sources
+for the specified mechanism descriptions. Revision 0.5 does not add a new
+literature survey for multimodal robotics, distributed sensing or distributed
+competence/work orchestration. Such sources
 should enter when a selected claim needs that comparison rather than by topic
 association alone.
 
