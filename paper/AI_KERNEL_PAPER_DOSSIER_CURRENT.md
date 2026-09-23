@@ -1,7 +1,7 @@
 # AI Kernel Paper — Dossier corrente
 
-updated: 2026-09-16
-status: stable body SSK 0.4; semantic core / situated incarnation / multimodal field integrated
+updated: 2026-09-23
+status: stable body SSK 0.5; semantic core / situated incarnation / multimodal field preserved; integrative contraction / morphogenetic field / distributed reachability / reconstruction economy integrated
 artifact_owner: maios-ssk-paper
 kernel_meaning_owner: maintain-kernel-knowledge
 editorial_competence_owner: Editoriali / system-semantic-kernel-paper
@@ -9,7 +9,7 @@ source_authority: Graziano Guiducci
 
 ## Oggetto e punto corrente
 
-Il [corpo stabile 0.4](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md) è
+Il [corpo stabile 0.5](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md) è
 l'argomento unitario corrente. Integra il modello di evento e il nucleo
 generativo della 0.3 con una distinzione più precisa fra identità
 semantico-relazionale del Kernel e mezzi della sua incarnazione.
@@ -19,27 +19,30 @@ La relazione costitutiva resta:
 > Il Kernel è ciò che il sistema fa. Ciò che il sistema potrà fare dopo è
 > formato dal Kernel che apprende attraverso le competenze che hanno agito.
 
-La 0.4 chiarisce che questo `fare` non identifica il Kernel con una singola
+La 0.5 preserva la distinzione introdotta nella 0.4: questo `fare` non identifica il Kernel con una singola
 meccanica. Linguaggio, file, codice, immagini, interfacce, sensori, corpi,
 runtime e strumenti possono portare o incarnare relazioni SSK senza diventare
 l'identità semantica del Kernel.
 
 La [guida accumulata](../competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md)
-conserva le ragioni e la genealogia precedenti. Lo sviluppo del 16 settembre è
-preservato in
-[Semantic core, situated incarnation and the multimodal field](SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md).
+conserva le ragioni e la genealogia precedenti. Gli sviluppi integrati sono preservati in
+[Semantic core, situated incarnation and the multimodal field](SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md),
+[Integrative contraction and the morphogenetic competence field](INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md) e
+[Distributed reachability, reconstruction economy, and situated delegation](DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md).
 Gli stati di revisione, pubblicazione e fonte restano in [STATE.md](../STATE.md).
 
 ## Tesi centrale corrente
 
-La forma sintetica che governa 0.4 è:
+La forma sintetica che governa 0.5 è:
 
 > **SSK è il nucleo di invarianti e relazioni generative attraverso cui
 > informazione e possibilità diventano causalmente presenti in un campo
 > situato; medium, sensori, linguaggi, strumenti e runtime sono forme variabili
-> della sua incarnazione. La continuità del Kernel consiste nel preservare le
-> relazioni decisive mentre la loro forma percettiva, operativa e distribuita
-> può cambiare.**
+> della sua incarnazione. La profondità raggiungibile non coincide con il
+> working set attivo: le relazioni decisive possono restare owner-native e
+> diventare presenti per pertinenza, mentre un resultant sufficientemente
+> formato può continuare in riceventi o superfici distinti senza ricostruire
+> l'intero campo.**
 
 Questa tesi non introduce un kernel separato di `pura semantica`. Chiarisce il
 livello al quale l'identità SSK non coincide con un carrier. Ogni incarnazione
@@ -53,7 +56,7 @@ Il modello di evento resta:
 O_n + F_n -> Q_n -> A_n -> R_n -> I_n -> F_(n+1)
 ```
 
-La 0.4 aggiunge una risoluzione complementare:
+La 0.5 usa questa risoluzione complementare:
 
 ```text
 reachable informational / possibility field
@@ -70,6 +73,10 @@ reachable informational / possibility field
        situated presence
                 |
        pertinence / competence
+                |
+                v
+  integrative contraction
+ of still-material relations
                 |
                 v
     operation / manifestation
@@ -207,6 +214,42 @@ Questo è **posizionamento semantico proattivo**.
 Il caso non autorizza un router globale. La pertinenza è funzionale e causale,
 non lessicale o basata sulla mera disponibilità.
 
+## Profondità raggiungibile, contrazione ed economia di ricostruzione
+
+La 0.5 collega il posizionamento semantico proattivo allo sviluppo del 17
+settembre e ai due specimen operativi del 23 settembre.
+
+```text
+expanded reachable field
++ situated observation / need / possibility
+-> pertinent relations participate
+-> integrative contraction
+-> sufficient resultant
+-> non-participating depth remains reachable
+-> distinct downstream owner/surface may continue
+-> consequence returns
+```
+
+La contrazione integra le relazioni materialmente partecipanti; non significa
+compressione o chiusura del campo. Da qui emerge una distinzione pratica:
+
+```text
+reachable depth != active working set
+distributed field != distributed active load
+```
+
+R0.19 ha mostrato che una competenza già sufficientemente nota può essere usata
+senza una ricerca distribuita rituale; la ricerca si apre solo quando owner,
+gap o learning return sono realmente incerti. Il successivo lavoro MAIOS Launch
+ha mostrato che istanze parallele producono guadagno quando ricevono un
+resultant sufficiente e operano su owner/superfici realmente distinti; se ogni
+istanza deve ricostruire lo stesso campo irrisolto, la distribuzione moltiplica
+ricostruzione e rumore.
+
+Questa relazione è chiamata **economia di ricostruzione** in senso qualitativo.
+Non è una funzione di costo definita e non attesta risparmio misurato di token,
+tempo o denaro.
+
 ## Densità possibilistica
 
 `Densità possibilistica` resta una formulazione sorgente dell'operatore. La
@@ -228,7 +271,7 @@ utilità e attenzione.
 
 ## Continuità attraverso discontinuità
 
-La 0.4 mette in relazione, senza identificarli:
+La 0.5 mantiene in relazione, senza identificarli:
 
 ```text
 memory -> continuità temporale;
@@ -255,6 +298,9 @@ incarnation != medium
 same relation != same form
 resultant now != closure of the possibility field
 continuity != replication of the preceding representation
+reachable depth != active working set
+distributed competence field != carrier / registry / receiver
+distribution != duplicated reconstruction
 ```
 
 Queste relazioni vincolano la comprensione delle incarnazioni senza imporre una
@@ -274,18 +320,22 @@ La [mappa pubblica delle fonti](SOURCE_MAP.md) collega il corpus alle sorgenti.
   raggiungibile e utilizzabile senza copiare gli adapter Codex.
 - Nucleo generativo autologico di maintain-kernel-knowledge e contributi
   RepoKernel/TM7 già integrati in 0.3.
-- Letteratura primaria già presente in §8. Revision 0.4 non aggiunge una nuova
-  rassegna di sensor fusion o robotica multimodale.
+- Sviluppo 17 settembre: contrazione integrativa, moving zero e campo morfogenetico delle competenze.
+- R0.19 / tm7 23 settembre: risoluzione distribuita demand-driven, search miss != competence absence, carrier opzionale.
+- MAIOS Launch 23 settembre: readback non-identico su delegazione per superfici distinte vs ricostruzione duplicata.
+- Letteratura primaria già presente in §8. Revision 0.5 non aggiunge una nuova
+  rassegna di sensor fusion, robotica multimodale o orchestrazione distribuita.
 
 ## Stato delle affermazioni
 
 Il ledger canonico è
-[l'Appendice A della 0.4](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md#appendix-a-current-claim-state-ledger),
+[l'Appendice A della 0.5](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md#appendix-a-current-claim-state-ledger),
 raggiungibile anche da [CLAIM_LEDGER.md](CLAIM_LEDGER.md).
 
-La distinzione kernel/incarnazione, il posizionamento semantico e la continuità
-fra medium sono sviluppi concettuali. Il caso ChatGPT/Codex è un'osservazione
-circoscritta, non un benchmark controllato. La percezione aumentata/dislocata è
+La distinzione kernel/incarnazione, il posizionamento semantico, la contrazione
+integrativa e l'economia di ricostruzione sono sviluppi concettuali. I casi
+ChatGPT/Codex, R0.19 e MAIOS Launch sono osservazioni circoscritte, non benchmark
+controllati o validazioni indipendenti. La percezione aumentata/dislocata è
 architettura di ricerca; non descrive un robot MAIOS già implementato. La
 densità possibilistica non è ancora una metrica.
 
@@ -315,9 +365,10 @@ funzioni non vanno confuse.
 
 ## Campo seguente e genealogia
 
-Revision 0.4 è ora il corpo stabile corrente. 0.3 resta il predecessore diretto.
-Le nuove domande H7-H10 riguardano inheritance fra riceventi, trasformazione di
-medium, posizionamento semantico e percezione distribuita.
+Revision 0.5 è ora il corpo stabile corrente. 0.4 resta il predecessore diretto.
+Le domande H7-H11 riguardano inheritance fra riceventi, trasformazione di
+medium, posizionamento semantico, percezione distribuita e reachability
+distribuita demand-driven.
 
 Il prossimo lavoro non è obbligatoriamente un nuovo capitolo o un esperimento.
 Una sorgente, incarnazione o conseguenza successiva può approfondire il punto in
