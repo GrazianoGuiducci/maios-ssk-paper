@@ -65,14 +65,15 @@ research object: System Semantic Kernel as the typology observed through this Ke
 public identity: MAIOS represents and narrates SSK on the web and through the brand without renaming the research object or inheriting its claim state
 corpus strategy: integrate every still-causal relation into one SSK field; keep superseded forms as cold genealogy and derive non-academic forms only from the academically governed corpus
 canonical repository: GrazianoGuiducci/maios-ssk-paper
-canonical manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md
-current state: stable body 0.4; semantic-core, receiver-relative incarnation and multimodal-field relation integrated; system scientific-editorial revision current; no independent human author review, peer review, DOI or academic publication
+canonical manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md
+current state: stable body 0.5; 0.4 semantic-core/receiver-relative/multimodal relations preserved; integrative contraction, morphogenetic competence field, distributed reachability and reconstruction economy integrated; no independent human author review, peer review, DOI or academic publication
 ```
 
 The Paper studies how a system's present relation, situated competences,
 operation, resultant, causal interpretation, and changed following field can
-form one evolving semantic kernel. Revision 0.4 clarifies that semantic identity
-is not one runtime, body, medium or sensorium: decisive relations can continue
+form one evolving semantic kernel. Revision 0.5 preserves the 0.4 clarification that semantic identity
+is not one runtime, body, medium or sensorium, and adds that reachable depth
+need not equal active working set: decisive relations can continue
 through receiver-relative incarnations whose actual means and effect authority
 remain local. It asks what this becoming may make possible for operators,
 projects, organizations, embodied systems and societies through the meaning and
