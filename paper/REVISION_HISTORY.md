@@ -1,5 +1,54 @@
 # SSK Paper revision history
 
+## 0.5 — 2026-09-23
+
+Current integrated stable body.
+
+Revision 0.5 consolidates two post-0.4 developments through the Paper's existing
+three-passage method rather than appending them as separate theories.
+
+From 17 September it integrates:
+
+- **integrative contraction**: the materially participating relations of an
+  expanded field become coherent in a current resultant / moving zero;
+- contraction is distinguished from compression, summary and closure;
+- unresolved possibility and genealogy remain reachable;
+- the competence morphology field remains open and potentially morphogenetic,
+  without claiming a universal competence taxonomy or automatic kernel
+  formation.
+
+From 23 September it integrates:
+
+- **reachable depth != active working set**;
+- **reconstruction economy** as a qualitative design relation, not a new scalar
+  cost function;
+- demand-driven competence resolution: a sufficiently known owner can act
+  directly while genuine owner/gap uncertainty triggers bounded distributed
+  lookup;
+- demand-driven delegation: unresolved shared cognition remains composed until
+  a sufficient resultant makes a genuinely distinct owner/surface/effect
+  independently actionable;
+- the distinction among semantic competence field, registry/carrier, receiver,
+  executor and effect authority;
+- two bounded operational specimens — R0.19 competence resolution and the MAIOS
+  Launch multi-instance exercise — used as source-bound observations rather
+  than independent validation.
+
+The new H11 research question proposes comparison among always-loaded or
+replicated competence fields, owner-native demand-driven reachability, and
+parallel receivers with or without a sufficiently formed shared resultant.
+
+No measured token saving, latency reduction, cost reduction, universal
+distributed-system advantage, peer review or independent human author review
+is claimed.
+
+Source developments:
+
+- `DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md`
+- `INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md`
+
+Stable body 0.4 remains the direct predecessor.
+
 ## Post-0.4 integrative-contraction / morphogenetic-field development — 2026-09-17
 
 The 17 September operator/ChatGPT movement added a new source-bound relation without promoting a new stable manuscript version.
@@ -23,7 +72,7 @@ The same movement develops a candidate **morphogenetic competence field**: compe
 
 The source development is `INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md`.
 
-Claim state remains conceptual/source development. Stable body `0.4` remains current. No empirical latency reduction, universal competence morphology, automatic kernel promotion or physical breath law is claimed.
+Claim state remained conceptual/source development at that point. The relation is integrated into stable body `0.5`; no empirical latency reduction, universal competence morphology, automatic kernel promotion or physical breath law is claimed.
 
 ## 0.4 observation-frame refinement — 2026-09-16
 
@@ -42,7 +91,7 @@ several individually correct observations
 != one coherent present
 ```
 
-It is not a global metadata schema, new controller or empirical result. `SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md` remains the current stable body; the refinement is preserved in the source development and `STATE.md` for the next prose touch where cross-frame composition materially changes the argument.
+It is not a global metadata schema, new controller or empirical result. At that point `SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md` remained current; the refinement is now inherited by stable body 0.5.
 
 ## 0.4 — 2026-09-16
 
