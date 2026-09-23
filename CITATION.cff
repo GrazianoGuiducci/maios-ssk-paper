@@ -5,17 +5,18 @@ type: article
 authors:
   - family-names: Guiducci
     given-names: Graziano
-version: "0.4"
-date-released: 2026-09-16
+version: "0.5"
+date-released: 2026-09-23
 repository-code: "https://github.com/GrazianoGuiducci/maios-ssk-paper"
 url: "https://github.com/GrazianoGuiducci/maios-ssk-paper"
 abstract: >-
   A conceptual account of the coupled event, autological competence generation,
   functional self, operator participation, receiver-relative incarnation,
-  multimodal perception and inference, proactive semantic positioning, and
-  meaningful continuity in agentic and embodied systems. The semantic identity
-  of the Kernel is distinguished from the media and operational mechanisms
-  through which a receiving system incarnates it.
+  multimodal perception and inference, proactive semantic positioning,
+  integrative contraction, reconstruction economy, and meaningful continuity
+  in agentic and embodied systems. The semantic identity of the Kernel is
+  distinguished from the media, carriers and operational mechanisms through
+  which a receiving system incarnates or reaches it.
 keywords:
   - system semantic kernel
   - agentic AI
@@ -24,6 +25,9 @@ keywords:
   - multimodal systems
   - embodied AI
   - contextual reentry
+  - distributed competence
+  - reconstruction economy
+  - semantic positioning
   - causal readback
   - competence evolution
   - autological generation
