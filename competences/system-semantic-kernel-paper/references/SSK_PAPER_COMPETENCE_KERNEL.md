@@ -343,7 +343,7 @@ fundamental axioms and invariants should survive future changes of medium and
 mechanism.
 ```
 
-The academically bounded interpretation is preserved in stable body 0.5 and
+The academically bounded interpretation is preserved in stable body 0.6 and
 its source developments.
 
 ## Working Identity
