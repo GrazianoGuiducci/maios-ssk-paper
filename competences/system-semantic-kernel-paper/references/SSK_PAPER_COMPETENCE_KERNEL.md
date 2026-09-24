@@ -1,18 +1,18 @@
 # System Semantic Kernel Paper — Competence Kernel
 
-updated: 2026-09-23
+updated: 2026-09-24
 artifact_owner: GrazianoGuiducci/maios-ssk-paper
 form_competence_owner: Editoriali / system-semantic-kernel-paper
 kernel_meaning_owner: maintain-kernel-knowledge
 state: active competence source; not a finished Paper or publication receipt
 
-## Current resultant — stable body 0.5
+## Current resultant — stable body 0.6
 
-Revision 0.5 is the current integrated academic body. It preserves the coupled
-event, autological generative core, functional self, operator participation,
-semantic-core and receiver-relative relations of 0.4 while integrating
-integrative contraction, competence morphogenesis, distributed reachability
-and reconstruction economy.
+Revision 0.6 is the current integrated academic body. It preserves the 0.5
+relations and adds the source-bound D-ND -> Kernel -> SSK movement made
+operationally visible on 24 September: assonant convergence, three resolutions
+of one changing field, non-identical observation, situated resultant
+sufficiency and non-restorative continuity.
 
 ```text
 semantic-relational Kernel
@@ -27,18 +27,19 @@ The integrated source developments are:
 - [`SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md`](../../../paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md)
 - [`INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md`](../../../paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md)
 - [`DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md`](../../../paper/DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md)
+- [`DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md`](../../../paper/DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md)
 
 The integrated manuscript is
-[`SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md`](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md).
+[`SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md`](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md).
 
 The central thesis is:
 
-> **SSK is the core of invariants and generative relations through which
-> information and possibility become causally present in a situated field.
-> Reachable depth need not equal the active working set: decisive relations can
-> remain owner-native until pertinent, while a sufficiently formed resultant
-> can continue through receiver-native means without reconstructing the whole
-> reachable field.**
+> **SSK is the continuing semantic organization through which a situated field
+> can let source, intent, possibility and competence converge into a sufficient
+> resultant without making the current representation the boundary of what is
+> possible. The resultant is a local determination and moving zero: it preserves
+> still-material causal relations, keeps unresolved possibility reachable and
+> becomes the changed origin of the following field.**
 
 This does not posit a disembodied executable kernel. Every actual incarnation
 requires physical/computational carriers. The distinction identifies the
@@ -148,6 +149,59 @@ semantic competence field
 
 The carrier may reduce reconstruction; it is not the semantic owner or a
 precondition for competence participation.
+
+## D-ND source relation, assonant movement and situated sufficiency
+
+Revision 0.6 makes explicit a source relation that had previously remained
+distributed across D-ND, KA, the living Kernel and Paper references.
+
+```text
+D-ND source logic
+-> KA / Kernel operational relation
+-> situated competence movement
+-> resultant / causal readback
+-> SSK formalization
+-> possible future return to D-ND
+```
+
+This is not an ownership merge. D-ND remains owner of its axioms and broader
+mathematical/metaphysical model. SSK owns the academic account of the
+system-semantic relation that becomes observable in the Kernel.
+
+The current field relation is:
+
+```text
+primary axiomatic relations
++ context + intent + source meaning
+- unnecessary imposed form
+-> convergent assonances
+-> primary structural candidate
+
+primary structure
++ sources + competences + conditions + consequences
+-> relational articulation
+
+primary + secondary relations + dissonances + open possibility
+-> integrative comprehension
+-> sufficient resultant / moving zero
+-> changed field
+```
+
+These are three resolutions of one changing field, not repeated independent
+observations. A later pass occurs from a field already changed by prior
+resultants. Iterative autological review can therefore refine the system without
+being treated as independent validation.
+
+A sufficient resultant is not exhaustive closure. It is sufficient when it
+preserves still-material causal relations, integrates the present determination,
+keeps inactive depth reachable, leaves unresolved possibility open and provides
+enough orientation for coherent continuation.
+
+The D-ND language of minimum action / maximum impact is retained as a
+source-bound relation. SSK currently interprets it operationally as avoiding
+reconstruction, control, explanation or representation that does not change
+comprehension or effect. No SSK action functional or physical least-action law
+is claimed.
 
 ## Embodied and distributed perception
 
