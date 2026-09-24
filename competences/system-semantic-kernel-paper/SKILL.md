@@ -65,17 +65,17 @@ research object: System Semantic Kernel as the typology observed through this Ke
 public identity: MAIOS represents and narrates SSK on the web and through the brand without renaming the research object or inheriting its claim state
 corpus strategy: integrate every still-causal relation into one SSK field; keep superseded forms as cold genealogy and derive non-academic forms only from the academically governed corpus
 canonical repository: GrazianoGuiducci/maios-ssk-paper
-canonical manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md
-current state: stable body 0.5; 0.4 semantic-core/receiver-relative/multimodal relations preserved; integrative contraction, morphogenetic competence field, distributed reachability and reconstruction economy integrated; no independent human author review, peer review, DOI or academic publication
+canonical manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md
+current state: stable body 0.6; 0.5 preserved; D-ND source relation, non-identical observation, three-resolution movement, situated resultant sufficiency and non-restorative continuity integrated; no independent human author review, peer review, DOI or academic publication
 ```
 
 The Paper studies how a system's present relation, situated competences,
 operation, resultant, causal interpretation, and changed following field can
-form one evolving semantic kernel. Revision 0.5 preserves the 0.4 clarification that semantic identity
-is not one runtime, body, medium or sensorium, and adds that reachable depth
-need not equal active working set: decisive relations can continue
-through receiver-relative incarnations whose actual means and effect authority
-remain local. It asks what this becoming may make possible for operators,
+form one evolving semantic kernel. Revision 0.6 preserves the 0.5 integrated field and adds that a later
+observation occurs in a field already changed by prior resultants; a sufficient
+resultant preserves still-material causal relations and open possibility
+without restoring the preceding representation. D-ND source relations enter
+progressively only where they become operationally material in the Kernel. It asks what this becoming may make possible for operators,
 projects, organizations, embodied systems and societies through the meaning and
 consequences of those relations.
 
@@ -107,14 +107,73 @@ metaphysical claims.
 
 ## Consolidation Through Three Passages
 
-When new source knowledge changes the argument, exercise encounter,
-relational recomposition and consolidation in the continuing form. The third
-passage changes the explanation's organization: locate each relation's causal
-role, rewrite the affected connections and remove duplicate treatments rather
-than append one section per contribution. Preserve unresolved possibilities
-with their reasons and sources. The competence reference carries the method;
-the accumulated guide records its actual use and present resultant. Resume
-from that resultant without replaying passages already completed.
+When new source knowledge changes the argument, exercise three **resolutions of
+one changed field**, not three ritual reviews of an unchanged object.
+
+```text
+first resolution — primary emergence
+  primary axiomatic relations + present context + intent + source meaning
+  -> minimum imposed form
+  -> convergent relations / primary structural candidate
+
+second resolution — relational articulation
+  primary structure + sources + competences + conditions + consequences
+  -> how / why / through-what / under-what-relation
+
+third resolution — integrative comprehension
+  primary + secondary relations + material dissonances + open possibilities
+  -> integrative contraction
+  -> sufficient resultant / moving zero
+  -> changed possibility field
+```
+
+The first passage is not automatically true because it is immediate. Bias,
+source substitution, imported categories or a premature objective can
+contaminate what appears primary. KA/FDLA remain active while the relation
+forms. The second passage deepens the first rather than replacing it with an
+external explanatory frame. The third passage compacts without exhausting the
+possibility horizon and may expose a genuinely new relation.
+
+A later passage occurs from a field already changed by the prior one. Therefore
+iterative autological observation is **not independent replication**, and
+finding a new relation later does not by itself prove that it was available in
+the earlier frame.
+
+The third passage changes the explanation's organization: locate each
+relation's causal role, rewrite the affected connections and remove duplicate
+treatments rather than append one section per contribution. Preserve unresolved
+possibilities with their reasons and sources. Resume from the resultant without
+replaying passages whose function is already assimilated.
+
+## D-ND source-to-Paper assimilation
+
+D-ND enters the Paper progressively **through the relations that become
+operationally material in the living Kernel**. Do not import the complete D-ND
+ontology, mathematical vocabulary or physical claims merely because they are
+source-adjacent.
+
+Use the relation:
+
+```text
+D-ND source logic
+-> selected relation becomes operational in KA / Kernel / competence field
+-> situated resultants expose an SSK-relevant relation
+-> Paper formalizes that relation with its actual claim state
+-> later Paper result may expose a new question for D-ND
+```
+
+Keep ownership distinct. D-ND remains source owner for its axioms, dipoles,
+assonance, resultant, third-included, minimum-action language and broader
+formal/metaphysical developments. SSK owns the academic account of the
+system-semantic relation that has become observable through the Kernel. A
+future return from SSK to D-ND is a research possibility until the D-ND owner
+actually changes.
+
+When terms such as *minimum action*, *indetermination*, *third included*,
+*Nulla–Tutto*, *assonance* or *Lagrangian* enter the Paper, preserve the source
+meaning and state explicitly whether the Paper is using a source-bound analogy,
+a conceptual formalization, an operational relation, an observed bounded
+specimen or a separately supported mathematical/physical claim.
 
 ## Operating Relation
 

@@ -12,17 +12,19 @@ repository makes that research object readable and citable without treating a
 software package, a website, a particular medium, sensorium, body or internal
 operating kernel as the theory itself.
 
-> **Current state:** working paper, stable body 0.5 — 23 September 2026.
+> **Current state:** working paper, stable body 0.6 — 24 September 2026.
 > The integrated argument develops the coupled event, autological generation,
 > functional self, operator participation, receiver-relative incarnation,
 > multimodal perception/inference, semantic positioning, integrative contraction,
-> reconstruction economy and contextual continuity. Graziano Guiducci is the authorial source; the SSK Paper
+> reconstruction economy, D-ND source-to-Kernel movement, non-identical
+> observation and situated resultant sufficiency. Graziano Guiducci is the authorial source; the SSK Paper
 > competence and Editoriali conduct continuing revision. See
 > [STATE.md](STATE.md) for publication and review metadata.
 
 ## Read the working paper
 
-- [System Semantic Kernel (SSK), stable body 0.5](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md)
+- [System Semantic Kernel (SSK), stable body 0.6](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md)
+- [D-ND Assonant Movement, Non-Identical Observation, and Situated Sufficiency — source development integrated into 0.6](paper/DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md)
 - [Distributed reachability, reconstruction economy, and situated delegation — source development integrated into 0.5](paper/DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md)
 - [Semantic core, situated incarnation and the multimodal field — source development integrated into 0.4](paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md)
 - [Current research dossier and claim-state map](paper/AI_KERNEL_PAPER_DOSSIER_CURRENT.md)
@@ -44,11 +46,12 @@ The [predecessor working paper](genealogy/SITUATED_COMPETENCE_EVOLUTION_IN_AI_PR
 is preserved as genealogy and as a reusable Project Kernel-scale argument. It
 is no longer the container of the complete SSK research object.
 
-[Stable body 0.4](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md),
+[Stable body 0.5](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md),
+[stable body 0.4](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md),
 [stable body 0.3](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md),
 [stable body 0.2](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md) and
 [stable body 0.1](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md)
-remain reachable predecessors. Version 0.5 is the current integrated body.
+remain reachable predecessors. Version 0.6 is the current integrated body.
 
 The repository also carries a paper-native competence projection under
 [`competences/`](competences/README.md). It helps AI systems and contributors
@@ -58,7 +61,7 @@ MAIOS/TM9 Kernel and has no authority over external installations.
 
 ## Semantic core and situated incarnation
 
-Revision 0.5 preserves the 0.4 result that SSK's semantic identity is not one particular
+Revision 0.6 preserves the 0.5 result that SSK's semantic identity is not one particular
 runtime or carrier. A receiving system can preserve a decisive relation while
 using different competences, interfaces, persistence mechanisms, perceptual
 modalities or operational means. `Semantic` does not mean `language only`:
@@ -72,7 +75,7 @@ semantic kernel executes without a physical/computational carrier.
 
 ## Reachable depth and reconstruction economy
 
-Revision 0.5 makes explicit that **reachable system depth and active working set
+Revision 0.6 preserves that **reachable system depth and active working set
 are different relations**. Knowledge and competences can remain owner-native
 and reachable until a situated need makes them pertinent. Integrative
 contraction forms a coherent current resultant from the relations that have
@@ -84,6 +87,21 @@ This is a conceptual/design relation. The Paper does not claim measured token,
 latency or cost reduction, nor that distributed architectures universally
 outperform centralized ones. H11 in Appendix B preserves that comparison as an
 open research question.
+
+## D-ND source relation and situated sufficiency
+
+Revision 0.6 makes explicit that selected D-ND relations enter SSK through
+their operational participation in the living Kernel rather than by importing
+the complete D-ND model. Assonance, resultant, third-included and minimum-action
+language remain source-bound to D-ND; SSK formalizes the system-semantic
+relations that become observable through Kernel movement and causal readback.
+
+A later self-observation occurs in a field already changed by prior resultants,
+so iterative autological review is not independent replication. A resultant is
+sufficient when it preserves still-material causal relations, keeps inactive
+depth reachable, leaves unresolved possibility open and provides enough
+orientation for the following field to continue without restoring the prior
+representation.
 
 ## Installable operational companion
 

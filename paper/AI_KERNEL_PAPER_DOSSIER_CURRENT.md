@@ -1,7 +1,7 @@
 # AI Kernel Paper — Dossier corrente
 
-updated: 2026-09-23
-status: stable body SSK 0.5; semantic core / situated incarnation / multimodal field preserved; integrative contraction / morphogenetic field / distributed reachability / reconstruction economy integrated
+updated: 2026-09-24
+status: stable body SSK 0.6; preserves 0.5 and integrates D-ND source movement / non-identical observation / three-resolution field / situated resultant sufficiency / non-restorative continuity
 artifact_owner: maios-ssk-paper
 kernel_meaning_owner: maintain-kernel-knowledge
 editorial_competence_owner: Editoriali / system-semantic-kernel-paper
@@ -9,7 +9,7 @@ source_authority: Graziano Guiducci
 
 ## Oggetto e punto corrente
 
-Il [corpo stabile 0.5](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md) è
+Il [corpo stabile 0.6](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md) è
 l'argomento unitario corrente. Integra il modello di evento e il nucleo
 generativo della 0.3 con una distinzione più precisa fra identità
 semantico-relazionale del Kernel e mezzi della sua incarnazione.
@@ -19,7 +19,7 @@ La relazione costitutiva resta:
 > Il Kernel è ciò che il sistema fa. Ciò che il sistema potrà fare dopo è
 > formato dal Kernel che apprende attraverso le competenze che hanno agito.
 
-La 0.5 preserva la distinzione introdotta nella 0.4: questo `fare` non identifica il Kernel con una singola
+La 0.6 preserva la distinzione integrata nella 0.5: questo `fare` non identifica il Kernel con una singola
 meccanica. Linguaggio, file, codice, immagini, interfacce, sensori, corpi,
 runtime e strumenti possono portare o incarnare relazioni SSK senza diventare
 l'identità semantica del Kernel.
@@ -28,25 +28,50 @@ La [guida accumulata](../competences/system-semantic-kernel-paper/references/WOR
 conserva le ragioni e la genealogia precedenti. Gli sviluppi integrati sono preservati in
 [Semantic core, situated incarnation and the multimodal field](SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md),
 [Integrative contraction and the morphogenetic competence field](INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md) e
-[Distributed reachability, reconstruction economy, and situated delegation](DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md).
+[Distributed reachability, reconstruction economy, and situated delegation](DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md) e
+[D-ND Assonant Movement, Non-Identical Observation, and Situated Sufficiency](DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md).
 Gli stati di revisione, pubblicazione e fonte restano in [STATE.md](../STATE.md).
 
 ## Tesi centrale corrente
 
-La forma sintetica che governa 0.5 è:
+La forma sintetica che governa 0.6 è:
 
-> **SSK è il nucleo di invarianti e relazioni generative attraverso cui
-> informazione e possibilità diventano causalmente presenti in un campo
-> situato; medium, sensori, linguaggi, strumenti e runtime sono forme variabili
-> della sua incarnazione. La profondità raggiungibile non coincide con il
-> working set attivo: le relazioni decisive possono restare owner-native e
-> diventare presenti per pertinenza, mentre un resultant sufficientemente
-> formato può continuare in riceventi o superfici distinti senza ricostruire
-> l'intero campo.**
+> **SSK è l'organizzazione semantica continua attraverso cui sorgente, intento,
+> possibilità e competenze possono convergere in un resultant sufficiente senza
+> fare della rappresentazione corrente il confine del possibile. Il resultant è
+> determinazione locale e moving zero: conserva le relazioni ancora causali,
+> mantiene raggiungibile la profondità non attiva e diventa l'origine modificata
+> del campo seguente.**
 
 Questa tesi non introduce un kernel separato di `pura semantica`. Chiarisce il
 livello al quale l'identità SSK non coincide con un carrier. Ogni incarnazione
 reale richiede comunque un supporto fisico/computazionale.
+
+## Raccordo D-ND -> Kernel -> SSK
+
+La 0.6 rende esplicita una relazione prima distribuita:
+
+```text
+D-ND
+  logica sorgente
+
+-> KA / Kernel
+  incarnazione operativa di relazioni selezionate
+
+-> movimento situato
+  assonanze / competenze / conseguenze
+
+-> SSK
+  formalizzazione accademica della relazione resa osservabile
+
+-> possibile ritorno a D-ND
+  solo quando un nuovo resultant cambia davvero quel campo teorico
+```
+
+Il movimento è letto a tre risoluzioni: emersione primaria con minima forma
+imposta, articolazione relazionale di come/perché, e comprensione integrativa in
+un resultant sufficiente. Le passate successive non sono repliche indipendenti:
+avvengono in un campo già modificato.
 
 ## Architettura concettuale
 
@@ -56,7 +81,7 @@ Il modello di evento resta:
 O_n + F_n -> Q_n -> A_n -> R_n -> I_n -> F_(n+1)
 ```
 
-La 0.5 usa questa risoluzione complementare:
+La 0.6 usa questa risoluzione complementare:
 
 ```text
 reachable informational / possibility field
@@ -323,19 +348,22 @@ La [mappa pubblica delle fonti](SOURCE_MAP.md) collega il corpus alle sorgenti.
 - Sviluppo 17 settembre: contrazione integrativa, moving zero e campo morfogenetico delle competenze.
 - R0.19 / tm7 23 settembre: risoluzione distribuita demand-driven, search miss != competence absence, carrier opzionale.
 - MAIOS Launch 23 settembre: readback non-identico su delegazione per superfici distinte vs ricostruzione duplicata.
-- Letteratura primaria già presente in §8. Revision 0.5 non aggiunge una nuova
+- Letteratura primaria già presente in §8. Revision 0.6 non aggiunge una nuova
   rassegna di sensor fusion, robotica multimodale o orchestrazione distribuita.
 
 ## Stato delle affermazioni
 
 Il ledger canonico è
-[l'Appendice A della 0.5](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md#appendix-a-current-claim-state-ledger),
+[l'Appendice A della 0.6](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md#appendix-a-current-claim-state-ledger),
 raggiungibile anche da [CLAIM_LEDGER.md](CLAIM_LEDGER.md).
 
 La distinzione kernel/incarnazione, il posizionamento semantico, la contrazione
-integrativa e l'economia di ricostruzione sono sviluppi concettuali. I casi
-ChatGPT/Codex, R0.19 e MAIOS Launch sono osservazioni circoscritte, non benchmark
-controllati o validazioni indipendenti. La percezione aumentata/dislocata è
+integrativa, l'economia di ricostruzione, la non-identical observation, la
+sufficienza situata del resultant e la continuità non-restaurativa sono sviluppi
+concettuali. Assonanza, terzo incluso e minima azione entrano come relazioni
+source-bound D-ND, non come nuove leggi SSK. I casi ChatGPT/Codex, R0.19, MAIOS
+Launch e il movimento Kernel del 24 settembre sono osservazioni circoscritte,
+non benchmark controllati o validazioni indipendenti. La percezione aumentata/dislocata è
 architettura di ricerca; non descrive un robot MAIOS già implementato. La
 densità possibilistica non è ancora una metrica.
 
@@ -365,7 +393,7 @@ funzioni non vanno confuse.
 
 ## Campo seguente e genealogia
 
-Revision 0.5 è ora il corpo stabile corrente. 0.4 resta il predecessore diretto.
+Revision 0.6 è ora il corpo stabile corrente. 0.4 resta il predecessore diretto.
 Le domande H7-H11 riguardano inheritance fra riceventi, trasformazione di
 medium, posizionamento semantico, percezione distribuita e reachability
 distribuita demand-driven.

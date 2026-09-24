@@ -1,26 +1,31 @@
 # Guida accumulata del lavoro sul Paper
 
-Aggiornata: 2026-09-23. Competenza: system-semantic-kernel-paper.
+Aggiornata: 2026-09-24. Competenza: system-semantic-kernel-paper.
 
-## Punto vivo — corpo 0.5, profondità raggiungibile e ricostruzione situata
+## Punto vivo — corpo 0.6, movimento assonante e sufficienza situata
 
-Il [manoscritto integrato 0.5](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md)
-è ora il corpo stabile corrente. La 0.4 resta il predecessore diretto. Lo sviluppo 0.5 integra anche:
+Il [manoscritto integrato 0.6](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md)
+è ora il corpo stabile corrente. La 0.5 resta il predecessore diretto. La 0.6
+preserva gli sviluppi integrati precedenti e aggiunge:
 
 - [Integrative contraction and the morphogenetic competence field](../../../paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md);
-- [Distributed reachability, reconstruction economy, and situated delegation](../../../paper/DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md).
+- [Distributed reachability, reconstruction economy, and situated delegation](../../../paper/DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md);
+- [D-ND Assonant Movement, Non-Identical Observation, and Situated Sufficiency](../../../paper/DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md).
 
-La nuova relazione non sostituisce il nucleo 0.4. Lo approfondisce:
+La 0.6 non sostituisce il nucleo precedente. Lo ricompone con la relazione:
 
 ```text
-reachable depth != active working set
-
-expanded reachable field
--> pertinence
+D-ND source logic
+-> relazione operativa nel Kernel
+-> osservazione situata / competenze pertinenti
+-> assonanze convergenti + differenze materiali
 -> integrative contraction
--> sufficient resultant
--> distinct downstream work when surface/owner is really independent
--> causal return
+-> sufficient resultant / moving zero
+-> changed possibility field
+
+reachable depth != active working set
+iterative autological observation != independent replication
+continuity != restoration of the preceding representation
 ```
 
 R0.19 e il Launch multi-instance sono specimen operativi bounded: hanno cambiato

@@ -1,5 +1,45 @@
 # SSK Paper revision history
 
+## 0.6 — 2026-09-24
+
+Current integrated stable body.
+
+Revision 0.6 preserves the 0.5 corpus and integrates the 24 September
+D-ND / Kernel / SSK development through the existing three-passage method.
+
+It adds:
+
+- **non-identical observation**: later self-observation occurs in a field
+  already changed by prior resultants and is not independent replication;
+- **three resolutions of one movement**: primary emergence with minimal imposed
+  form, relational articulation, and integrative comprehension;
+- **situated resultant sufficiency**: a resultant can become moving zero when it
+  preserves still-material causal relations, keeps inactive depth reachable,
+  leaves unresolved possibility open and provides enough orientation for
+  coherent continuation;
+- **non-restorative continuity**: continuity preserves causal reachability
+  rather than restoring the previous representation or working set;
+- **D-ND -> Kernel -> SSK source relation**: assonance, resultant,
+  third-included and minimum-action language enter SSK only where they become
+  operationally material in the Kernel;
+- a narrower operational reading of minimum action as avoiding reconstruction,
+  control or explanation that does not change comprehension or effect, without
+  defining an SSK action functional.
+
+The 24 September living-Kernel movement is a bounded internal specimen. It is
+not independent validation of D-ND or SSK. D-ND retains ownership of its broader
+mathematical, physical and metaphysical claims.
+
+The new H12 research question concerns situated sufficiency under non-identical
+return.
+
+Source development:
+
+- `DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md`
+
+Stable body 0.5 remains the direct predecessor.
+
+
 ## 0.5 — 2026-09-23
 
 Current integrated stable body.
