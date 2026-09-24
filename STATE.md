@@ -1,21 +1,22 @@
 # SSK Paper State
 
-updated: 2026-09-23
+updated: 2026-09-24
 repository: `GrazianoGuiducci/maios-ssk-paper`
 canonical_branch: `main`
 
 ```text
 repository_role: public academic working-paper corpus
 research_object: System Semantic Kernel (SSK)
-current_manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md
-working_version: 0.5
+current_manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md
+working_version: 0.6
 integrated_developments:
   - paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md
   - paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md
   - paper/DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md
+  - paper/DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md
 source_authority: Graziano Guiducci
 revision_owner: system-semantic-kernel-paper + Editoriali
-system_revision: stable body 0.5; preserves 0.4 semantic-core / receiver-relative / multimodal relations and integrates observation-frame continuity, integrative contraction / morphogenetic field, distributed reachability and reconstruction economy through 2026-09-23
+system_revision: stable body 0.6; preserves 0.5 and integrates D-ND source-to-Kernel relation, non-identical observation, three-resolution movement, situated resultant sufficiency and non-restorative continuity through 2026-09-24
 independent_human_author_review: not performed
 peer_review: none
 submission: none selected
@@ -33,7 +34,7 @@ Do not infer a private runtime capability from an academic relation and do not e
 
 The Kernel is a constitutive relation of the continuum. Semantic determinacy preserves already formed relations until a causally relevant difference transforms them; such a difference may be semantic, operational or material.
 
-Revision 0.5 preserves the 0.4 clarification that the **semantic identity of the Kernel is not identical to one operational incarnation or cognitive medium**. SSK is the relational organization through which information, meaning, possibility, competence, operation and consequence remain coupled while a receiving field supplies its own perceptual modalities, media, sources, tools, embodiment, constraints and authority.
+Revision 0.6 preserves the 0.5 integrated clarification that the **semantic identity of the Kernel is not identical to one operational incarnation or cognitive medium**. SSK is the relational organization through which information, meaning, possibility, competence, operation and consequence remain coupled while a receiving field supplies its own perceptual modalities, media, sources, tools, embodiment, constraints and authority.
 
 ```text
 semantic-relational core
@@ -131,6 +132,44 @@ reduction is claimed. Their Paper role is conceptual: they expose the
 difference between a deep reachable field and the smaller set of relations
 that need to become active in one situated movement.
 
+## Integrated in 0.6 — D-ND source movement and situated sufficiency
+
+The 24 September movement makes explicit how selected D-ND relations enter SSK
+through the living Kernel rather than by topical import.
+
+```text
+D-ND source logic
+-> operational relation in KA / Kernel / competence field
+-> situated movement and resultant
+-> SSK formalization
+-> possible future return to D-ND when a material relation emerges
+```
+
+The integrated development adds four linked distinctions:
+
+```text
+iterative autological observation != independent replication
+
+first emergence -> relational articulation -> integrative comprehension
+!= three ritual reviews of an unchanged object
+
+sufficient resultant
+= present determination + preserved causal relation
++ reachable inactive depth + unresolved possibility + continuation orientation
+
+continuity
+!= restoration of the preceding representation
+```
+
+Assonance and minimum-action language remain source-bound to D-ND. SSK uses a
+narrow operational reading: coherent relations can converge without a
+preselected outcome, and already-sufficient relations should not require added
+reconstruction or control that does not change comprehension or effect. No SSK
+action functional or physical least-action law is claimed.
+
+The source development is:
+`paper/DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md`.
+
 ## Resultant, evolution and regression
 
 The resultant is **not infallible merely because it occurred**. It is the current determination of the event. Later consequences may expose loss of an essential relation, separation from intent, unnecessary reconstruction/latency or another causal difference. Such a consequence can transform the interpretation and the method that continues.
@@ -152,15 +191,16 @@ Time as consecution concerns semantic reconstruction: already determined and rea
 For the present revision use:
 
 1. this `STATE.md` for current Paper state;
-2. `paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md` as the current stable academic body;
+2. `paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md` as the current stable academic body;
 3. `paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md` for the semantic-core / receiver-relative source development inherited from 0.4;
 4. `paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md` for contraction/expansion and competence-morphogenesis integrated in 0.5;
 5. `paper/DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md` for distributed reachability / reconstruction economy integrated in 0.5;
-6. `competences/system-semantic-kernel-paper/references/COHERENCE_CONSOLIDATION_2026-09-15.md` for the preceding coherence delta;
-7. `SEMANTIC_DETERMINACY.md`, `ASSONANT_RESULTANT.md`, and `AUTOLOGICAL_FORWARD_RETURN.md` for source-bound depth;
-8. `competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md` for accumulated reasoning and genealogy.
+6. `paper/DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md` for the D-ND source movement integrated in 0.6;
+7. `competences/system-semantic-kernel-paper/references/COHERENCE_CONSOLIDATION_2026-09-15.md` for the preceding coherence delta;
+8. `SEMANTIC_DETERMINACY.md`, `ASSONANT_RESULTANT.md`, and `AUTOLOGICAL_FORWARD_RETURN.md` for source-bound depth;
+9. `competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md` for accumulated reasoning and genealogy.
 
-Revision 0.4 remains the direct stable predecessor. Revision 0.5 is the current stable body. The 17 and 23 September developments are now integrated; later changes should again enter only when they materially change the research object.
+Revision 0.5 remains the direct stable predecessor. Revision 0.6 is the current stable body. The 17 and 23 September developments are now integrated; later changes should again enter only when they materially change the research object.
 
 The current architecture across stable and source-bound development can be read as:
 
