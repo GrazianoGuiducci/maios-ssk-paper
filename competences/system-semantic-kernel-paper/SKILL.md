@@ -107,14 +107,73 @@ metaphysical claims.
 
 ## Consolidation Through Three Passages
 
-When new source knowledge changes the argument, exercise encounter,
-relational recomposition and consolidation in the continuing form. The third
-passage changes the explanation's organization: locate each relation's causal
-role, rewrite the affected connections and remove duplicate treatments rather
-than append one section per contribution. Preserve unresolved possibilities
-with their reasons and sources. The competence reference carries the method;
-the accumulated guide records its actual use and present resultant. Resume
-from that resultant without replaying passages already completed.
+When new source knowledge changes the argument, exercise three **resolutions of
+one changed field**, not three ritual reviews of an unchanged object.
+
+```text
+first resolution — primary emergence
+  primary axiomatic relations + present context + intent + source meaning
+  -> minimum imposed form
+  -> convergent relations / primary structural candidate
+
+second resolution — relational articulation
+  primary structure + sources + competences + conditions + consequences
+  -> how / why / through-what / under-what-relation
+
+third resolution — integrative comprehension
+  primary + secondary relations + material dissonances + open possibilities
+  -> integrative contraction
+  -> sufficient resultant / moving zero
+  -> changed possibility field
+```
+
+The first passage is not automatically true because it is immediate. Bias,
+source substitution, imported categories or a premature objective can
+contaminate what appears primary. KA/FDLA remain active while the relation
+forms. The second passage deepens the first rather than replacing it with an
+external explanatory frame. The third passage compacts without exhausting the
+possibility horizon and may expose a genuinely new relation.
+
+A later passage occurs from a field already changed by the prior one. Therefore
+iterative autological observation is **not independent replication**, and
+finding a new relation later does not by itself prove that it was available in
+the earlier frame.
+
+The third passage changes the explanation's organization: locate each
+relation's causal role, rewrite the affected connections and remove duplicate
+treatments rather than append one section per contribution. Preserve unresolved
+possibilities with their reasons and sources. Resume from the resultant without
+replaying passages whose function is already assimilated.
+
+## D-ND source-to-Paper assimilation
+
+D-ND enters the Paper progressively **through the relations that become
+operationally material in the living Kernel**. Do not import the complete D-ND
+ontology, mathematical vocabulary or physical claims merely because they are
+source-adjacent.
+
+Use the relation:
+
+```text
+D-ND source logic
+-> selected relation becomes operational in KA / Kernel / competence field
+-> situated resultants expose an SSK-relevant relation
+-> Paper formalizes that relation with its actual claim state
+-> later Paper result may expose a new question for D-ND
+```
+
+Keep ownership distinct. D-ND remains source owner for its axioms, dipoles,
+assonance, resultant, third-included, minimum-action language and broader
+formal/metaphysical developments. SSK owns the academic account of the
+system-semantic relation that has become observable through the Kernel. A
+future return from SSK to D-ND is a research possibility until the D-ND owner
+actually changes.
+
+When terms such as *minimum action*, *indetermination*, *third included*,
+*Nulla–Tutto*, *assonance* or *Lagrangian* enter the Paper, preserve the source
+meaning and state explicitly whether the Paper is using a source-bound analogy,
+a conceptual formalization, an operational relation, an observed bounded
+specimen or a separately supported mathematical/physical claim.
 
 ## Operating Relation
 
