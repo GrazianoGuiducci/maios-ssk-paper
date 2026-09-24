@@ -47,7 +47,7 @@ semantic-relational core
 
 `Semantic` does not mean `linguistic only`. Language, image, spatial representation, code, interface state, proprioception, radar, lidar, touch, telemetry, remote sensors, other agents and human observation can contribute through different transformations when they make a relation causally present. Human perception and artificial inference remain distinct modes of participation.
 
-Revision 0.5 retains **proactive semantic positioning**: a relation need not be replicated in every node or remain continuously loaded. It can stay reachable at its source or owner until a situated need or possibility makes it pertinent at the point where a competence can use it.
+Revision 0.6 preserves **proactive semantic positioning**: a relation need not be replicated in every node or remain continuously loaded. It can stay reachable at its source or owner until a situated need or possibility makes it pertinent at the point where a competence can use it.
 
 The 16 September refinement adds **observation-frame continuity / transformation lineage**:
 
@@ -200,7 +200,7 @@ For the present revision use:
 8. `SEMANTIC_DETERMINACY.md`, `ASSONANT_RESULTANT.md`, and `AUTOLOGICAL_FORWARD_RETURN.md` for source-bound depth;
 9. `competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md` for accumulated reasoning and genealogy.
 
-Revision 0.5 remains the direct stable predecessor. Revision 0.6 is the current stable body. The 17 and 23 September developments are now integrated; later changes should again enter only when they materially change the research object.
+Revision 0.5 remains the direct stable predecessor. Revision 0.6 is the current stable body. The 17, 23 and 24 September developments are now integrated; later changes should again enter only when they materially change the research object.
 
 The current architecture across stable and source-bound development can be read as:
 
