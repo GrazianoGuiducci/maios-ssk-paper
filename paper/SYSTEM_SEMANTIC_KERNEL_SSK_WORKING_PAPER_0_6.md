@@ -110,7 +110,7 @@ forms change. SSK names that constitutive organization. The kernel is
 exercised through the work, and the work forms the conditions of its next
 exercise.
 
-Revision 0.6 develops six connected relations:
+Revision 0.6 develops seven connected relations:
 
 1. the coupled event through which a resultant forms the following field;
 2. competences that perform work and form the methods through which work
@@ -123,15 +123,18 @@ Revision 0.6 develops six connected relations:
    media, receivers and embodied operational incarnations;
 6. a relation among reachable depth, integrative contraction and demand-driven
    distribution through which a deep field can remain available without
-   requiring its whole depth to be continuously active.
+   requiring its whole depth to be continuously active;
+7. a source-bound D-ND -> Kernel -> SSK movement in which assonant convergence,
+   non-identical observation and situated resultant sufficiency clarify how a
+   changed field can continue without restoring the preceding representation.
 
 The sixth relation does not add a scheduler or optimization layer above SSK.
 It develops a consequence already implicit in semantic positioning: if a
 relation can remain reachable until it becomes pertinent, then system depth and
-active context need not grow at the same rate. A downstream receiver can act
-from a sufficient resultant when its surface is genuinely distinct; when the
-shared cognition is still unresolved, splitting the work can instead multiply
-reconstruction.
+active context need not grow at the same rate. The seventh relation does not
+turn SSK into a complete exposition of D-ND; it formalizes only the
+system-semantic relation that became operationally material in the living
+Kernel.
 
 The academic argument is primary. Its later use in guides, public explanation,
 editorial work or marketing selects a resolution of this same knowledge, not
@@ -1423,8 +1426,9 @@ observed claim set of this revision.
 ## Appendix B. Available comparative questions
 
 The preceding manuscript developed six hypotheses and study sketches. Revision
-0.4 opened additional receiver/medium questions; revision 0.6 adds a
-distribution/reconstruction question. They remain available when one becomes
+0.4 opened additional receiver/medium questions, revision 0.5 added the
+distribution/reconstruction question H11, and revision 0.6 adds H12 on
+situated sufficiency under non-identical return. They remain available when one becomes
 the selected work and do not prescribe the continuation of the conceptual
 argument.
 
@@ -1451,7 +1455,7 @@ the particular implementation of a carrier or registry.
 
 The [0.2 research hypotheses](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md#8-research-hypotheses)
 and [study sketches](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md#9-experimental-programme)
-preserve the detailed earlier proposals for H1-H6. H7-H11 are conceptual
+preserve the detailed earlier proposals for H1-H6. H7-H12 are conceptual
 research questions and do not yet have complete protocols.
 
 A selected comparison would define its task, model, tools, source access,
@@ -1507,8 +1511,8 @@ active participation.
 
 Revision 0.6 applies the Paper's established three-passage consolidation:
 encounter the new source relations, reread the changed argument, then rewrite
-their causal seats rather than append two new topics. Stable body 0.4 remains
-the direct predecessor.
+their causal seats rather than append another detached theory. Stable body 0.5
+remains the direct predecessor.
 
 
 Revision 0.4 integrates stable body 0.3 with the 16 September operator/ChatGPT
@@ -1553,6 +1557,13 @@ literature survey for multimodal robotics, distributed sensing or distributed
 competence/work orchestration. Such sources
 should enter when a selected claim needs that comparison rather than by topic
 association alone.
+
+The owner-native D-ND source used for the 0.6 source-bound relation is
+Graziano Guiducci, *D-ND — Dual-Non-Dual Framework*,
+`GrazianoGuiducci/MM_D-ND`, especially `README.md` and
+`method/DND_METHOD_AXIOMS.md`, read at the current source identity recorded
+in the 24 September source development. Its broader mathematical and physical
+claims remain owned by that corpus rather than imported into SSK by citation.
 
 ## References
 
