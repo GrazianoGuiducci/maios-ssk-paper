@@ -354,13 +354,16 @@ La [mappa pubblica delle fonti](SOURCE_MAP.md) collega il corpus alle sorgenti.
 ## Stato delle affermazioni
 
 Il ledger canonico è
-[l'Appendice A della 0.5](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md#appendix-a-current-claim-state-ledger),
+[l'Appendice A della 0.6](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md#appendix-a-current-claim-state-ledger),
 raggiungibile anche da [CLAIM_LEDGER.md](CLAIM_LEDGER.md).
 
 La distinzione kernel/incarnazione, il posizionamento semantico, la contrazione
-integrativa e l'economia di ricostruzione sono sviluppi concettuali. I casi
-ChatGPT/Codex, R0.19 e MAIOS Launch sono osservazioni circoscritte, non benchmark
-controllati o validazioni indipendenti. La percezione aumentata/dislocata è
+integrativa, l'economia di ricostruzione, la non-identical observation, la
+sufficienza situata del resultant e la continuità non-restaurativa sono sviluppi
+concettuali. Assonanza, terzo incluso e minima azione entrano come relazioni
+source-bound D-ND, non come nuove leggi SSK. I casi ChatGPT/Codex, R0.19, MAIOS
+Launch e il movimento Kernel del 24 settembre sono osservazioni circoscritte,
+non benchmark controllati o validazioni indipendenti. La percezione aumentata/dislocata è
 architettura di ricerca; non descrive un robot MAIOS già implementato. La
 densità possibilistica non è ancora una metrica.
 
