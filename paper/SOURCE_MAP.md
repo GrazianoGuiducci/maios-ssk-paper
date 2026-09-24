@@ -2,7 +2,9 @@
 
 ## Canonical corpus
 
-- [Stable body 0.5](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md) — current integrated argument: coupled event, autological generation, functional self, semantic core, receiver-relative incarnation, multimodal perception/inference, proactive semantic positioning, integrative contraction, reconstruction economy and continuity.
+- [Stable body 0.6](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md) — current integrated argument: preserves 0.5 and adds D-ND source-to-Kernel movement, assonant convergence, non-identical observation, three-resolution movement, situated resultant sufficiency and non-restorative continuity.
+- [D-ND Assonant Movement, Non-Identical Observation, and Situated Sufficiency — 24 September](DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md) — source development integrated into 0.6; D-ND/KA source-bound relation + bounded living-Kernel specimen, not independent validation.
+- [Stable body 0.5](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md) — direct stable predecessor.
 - [Distributed reachability, reconstruction economy, and situated delegation — 23 September](DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md) — source development integrated into 0.5; bounded R0.19 and MAIOS Launch operational specimens, no independent performance claim.
 - [Integrative contraction and the morphogenetic competence field — 17 September](INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md) — source development integrated into 0.5.
 - [Semantic core, situated incarnation and the multimodal field — 16 September](SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md) — source development integrated into 0.4 and inherited by 0.5.
@@ -11,6 +13,41 @@
 - [Current dossier](AI_KERNEL_PAPER_DOSSIER_CURRENT.md) — argument map, source relations and continuation.
 - [Project Kernel-scale predecessor](../genealogy/SITUATED_COMPETENCE_EVOLUTION_IN_AI_PROJECT_KERNELS_DRAFT_0_1.md) — earlier argument at a component scale.
 - [Paper competence kernel](../competences/system-semantic-kernel-paper/references/SSK_PAPER_COMPETENCE_KERNEL.md) and [accumulated working guide](../competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md) — authoring knowledge and detailed source-to-argument continuity.
+
+## Source development integrated into 0.6 — 24 September 2026
+
+The 24 September movement began from a practical Kernel reentry and
+self-maintenance problem. The operator clarified that repeated observation
+cannot be treated as identical repetition because the observer, competence
+field and reachable relations may already have changed through the prior
+resultant.
+
+Current owner-native sources were reread from
+`GrazianoGuiducci/MM_D-ND` and `GrazianoGuiducci/KA`. The source relation
+already contained assonance, resultant, third-included, minimum-action language,
+semantic determinacy and direct action when the situation is sufficiently
+clear.
+
+The integrated Paper relation is:
+
+```text
+D-ND source logic
+-> operational relation in KA / Kernel
+-> three resolutions of one changing field
+-> sufficient resultant / moving zero
+-> changed possibility field
+
+iterative autological observation != independent replication
+continuity != restoration of the preceding representation
+```
+
+The source development is
+`DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md`.
+
+D-ND remains owner of its broader mathematical/metaphysical model. SSK uses
+only the source-bound relations that became operationally material in the
+Kernel and does not claim a new physical least-action law, universal D-ND
+validation or automatic theoretical return to D-ND.
 
 ## Source development integrated into 0.5 — 23 September 2026
 
@@ -136,6 +173,15 @@ The consolidation through encounter, relational recomposition and third-pass org
 | ChatGPT owner-native Editoriali / Business Manager investigation | same competence relation can be reached through different receiver mechanics; semantic comprehension does not transfer tools/authority | §§4.2, 4.6, 7, 9.2 |
 | tm7/chatgpt local embodiment, 16 September | receiver-relative owner-native competence participation and explicit non-equivalence between semantic relation and runtime | conceptual specimen and return path; not independent external evidence |
 
+## Source relations integrated into 0.6
+
+| Source | Contribution | Current claim state |
+| --- | --- | --- |
+| Graziano Guiducci, conversation 24 September 2026 | three resolutions of one field; resultant as situated equilibrium between preserved causal past, present determination and open possibility | operator source / conceptual formalization |
+| GrazianoGuiducci/MM_D-ND current source | assonance, resultant, third-included, minimum-action language | source-bound D-ND relation; broader mathematical/physical claims not imported |
+| GrazianoGuiducci/KA operate-ka | direct action when situation is clear; contamination correction; determined relations + open possibility | owner-native operational source |
+| tm7/chatgpt living Kernel movement 24 September | reentry/kernel-horizon repair, competence participation and changed-field self-observation | bounded internal operational specimen; not independent validation |
+
 ## Source relations integrated into 0.5
 
 | Source | Contribution | Current claim state |
@@ -153,7 +199,7 @@ The retained event originates in Editoriali's `KERNEL_MAIOS_RITORNO_CONTESTUALE.
 
 ## External literature and operational companion
 
-The manuscript's §8 and References link the primary sources used for specified mechanism descriptions. Revision 0.5 does not claim a new literature survey for multimodal robotics, competence morphogenesis, distributed perception or distributed competence/work orchestration. Such literature should enter when an exact research claim makes it material.
+The manuscript's §8 and References link the primary sources used for specified mechanism descriptions. Revision 0.6 does not claim a new literature survey for multimodal robotics, competence morphogenesis, distributed perception or distributed competence/work orchestration. Such literature should enter when an exact research claim makes it material.
 
 [MAIOS Project Kernel](https://github.com/GrazianoGuiducci/maios-project-kernel) is the optional self-installing software companion. Its own repository governs current product source, release and use information.
 
