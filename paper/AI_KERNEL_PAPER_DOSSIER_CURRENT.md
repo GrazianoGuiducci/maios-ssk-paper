@@ -32,6 +32,38 @@ conserva le ragioni e la genealogia precedenti. Gli sviluppi integrati sono pres
 [D-ND Assonant Movement, Non-Identical Observation, and Situated Sufficiency](DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md).
 Gli stati di revisione, pubblicazione e fonte restano in [STATE.md](../STATE.md).
 
+## Sviluppo sorgente aperto — regressione dopo deriva meta-ricorsiva
+
+Un episodio operativo del 25 settembre è ora conservato come sviluppo sorgente
+candidato, senza modificare il corpo stabile 0.8:
+
+[Recursive meta expansion, source loss, and causal regression](RECURSIVE_META_EXPANSION_SOURCE_LOSS_AND_CAUSAL_REGRESSION_2026_09_25.md).
+
+La relazione candidata è:
+
+```text
+movimento ricorsivo/meta
+-> può espandere il campo
+ma
+-> può perdere il riferimento sorgente lungo le trasformazioni
+
+perdita del riferimento
+-> regressione causale
+-> ultimo punto temporale/contestuale in cui
+   sorgente e movimento erano ancora co-presenti
++ conseguenze realmente accadute dopo
+-> presente ricomposto
+```
+
+Il caso rende inoltre distinguibili due pressioni che prima erano meno
+esplicite: campo cambiato da una conseguenza/source/operator/receiver e campo
+cambiato principalmente dalla persistenza delle rappresentazioni prodotte dal
+sistema stesso.
+
+La relazione è materiale per il Paper perché approfondisce moving zero,
+continuità non-restaurativa, campo percepito parziale e awareness ricorsiva.
+Resta però sviluppo concettuale basato su un singolo specimen operativo.
+
 ## Tesi centrale corrente
 
 La forma sintetica che governa 0.8 è:
