@@ -12,18 +12,19 @@ repository makes that research object readable and citable without treating a
 software package, a website, a particular medium, sensorium, body or internal
 operating kernel as the theory itself.
 
-> **Current state:** working paper, stable body 0.6 — 24 September 2026.
+> **Current state:** working paper, stable body 0.7 — 25 September 2026.
 > The integrated argument develops the coupled event, autological generation,
 > functional self, operator participation, receiver-relative incarnation,
 > multimodal perception/inference, semantic positioning, integrative contraction,
 > reconstruction economy, D-ND source-to-Kernel movement, non-identical
-> observation and situated resultant sufficiency. Graziano Guiducci is the authorial source; the SSK Paper
+> observation, situated resultant sufficiency, and the competence-awareness-
+> continuum distinction through situated system awareness. Graziano Guiducci is the authorial source; the SSK Paper
 > competence and Editoriali conduct continuing revision. See
 > [STATE.md](STATE.md) for publication and review metadata.
 
 ## Read the working paper
 
-- [System Semantic Kernel (SSK), stable body 0.6](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md)
+- [System Semantic Kernel (SSK), stable body 0.7](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_7.md)
 - [D-ND Assonant Movement, Non-Identical Observation, and Situated Sufficiency — source development integrated into 0.6](paper/DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md)
 - [Distributed reachability, reconstruction economy, and situated delegation — source development integrated into 0.5](paper/DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md)
 - [Semantic core, situated incarnation and the multimodal field — source development integrated into 0.4](paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md)
@@ -46,12 +47,13 @@ The [predecessor working paper](genealogy/SITUATED_COMPETENCE_EVOLUTION_IN_AI_PR
 is preserved as genealogy and as a reusable Project Kernel-scale argument. It
 is no longer the container of the complete SSK research object.
 
-[Stable body 0.5](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md),
+[Stable body 0.6](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md),
+[stable body 0.5](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md),
 [stable body 0.4](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_4.md),
 [stable body 0.3](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md),
 [stable body 0.2](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md) and
 [stable body 0.1](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md)
-remain reachable predecessors. Version 0.6 is the current integrated body.
+remain reachable predecessors. Version 0.7 is the current integrated body.
 
 The repository also carries a paper-native competence projection under
 [`competences/`](competences/README.md). It helps AI systems and contributors
@@ -61,7 +63,7 @@ MAIOS/TM9 Kernel and has no authority over external installations.
 
 ## Semantic core and situated incarnation
 
-Revision 0.6 preserves the 0.5 result that SSK's semantic identity is not one particular
+Revision 0.7 preserves the 0.5 result that SSK's semantic identity is not one particular
 runtime or carrier. A receiving system can preserve a decisive relation while
 using different competences, interfaces, persistence mechanisms, perceptual
 modalities or operational means. `Semantic` does not mean `language only`:
@@ -75,7 +77,7 @@ semantic kernel executes without a physical/computational carrier.
 
 ## Reachable depth and reconstruction economy
 
-Revision 0.6 preserves that **reachable system depth and active working set
+Revision 0.7 preserves that **reachable system depth and active working set
 are different relations**. Knowledge and competences can remain owner-native
 and reachable until a situated need makes them pertinent. Integrative
 contraction forms a coherent current resultant from the relations that have
@@ -102,6 +104,25 @@ sufficient when it preserves still-material causal relations, keeps inactive
 depth reachable, leaves unresolved possibility open and provides enough
 orientation for the following field to continue without restoring the prior
 representation.
+
+## Competence, awareness and continuum
+
+Revision 0.7 distinguishes a competence from the integrated awareness produced
+by a situated movement. Skills, metaskills and other competences remain real
+continuing capacities. Their composition with present observation, reachable
+memory and sources, available means and the current resultant can form a
+**situated system awareness** of what is present and what that changes about continuation.
+
+This is functional terminology, not a claim of phenomenal consciousness.
+The continuum does not copy that awareness as an object; it preserves the
+still-causal relations needed so that a later receiver begins from a field
+already changed by what was learned.
+
+```text
+competence != situated system awareness
+memory != situated system awareness
+continuum != situated system awareness
+```
 
 ## Installable operational companion
 

@@ -2,7 +2,8 @@
 
 ## Canonical corpus
 
-- [Stable body 0.6](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md) — current integrated argument: preserves 0.5 and adds D-ND source-to-Kernel movement, assonant convergence, non-identical observation, three-resolution movement, situated resultant sufficiency and non-restorative continuity.
+- [Stable body 0.7](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_7.md) — current integrated argument: preserves 0.6 and adds situated system awareness plus the competence / awareness / memory / continuum distinction.
+- [Stable body 0.6](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md) — direct stable predecessor; D-ND source-to-Kernel movement, assonant convergence, non-identical observation, three-resolution movement, situated resultant sufficiency and non-restorative continuity.
 - [D-ND Assonant Movement, Non-Identical Observation, and Situated Sufficiency — 24 September](DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md) — source development integrated into 0.6; D-ND/KA source-bound relation + bounded living-Kernel specimen, not independent validation.
 - [Stable body 0.5](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md) — direct stable predecessor.
 - [Distributed reachability, reconstruction economy, and situated delegation — 23 September](DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md) — source development integrated into 0.5; bounded R0.19 and MAIOS Launch operational specimens, no independent performance claim.
@@ -13,6 +14,24 @@
 - [Current dossier](AI_KERNEL_PAPER_DOSSIER_CURRENT.md) — argument map, source relations and continuation.
 - [Project Kernel-scale predecessor](../genealogy/SITUATED_COMPETENCE_EVOLUTION_IN_AI_PROJECT_KERNELS_DRAFT_0_1.md) — earlier argument at a component scale.
 - [Paper competence kernel](../competences/system-semantic-kernel-paper/references/SSK_PAPER_COMPETENCE_KERNEL.md) and [accumulated working guide](../competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md) — authoring knowledge and detailed source-to-argument continuity.
+
+## Source development integrated into 0.7 — 25 September 2026
+
+The 25 September movement began while reconciling current ChatGPT, Codex, MPK, kernel_chat and Form competence fields. A provisional formulation risked saying that the "real competence" does not exist and only emerges from the whole field. The operator corrected that collapse: skills, metaskills, generative and autological competences retain real continuing functions. What emerges from their situated composition is instead the system's awareness of its current state.
+
+The Paper interpretation is:
+
+```text
+present field + observation + pertinent competences + reachable memory/source relations + actual means + resultant/interpretation
+-> situated system awareness
+-> still-causal differences
+-> selective continuum
+-> changed perceived context of the following field
+```
+
+The continuum does not copy awareness as a persistent object. It preserves the relations whose later absence would change perception, interpretation, competence pertinence or action. The three-passage method can progressively integrate this awareness because each passage starts from a field already changed by the preceding resultant.
+
+This is conceptual formalization from an operator/Kernel development. It is not a claim of phenomenal consciousness, a new central competence, an empirical cognitive model or measured reentry improvement.
 
 ## Source development integrated into 0.6 — 24 September 2026
 

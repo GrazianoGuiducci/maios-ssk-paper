@@ -1,5 +1,24 @@
 # SSK Paper revision history
 
+## 0.7 — 2026-09-25
+
+Current integrated stable body.
+
+Revision 0.7 preserves 0.6 and integrates the competence-awareness-continuum
+clarification formed through the 25 September operator/ChatGPT movement.
+
+It adds:
+
+- **situated system awareness** as the integrated functional relation through which present field, observation, pertinent competences, reachable memory/source relations, actual means and resultant become meaningful for continuation;
+- an explicit distinction among **competence, awareness, memory and continuum**: competences retain durable capacity; awareness is situated integration; memory/source preserve reachability; continuum preserves causal differences that should alter later perception and action;
+- **awareness-to-continuum return**: continuity does not store or restore a complete prior awareness, but conditions the following field with still-causal relations learned through it;
+- a refinement of the three-passage method: successive passages occur from fields already changed by earlier resultants and may progressively integrate awareness without dissolving skills or metaskills into a new super-competence;
+- H13, a comparative question on state/chronology-only reentry versus selective causal continuation of the relations that changed the preceding field.
+
+The terminology is functional and does not claim phenomenal consciousness, subjective experience or a central observing agent. No new runtime mechanism, measured reentry advantage or independent validation is claimed.
+
+Stable body 0.6 remains the direct predecessor.
+
 ## 0.6 — 2026-09-24
 
 Current integrated stable body.

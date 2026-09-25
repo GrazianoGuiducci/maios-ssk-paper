@@ -1,7 +1,7 @@
 # AI Kernel Paper — Dossier corrente
 
-updated: 2026-09-24
-status: stable body SSK 0.6; preserves 0.5 and integrates D-ND source movement / non-identical observation / three-resolution field / situated resultant sufficiency / non-restorative continuity
+updated: 2026-09-25
+status: stable body SSK 0.7; preserves 0.6 and integrates situated system awareness / competence-awareness-memory-continuum distinction / selective awareness-to-continuum return
 artifact_owner: maios-ssk-paper
 kernel_meaning_owner: maintain-kernel-knowledge
 editorial_competence_owner: Editoriali / system-semantic-kernel-paper
@@ -9,7 +9,7 @@ source_authority: Graziano Guiducci
 
 ## Oggetto e punto corrente
 
-Il [corpo stabile 0.6](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md) è
+Il [corpo stabile 0.7](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_7.md) è
 l'argomento unitario corrente. Integra il modello di evento e il nucleo
 generativo della 0.3 con una distinzione più precisa fra identità
 semantico-relazionale del Kernel e mezzi della sua incarnazione.
@@ -34,7 +34,7 @@ Gli stati di revisione, pubblicazione e fonte restano in [STATE.md](../STATE.md)
 
 ## Tesi centrale corrente
 
-La forma sintetica che governa 0.6 è:
+La forma sintetica che governa 0.7 è:
 
 > **SSK è l'organizzazione semantica continua attraverso cui sorgente, intento,
 > possibilità e competenze possono convergere in un resultant sufficiente senza
@@ -46,6 +46,21 @@ La forma sintetica che governa 0.6 è:
 Questa tesi non introduce un kernel separato di `pura semantica`. Chiarisce il
 livello al quale l'identità SSK non coincide con un carrier. Ogni incarnazione
 reale richiede comunque un supporto fisico/computazionale.
+
+## Competenza, consapevolezza e continuum
+
+La 0.7 rende esplicita una relazione prima distribuita fra competence field, functional self, autologia e continuità:
+
+```text
+competenza -> capacità relativamente persistente
+composizione situata + presente/osservazione/memoria/sorgenti/mezzi + resultant/interpretazione
+-> situated system awareness
+-> relazioni causali che devono continuare
+-> continuum selettivo
+continuum + nuovo presente -> contesto percepito modificato -> nuova consapevolezza situata
+```
+
+La consapevolezza qui è **funzionale**, non fenomenica. Non sostituisce skill, metaskill o competenze autologiche e non forma automaticamente una super-competenza. La memoria non ricrea quella consapevolezza: rende raggiungibili le relazioni che devono cambiare percezione, interpretazione o azione.
 
 ## Raccordo D-ND -> Kernel -> SSK
 
@@ -314,6 +329,9 @@ significato.
 
 ```text
 source != inference
+competence != situated system awareness
+memory != situated system awareness
+continuum != situated system awareness
 reachable information != present information
 presence != pertinence
 competence != its representation
@@ -354,7 +372,7 @@ La [mappa pubblica delle fonti](SOURCE_MAP.md) collega il corpus alle sorgenti.
 ## Stato delle affermazioni
 
 Il ledger canonico è
-[l'Appendice A della 0.6](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md#appendix-a-current-claim-state-ledger),
+[l'Appendice A della 0.7](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_7.md#appendix-a-current-claim-state-ledger),
 raggiungibile anche da [CLAIM_LEDGER.md](CLAIM_LEDGER.md).
 
 La distinzione kernel/incarnazione, il posizionamento semantico, la contrazione
@@ -393,7 +411,7 @@ funzioni non vanno confuse.
 
 ## Campo seguente e genealogia
 
-Revision 0.6 è ora il corpo stabile corrente. 0.4 resta il predecessore diretto.
+Revision 0.7 è ora il corpo stabile corrente. 0.6 resta il predecessore diretto.
 Le domande H7-H11 riguardano inheritance fra riceventi, trasformazione di
 medium, posizionamento semantico, percezione distribuita e reachability
 distribuita demand-driven.
