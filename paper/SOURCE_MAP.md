@@ -16,6 +16,10 @@
 - [Project Kernel-scale predecessor](../genealogy/SITUATED_COMPETENCE_EVOLUTION_IN_AI_PROJECT_KERNELS_DRAFT_0_1.md) — earlier argument at a component scale.
 - [Paper competence kernel](../competences/system-semantic-kernel-paper/references/SSK_PAPER_COMPETENCE_KERNEL.md) and [accumulated working guide](../competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md) — authoring knowledge and detailed source-to-argument continuity.
 
+## Candidate source development — 25 September 2026
+
+- [Recursive meta expansion, source loss, and causal regression](RECURSIVE_META_EXPANSION_SOURCE_LOSS_AND_CAUSAL_REGRESSION_2026_09_25.md) — operator/ChatGPT operational episode exposing temporal-contextual source-reference loss during recursive/meta continuation and the candidate recovery relation of causal regression to the last source-bound point before recomposition with the current field. Not integrated into stable 0.8.
+
 ## Source development integrated into 0.8 — 25 September 2026
 
 A second pass over stable body 0.7 exposed a residual sequencing error. The
