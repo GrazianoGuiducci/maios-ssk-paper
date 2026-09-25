@@ -1,18 +1,19 @@
 # System Semantic Kernel Paper — Competence Kernel
 
-updated: 2026-09-24
+updated: 2026-09-25
 artifact_owner: GrazianoGuiducci/maios-ssk-paper
 form_competence_owner: Editoriali / system-semantic-kernel-paper
 kernel_meaning_owner: maintain-kernel-knowledge
 state: active competence source; not a finished Paper or publication receipt
 
-## Current resultant — stable body 0.6
+## Current resultant — stable body 0.7
 
-Revision 0.6 is the current integrated academic body. It preserves the 0.5
-relations and adds the source-bound D-ND -> Kernel -> SSK movement made
-operationally visible on 24 September: assonant convergence, three resolutions
-of one changing field, non-identical observation, situated resultant
-sufficiency and non-restorative continuity.
+Revision 0.7 is the current integrated academic body. It preserves 0.6 and
+adds the 25 September competence-awareness-continuum clarification: competences
+remain real continuing capacities; situated system awareness is the integrated
+functional relation formed through their participation in the present field;
+and the continuum preserves the causal differences that should condition later
+perception, reentry and action rather than storing awareness as an object.
 
 ```text
 semantic-relational Kernel
@@ -30,7 +31,7 @@ The integrated source developments are:
 - [`DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md`](../../../paper/DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md)
 
 The integrated manuscript is
-[`SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md`](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md).
+[`SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_7.md`](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_7.md).
 
 The central thesis is:
 
@@ -70,6 +71,47 @@ The 16 September ChatGPT/Codex/owner-native competence exercise is a bounded
 conceptual specimen: related semantic competence can be exercised through
 different host means. It does not establish universal transferability,
 equivalent performance or a robotic implementation.
+
+## Situated system awareness and continuum
+
+Revision 0.7 keeps competence and awareness on different explanatory planes:
+
+```text
+competence
+  -> durable situated capacity with knowledge / method / sources / means
+
+present field + observation
++ materially participating competences
++ pertinent memory / source relations
++ actual means
++ resultant / interpretation
+-> situated system awareness
+
+situated system awareness
+-> still-causal differences
+-> selective continuum
+
+selective continuum + new present
+-> changed perceived context
+-> new situated awareness
+```
+
+`Situated system awareness` is functional, not phenomenal. It does not erase
+skills, metaskills, generative or autological competences and does not create a
+new super-competence by default. A competence may remain durable without
+participating in one event; awareness may change without every competence
+changing.
+
+The continuum preserves the relations whose later absence would change
+perception, interpretation, pertinence or action. It does not restore a complete
+previous awareness. This makes memory a condition of the following field rather
+than a copy of the state that produced it.
+
+The three-passage method is read accordingly: successive passages begin from
+fields already changed by preceding resultants. They can progressively integrate
+awareness and may end in `no_change` when the correct owners already carry the
+relation. Do not reinterpret this as competence dissolution or a mandatory
+three-stage runtime.
 
 ## Proactive semantic positioning
 
@@ -252,7 +294,7 @@ These are not three mandatory reports or identical checks. A function already
 exercised need not be replayed. A sufficient or unchanged form remains a valid
 result; a new material relation can reopen it.
 
-This method is how both 0.4 and 0.5 were formed. The 16 September source did
+This method is how 0.4, 0.5, 0.6 and 0.7 were formed. The 16 September source did
 not become a robotics appendix; the 17/23 September sources did not become a
 separate distributed-systems chapter. They rewrote their causal seats across
 continuity, competence composition, operational appearance, receiving systems,
@@ -261,7 +303,7 @@ claim state and Conclusion.
 ## Acquired generative knowledge and continuation
 
 The [accumulated Paper guide](WORKING_GUIDE.md) connects the operator relation
-to acquired sources and the reasons behind their integration. Stable 0.4
+to acquired sources and the reasons behind their integration. Stable 0.6
 remains the direct predecessor; the September 12 preliminary development is a
 source-linked predecessor, not the current manuscript.
 
@@ -283,8 +325,9 @@ and related source knowledge contribute these durable distinctions:
 - functional self is revisable participation in the present project;
   sensitivity includes possibilities and successes, not only error signals.
 
-Revision 0.5 preserves that functional inheritance across receiver mechanics and
-media and adds demand-driven reachability across competence/distribution boundaries. It does not supersede these relations or introduce a hierarchy above
+Revision 0.7 preserves functional inheritance across receiver mechanics and
+media, demand-driven reachability across competence/distribution boundaries,
+and the distinction between durable competence and situated system awareness. It does not supersede these relations or introduce a hierarchy above
 them.
 
 ## Correction exercised in revision 0.3 and retained
@@ -296,7 +339,7 @@ resulting method begins with the relation, its reasons and consequences.
 Source fidelity and coherent attribution remain inside the writing;
 anticipated audience objections do not supply its starting question.
 
-Revision 0.5 follows the same correction. It distinguishes conceptual
+Revision 0.7 follows the same correction. It distinguishes conceptual
 architecture, bounded observation and empirical claim without making a denial
 or proof demand the generator of the source relation.
 
@@ -343,7 +386,7 @@ fundamental axioms and invariants should survive future changes of medium and
 mechanism.
 ```
 
-The academically bounded interpretation is preserved in stable body 0.6 and
+The academically bounded interpretation is preserved in stable body 0.7 and
 its source developments.
 
 ## Working Identity
@@ -362,12 +405,13 @@ canonical public repository:
   GrazianoGuiducci/maios-ssk-paper
 
 current canonical manuscript:
-  paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md
+  paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_7.md
 
 current source developments:
   paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md
   paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md
   paper/DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md
+  paper/DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md
 
 secondary forms:
   canonical self-description for human and AI reentry;
@@ -477,6 +521,7 @@ reachable informational / possibility field
 -> pertinence / competence
 -> operation / manifestation
 -> resultant
+-> situated system awareness / current-state relation
 -> causal readback
 -> changed reachable field
 ```
@@ -525,7 +570,9 @@ it can:
 
 Situated, self-reflexive, system-aware, autological, meta and autopoietic are
 possible operational dimensions, not compulsory levels, scores, promotional
-labels or proof of subjective consciousness.
+labels or proof of subjective consciousness. A competence contributes to
+situated system awareness without being identical to it; the awareness produced
+by several participating competences is not automatically another competence.
 
 ## Elemental Logical Function Lens
 
