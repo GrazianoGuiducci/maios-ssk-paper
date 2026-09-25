@@ -425,3 +425,11 @@ il sapere che deve cambiare la revisione. Stato e dossier indicano il margine
 corrente. La presenza dei file non garantisce da sola che una futura istanza
 eserciti il sapere: un caso non identico può ancora mostrare un delta di
 competenza o `no_change`.
+
+## 2026-09-25 — source regression after recursive meta drift
+
+New candidate development: `paper/RECURSIVE_META_EXPANSION_SOURCE_LOSS_AND_CAUSAL_REGRESSION_2026_09_25.md`.
+
+Preserve the distinction learned from the bounded episode: recursive/meta continuation can remain locally coherent after losing the originating temporal/contextual reference. Recovery is causal regression to the last source-bound point, recomposed with present consequences; it is not rollback. A persistent internal representation records what the system produced but does not gain independent source authority merely by persistence.
+
+Stable manuscript remains 0.8.
