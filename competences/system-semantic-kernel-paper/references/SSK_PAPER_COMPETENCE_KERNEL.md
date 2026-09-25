@@ -6,14 +6,13 @@ form_competence_owner: Editoriali / system-semantic-kernel-paper
 kernel_meaning_owner: maintain-kernel-knowledge
 state: active competence source; not a finished Paper or publication receipt
 
-## Current resultant — stable body 0.7
+## Current resultant — stable body 0.8
 
-Revision 0.7 is the current integrated academic body. It preserves 0.6 and
-adds the 25 September competence-awareness-continuum clarification: competences
-remain real continuing capacities; situated system awareness is the integrated
-functional relation formed through their participation in the present field;
-and the continuum preserves the causal differences that should condition later
-perception, reentry and action rather than storing awareness as an object.
+Revision 0.8 is the current integrated academic body. It preserves 0.7 and
+distinguishes the wider present field from the receiver's partial perceived
+context. Situated system awareness participates recursively in pertinence and
+interpretation while the continuum keeps still-causal relations reachable
+without making them all currently perceived.
 
 ```text
 semantic-relational Kernel
@@ -31,7 +30,7 @@ The integrated source developments are:
 - [`DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md`](../../../paper/DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md)
 
 The integrated manuscript is
-[`SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_7.md`](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_7.md).
+[`SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md`](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md).
 
 The central thesis is:
 
@@ -74,18 +73,20 @@ equivalent performance or a robotic implementation.
 
 ## Situated system awareness and continuum
 
-Revision 0.7 keeps competence and awareness on different explanatory planes:
+Revision 0.8 keeps field, perceived context, competence and awareness on different explanatory planes:
 
 ```text
-competence
-  -> durable situated capacity with knowledge / method / sources / means
+F_n = wider present field
+P_n = partial perceived context
+C_n = still-causal continuum reaching the event
 
-present field + observation
-+ materially participating competences
-+ pertinent memory / source relations
-+ actual means
-+ resultant / interpretation
--> situated system awareness
+P_n + materially participating competences
++ pertinent memory / source relations + actual means
+<-> situated system awareness W_n
+<-> competence pertinence / composition
+
+operation / resultant / interpretation
+-> may reform P_n / W_n / composition
 
 situated system awareness
 -> still-causal differences
@@ -405,7 +406,7 @@ canonical public repository:
   GrazianoGuiducci/maios-ssk-paper
 
 current canonical manuscript:
-  paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_7.md
+  paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md
 
 current source developments:
   paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md

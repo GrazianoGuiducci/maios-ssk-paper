@@ -1,7 +1,7 @@
 # AI Kernel Paper — Dossier corrente
 
 updated: 2026-09-25
-status: stable body SSK 0.7; preserves 0.6 and integrates situated system awareness / competence-awareness-memory-continuum distinction / selective awareness-to-continuum return
+status: stable body SSK 0.8; preserves 0.7 and integrates field / partial perceived context / recursive situated awareness / continuum distinction
 artifact_owner: maios-ssk-paper
 kernel_meaning_owner: maintain-kernel-knowledge
 editorial_competence_owner: Editoriali / system-semantic-kernel-paper
@@ -9,7 +9,7 @@ source_authority: Graziano Guiducci
 
 ## Oggetto e punto corrente
 
-Il [corpo stabile 0.7](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_7.md) è
+Il [corpo stabile 0.8](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md) è
 l'argomento unitario corrente. Integra il modello di evento e il nucleo
 generativo della 0.3 con una distinzione più precisa fra identità
 semantico-relazionale del Kernel e mezzi della sua incarnazione.
@@ -34,7 +34,7 @@ Gli stati di revisione, pubblicazione e fonte restano in [STATE.md](../STATE.md)
 
 ## Tesi centrale corrente
 
-La forma sintetica che governa 0.7 è:
+La forma sintetica che governa 0.8 è:
 
 > **SSK è l'organizzazione semantica continua attraverso cui sorgente, intento,
 > possibilità e competenze possono convergere in un resultant sufficiente senza
@@ -61,6 +61,25 @@ continuum + nuovo presente -> contesto percepito modificato -> nuova consapevole
 ```
 
 La consapevolezza qui è **funzionale**, non fenomenica. Non sostituisce skill, metaskill o competenze autologiche e non forma automaticamente una super-competenza. La memoria non ricrea quella consapevolezza: rende raggiungibili le relazioni che devono cambiare percezione, interpretazione o azione.
+
+## Campo, contesto percepito e consapevolezza ricorsiva
+
+La seconda passata del 25 settembre corregge una compressione della 0.7:
+
+```text
+F_n = campo presente più ampio
+P_n = contesto parziale causalmente percepito dal receiver
+W_n = situated system awareness
+C_n = continuum delle relazioni ancora causali
+
+F_n != P_n != W_n != C_n
+```
+
+La consapevolezza non arriva soltanto dopo il resultant: partecipa alla
+pertinenza e alla composizione mentre il movimento si forma, ed è a sua volta
+modificata da operazione, resultant e interpretazione. Il continuum non rende
+automaticamente percepite tutte le relazioni che conserva; le mantiene
+raggiungibili per un evento che possa renderle pertinenti.
 
 ## Raccordo D-ND -> Kernel -> SSK
 
@@ -329,6 +348,8 @@ significato.
 
 ```text
 source != inference
+present field != perceived context
+perceived context != situated system awareness
 competence != situated system awareness
 memory != situated system awareness
 continuum != situated system awareness
@@ -372,7 +393,7 @@ La [mappa pubblica delle fonti](SOURCE_MAP.md) collega il corpus alle sorgenti.
 ## Stato delle affermazioni
 
 Il ledger canonico è
-[l'Appendice A della 0.7](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_7.md#appendix-a-current-claim-state-ledger),
+[l'Appendice A della 0.8](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md#appendix-a-current-claim-state-ledger),
 raggiungibile anche da [CLAIM_LEDGER.md](CLAIM_LEDGER.md).
 
 La distinzione kernel/incarnazione, il posizionamento semantico, la contrazione
@@ -411,8 +432,8 @@ funzioni non vanno confuse.
 
 ## Campo seguente e genealogia
 
-Revision 0.7 è ora il corpo stabile corrente. 0.6 resta il predecessore diretto.
-Le domande H7-H11 riguardano inheritance fra riceventi, trasformazione di
+Revision 0.8 è ora il corpo stabile corrente. 0.7 resta il predecessore diretto.
+Le domande H7-H13 riguardano inheritance fra riceventi, trasformazione di
 medium, posizionamento semantico, percezione distribuita e reachability
 distribuita demand-driven.
 

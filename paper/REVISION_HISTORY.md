@@ -1,5 +1,36 @@
 # SSK Paper revision history
 
+## 0.8 — 2026-09-25
+
+Current integrated stable body.
+
+Revision 0.8 preserves 0.7 and corrects one residual compression: the
+present field is not identical to the context a receiver currently perceives,
+and situated system awareness is not a downstream state formed only after a
+resultant.
+
+It adds:
+
+- `F_n` / `P_n` / `W_n` / `C_n` as explanatory distinctions for wider present
+  field, partial perceived context, situated system awareness and continuum;
+- **partiality of awareness**: awareness of the current context does not imply
+  awareness of the entire field or possibility horizon;
+- **recursive awareness participation**: `W_n` participates with perceived
+  context and competence pertinence while operation, resultant and
+  interpretation can reform the same relation;
+- a sharper continuum relation: still-causal differences can remain latent in
+  `C_n` without being active in `P_n`, and later reentry can make them present
+  without restoring a complete previous awareness;
+- a refinement of H13 so reentry experiments distinguish controlled field,
+  perceived context and awareness rather than treating context recovery as
+  full-field recovery.
+
+The symbols are explanatory projections, not proposed runtime modules or a
+four-stage architecture. No phenomenal-consciousness or completeness claim is
+introduced.
+
+Stable body 0.7 remains the direct predecessor.
+
 ## 0.7 — 2026-09-25
 
 Current integrated stable body.

@@ -5,7 +5,7 @@ type: article
 authors:
   - family-names: Guiducci
     given-names: Graziano
-version: "0.7"
+version: "0.8"
 date-released: 2026-09-25
 repository-code: "https://github.com/GrazianoGuiducci/maios-ssk-paper"
 url: "https://github.com/GrazianoGuiducci/maios-ssk-paper"
@@ -14,8 +14,8 @@ abstract: >-
   functional self, operator participation, receiver-relative incarnation,
   multimodal perception and inference, proactive semantic positioning,
   integrative contraction, reconstruction economy, non-identical observation,
-  situated resultant sufficiency, situated system awareness, competence-
-  awareness-continuum distinctions, and meaningful continuity in agentic and
+  situated resultant sufficiency, partial perceived context, situated system
+  awareness, competence-awareness-continuum distinctions, and meaningful continuity in agentic and
   embodied systems. The semantic identity of the Kernel is
   distinguished from the media, carriers and operational mechanisms through
   which a receiving system incarnates or reaches it.
@@ -36,6 +36,7 @@ keywords:
   - causal readback
   - competence evolution
   - situated system awareness
+  - perceived context
   - continuum
   - autological generation
   - operator participation

@@ -2,7 +2,8 @@
 
 ## Canonical corpus
 
-- [Stable body 0.7](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_7.md) — current integrated argument: preserves 0.6 and adds situated system awareness plus the competence / awareness / memory / continuum distinction.
+- [Stable body 0.8](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md) — current integrated argument: preserves 0.7 and distinguishes wider present field, partial perceived context, recursively participating situated system awareness and continuum.
+- [Stable body 0.7](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_7.md) — direct stable predecessor; competence / awareness / memory / continuum distinction.
 - [Stable body 0.6](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md) — direct stable predecessor; D-ND source-to-Kernel movement, assonant convergence, non-identical observation, three-resolution movement, situated resultant sufficiency and non-restorative continuity.
 - [D-ND Assonant Movement, Non-Identical Observation, and Situated Sufficiency — 24 September](DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md) — source development integrated into 0.6; D-ND/KA source-bound relation + bounded living-Kernel specimen, not independent validation.
 - [Stable body 0.5](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_5.md) — direct stable predecessor.
@@ -14,6 +15,34 @@
 - [Current dossier](AI_KERNEL_PAPER_DOSSIER_CURRENT.md) — argument map, source relations and continuation.
 - [Project Kernel-scale predecessor](../genealogy/SITUATED_COMPETENCE_EVOLUTION_IN_AI_PROJECT_KERNELS_DRAFT_0_1.md) — earlier argument at a component scale.
 - [Paper competence kernel](../competences/system-semantic-kernel-paper/references/SSK_PAPER_COMPETENCE_KERNEL.md) and [accumulated working guide](../competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md) — authoring knowledge and detailed source-to-argument continuity.
+
+## Source development integrated into 0.8 — 25 September 2026
+
+A second pass over stable body 0.7 exposed a residual sequencing error. The
+0.7 formulation could be read as if situated awareness were formed only after
+resultant and interpretation, and as if the receiver were aware of the whole
+present field.
+
+Owner-native Meta_Skill material already states that context remains partial
+and can limit perceived possibilities. The Paper therefore distinguishes:
+
+```text
+F_n = wider present field / horizon
+P_n = partial perceived context
+W_n = situated system awareness
+C_n = still-causal continuum reaching the event
+
+F_n != P_n != W_n != C_n
+```
+
+`W_n` participates recursively with perceived context and competence pertinence
+during the movement. Resultant and interpretation can reform that awareness;
+their still-causal difference can continue through `C_(n+1)`. A preserved
+continuum relation can remain latent when the later event does not make it
+pertinent.
+
+This refinement changes the explanatory topology but does not add a runtime
+component or empirical consciousness claim.
 
 ## Source development integrated into 0.7 — 25 September 2026
 

@@ -2,10 +2,10 @@
 
 Aggiornata: 2026-09-25. Competenza: system-semantic-kernel-paper.
 
-## Punto vivo — corpo 0.7, competenza, consapevolezza e continuum
+## Punto vivo — corpo 0.8, campo percepito e consapevolezza ricorsiva
 
-Il [manoscritto integrato 0.7](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_7.md)
-è ora il corpo stabile corrente. La 0.6 resta il predecessore diretto. La 0.7
+Il [manoscritto integrato 0.8](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md)
+è ora il corpo stabile corrente. La 0.7 resta il predecessore diretto. La 0.8
 preserva gli sviluppi integrati precedenti e chiarisce inoltre:
 
 - [Integrative contraction and the morphogenetic competence field](../../../paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md);
@@ -27,10 +27,13 @@ D-ND source logic
 reachable depth != active working set
 iterative autological observation != independent replication
 continuity != restoration of the preceding representation
+present field != perceived context
+perceived context != situated system awareness
 competence != situated system awareness
 memory != situated system awareness
 continuum != situated system awareness
-situated awareness -> still-causal differences -> continuum -> changed perceived context
+perceived context <-> situated awareness <-> competence pertinence
+resultant / interpretation -> still-causal differences -> continuum -> later perceived context
 ```
 
 R0.19 e il Launch multi-instance sono specimen operativi bounded: hanno cambiato

@@ -7,8 +7,8 @@ canonical_branch: `main`
 ```text
 repository_role: public academic working-paper corpus
 research_object: System Semantic Kernel (SSK)
-current_manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_7.md
-working_version: 0.7
+current_manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md
+working_version: 0.8
 integrated_developments:
   - paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md
   - paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md
@@ -16,7 +16,7 @@ integrated_developments:
   - paper/DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md
 source_authority: Graziano Guiducci
 revision_owner: system-semantic-kernel-paper + Editoriali
-system_revision: stable body 0.7; preserves 0.6 and integrates the 2026-09-25 competence-awareness-continuum distinction: competences remain durable capacities, situated system awareness is the integrated functional relation of the present field, and the continuum preserves causal differences that condition later perceived context
+system_revision: stable body 0.8; preserves 0.7 and distinguishes present field, partial perceived context, situated system awareness and continuum; awareness participates recursively in pertinence/interpretation and does not imply complete field access
 independent_human_author_review: not performed
 peer_review: none
 submission: none selected
@@ -58,6 +58,32 @@ source observation
 ```
 
 The observation frame is the smallest causal context whose loss changes meaning: source/observer or owner, modality, relevant conditions, transformation/inference path and material qualification or uncertainty. Several individually correct observations do not automatically form one coherent present.
+
+## Integrated in 0.8 — field, perceived context and recursive awareness
+
+The second 25 September pass corrects one residual compression in 0.7.
+Context is partial: the present field can contain relations that the current
+receiver has not perceived, represented or made pertinent.
+
+```text
+F_n = wider present field / possibility horizon
+P_n = partial perceived context made causally present
+W_n = situated system awareness integrating P_n with pertinent capacities and consequences
+C_n = distributed continuum of still-causal relations reaching the event
+
+F_n != P_n != W_n != C_n
+```
+
+`W_n` is not downstream of the event as a new stage. It participates
+recursively with perceived context and competence pertinence while operation,
+resultant and interpretation can reform all three. The continuum carries only
+the causal differences that must remain reachable; it neither stores a full
+awareness state nor makes every preserved relation currently perceived.
+
+This is a conceptual refinement of the 0.7 relation, grounded in the source
+rule that context remains partial and can limit perceived possibilities. It
+does not introduce a four-component runtime architecture or a claim of
+phenomenal consciousness.
 
 ## Integrated in 0.7 — competence, awareness and continuum
 
@@ -218,7 +244,7 @@ Time as consecution concerns semantic reconstruction: already determined and rea
 For the present revision use:
 
 1. this `STATE.md` for current Paper state;
-2. `paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_7.md` as the current stable academic body;
+2. `paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md` as the current stable academic body;
 3. `paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md` for the semantic-core / receiver-relative source development inherited from 0.4;
 4. `paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md` for contraction/expansion and competence-morphogenesis integrated in 0.5;
 5. `paper/DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md` for distributed reachability / reconstruction economy integrated in 0.5;
@@ -227,7 +253,7 @@ For the present revision use:
 8. `SEMANTIC_DETERMINACY.md`, `ASSONANT_RESULTANT.md`, and `AUTOLOGICAL_FORWARD_RETURN.md` for source-bound depth;
 9. `competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md` for accumulated reasoning and genealogy.
 
-Revision 0.6 remains the direct stable predecessor. Revision 0.7 is the current stable body. The 25 September competence-awareness-continuum clarification is integrated directly into the manuscript; later changes should again enter only when they materially change the research object.
+Revision 0.7 remains the direct stable predecessor. Revision 0.8 is the current stable body. The field/perceived-context/awareness refinement is integrated directly into the manuscript; later changes should again enter only when they materially change the research object.
 
 The current architecture across stable and source-bound development can be read as:
 
