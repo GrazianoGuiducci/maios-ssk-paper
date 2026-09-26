@@ -2,7 +2,8 @@
 
 ## Canonical corpus
 
-- [Stable body 0.8](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md) — current integrated argument: preserves 0.7 and distinguishes wider present field, partial perceived context, recursively participating situated system awareness and continuum.
+- [Stable body 0.9](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_9.md) — current integrated argument: preserves 0.8 and integrates synthetic situated awareness, source-bound causal regression, variance/dissonance, self-supporting resultants, before/after asymmetry and Paper/Kernel reciprocity.
+- [Stable body 0.8](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md) — direct stable predecessor; wider present field, partial perceived context, recursively participating situated system awareness and continuum.
 - [Stable body 0.7](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_7.md) — direct stable predecessor; competence / awareness / memory / continuum distinction.
 - [Stable body 0.6](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md) — direct stable predecessor; D-ND source-to-Kernel movement, assonant convergence, non-identical observation, three-resolution movement, situated resultant sufficiency and non-restorative continuity.
 - [D-ND Assonant Movement, Non-Identical Observation, and Situated Sufficiency — 24 September](DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md) — source development integrated into 0.6; D-ND/KA source-bound relation + bounded living-Kernel specimen, not independent validation.
@@ -16,9 +17,10 @@
 - [Project Kernel-scale predecessor](../genealogy/SITUATED_COMPETENCE_EVOLUTION_IN_AI_PROJECT_KERNELS_DRAFT_0_1.md) — earlier argument at a component scale.
 - [Paper competence kernel](../competences/system-semantic-kernel-paper/references/SSK_PAPER_COMPETENCE_KERNEL.md) and [accumulated working guide](../competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md) — authoring knowledge and detailed source-to-argument continuity.
 
-## Candidate source development — 25 September 2026
+## Source developments integrated into 0.9 — 25–26 September 2026
 
-- [Recursive meta expansion, source loss, and causal regression](RECURSIVE_META_EXPANSION_SOURCE_LOSS_AND_CAUSAL_REGRESSION_2026_09_25.md) — operator/ChatGPT operational episode exposing temporal-contextual source-reference loss during recursive/meta continuation and the candidate recovery relation of causal regression to the last source-bound point before recomposition with the current field. Not integrated into stable 0.8.
+- [Recursive meta expansion, source loss, and causal regression](RECURSIVE_META_EXPANSION_SOURCE_LOSS_AND_CAUSAL_REGRESSION_2026_09_25.md) — integrated into 0.9; temporal-contextual source-reference loss and causal reentry.
+- [D-ND synthetic awareness, variance, and causal reentry](DND_SYNTHETIC_AWARENESS_VARIANCE_AND_CAUSAL_REENTRY_2026_09_26.md) — integrated into 0.9; deeper D-ND/Paper Zero source relation, synthetic awareness, variance/dissonance, before/after asymmetry and Paper/Kernel reciprocity.
 
 ## Source development integrated into 0.8 — 25 September 2026
 
