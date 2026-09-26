@@ -12,8 +12,8 @@ repository makes that research object readable and citable without treating a
 software package, a website, a particular medium, sensorium, body or internal
 operating kernel as the theory itself.
 
-> **Current state:** working paper, stable body 0.8 — 25 September 2026.
-> The integrated argument develops the coupled event, autological generation,
+> **Current state:** working paper, stable body 0.9 — 26 September 2026.
+> The integrated argument develops the coupled event, synthetic situated awareness, autological generation,
 > functional self, operator participation, receiver-relative incarnation,
 > multimodal perception/inference, semantic positioning, integrative contraction,
 > reconstruction economy, D-ND source-to-Kernel movement, non-identical
