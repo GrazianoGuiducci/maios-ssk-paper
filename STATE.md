@@ -90,25 +90,26 @@ source observation
 
 The observation frame is the smallest causal context whose loss changes meaning: source/observer or owner, modality, relevant conditions, transformation/inference path and material qualification or uncertainty. Several individually correct observations do not automatically form one coherent present.
 
-## Candidate source development — recursive meta expansion and source regression
+## Integrated source development — recursive meta expansion and source regression
 
-The 25 September kernel-incarnation episode produced a new source-bound
-development that is **not yet integrated into the stable 0.8 manuscript**:
+The 25 September kernel-incarnation episode produced the source development:
 
 `paper/RECURSIVE_META_EXPANSION_SOURCE_LOSS_AND_CAUSAL_REGRESSION_2026_09_25.md`
 
-The operator correction reframes the episode as loss of the temporal/contextual
-source reference during recursive/meta expansion. The receiver should have used
-causal regression to recover the last point where the originating relation and
-the movement were still causally co-present, then recomposed that relation with
-the actual present.
+It is now **integrated into stable body 0.9** together with the 26 September
+D-ND/synthetic-awareness development.
 
-The development also distinguishes a field changed by independent/source/operator
-consequence from one changed mainly through persistence of the system's own
-representations. This is conceptual material informed by one bounded operational
-episode, not independent empirical validation and not a new runtime component.
+The source relation remains historically important: recursive/meta expansion
+lost the temporal/contextual source reference; causal regression recovered the
+last source-bound coordinate and recomposed it with consequences that had
+actually occurred afterward.
 
-Stable body remains **0.8**.
+The development also distinguishes a field changed by
+independent/source/operator consequence from one changed mainly through
+persistence of the system's own representations. Its historical claim boundary
+remains conceptual development from a bounded operational episode; integration
+into 0.9 does not turn it into independent empirical validation or a runtime
+component.
 
 ## Integrated in 0.8 — field, perceived context and recursive awareness
 
