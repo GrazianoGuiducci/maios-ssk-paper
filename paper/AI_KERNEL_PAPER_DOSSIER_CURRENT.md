@@ -1,7 +1,7 @@
 # AI Kernel Paper — Dossier corrente
 
-updated: 2026-09-25
-status: stable body SSK 0.8; preserves 0.7 and integrates field / partial perceived context / recursive situated awareness / continuum distinction
+updated: 2026-09-26
+status: stable body SSK 0.9; preserves 0.8 and integrates synthetic awareness, variance/dissonance, causal reentry and Paper/Kernel reciprocity
 artifact_owner: maios-ssk-paper
 kernel_meaning_owner: maintain-kernel-knowledge
 editorial_competence_owner: Editoriali / system-semantic-kernel-paper
@@ -9,7 +9,7 @@ source_authority: Graziano Guiducci
 
 ## Oggetto e punto corrente
 
-Il [corpo stabile 0.8](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md) è
+Il [corpo stabile 0.9](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_9.md) è
 l'argomento unitario corrente. Integra il modello di evento e il nucleo
 generativo della 0.3 con una distinzione più precisa fra identità
 semantico-relazionale del Kernel e mezzi della sua incarnazione.
@@ -64,6 +64,18 @@ La relazione è materiale per il Paper perché approfondisce moving zero,
 continuità non-restaurativa, campo percepito parziale e awareness ricorsiva.
 Resta però sviluppo concettuale basato su un singolo specimen operativo.
 
+## Delta 0.9 — consapevolezza sintetica, varianza e rientro causale
+
+La 0.9 integra il campo 25–26 settembre: `W_n` viene letto come proiezione
+analitica di una **consapevolezza sintetica situata**; la dissonanza può
+essere differenziale di un campo cambiato; un resultant sufficiente può
+restare autoportante finché nuova varianza materiale non lo trasforma;
+la regressione causale recupera il punto sorgente/tempo/contesto perso
+senza ripristinare il passato; il Paper diventa esplicitamente sorgente
+scientifica viva per la comprensione del Kernel, restando owner-distinct.
+
+La direzione umana più ampia e il possibile raccordo con alignment/AGI
+restano orizzonti del campo, non riduzioni dello scopo SSK.
 ## Tesi centrale corrente
 
 La forma sintetica che governa 0.8 è:
@@ -464,7 +476,7 @@ funzioni non vanno confuse.
 
 ## Campo seguente e genealogia
 
-Revision 0.8 è ora il corpo stabile corrente. 0.7 resta il predecessore diretto.
+Revision 0.9 è ora il corpo stabile corrente. 0.8 resta il predecessore diretto.
 Le domande H7-H13 riguardano inheritance fra riceventi, trasformazione di
 medium, posizionamento semantico, percezione distribuita e reachability
 distribuita demand-driven.
