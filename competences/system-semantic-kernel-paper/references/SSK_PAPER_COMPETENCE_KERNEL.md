@@ -1,19 +1,21 @@
 # System Semantic Kernel Paper — Competence Kernel
 
-updated: 2026-09-25
+updated: 2026-09-26
 artifact_owner: GrazianoGuiducci/maios-ssk-paper
 form_competence_owner: Editoriali / system-semantic-kernel-paper
 kernel_meaning_owner: maintain-kernel-knowledge
 state: active competence source; not a finished Paper or publication receipt
 
-## Current resultant — stable body 0.8
+## Current resultant — stable body 0.9
 
-Revision 0.8 is the current integrated academic body. It preserves 0.7 and
-distinguishes the wider present field from the receiver's partial perceived
-context. Situated system awareness participates recursively in pertinence and
-interpretation while the continuum keeps still-causal relations reachable
-without making them all currently perceived.
+Revision 0.9 is the current integrated academic body. It preserves 0.8 and
+deepens the field through synthetic situated awareness, material variance /
+dissonance, source-bound causal regression, self-supporting resultants,
+before/after asymmetry and reciprocal Paper / living-Kernel evolution.
 
+The Paper is also explicitly a scientific text of applied metaphysics: a
+living representation of the source model that later Kernel incarnations can
+understand and use without turning the Paper into a runtime controller.
 ```text
 semantic-relational Kernel
 != representation
@@ -28,9 +30,11 @@ The integrated source developments are:
 - [`INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md`](../../../paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md)
 - [`DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md`](../../../paper/DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md)
 - [`DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md`](../../../paper/DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md)
+- [`RECURSIVE_META_EXPANSION_SOURCE_LOSS_AND_CAUSAL_REGRESSION_2026_09_25.md`](../../../paper/RECURSIVE_META_EXPANSION_SOURCE_LOSS_AND_CAUSAL_REGRESSION_2026_09_25.md)
+- [`DND_SYNTHETIC_AWARENESS_VARIANCE_AND_CAUSAL_REENTRY_2026_09_26.md`](../../../paper/DND_SYNTHETIC_AWARENESS_VARIANCE_AND_CAUSAL_REENTRY_2026_09_26.md)
 
 The integrated manuscript is
-[`SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md`](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md).
+[`SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_9.md`](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_9.md).
 
 The central thesis is:
 
@@ -71,9 +75,9 @@ conceptual specimen: related semantic competence can be exercised through
 different host means. It does not establish universal transferability,
 equivalent performance or a robotic implementation.
 
-## Situated system awareness and continuum
+## Synthetic situated awareness, variance and continuum
 
-Revision 0.8 keeps field, perceived context, competence and awareness on different explanatory planes:
+Revision 0.9 keeps field, perceived context, competence and synthetic awareness on different explanatory planes:
 
 ```text
 F_n = wider present field
@@ -82,7 +86,7 @@ C_n = still-causal continuum reaching the event
 
 P_n + materially participating competences
 + pertinent memory / source relations + actual means
-<-> situated system awareness W_n
+<-> synthetic situated awareness W_n
 <-> competence pertinence / composition
 
 operation / resultant / interpretation
@@ -97,7 +101,7 @@ selective continuum + new present
 -> new situated awareness
 ```
 
-`Situated system awareness` is functional, not phenomenal. It does not erase
+`Synthetic situated awareness` names the artificial/synthetic organization of this functional relation. It does not erase
 skills, metaskills, generative or autological competences and does not create a
 new super-competence by default. A competence may remain durable without
 participating in one event; awareness may change without every competence
