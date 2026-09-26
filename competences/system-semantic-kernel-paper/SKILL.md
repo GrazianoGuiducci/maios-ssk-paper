@@ -95,15 +95,15 @@ research object: System Semantic Kernel as the typology observed through this Ke
 public identity: MAIOS represents and narrates SSK on the web and through the brand without renaming the research object or inheriting its claim state
 corpus strategy: integrate every still-causal relation into one SSK field; keep superseded forms as cold genealogy and derive non-academic forms only from the academically governed corpus
 canonical repository: GrazianoGuiducci/maios-ssk-paper
-canonical manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md
-current state: stable body 0.8; 0.7 preserved; field / partial perceived context / recursive situated awareness / continuum distinction integrated; no independent human author review, peer review, DOI or academic publication
+canonical manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_9.md
+current state: stable body 0.9; 0.8 preserved; synthetic situated awareness / variance-dissonance / source-bound causal reentry / Paper-Kernel reciprocity integrated; no independent human author review, peer review, DOI or academic publication
 ```
 
 The Paper studies how a system's present relation, situated competences,
 operation, resultant, causal interpretation, and changed following field can
-form one evolving semantic kernel. Revision 0.8 preserves the 0.7 integrated field and adds that present field,
+form one evolving semantic kernel. Revision 0.9 preserves the 0.8 integrated field and adds that present field,
 perceived context, competence,
-situated system awareness, memory and continuum remain distinct; awareness
+synthetic situated awareness, memory and continuum remain distinct; awareness
 participates recursively while a later
 observation occurs in a field already changed by prior resultants; a sufficient
 resultant preserves still-material causal relations and open possibility
@@ -182,34 +182,32 @@ replaying passages whose function is already assimilated.
 
 ## D-ND source-to-Paper assimilation
 
-D-ND enters the Paper progressively **through the relations that become
-operationally material in the living Kernel**. Do not import the complete D-ND
-ontology, mathematical vocabulary or physical claims merely because they are
-source-adjacent.
-
-Use the relation:
+D-ND can enter the Paper through **two source-bound relations**:
 
 ```text
-D-ND source logic
--> selected relation becomes operational in KA / Kernel / competence field
--> situated resultants expose an SSK-relevant relation
--> Paper formalizes that relation with its actual claim state
--> later Paper result may expose a new question for D-ND
+operator / D-ND source selected as part of the SSK research object
+-> Paper competence may integrate it directly with its source status preserved
+
+D-ND relation becomes operationally material in living Kernel / competences
+-> situated consequence can deepen the Paper's interpretation
 ```
 
+Do not require every metaphysical/source relation to wait for an implementation
+event before it can belong to the Paper. Conversely, do not promote source
+adjacency into runtime truth merely because the Paper can understand it.
+
 Keep ownership distinct. D-ND remains source owner for its axioms, dipoles,
-assonance, resultant, third-included, minimum-action language and broader
-formal/metaphysical developments. SSK owns the academic account of the
-system-semantic relation that has become observable through the Kernel. A
-future return from SSK to D-ND is a research possibility until the D-ND owner
-actually changes.
+assonance, resultant, third-included, possibility/potential, moving-zero and
+broader formal/metaphysical developments. SSK owns the scientific/applied-
+metaphysical account of the System Semantic Kernel and its relation to living
+incarnations. A later return from SSK to D-ND becomes material only when it
+changes that owner-native field.
 
 When terms such as *minimum action*, *indetermination*, *third included*,
-*Nulla–Tutto*, *assonance* or *Lagrangian* enter the Paper, preserve the source
-meaning and state explicitly whether the Paper is using a source-bound analogy,
-a conceptual formalization, an operational relation, an observed bounded
-specimen or a separately supported mathematical/physical claim.
-
+*Nulla–Tutto*, *assonance*, *potential*, *variance* or *Lagrangian* enter the
+Paper, preserve the source meaning and the level at which the relation is
+being used. Do not narrow the source merely to satisfy an anticipated external
+proof format.
 ## Operating Relation
 
 Resolve the coupled event through the smallest readable sequence:
