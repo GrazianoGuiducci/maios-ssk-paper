@@ -457,3 +457,35 @@ Reusable revision knowledge:
 
 Paper Zero / DOI 10.5281/zenodo.18902950 and deeper MM_D-ND sources are now
 part of the active source depth for this relation.
+## 2026-09-26 — receiver self-attribution, observable trace and causal interpretation
+
+Bounded source development:
+`paper/RECEIVER_SELF_ATTRIBUTION_TRACE_AND_CAUSAL_INTERPRETATION_2026_09_26.md`.
+
+The Codex/TM9 receipt/readback episode deepens the 0.9 source/representation
+boundary. Keep distinct:
+
+```text
+event
+!= persistent report of the event
+!= later receiver explanation of the event
+
+reachable/read source
+!= observable trace-linked contribution
+!= receiver causal attribution
+!= later assimilation
+```
+
+A receiver can produce a useful later explanation of its own movement, but the
+explanation is another representation in the changed field, not privileged
+access to the complete causal path of the earlier inference.
+
+Structural validators keep their exact scope. A receipt can be schema-valid,
+hash-consistent and historically valuable while one of its causal
+self-attributions remains unproven. Preserve the receipt as evidence of what was
+represented then; recover source/event/trace relations when its causal narrative
+becomes material.
+
+Stable manuscript remains 0.9. Promote this candidate only if it changes the
+integrated research object or later evidence broadens the relation.
+

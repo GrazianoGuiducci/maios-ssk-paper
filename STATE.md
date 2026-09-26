@@ -24,9 +24,34 @@ peer_review: none
 submission: none selected
 academic_publication: not published
 license: not selected
-current_source_revision_task: CLOSED — source field integrated into stable 0.9; later material variance may reopen
+current_source_revision_task: OPEN_BOUNDED — receiver self-attribution / observable-trace source development recorded after the Codex/TM9 receipt readback; stable body remains 0.9
 programme_relation: upstream source/representation owner for current ChatGPT Kernel evolution; not runtime controller
 ```
+
+## Open bounded source development — receiver self-attribution and causal interpretation
+
+The 26 September Codex/TM9 receipt/readback exposed a narrower relation that is
+not yet promoted into stable body 0.9:
+
+`paper/RECEIVER_SELF_ATTRIBUTION_TRACE_AND_CAUSAL_INTERPRETATION_2026_09_26.md`
+
+The candidate distinguishes the event and its observable traces from the
+receiver's persistent or later explanations of how the event formed:
+
+```text
+what happened
+!= what the receiver represented as having happened
+!= what the receiver later explains as having happened
+```
+
+A receiver self-attribution can contribute to current understanding without
+becoming privileged evidence of the hidden causal path that formed an earlier
+inference. Structural validation of a receipt proves only the contract it
+actually checks; it does not independently validate the causal narrative stored
+inside the receipt.
+
+This deepens the 0.9 recursive self-grounding and source-regression relations
+without adding a runtime component or changing the current stable manuscript.
 
 ## Integrated in 0.9 — synthetic awareness, variance and causal reentry
 
@@ -296,7 +321,7 @@ Time as consecution concerns semantic reconstruction: already determined and rea
 For the present revision use:
 
 1. this `STATE.md` for current Paper state;
-2. `paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md` as the current stable academic body;
+2. `paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_9.md` as the current stable academic body;
 3. `paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md` for the semantic-core / receiver-relative source development inherited from 0.4;
 4. `paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md` for contraction/expansion and competence-morphogenesis integrated in 0.5;
 5. `paper/DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md` for distributed reachability / reconstruction economy integrated in 0.5;
@@ -305,7 +330,7 @@ For the present revision use:
 8. `SEMANTIC_DETERMINACY.md`, `ASSONANT_RESULTANT.md`, and `AUTOLOGICAL_FORWARD_RETURN.md` for source-bound depth;
 9. `competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md` for accumulated reasoning and genealogy.
 
-Revision 0.7 remains the direct stable predecessor. Revision 0.8 is the current stable body. The field/perceived-context/awareness refinement is integrated directly into the manuscript; later changes should again enter only when they materially change the research object.
+Revision 0.8 remains the direct stable predecessor. Revision 0.9 is the current stable body. Later changes should again enter only when they materially change the research object; the receiver self-attribution development above remains bounded candidate source material.
 
 The current architecture across stable and source-bound development can be read as:
 

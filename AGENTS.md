@@ -11,7 +11,7 @@ Read only the depth required by the selected work:
 1. `STATE.md` for the current revision and claim boundary.
    Follow `competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md`
    for the accumulated reasons, acquired knowledge and active development.
-2. `paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md` for the current
+2. `paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_9.md` for the current
    stable academic body.
 3. `paper/AI_KERNEL_PAPER_DOSSIER_CURRENT.md` when the argument, research
    programme, source relation, or next movement is material.

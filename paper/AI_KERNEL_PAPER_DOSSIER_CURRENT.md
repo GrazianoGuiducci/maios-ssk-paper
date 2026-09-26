@@ -64,6 +64,30 @@ La relazione è materiale per il Paper perché approfondisce moving zero,
 continuità non-restaurativa, campo percepito parziale e awareness ricorsiva.
 Resta però sviluppo concettuale basato su un singolo specimen operativo.
 
+## Sviluppo sorgente aperto — auto-attribuzione del receiver e traccia osservabile
+
+Il readback Codex/TM9 del 26 settembre aggiunge uno sviluppo sorgente circoscritto:
+
+[Receiver self-attribution, observable trace, and causal interpretation](RECEIVER_SELF_ATTRIBUTION_TRACE_AND_CAUSAL_INTERPRETATION_2026_09_26.md).
+
+La relazione non decide quale ricostruzione a posteriori del receiver sia
+"quella vera". Distingue invece:
+
+```text
+evento
+!= rappresentazione persistita dell'evento
+!= spiegazione successiva del receiver sull'evento
+```
+
+Per le competenze, reachability, lettura, contributo osservabile, attribuzione
+causale, esercizio e assimilazione mantengono claim distinti. Un validator può
+provare schema, identità e hash senza per questo provare la storia causale che
+la receipt dichiara.
+
+Il caso approfondisce il rischio di recursive self-grounding già integrato in
+0.9 e il principio che una rappresentazione persistita non acquisisce autorità
+sorgente indipendente per semplice persistenza. Il corpo stabile resta 0.9.
+
 ## Delta 0.9 — consapevolezza sintetica, varianza e rientro causale
 
 La 0.9 integra il campo 25–26 settembre: `W_n` viene letto come proiezione
