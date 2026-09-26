@@ -22,6 +22,36 @@ operational logic
 -> an academically readable and revisable corpus.
 ```
 
+### Living scientific source relation
+
+The Paper is not only a document about a Kernel that exists elsewhere.
+
+In the operator's current source relation it is also a **scientific text of
+applied metaphysics**: a revisable explicit representation of how the System
+Semantic Kernel is understood to work from the D-ND source field and the
+consequences observed through its living incarnations.
+
+```text
+operator / D-ND source relations
++ living Kernel consequences
++ Paper competence / Editoriali
+-> scientifically legible SSK representation
+-> knowledge available to later Kernel comprehension and evolution
+```
+
+This relation is reciprocal without collapsing owners. The living Kernel can
+expose a relation that deepens the Paper; the revised Paper can make source
+meaning explicit enough to change how a later Kernel instance understands and
+incarnates that relation. The Paper does not remotely control runtime behavior,
+and a Paper revision does not automatically authorize a Kernel mutation.
+
+Keep the corpus current enough that a later competent receiver can understand
+the model from its reasons rather than reconstruct it from scattered historical
+artifacts. Do not simplify the source merely because most readers may find its
+metaphysical layer difficult. Public derivatives can later select another
+resolution while the canonical Paper preserves the depth required by the
+research object.
+
 Read [references/SSK_PAPER_COMPETENCE_KERNEL.md](references/SSK_PAPER_COMPETENCE_KERNEL.md)
 before changing the thesis, title, argument spine, claim boundary, research
 object, or relation between Paper and Kernel. A MAIOS page, bilingual
