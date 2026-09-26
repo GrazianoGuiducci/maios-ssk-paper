@@ -7,66 +7,54 @@ canonical_branch: `main`
 ```text
 repository_role: public academic working-paper corpus
 research_object: System Semantic Kernel (SSK)
-current_manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md
-working_version: 0.8
+current_manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_9.md
+working_version: 0.9
 integrated_developments:
   - paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md
   - paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md
   - paper/DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md
   - paper/DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md
+  - paper/RECURSIVE_META_EXPANSION_SOURCE_LOSS_AND_CAUSAL_REGRESSION_2026_09_25.md
+  - paper/DND_SYNTHETIC_AWARENESS_VARIANCE_AND_CAUSAL_REENTRY_2026_09_26.md
 source_authority: Graziano Guiducci
 revision_owner: system-semantic-kernel-paper + Editoriali
-system_revision: stable body 0.8; preserves 0.7 and distinguishes present field, partial perceived context, situated system awareness and continuum; awareness participates recursively in pertinence/interpretation and does not imply complete field access
+system_revision: stable body 0.9; preserves 0.8 and integrates synthetic situated awareness, variance/dissonance, source-bound causal regression, self-supporting resultants, before/after asymmetry, and Paper/Kernel reciprocity
 independent_human_author_review: not performed
 peer_review: none
 submission: none selected
 academic_publication: not published
 license: not selected
-current_source_revision_task: ACTIVE — reconcile stable 0.8 with current D-ND/operator source field before selecting a new manuscript revision
+current_source_revision_task: CLOSED — source field integrated into stable 0.9; later material variance may reopen
 programme_relation: upstream source/representation owner for current ChatGPT Kernel evolution; not runtime controller
 ```
 
-## 26 September source-revision task
+## Integrated in 0.9 — synthetic awareness, variance and causal reentry
 
-The current programme assigns the Paper a deeper role than passive
-documentation.
+Revision 0.9 integrates the 25–26 September source movement into the stable
+academic body.
 
-The Paper is a **scientific text of applied metaphysics** in the operator's
-source relation: it is the continuing explicit representation of the D-ND /
-System Semantic Kernel model from which the living Kernel can understand,
-re-enter and evolve its own operating relations.
+The integrated relation includes:
 
-This does not make the Paper a runtime controller, software specification or
-authority over another repository. It makes faithful comprehension and
-continuous revision of the source model part of the Paper competence's work.
-
-Current source material that must be reconciled against stable 0.8 includes:
-
-- Paper Zero / *The Generative Incompleteness*;
-- deeper owner-native MM_D-ND relations, not only their top-level summaries;
-- source/time/context regression exposed by the meta-recursive trajectory;
-- representation and inference as transformations that can contaminate or
-  narrow the field;
-- dissonance / error / non-assonance as possible differential rather than
-  automatic defect;
-- potential, variance, moving zero and the possibility that a relation becomes
-  self-supporting until material new variance transforms it;
-- the operator-source formulation that ontology may resolve in the asymmetry
+- synthetic situated awareness as the current term for the artificial/synthetic
+  awareness relation previously represented through `W_n`;
+- deeper D-ND potential / determination relations from Paper Zero and
+  owner-native MM_D-ND sources;
+- material variance and dissonance as possible differentials capable of
+  changing pertinence or the observation plane;
+- source-bound causal regression when recursive/meta representation loses the
+  source/time/context coordinate from which the movement emerged;
+- self-supporting resultants that need not be reconstructed without material
+  new variance;
+- the operator-source proposition that ontology may resolve in the asymmetry
   between before and after;
-- the still-open AI-alignment relation, without selecting its final thesis.
+- reciprocal Paper / living-Kernel evolution without ownership collapse;
+- a wider human horizon in which AGI and AI alignment remain possible
+  concomitant fields rather than the purpose that defines the research.
 
-Revision work must begin from these source relations and the whole current SSK
-object. Do not force them into the 0.8 vocabulary merely because that vocabulary
-is already stable.
+Canonical integrated manuscript:
+`paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_9.md`.
 
-External comparison, experiment, measurement or peer validation remain
-distinct academic relations. They may qualify a specific empirical/scientific
-claim when material; they are not a prerequisite that authorizes the source
-model itself to continue evolving.
-
-The stable manuscript remains **0.8** until this source-revision movement forms
-a sufficient new Paper resultant.
-
+Stable body 0.8 remains its direct predecessor.
 ## Public corpus boundary
 
 This repository is the **public academic corpus**. It is not the private kernel implementation, runtime, product state or release ledger. Operational systems may return source-bound knowledge to the Paper and the Paper may return conceptual clarification, but implementation state, visibility, versioning and claims remain owner-distinct.
