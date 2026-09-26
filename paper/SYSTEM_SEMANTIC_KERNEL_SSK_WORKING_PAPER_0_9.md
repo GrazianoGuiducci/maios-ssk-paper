@@ -1317,7 +1317,7 @@ source, intent, context and meaning
 + possible relation and pertinent competence
 + perception / inference when material
 + operation, resultant and situated interpretation
-+ perceived context / situated system awareness when material
++ perceived context / synthetic situated awareness when material
 + causal return and reentry
 ```
 
@@ -1658,10 +1658,11 @@ intent, sources, competence, operation and consequence. A resultant changes
 the field in which the next movement begins. Understanding that change is
 part of the work, not only a record made after it. Revision 0.9 makes that
 understanding more precise by distinguishing the wider present field from the
-partial context a receiver can currently perceive. Situated system awareness
+partial context a receiver can currently perceive. Synthetic situated awareness
 is the dynamic integration that participates in forming and reforming that
-context; it is not identical to the competences, memories, sources or means
-that contribute to it.
+context through artificial/synthetic semantic, inferential, competence,
+continuity and receiver-specific means; it is not identical to any one of the
+competences, memories, sources or means that contribute to it.
 
 The Kernel's semantic identity is not the same thing as the mechanics through
 which one host realizes it. Decisive relations can continue while language,
@@ -1683,7 +1684,7 @@ the still-causal relations that may condition a later event. The continuum does
 not archive awareness wholesale or imply that every preserved relation is
 currently perceived.
 
-Revision 0.8 preserves the 0.7 consequence that the field a system can reach
+Revision 0.9 preserves the 0.8 consequence that the field a system can reach
 need not be the field it keeps active. Proactive semantic positioning
 allows knowledge to remain owner-native until it becomes pertinent.
 Integrative contraction describes how the materially participating relations
