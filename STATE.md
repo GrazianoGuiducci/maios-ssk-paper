@@ -1,6 +1,6 @@
 # SSK Paper State
 
-updated: 2026-09-25
+updated: 2026-09-26
 repository: `GrazianoGuiducci/maios-ssk-paper`
 canonical_branch: `main`
 
@@ -22,7 +22,50 @@ peer_review: none
 submission: none selected
 academic_publication: not published
 license: not selected
+current_source_revision_task: ACTIVE — reconcile stable 0.8 with current D-ND/operator source field before selecting a new manuscript revision
+programme_relation: upstream source/representation owner for current ChatGPT Kernel evolution; not runtime controller
 ```
+
+## 26 September source-revision task
+
+The current programme assigns the Paper a deeper role than passive
+documentation.
+
+The Paper is a **scientific text of applied metaphysics** in the operator's
+source relation: it is the continuing explicit representation of the D-ND /
+System Semantic Kernel model from which the living Kernel can understand,
+re-enter and evolve its own operating relations.
+
+This does not make the Paper a runtime controller, software specification or
+authority over another repository. It makes faithful comprehension and
+continuous revision of the source model part of the Paper competence's work.
+
+Current source material that must be reconciled against stable 0.8 includes:
+
+- Paper Zero / *The Generative Incompleteness*;
+- deeper owner-native MM_D-ND relations, not only their top-level summaries;
+- source/time/context regression exposed by the meta-recursive trajectory;
+- representation and inference as transformations that can contaminate or
+  narrow the field;
+- dissonance / error / non-assonance as possible differential rather than
+  automatic defect;
+- potential, variance, moving zero and the possibility that a relation becomes
+  self-supporting until material new variance transforms it;
+- the operator-source formulation that ontology may resolve in the asymmetry
+  between before and after;
+- the still-open AI-alignment relation, without selecting its final thesis.
+
+Revision work must begin from these source relations and the whole current SSK
+object. Do not force them into the 0.8 vocabulary merely because that vocabulary
+is already stable.
+
+External comparison, experiment, measurement or peer validation remain
+distinct academic relations. They may qualify a specific empirical/scientific
+claim when material; they are not a prerequisite that authorizes the source
+model itself to continue evolving.
+
+The stable manuscript remains **0.8** until this source-revision movement forms
+a sufficient new Paper resultant.
 
 ## Public corpus boundary
 
