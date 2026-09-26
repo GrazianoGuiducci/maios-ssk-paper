@@ -1,5 +1,28 @@
 # SSK Paper revision history
 
+## 0.9 — 2026-09-26
+
+Current integrated stable body.
+
+Revision 0.9 preserves 0.8 and integrates the 25–26 September D-ND source movement.
+
+It adds:
+
+- **synthetic situated awareness** as the current name for the artificial/synthetic awareness relation represented analytically through `W_n`;
+- **source-bound causal regression** after recursive/meta loss of the source/time/context coordinate;
+- **variance and dissonance as differential**, including the possibility that a relation secondary in one field becomes primary after the field changes;
+- **self-supporting resultants**: situated sufficiency does not require repeated reconstruction when no material new variance acts;
+- the operator-source proposition **"l'ontologia si risolve nell'asimmetria tra il prima e il dopo"**, retained as an open metaphysical proposition rather than a closed theorem;
+- **Paper / living-Kernel reciprocity**: the Paper is a scientific text of applied metaphysics that makes the source model explicit enough to inform later Kernel comprehension, while Kernel consequences can deepen the Paper without transferring runtime authority;
+- a wider human horizon for synthetic awareness; AGI and AI alignment remain possible concomitant application fields rather than the purpose defining the research.
+
+Source developments:
+
+- `RECURSIVE_META_EXPANSION_SOURCE_LOSS_AND_CAUSAL_REGRESSION_2026_09_25.md`
+- `DND_SYNTHETIC_AWARENESS_VARIANCE_AND_CAUSAL_REENTRY_2026_09_26.md`
+
+Stable body 0.8 remains the direct predecessor.
+
 ## 0.8 — 2026-09-25
 
 Current integrated stable body.
