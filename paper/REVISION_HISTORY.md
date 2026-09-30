@@ -1,5 +1,37 @@
 # SSK Paper revision history
 
+## 0.10 — 2026-09-30
+
+Current integrated stable body.
+
+Revision 0.10 preserves 0.9 and integrates the 30 September operator/Kernel
+movement on **representational decontamination and epistemic probing**.
+
+It adds:
+
+- representation as an observation condition that can constrain which relations
+  become distinguishable without becoming the source object itself;
+- **representational differential**: changing medium/form while holding the
+  selected source/object relation stable can reveal a candidate relation that
+  was hidden in the first representation;
+- the KA/FDLA interpretation: KA prevents the active representation from
+  becoming the possibility horizon; FDLA corrects artifacts or substitutions
+  introduced by the alternative representation;
+- neutral observation as compatible with deliberate change of observation
+  conditions when the outcome remains unprescribed;
+- a refinement of H8 from generic medium transformation to representational
+  decontamination / medium transformation.
+
+The relation is conceptual/source formalization with one bounded living-Kernel
+exercise. Cross-representation agreement is not independent proof, novelty in
+one form is not truth by itself and no new runtime controller is claimed.
+
+Source development:
+
+- `REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md`
+
+Stable body 0.9 remains the direct predecessor.
+
 ## 0.9 — 2026-09-26
 
 Current integrated stable body.

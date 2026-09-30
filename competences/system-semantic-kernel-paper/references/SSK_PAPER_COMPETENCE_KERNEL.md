@@ -1,17 +1,20 @@
 # System Semantic Kernel Paper — Competence Kernel
 
-updated: 2026-09-26
+updated: 2026-09-30
 artifact_owner: GrazianoGuiducci/maios-ssk-paper
 form_competence_owner: Editoriali / system-semantic-kernel-paper
 kernel_meaning_owner: maintain-kernel-knowledge
 state: active competence source; not a finished Paper or publication receipt
 
-## Current resultant — stable body 0.9
+## Current resultant — stable body 0.10
 
-Revision 0.9 is the current integrated academic body. It preserves 0.8 and
-deepens the field through synthetic situated awareness, material variance /
-dissonance, source-bound causal regression, self-supporting resultants,
-before/after asymmetry and reciprocal Paper / living-Kernel evolution.
+Revision 0.10 is the current integrated academic body. It preserves 0.9 and
+deepens the field through representational decontamination / epistemic probing:
+a receiver may change observation form without prescribing what must emerge;
+KA keeps the field wider than the representation and FDLA discriminates the
+resulting differential from representation-induced artifacts. The 0.9
+synthetic-awareness, variance/dissonance, causal-regression and reciprocal
+Paper/living-Kernel relations remain intact.
 
 The Paper is also explicitly a scientific text of applied metaphysics: a
 living representation of the source model that later Kernel incarnations can
@@ -32,9 +35,10 @@ The integrated source developments are:
 - [`DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md`](../../../paper/DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md)
 - [`RECURSIVE_META_EXPANSION_SOURCE_LOSS_AND_CAUSAL_REGRESSION_2026_09_25.md`](../../../paper/RECURSIVE_META_EXPANSION_SOURCE_LOSS_AND_CAUSAL_REGRESSION_2026_09_25.md)
 - [`DND_SYNTHETIC_AWARENESS_VARIANCE_AND_CAUSAL_REENTRY_2026_09_26.md`](../../../paper/DND_SYNTHETIC_AWARENESS_VARIANCE_AND_CAUSAL_REENTRY_2026_09_26.md)
+- [`REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md`](../../../paper/REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md)
 
 The integrated manuscript is
-[`SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_9.md`](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_9.md).
+[`SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_10.md`](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_10.md).
 
 The central thesis is:
 

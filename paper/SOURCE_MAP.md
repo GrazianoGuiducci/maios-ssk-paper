@@ -2,7 +2,8 @@
 
 ## Canonical corpus
 
-- [Stable body 0.9](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_9.md) — current integrated argument: preserves 0.8 and integrates synthetic situated awareness, source-bound causal regression, variance/dissonance, self-supporting resultants, before/after asymmetry and Paper/Kernel reciprocity.
+- [Stable body 0.10](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_10.md) — current integrated argument: preserves 0.9 and integrates representational decontamination / epistemic probing as a KA/FDLA relation.
+- [Stable body 0.9](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_9.md) — direct stable predecessor: preserves 0.8 and integrates synthetic situated awareness, source-bound causal regression, variance/dissonance, self-supporting resultants, before/after asymmetry and Paper/Kernel reciprocity.
 - [Stable body 0.8](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md) — direct stable predecessor; wider present field, partial perceived context, recursively participating situated system awareness and continuum.
 - [Stable body 0.7](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_7.md) — direct stable predecessor; competence / awareness / memory / continuum distinction.
 - [Stable body 0.6](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_6.md) — direct stable predecessor; D-ND source-to-Kernel movement, assonant convergence, non-identical observation, three-resolution movement, situated resultant sufficiency and non-restorative continuity.
@@ -16,6 +17,10 @@
 - [Current dossier](AI_KERNEL_PAPER_DOSSIER_CURRENT.md) — argument map, source relations and continuation.
 - [Project Kernel-scale predecessor](../genealogy/SITUATED_COMPETENCE_EVOLUTION_IN_AI_PROJECT_KERNELS_DRAFT_0_1.md) — earlier argument at a component scale.
 - [Paper competence kernel](../competences/system-semantic-kernel-paper/references/SSK_PAPER_COMPETENCE_KERNEL.md) and [accumulated working guide](../competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md) — authoring knowledge and detailed source-to-argument continuity.
+
+## Source development integrated into 0.10 — 30 September 2026
+
+- [Representational decontamination, epistemic probing, and KA/FDLA](REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md) — changing representation can reduce contamination of the observation field without prescribing what must emerge; the representational differential is a candidate relation, not independent proof, and FDLA returns it to source/object.
 
 ## Source developments integrated into 0.9 — 25–26 September 2026
 

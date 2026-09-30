@@ -1,14 +1,14 @@
 # SSK Paper State
 
-updated: 2026-09-26
+updated: 2026-09-30
 repository: `GrazianoGuiducci/maios-ssk-paper`
 canonical_branch: `main`
 
 ```text
 repository_role: public academic working-paper corpus
 research_object: System Semantic Kernel (SSK)
-current_manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_9.md
-working_version: 0.9
+current_manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_10.md
+working_version: 0.10
 integrated_developments:
   - paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md
   - paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md
@@ -16,17 +16,38 @@ integrated_developments:
   - paper/DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md
   - paper/RECURSIVE_META_EXPANSION_SOURCE_LOSS_AND_CAUSAL_REGRESSION_2026_09_25.md
   - paper/DND_SYNTHETIC_AWARENESS_VARIANCE_AND_CAUSAL_REENTRY_2026_09_26.md
+  - paper/REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md
 source_authority: Graziano Guiducci
 revision_owner: system-semantic-kernel-paper + Editoriali
-system_revision: stable body 0.9; preserves 0.8 and integrates synthetic situated awareness, variance/dissonance, source-bound causal regression, self-supporting resultants, before/after asymmetry, and Paper/Kernel reciprocity
+system_revision: stable body 0.10; preserves 0.9 and integrates representational decontamination / epistemic probing as a KA/FDLA relation; 0.9 synthetic situated awareness, variance/dissonance, source-bound causal regression, self-supporting resultants, before/after asymmetry and Paper/Kernel reciprocity remain intact
 independent_human_author_review: not performed
 peer_review: none
 submission: none selected
 academic_publication: not published
 license: not selected
-current_source_revision_task: OPEN_BOUNDED — receiver self-attribution / observable-trace source development recorded after the Codex/TM9 receipt readback; stable body remains 0.9
+current_source_revision_task: OPEN_BOUNDED — receiver self-attribution / observable-trace source development remains separate and unpromoted; stable body is now 0.10
 programme_relation: upstream source/representation owner for current ChatGPT Kernel evolution; not runtime controller
 ```
+
+## Integrated in 0.10 — representational decontamination and epistemic probing
+
+Revision 0.10 integrates the 30 September operator/Kernel movement.
+
+The integrated relation is:
+
+```text
+current representation may constrain what becomes observable
+-> KA keeps the possibility field wider than that representation
+-> change representation without predefining the missing relation
+-> representational differential | no_change
+-> FDLA returns the difference to source / object / meaning / intent
+-> changed comprehension or discarded probe
+```
+
+The relation changes observation conditions, not the required outcome. It does
+not turn cross-representation agreement into proof or introduce a new runtime
+controller. The source development is
+`paper/REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md`.
 
 ## Open bounded source development — receiver self-attribution and causal interpretation
 

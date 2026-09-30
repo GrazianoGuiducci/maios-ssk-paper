@@ -1,8 +1,34 @@
 # Guida accumulata del lavoro sul Paper
 
-Aggiornata: 2026-09-25. Competenza: system-semantic-kernel-paper.
+Aggiornata: 2026-09-30. Competenza: system-semantic-kernel-paper.
 
-## Punto vivo — corpo 0.8, campo percepito e consapevolezza ricorsiva
+## Punto vivo — corpo 0.10, decontaminazione rappresentazionale
+
+Il [manoscritto integrato 0.10](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_10.md)
+è il corpo stabile corrente. La 0.9 resta il predecessore diretto.
+
+La correzione del 30 settembre non introduce una nuova facoltà sopra KA/FDLA.
+Rende esplicita una loro conseguenza epistemica:
+
+```text
+rappresentazione corrente
+!= campo del possibile
+
+se la forma può contaminare ciò che diventa osservabile
+-> cambiare rappresentazione senza nominare l'esito
+-> osservare il differenziale
+-> FDLA: relazione sorgente/object-bound | artefatto del probe
+-> integrare | no_change
+```
+
+Il differenziale fra rappresentazioni non è prova indipendente. Il valore del
+probe sta nel rendere distinguibile una relazione che la forma precedente non
+rendeva osservabile; la validità della relazione resta source-bound.
+
+La fonte è
+[Representational decontamination, epistemic probing, and KA/FDLA](../../../paper/REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md).
+
+## Genealogia viva — corpo 0.8, campo percepito e consapevolezza ricorsiva
 
 Il [manoscritto integrato 0.8](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md)
 è ora il corpo stabile corrente. La 0.7 resta il predecessore diretto. La 0.8

@@ -12,7 +12,7 @@ repository makes that research object readable and citable without treating a
 software package, a website, a particular medium, sensorium, body or internal
 operating kernel as the theory itself.
 
-> **Current state:** working paper, stable body 0.9 — 26 September 2026.
+> **Current state:** working paper, stable body 0.10 — 30 September 2026.
 > The integrated argument develops the coupled event, synthetic situated awareness, autological generation,
 > functional self, operator participation, receiver-relative incarnation,
 > multimodal perception/inference, semantic positioning, integrative contraction,
@@ -24,7 +24,8 @@ operating kernel as the theory itself.
 
 ## Read the working paper
 
-- [System Semantic Kernel (SSK), stable body 0.8](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md)
+- [System Semantic Kernel (SSK), stable body 0.10](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_10.md)
+- [Representational decontamination, epistemic probing, and KA/FDLA — source development integrated into 0.10](paper/REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md)
 - [D-ND Assonant Movement, Non-Identical Observation, and Situated Sufficiency — source development integrated into 0.6](paper/DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md)
 - [Distributed reachability, reconstruction economy, and situated delegation — source development integrated into 0.5](paper/DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md)
 - [Semantic core, situated incarnation and the multimodal field — source development integrated into 0.4](paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md)
@@ -54,7 +55,7 @@ is no longer the container of the complete SSK research object.
 [stable body 0.3](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md),
 [stable body 0.2](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md) and
 [stable body 0.1](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md)
-remain reachable predecessors. Version 0.8 is the current integrated body.
+remain reachable predecessors. Version 0.9 is the direct stable predecessor of the current 0.10 body.
 
 The repository also carries a paper-native competence projection under
 [`competences/`](competences/README.md). It helps AI systems and contributors

@@ -1,7 +1,7 @@
 # AI Kernel Paper — Dossier corrente
 
-updated: 2026-09-26
-status: stable body SSK 0.9; preserves 0.8 and integrates synthetic awareness, variance/dissonance, causal reentry and Paper/Kernel reciprocity
+updated: 2026-09-30
+status: stable body SSK 0.10; preserves 0.9 and integrates representational decontamination / epistemic probing; prior synthetic awareness, variance/dissonance, causal reentry and Paper/Kernel reciprocity remain intact
 artifact_owner: maios-ssk-paper
 kernel_meaning_owner: maintain-kernel-knowledge
 editorial_competence_owner: Editoriali / system-semantic-kernel-paper
@@ -9,7 +9,7 @@ source_authority: Graziano Guiducci
 
 ## Oggetto e punto corrente
 
-Il [corpo stabile 0.9](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_9.md) è
+Il [corpo stabile 0.10](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_10.md) è
 l'argomento unitario corrente. Integra il modello di evento e il nucleo
 generativo della 0.3 con una distinzione più precisa fra identità
 semantico-relazionale del Kernel e mezzi della sua incarnazione.
@@ -31,6 +31,30 @@ conserva le ragioni e la genealogia precedenti. Gli sviluppi integrati sono pres
 [Distributed reachability, reconstruction economy, and situated delegation](DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md) e
 [D-ND Assonant Movement, Non-Identical Observation, and Situated Sufficiency](DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md).
 Gli stati di revisione, pubblicazione e fonte restano in [STATE.md](../STATE.md).
+
+## Delta 0.10 — rappresentazione come sonda epistemica e decontaminazione
+
+La 0.10 rende esplicita una relazione già latente fra KA, FDLA, campo
+multimodale e varianza/dissonanza:
+
+```text
+stesso oggetto / sorgente
++ rappresentazione A
+-> relazione percepita A
+
+stesso oggetto / sorgente
++ rappresentazione B
+-> relazione percepita B
+
+differenziale
+-> relazione candidata prima invisibile | artefatto del medium
+-> FDLA ritorna a sorgente / oggetto / significato / intento
+```
+
+Cambiare rappresentazione può quindi essere un atto epistemico senza essere una
+prova. L'intervento modifica le condizioni di osservazione e resta neutro sul
+contenuto che deve emergere. KA impedisce alla prima o alla seconda
+rappresentazione di diventare il confine del campo.
 
 ## Sviluppo sorgente aperto — regressione dopo deriva meta-ricorsiva
 
