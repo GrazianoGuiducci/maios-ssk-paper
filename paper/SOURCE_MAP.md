@@ -20,7 +20,8 @@
 
 ## Academic-accessible companion forms
 
-- [Quando un sistema AI deve continuare a capire — introduzione accessibile al SSK, companion 0.1 IT](SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_IT.md) — second academic documentary form derived from stable body 0.10 through Editoriali. It reconstructs the reader entry path and preserves the Paper claim state; it is not a replacement manuscript or a new evidence source.
+- [Quando un sistema AI deve continuare a capire — introduzione accessibile al SSK, companion 0.1 IT](SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_IT.md) — Italian academic-accessible form derived from stable body 0.10 through Editoriali.
+- [When an AI system needs to keep understanding — accessible introduction to SSK, companion 0.1 EN](SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_EN.md) — English companion from the same semantic and claim-state source. Both companions reconstruct reader entry and are not replacement manuscripts or new evidence sources.
 
 ## Source development integrated into 0.10 — 30 September 2026
 

@@ -26,14 +26,15 @@ submission: none selected
 academic_publication: not published
 license: not selected
 current_source_revision_task: OPEN_BOUNDED — receiver self-attribution / observable-trace source development remains separate and unpromoted; stable body is now 0.10
-accessible_academic_companion:
-  path: paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_IT.md
+accessible_academic_companions:
   version: 0.1
-  language: it
-  state: editorial companion / academically structured / source-bound to stable body 0.10
-  truth_relation: derivative; no new claim state; does not replace canonical manuscript
+  sources:
+    it: paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_IT.md
+    en: paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_EN.md
+  state: editorial companions / academically structured / source-bound to stable body 0.10
+  truth_relation: derivative; no new claim state; do not replace canonical manuscript
   editorial_owner: GrazianoGuiducci/Editoriali@f5e9af01115e1d5e88f1098750711ac82aefc318
-  publication_state: repository source only; no journal submission / DOI / site publication selected
+  publication_state: repository sources; public site projection may be selected separately; no journal submission / DOI selected
 programme_relation: upstream source/representation owner for current ChatGPT Kernel evolution; not runtime controller
 ```
 
@@ -352,7 +353,7 @@ Time as consecution concerns semantic reconstruction: already determined and rea
 For the present revision use:
 
 1. this `STATE.md` for current Paper state;
-2. `paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_9.md` as the current stable academic body;
+2. `paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_10.md` as the current stable academic body;
 3. `paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md` for the semantic-core / receiver-relative source development inherited from 0.4;
 4. `paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md` for contraction/expansion and competence-morphogenesis integrated in 0.5;
 5. `paper/DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md` for distributed reachability / reconstruction economy integrated in 0.5;

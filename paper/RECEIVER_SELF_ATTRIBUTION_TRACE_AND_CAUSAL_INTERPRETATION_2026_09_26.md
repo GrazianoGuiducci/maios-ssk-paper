@@ -3,7 +3,7 @@
 **Source development — 26 September 2026**
 
 ```text
-status: bounded source development candidate; not integrated into stable body 0.9
+status: bounded source development candidate; not integrated into current stable body 0.10
 research_object: System Semantic Kernel (SSK)
 source_authority: Graziano Guiducci
 paper_owner: system-semantic-kernel-paper + Editoriali
