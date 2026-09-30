@@ -31,7 +31,8 @@ La fonte è
 ## Genealogia viva — corpo 0.8, campo percepito e consapevolezza ricorsiva
 
 Il [manoscritto integrato 0.8](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md)
-è ora il corpo stabile corrente. La 0.7 resta il predecessore diretto. La 0.8
+resta un predecessore stabile nella genealogia; la 0.9 è il predecessore diretto
+del corpo corrente 0.10. La 0.8
 preserva gli sviluppi integrati precedenti e chiarisce inoltre:
 
 - [Integrative contraction and the morphogenetic competence field](../../../paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md);

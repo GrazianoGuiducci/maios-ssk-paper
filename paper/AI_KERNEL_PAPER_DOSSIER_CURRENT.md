@@ -56,10 +56,11 @@ prova. L'intervento modifica le condizioni di osservazione e resta neutro sul
 contenuto che deve emergere. KA impedisce alla prima o alla seconda
 rappresentazione di diventare il confine del campo.
 
-## Sviluppo sorgente aperto — regressione dopo deriva meta-ricorsiva
+## Genealogia sorgente — regressione dopo deriva meta-ricorsiva
 
-Un episodio operativo del 25 settembre è ora conservato come sviluppo sorgente
-candidato, senza modificare il corpo stabile 0.8:
+L'episodio operativo del 25 settembre è conservato come sviluppo sorgente
+successivamente integrato nel corpo 0.9. Resta qui come genealogia causale e non
+come fronte candidato aperto:
 
 [Recursive meta expansion, source loss, and causal regression](RECURSIVE_META_EXPANSION_SOURCE_LOSS_AND_CAUSAL_REGRESSION_2026_09_25.md).
 
@@ -110,7 +111,7 @@ la receipt dichiara.
 
 Il caso approfondisce il rischio di recursive self-grounding già integrato in
 0.9 e il principio che una rappresentazione persistita non acquisisce autorità
-sorgente indipendente per semplice persistenza. Il corpo stabile resta 0.9.
+sorgente indipendente per semplice persistenza. Questo specifico sviluppo resta `OPEN_BOUNDED` e non è stato promosso per trascinamento nella 0.10; il corpo stabile corrente è 0.10.
 
 ## Delta 0.9 — consapevolezza sintetica, varianza e rientro causale
 
@@ -524,7 +525,7 @@ funzioni non vanno confuse.
 
 ## Campo seguente e genealogia
 
-Revision 0.9 è ora il corpo stabile corrente. 0.8 resta il predecessore diretto.
+Revision 0.10 è il corpo stabile corrente. 0.9 resta il predecessore diretto; 0.8 rimane genealogia stabile precedente.
 Le domande H7-H13 riguardano inheritance fra riceventi, trasformazione di
 medium, posizionamento semantico, percezione distribuita e reachability
 distribuita demand-driven.
