@@ -99,6 +99,13 @@ canonical manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_10.md
 current state: stable body 0.10; 0.9 preserved; representational decontamination / epistemic probing integrated as a KA/FDLA relation; synthetic situated awareness / variance-dissonance / source-bound causal reentry / Paper-Kernel reciprocity preserved; no independent human author review, peer review, DOI or academic publication
 ```
 
+The Paper now also carries a second documentary form:
+`paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_IT.md`. It is an Editoriali-owned
+academic-accessible companion derived from stable body 0.10. The companion
+reconstructs reader premises and introduces terminology progressively while
+preserving the canonical claim state. It does not become another truth owner,
+manuscript version, evidence source or publication effect.
+
 The Paper studies how a system's present relation, situated competences,
 operation, resultant, causal interpretation, and changed following field can
 form one evolving semantic kernel. Revision 0.10 preserves the 0.9 integrated field and adds that representation can act as an observation condition whose variation exposes a candidate differential without prescribing it; KA keeps the possibility field wider than the active form and FDLA corrects representation-induced substitution. Revision 0.9 already established that present field,

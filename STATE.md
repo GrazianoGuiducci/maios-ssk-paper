@@ -26,6 +26,14 @@ submission: none selected
 academic_publication: not published
 license: not selected
 current_source_revision_task: OPEN_BOUNDED — receiver self-attribution / observable-trace source development remains separate and unpromoted; stable body is now 0.10
+accessible_academic_companion:
+  path: paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_IT.md
+  version: 0.1
+  language: it
+  state: editorial companion / academically structured / source-bound to stable body 0.10
+  truth_relation: derivative; no new claim state; does not replace canonical manuscript
+  editorial_owner: GrazianoGuiducci/Editoriali@f5e9af01115e1d5e88f1098750711ac82aefc318
+  publication_state: repository source only; no journal submission / DOI / site publication selected
 programme_relation: upstream source/representation owner for current ChatGPT Kernel evolution; not runtime controller
 ```
 

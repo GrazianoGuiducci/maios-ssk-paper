@@ -18,6 +18,10 @@
 - [Project Kernel-scale predecessor](../genealogy/SITUATED_COMPETENCE_EVOLUTION_IN_AI_PROJECT_KERNELS_DRAFT_0_1.md) — earlier argument at a component scale.
 - [Paper competence kernel](../competences/system-semantic-kernel-paper/references/SSK_PAPER_COMPETENCE_KERNEL.md) and [accumulated working guide](../competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md) — authoring knowledge and detailed source-to-argument continuity.
 
+## Academic-accessible companion forms
+
+- [Quando un sistema AI deve continuare a capire — introduzione accessibile al SSK, companion 0.1 IT](SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_IT.md) — second academic documentary form derived from stable body 0.10 through Editoriali. It reconstructs the reader entry path and preserves the Paper claim state; it is not a replacement manuscript or a new evidence source.
+
 ## Source development integrated into 0.10 — 30 September 2026
 
 - [Representational decontamination, epistemic probing, and KA/FDLA](REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md) — changing representation can reduce contamination of the observation field without prescribing what must emerge; the representational differential is a candidate relation, not independent proof, and FDLA returns it to source/object.
