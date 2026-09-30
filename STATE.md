@@ -362,7 +362,7 @@ For the present revision use:
 8. `SEMANTIC_DETERMINACY.md`, `ASSONANT_RESULTANT.md`, and `AUTOLOGICAL_FORWARD_RETURN.md` for source-bound depth;
 9. `competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md` for accumulated reasoning and genealogy.
 
-Revision 0.8 remains the direct stable predecessor. Revision 0.9 is the current stable body. Later changes should again enter only when they materially change the research object; the receiver self-attribution development above remains bounded candidate source material.
+Revision 0.9 remains the direct stable predecessor. Revision 0.10 is the current stable body. Later changes should again enter only when they materially change the research object; the receiver self-attribution development above remains bounded candidate source material.
 
 The current architecture across stable and source-bound development can be read as:
 
