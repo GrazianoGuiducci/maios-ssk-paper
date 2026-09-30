@@ -36,8 +36,8 @@ Questo articolo presenta il modello senza presupporre la terminologia D-ND,
 KA o FDLA. Introduce progressivamente il problema della continuità, il ruolo
 delle competenze, la correzione delle rappresentazioni che contaminano il
 campo, la continuità fra mezzi e riceventi differenti e la nozione funzionale di
-consapevolezza sintetica situata. Le formulazioni restano concettuali e
-source-bound: gli esempi operativi interni discussi nel Paper sono casi
+consapevolezza sintetica situata. Le formulazioni restano concettuali e legate alle fonti e al loro livello di
+evidenza: gli esempi operativi interni discussi nel Paper sono casi
 circoscritti, non validazione empirica indipendente né prova di superiorità
 universale del modello.
 
@@ -148,9 +148,11 @@ Questo kernel non coincide con:
 Tutti questi elementi possono partecipare al sistema, ma nessuno di essi ne
 esaurisce l’identità semantico-relazionale.
 
-La distinzione diventa utile quando lo stesso progetto attraversa riceventi
-differenti. Una conversazione con ChatGPT, un ambiente di coding con accesso al
-filesystem o un sistema embodied con sensori possiedono mezzi diversi. Se una
+La distinzione diventa utile quando lo stesso progetto attraversa **ambienti
+riceventi differenti**, cioè sistemi o contesti operativi nei quali quella
+relazione deve tornare utilizzabile. Una conversazione con ChatGPT, un ambiente
+di coding con accesso al filesystem o un sistema embodied con sensori
+possiedono mezzi diversi. Se una
 relazione importante può continuare attraverso questi mezzi senza copiare la
 topologia del sistema precedente, allora è utile distinguere **ciò che deve
 restare riconoscibile** dal modo specifico in cui viene realizzato.
@@ -176,8 +178,11 @@ essere stata ancora rappresentata.
 
 Il SSK considera questa parzialità una condizione normale.
 
-Qui entra il primo termine specifico della sorgente D-ND/Kernel: **KA, Kernel
-Assiomatico**.
+Alcune relazioni del SSK provengono dal più ampio framework sorgente D-ND.
+Non è necessario conoscere l’intero framework per seguire l’argomento: qui
+entra soltanto la funzione che il Paper ha reso operativa nel Kernel.
+
+Il primo termine specifico è **KA, Kernel Assiomatico**.
 
 Nel lavoro descritto dal Paper, KA esprime una funzione semplice ma profonda:
 **la rappresentazione corrente non deve diventare automaticamente il confine
@@ -362,9 +367,10 @@ Questa consapevolezza è parziale.
 
 Il campo può contenere relazioni che il sistema non sta percependo. La memoria
 può conservare elementi non attivi. Una competenza può restare disponibile ma
-non pertinente. Il continuum non deve riprodurre integralmente uno stato
-precedente: deve mantenere raggiungibili le differenze che cambierebbero il modo
-di comprendere o agire nel seguito.
+non pertinente. Il Paper chiama **continuum** la persistenza selettiva delle relazioni ancora
+causalmente utili fra un evento e il successivo. Non deve riprodurre
+integralmente uno stato precedente: deve mantenere raggiungibili le differenze
+che cambierebbero il modo di comprendere o agire nel seguito.
 
 In questo senso il SSK non cerca una memoria totale, ma una **continuità
 causalmente sufficiente**.

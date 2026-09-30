@@ -59,8 +59,9 @@ controller. The source development is
 
 ## Open bounded source development — receiver self-attribution and causal interpretation
 
-The 26 September Codex/TM9 receipt/readback exposed a narrower relation that is
-not yet promoted into stable body 0.9:
+The 26 September Codex/TM9 receipt/readback exposed a narrower relation after
+the 0.9 formation. It remains OPEN_BOUNDED and is not promoted into stable body
+0.10:
 
 `paper/RECEIVER_SELF_ATTRIBUTION_TRACE_AND_CAUSAL_INTERPRETATION_2026_09_26.md`
 
@@ -80,7 +81,8 @@ actually checks; it does not independently validate the causal narrative stored
 inside the receipt.
 
 This deepens the 0.9 recursive self-grounding and source-regression relations
-without adding a runtime component or changing the current stable manuscript.
+without adding a runtime component. It remains outside the current stable 0.10
+manuscript unless a later Paper movement explicitly integrates it.
 
 ## Integrated in 0.9 — synthetic awareness, variance and causal reentry
 
