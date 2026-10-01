@@ -5,8 +5,8 @@ type: article
 authors:
   - family-names: Guiducci
     given-names: Graziano
-version: "0.8"
-date-released: 2026-09-25
+version: "0.10"
+date-released: 2026-09-30
 repository-code: "https://github.com/GrazianoGuiducci/maios-ssk-paper"
 url: "https://github.com/GrazianoGuiducci/maios-ssk-paper"
 abstract: >-
