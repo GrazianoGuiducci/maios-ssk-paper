@@ -25,7 +25,7 @@ peer_review: none
 submission: none selected
 academic_publication: not published
 license: not selected
-current_source_revision_task: OPEN_BOUNDED — receiver self-attribution / observable-trace source development remains separate and unpromoted; stable body is now 0.10
+current_source_revision_task: OPEN_BOUNDED — receiver self-attribution / observable-trace source development remains separate and unpromoted; HOW_A_KERNEL_EMERGES source development opened 2026-10-02 from the Social Kernel formation; stable body remains 0.10
 accessible_academic_companions:
   version: 0.1
   sources:
@@ -57,6 +57,32 @@ The relation changes observation conditions, not the required outcome. It does
 not turn cross-representation agreement into proof or introduce a new runtime
 controller. The source development is
 `paper/REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md`.
+
+
+## Open source development — How a Kernel Emerges
+
+The 2 October 2026 MAIOS Social Kernel formation opens a new bounded research
+question:
+
+> How does a kernel begin to exist as a kernel rather than as a temporary
+> composition of competences, tools, state and operator guidance?
+
+Current source development:
+`paper/HOW_A_KERNEL_EMERGES_2026_10_02.md`.
+
+The first specimen isolates a candidate **kernel individuation** relation:
+repeated situated work can expose a persistent higher-order residual after
+existing owner-native competences already compose successfully. The candidate
+procedure therefore distinguishes **kernel individuation** from later kernel
+construction: first determine whether a distinct continuing object has emerged;
+only then derive its smallest coherent organs, incarnation and first complete
+vertical.
+
+The Social Kernel case is one bounded internal operational specimen. It does not
+establish a universal kernel-generation law. The development remains open for
+cross-node returns, non-identical kernel formations, failures and counterexamples.
+A later stable revision should integrate it only after the generative-method delta
+survives that recomposition. Stable body 0.10 is not altered by this opening.
 
 ## Open bounded source development — receiver self-attribution and causal interpretation
 
