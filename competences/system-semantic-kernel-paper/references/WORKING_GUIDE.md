@@ -516,3 +516,15 @@ becomes material.
 Stable manuscript remains 0.9. Promote this candidate only if it changes the
 integrated research object or later evidence broadens the relation.
 
+
+## Open development — how a kernel emerges
+
+The 2 October Social Kernel formation opens a bounded source development on
+**kernel individuation before kernel construction**:
+`paper/HOW_A_KERNEL_EMERGES_2026_10_02.md`.
+
+Use it as a living contribution ledger while the first Social Kernel vertical,
+cross-node returns and non-identical kernel formations accumulate. It is not yet
+part of stable body 0.10. A later revision may integrate it only if the candidate
+generative-method delta survives recomposition and counterexample.
+
