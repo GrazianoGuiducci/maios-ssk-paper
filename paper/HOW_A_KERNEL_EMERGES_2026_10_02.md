@@ -321,6 +321,48 @@ The later topology should be determined by observed needs:
 state ownership, event model, adapters, competence routing, cockpit, product
 boundary and package form.
 
+### Phase 9 — Material owner selection after individuation
+
+After the initial distributed incubation, the operator selected material
+repository ownership:
+
+```text
+GrazianoGuiducci/K-Social
+  -> private living source / highest-resolution formation
+
+GrazianoGuiducci/social-kernel
+  -> public generalized product derivative
+```
+
+The selection did not invalidate the earlier rule "identity before topology".
+It exercised it: topology was chosen **after** a persistent object, invariants,
+first vertical and owner relations had become visible.
+
+A second distinction then emerged:
+
+```text
+one kernel identity
+!= one repository
+!= one visibility boundary
+```
+
+The private/public relation is deliberately asymmetric. The private living
+kernel can contain situated operator knowledge, unfinished experiments and
+high-resolution learning. The public product receives only neutralized,
+portable relations that survive removal of private conditions.
+
+The first native private incarnation added only functions already made material
+by the live field:
+
+- event/consequence continuum;
+- user-field projection;
+- cognitive-integrity relation;
+- source map and private/public boundary.
+
+This is evidence of **post-individuation materialization**, not evidence that
+these files or organs are universal.
+
+
 ## 6. What the Social Kernel episode changes in the generative method
 
 The episode suggests several refinements to the meta-kernel competence.
@@ -458,6 +500,38 @@ differences.
 **Claim state**
 
 Bounded operational specimen / source development.
+
+### 2026-10-02 — Materialization / business / marketing return
+
+**Observed contribution**
+
+- the operator selected a private living owner (`K-Social`) and a distinct
+  public product owner (`social-kernel`);
+- public/private became a functional boundary rather than a visibility setting:
+  the public product is a generalized derivative, not a mirror;
+- the private kernel materialized only organs already required by the first
+  vertical: event/consequence continuity, minimum pertinent user-knowledge
+  projection and cognitive integrity;
+- Business Manager reframed retention away from artificial lock-in and toward
+  compounding continuity, competence, trust and relationship value;
+- Editoriali reframed marketing away from "AI social manager" toward a
+  persistent operating kernel for public presence;
+- Cognitive Integrity widened the possible object from outbound public presence
+  toward a reciprocal public-interface kernel mediating both
+  `user -> world` and `world -> user`.
+
+**Current interpretation**
+
+The episode suggests that kernel individuation may be followed by **owner
+differentiation**: one semantic kernel relation can require distinct private,
+public, runtime or product owners without becoming several unrelated kernels.
+This remains a candidate generalization.
+
+**Claim state**
+
+Bounded operational/product formation return; no public release, adoption,
+licensing model or medical/wellbeing efficacy established.
+
 
 ### Next expected contributions
 
