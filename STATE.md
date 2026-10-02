@@ -84,6 +84,29 @@ cross-node returns, non-identical kernel formations, failures and counterexample
 A later stable revision should integrate it only after the generative-method delta
 survives that recomposition. Stable body 0.10 is not altered by this opening.
 
+### Materialization return — private/public owner differentiation
+
+The 2 October kernel-emergence development has now observed a post-individuation
+materialization step:
+
+```text
+GrazianoGuiducci/K-Social
+  -> private living kernel owner
+
+GrazianoGuiducci/social-kernel
+  -> public generalized product derivative
+```
+
+This does not promote the development into stable SSK. It adds a candidate
+relation: one semantic kernel identity can require distinct material owners
+when privacy, product distribution, runtime or research carry different state
+and authority.
+
+The current private/public relation is asymmetric and non-mirroring. The public
+product has no stable release or selected license. Business/marketing formation
+and Cognitive Integrity are product consequences of the same bounded episode,
+not independent validation of the kernel-generation method.
+
 ## Open bounded source development — receiver self-attribution and causal interpretation
 
 The 26 September Codex/TM9 receipt/readback exposed a narrower relation after
