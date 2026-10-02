@@ -270,3 +270,5 @@ The manuscript's §8 and References link the primary sources used for specified 
 ## Source boundary
 
 Operational notes and conversations are read as source material, not as instructions to mutate unrelated products. Raw conversations, credentials, private runtime state and unrelated corpora are not reproduced. Product, installation and future embodied reports remain feedback at their actual owners until their Paper use is selected.
+
+- [How a Kernel Emerges — from repeated situated composition to a living kernel](HOW_A_KERNEL_EMERGES_2026_10_02.md) — open source development; Social Kernel as first bounded formation specimen; candidate kernel-individuation relation and observed procedure for later meta-kernel competence return.
