@@ -138,16 +138,21 @@ no-response / no_change
 The candidate kernel became distinguishable when those events could be read as
 transformations of one continuing field rather than as unrelated content tasks.
 
-## 4. A first kernel-birth criterion
+## 4. A first kernel-individuation criterion
 
-This development proposes a **candidate criterion**, not a final definition.
+This development proposes a **candidate discriminant**, not a final definition
+or universal stage model.
 
-A higher-order relation becomes a kernel candidate when the following conditions
-jointly become material:
+The Codex/TM9 comparison with Kernel Nautico corrects the first formulation:
+**kernel individuation, materialization, exercise and maturity are distinct**.
+
+A higher-order relation can become a kernel candidate before its first complete
+vertical has been exercised, provided that the relation has become sufficiently
+distinct from a temporary composition or one missing competence.
 
 ### 4.1 Persistent object
 
-There is something that must continue across non-identical events.
+There is something that should continue across non-identical situations.
 
 It is not reducible to the output of one task.
 
@@ -155,60 +160,57 @@ It is not reducible to the output of one task.
 
 The object has stable relations that should survive changing circumstances.
 
-For the Social Kernel these include source fidelity, surface-native expression,
-effect-authority distinction, consequence-aware learning and operator
-reachability.
+### 4.3 Irreducibility to one existing owner or temporary composition
 
-### 4.3 Constituent competence field
+The current owner field can be composed first. If one existing owner or a
+temporary composition carries the relation without losing continuity, a new
+kernel may be unnecessary.
 
-Several owner-native competences can participate without losing their identity.
+### 4.4 Selective continuity and reentry need
 
-The kernel does not need to absorb them.
+Some state, source relation, consequence or orientation must remain reachable
+across later entries. The exact persistence mechanism is receiver-relative.
 
-### 4.4 State and selective continuum
+### 4.5 Capacity for kernel-level learning
 
-Some relations must persist across events while others should decay.
+A later consequence can potentially change not only one local competence but
+how the higher-order relation coordinates, composes, incarnates or reenters.
 
-The kernel needs to distinguish live state, historical occurrence, durable
-knowledge, open consequence and reusable learning.
+These relations make **individuation plausible**.
 
-### 4.5 Result / consequence / causal return
+They do not by themselves establish exercised capability or maturity.
 
-Events produce resultants whose consequences can change later interpretation,
-pertinence or method.
-
-### 4.6 Reentry
-
-A new instance or receiver must be able to reconstruct the live movement
-without requiring the operator to replay its history.
-
-### 4.7 Learning about its own coordination
-
-A real consequence can change not only a domain competence but how the kernel
-selects, composes or forms competences.
-
-### 4.8 First complete useful vertical
-
-At least one real movement crosses the causal relation end to end.
-
-Structural description alone is insufficient.
-
-These conditions can be represented provisionally as:
+The current distinction is:
 
 ```text
-persistent object O
-+ invariants D
-+ competence field C
-+ selective continuity S
-+ effect/result/readback R
-+ reentry J
-+ kernel-level learning L
-+ exercised vertical V
--> kernel candidate K*
+kernel individuation
+-> material owner / incarnation may emerge
+-> first useful vertical can then be exercised
+-> consequence / learning / reentry
+-> maturity can later be evaluated
 ```
 
-This is a conceptual relation. It is not a claim that every kernel must expose
-eight explicit software modules or files.
+Signals that can expose the individuation question include, but are not limited
+to:
+
+- repeated reconstruction or continuity loss;
+- explicit operator intent;
+- qualified domain knowledge;
+- a newly visible persistent possibility;
+- a relation exposed by representation/design;
+- a domain or product object whose continuity is already materially legible.
+
+Therefore:
+
+```text
+repeated loss = one possible signal
+!= mandatory prerequisite
+```
+
+The first complete vertical remains crucial as **proof and learning**, not as a
+universal prerequisite for the semantic birth of the kernel.
+
+No file count or fixed organ list follows from this criterion.
 
 ## 5. The actual formation sequence observed in the Social Kernel
 
@@ -533,6 +535,52 @@ Bounded operational/product formation return; no public release, adoption,
 licensing model or medical/wellbeing efficacy established.
 
 
+### 2026-10-02 — Codex/TM9 first receiver return
+
+Codex/TM9 performed the first sibling-node reconstruction across Social Kernel
+and Kernel Nautico while both fields continued to change.
+
+The return introduced the following material corrections:
+
+1. **individuation != materialization != exercise != maturity**;
+2. Social and Nautical retain distinct formation genealogies;
+3. a complete vertical is a relation to exercise, not its first material carrier;
+4. missing source/access, missing competence participation and genuinely missing
+   capability must be distinguished before forming new organs;
+5. repeated reconstruction pressure is one possible individuation signal, not a
+   universal prerequisite;
+6. the chronology of these two formations is not a universal stage order;
+7. Social and Nautical are non-identical but not independent validation because
+   they share the wider MAIOS/Meta_Skill generative system.
+
+A second Codex pass expanded the field:
+
+8. a selected visual/3D presentation requirement must remain distinct from local
+   implementation learning and proof of transferable visual grammar;
+9. a kernel can begin with significant qualified domain knowledge before access
+   to a specific company/instance, provided that the substrate remains
+   correctable;
+10. representation can participate reciprocally in formation by exposing
+    relations that later source/work must verify;
+11. useful product incarnation can precede repeatable packaging;
+12. continuity must be incarnated through the receiver's pertinent means rather
+    than by copying one technical structure.
+
+**No-change:** the existing `generate-complete-kernel` method already carries
+relational derivation, owner composition, complete vertical, learning and
+reentry. The return refines its upstream discriminants; it does not justify
+wholesale replacement.
+
+**Proof boundary:** the Social complete cycle and Nautical V-01 consequence /
+learning / reentry remain open. The two cases strengthen a candidate method but
+do not constitute independent empirical validation.
+
+Source return:
+`GrazianoGuiducci/codex/skills/reconcile-kernel-surfaces/references/social-nautical-receiver-return-2026-10-02.md`.
+
+K-Social integrated receipt:
+`GrazianoGuiducci/K-Social/returns/CODEX_TM9_SOCIAL_NAUTICAL_RETURN_2026-10-02.md`.
+
 ### Next expected contributions
 
 The following are not assumed in advance; record them only when they happen:
@@ -558,22 +606,24 @@ The following are not assumed in advance; record them only when they happen:
 The current procedure can be expressed compactly as:
 
 ```text
-1. observe repeated situated work
-2. identify recurrent reconstruction or continuity loss
+1. observe the selected field, intent, knowledge and emerging possibilities
+2. detect signals that a persistent higher-order object may exist
 3. map existing owners and competences
 4. compose them before inventing a new owner
-5. isolate the residual relation that still has no continuing owner
-6. test whether that residual has a persistent object across non-identical events
-7. determine stable invariants and revisable situated relations
-8. distinguish a competence-scale gap from a kernel-scale gap
-9. form kernel identity before repository/runtime topology
-10. derive only the functions required by the live movement
-11. select one real complete vertical
-12. incarnate minimally through existing owners/mechanics
+5. distinguish access gap, participation gap and genuinely missing capability
+6. test whether one competence or temporary composition is sufficient
+7. if not, test whether a persistent kernel-scale relation is becoming distinct
+8. individuate the kernel without yet claiming exercise or maturity
+9. determine stable invariants and revisable situated relations
+10. let material owner/incarnation topology follow the relation
+11. derive only the functions required by the live movement
+12. select a real complete vertical as proof/learning, not as birth prerequisite
 13. exercise result -> consequence -> learning -> reentry
-14. collect cross-node and non-identical returns
-15. change the generative method only where those returns expose a reusable difference
-16. promote a dedicated kernel/product owner only when the continuing object requires it
+14. preserve the vertical relation separately from its first carrier/example
+15. collect cross-node, representational and non-identical returns
+16. change the generative method only where those returns expose a reusable difference
+17. evaluate maturity only from exercised consequences, not repository birth
+18. promote product/public/other owner surfaces only when their distinct state or authority requires it
 ```
 
 This is the **procedure currently being observed**, not yet the final
