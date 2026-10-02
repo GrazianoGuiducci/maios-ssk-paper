@@ -688,3 +688,141 @@ The goal is not to prove the current sequence correct.
 
 The goal is to preserve enough of the real formation process that later
 differences can teach us **how kernels actually emerge**.
+
+
+## 13. Receiver participation, contamination and the limits of the procedure
+
+The operator subsequently reopened the first Codex/TM9 return itself as an
+object of observation.
+
+This adds a new causal layer:
+
+~~~text
+T0 formation/event
+-> T1 first ChatGPT interpretation
+-> T2 Codex receiver interpretation
+-> T3 ChatGPT integration of that return
+-> T4 operator doubt about receiver/method contamination
+-> T5 Codex self-observation through a changed representation
+~~~
+
+The important difference is not that T2 was simply "wrong". The receiver was
+part of the field it described, and its return changed what later owners did.
+
+### 13.1 A receiver return can be an intervention
+
+A node does not merely report a field when:
+- its categories organize what becomes visible;
+- its no-change or correction judgments affect another owner's next movement;
+- another owner waits for the return;
+- the return is persisted into Paper, kernel or competence state.
+
+Therefore:
+
+~~~text
+receiver return
+!= passive observation only
+~~~
+
+A return may itself require consequence/readback.
+
+### 13.2 Compatibility with a method does not establish method sufficiency
+
+The first Codex return recognized many Social/Nautical relations as already
+representable by `generate-complete-kernel`, then used that correspondence to
+support a no-change judgment on the generator.
+
+The later self-observation makes a circular possibility visible:
+
+~~~text
+method used as observation lens
+-> field becomes legible through that method
+-> compatibility is observed
+-> compatibility is used to support the method
+~~~
+
+This does not invalidate the method. It limits what the observation establishes.
+
+### 13.3 Useful distinctions can become contamination
+
+Distinctions such as:
+
+~~~text
+access | participation | capability
+identity | owner | representation | exercise
+individuation | materialization | maturity
+~~~
+
+can improve comprehension and still become limiting if they are treated as the
+field's natural ontology rather than one representation of it.
+
+The current Paper therefore treats the numbered procedure and all stage-like
+language as **working representations**, not privileged causal anatomy.
+
+### 13.4 Contamination is not assumed eliminable
+
+Every representation, source selection, receiver, model, diagram, abstraction
+or retrieval may change what is visible and what is omitted.
+
+The current relation is:
+
+~~~text
+representation
+-> visibility + omission
+-> consequence
+-> possible recomposition
+~~~
+
+FDLA-style decontamination is therefore not a final purified state. It is the
+capacity to make a material substitution or loss newly correctable from the
+changed field.
+
+### 13.5 Latency is also relational
+
+The same episode exposed two kinds of latency:
+- delay/reconstruction that revealed a materially new relation;
+- broad/truncated retrieval and repeated recovery that added cost.
+
+No universal "minimum latency" rule follows.
+
+A better current question is whether a delay, additional representation or
+reconstruction changes comprehension, possibility, action or recovery enough to
+justify its cost in that movement.
+
+### 13.6 Competence traces remain epistemically bounded
+
+The Codex T5 footer self-attributed participation to KA, FDLA, Field
+Illumination and Kernel Continuum Awareness, while distinguishing several other
+competences as only reachable/considered.
+
+This trace is useful for operator orientation and later debugging. It is not
+independent causal proof of hidden participation. Conversely, absence of such a
+footer does not prove non-participation.
+
+### 13.7 Current learning candidates
+
+Two candidates survive this reopening:
+
+1. Observe not only the apparent object, but also what the receiver's method,
+   representation and intervention make happen in the observed field.
+2. Compatibility, no-change and dissonance retain the scope of the observation
+   that produced them; none is closure by itself.
+
+These are not yet stable SSK laws or meta-kernel rules.
+
+### 13.8 What remains open
+
+It remains unknown:
+- whether the T2 distinctions improve later work or mainly its description;
+- how much the existing Codex kernel shaped what Codex could recognize;
+- whether another representation would expose further relations;
+- how contamination should be characterized without turning it into another
+  fixed metric;
+- when latency is generative rather than merely reconstructive;
+- whether "How a Kernel Emerges" as a research question is itself narrowing the
+  phenomenon it tries to observe.
+
+The correct continuation is therefore not another review by inertia.
+
+Later real events, receiver changes, representations or consequences should
+reopen only the relations they materially change.
