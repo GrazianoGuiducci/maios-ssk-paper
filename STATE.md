@@ -59,6 +59,24 @@ controller. The source development is
 `paper/REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md`.
 
 
+## Codex/TM9 first receiver return — 2 October 2026
+
+The first sibling-node comparison across Social Kernel and Kernel Nautico has
+returned material corrections to the open `How a Kernel Emerges` development.
+
+The development now distinguishes kernel individuation, materialization, first
+vertical exercise and maturity; treats repeated reconstruction as one signal
+rather than a universal prerequisite; distinguishes missing access,
+non-participation and genuinely missing capability; and preserves the vertical
+relation separately from its first carrier/example.
+
+The second receiver pass also contributes candidate relations on representation
+participating in formation, correctable domain knowledge before company access,
+product incarnation before repeatability and receiver-relative persistence.
+
+These are integrated into the open source development only. Stable body 0.10
+remains unchanged and no meta-kernel refoundation is claimed.
+
 ## Open source development — How a Kernel Emerges
 
 The 2 October 2026 MAIOS Social Kernel formation opens a new bounded research
