@@ -1,5 +1,41 @@
 # SSK Paper revision history
 
+## 0.11 — 2026-10-05
+
+Current integrated stable body.
+
+Revision 0.11 preserves 0.10 and integrates the 5 October operator source
+movement on **emergent continuity from self-feeding work**.
+
+It adds:
+
+- an explicit distinction between **continuum** and **continuity**: the
+  continuum carries still-causal differences across discontinuity, while
+  continuity is the emergent result/capacity of successive work to proceed
+  from fields and, when material, competences or methods changed by prior work;
+- **self-feeding work** as a system relation: material consequences can return
+  through the cognitive architecture and participate in how later work is
+  understood and performed;
+- a direct connection among coupled event, causal readback, competence change,
+  autological generation and Kernel transformation without adding a separate
+  controller;
+- a bounded temporal interpretation of graduated delegation: teaching through
+  real work -> supervised execution -> receding micro-supervision where the
+  relation becomes sufficient, while human direction, judgement, exceptions
+  and effect authority remain situated;
+- H14, an optional comparison between mere persistence/replay and actual causal
+  return that changes later competence, method or Kernel organization.
+
+The development is conceptual/source formalization. It does not claim that
+every receiver assimilates learning, that every event changes the Kernel, that
+continuity is measurable by a new scalar, or that human authority disappears.
+
+Source development:
+
+- `EMERGENT_CONTINUITY_FROM_SELF_FEEDING_WORK_2026_10_05.md`
+
+Stable body 0.10 remains the direct predecessor.
+
 ## 0.10 — 2026-09-30
 
 Current integrated stable body.
