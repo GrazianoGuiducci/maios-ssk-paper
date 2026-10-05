@@ -528,3 +528,27 @@ cross-node returns and non-identical kernel formations accumulate. It is not yet
 part of stable body 0.10. A later revision may integrate it only if the candidate
 generative-method delta survives recomposition and counterexample.
 
+
+## 2026-10-05 — continuum != continuity; work self-feeds
+
+Operator correction: continuity should not be treated as one more stored layer
+or as the primitive that explains the architecture. The continuum `C_n`
+carries still-causal differences. Continuity is the emergent result when real
+work can return through the architecture and change the conditions of later
+work: perceived context, competence, method or Kernel organization where the
+consequence is material.
+
+Use this distinction in future revisions and derivatives:
+
+```text
+work -> consequence -> causal return
+-> changed later understanding/capacity when material
+-> later work from the changed relation
+-> emergent continuity
+```
+
+The three-phase public image (teach through work -> supervised execution ->
+receding micro-supervision) is a derived temporal explanation, not the academic
+definition. Human direction, judgement, exceptions and actual effect authority
+remain situated. Stable body 0.11 integrates the conceptual relation; product
+or receiver-specific autonomy claims remain with their owners.
