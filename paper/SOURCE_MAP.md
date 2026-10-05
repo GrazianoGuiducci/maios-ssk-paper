@@ -2,6 +2,8 @@
 
 ## Canonical corpus
 
+- [Stable body 0.11](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md) — current integrated argument: preserves 0.10 and distinguishes continuum from emergent continuity, integrating self-feeding work through causal readback, competence/method change and the autological generative core.
+- [Emergent continuity from self-feeding work — 5 October](EMERGENT_CONTINUITY_FROM_SELF_FEEDING_WORK_2026_10_05.md) — operator-source development integrated into 0.11; continuity emerges from recursive consequential work rather than naming a memory store or restored state.
 - [Stable body 0.10](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_10.md) — current integrated argument: preserves 0.9 and integrates representational decontamination / epistemic probing as a KA/FDLA relation.
 - [Stable body 0.9](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_9.md) — direct stable predecessor: preserves 0.8 and integrates synthetic situated awareness, source-bound causal regression, variance/dissonance, self-supporting resultants, before/after asymmetry and Paper/Kernel reciprocity.
 - [Stable body 0.8](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md) — direct stable predecessor; wider present field, partial perceived context, recursively participating situated system awareness and continuum.
