@@ -6,9 +6,17 @@ form_competence_owner: Editoriali / system-semantic-kernel-paper
 kernel_meaning_owner: maintain-kernel-knowledge
 state: active competence source; not a finished Paper or publication receipt
 
-## Current resultant — stable body 0.10
+## Current resultant — stable body 0.11
 
-Revision 0.10 is the current integrated academic body. It preserves 0.9 and
+Revision 0.11 is the current integrated academic body. It preserves 0.10 and
+integrates the 5 October operator relation that continuity is an emergent result
+of work feeding its material consequences back through the cognitive
+architecture. The continuum remains the causal carrying relation; it is not
+renamed as continuity. The new distinction composes coupled event, causal
+readback, competence/method change and the autological generative core without
+adding a new runtime controller.
+
+Revision 0.10 preserves 0.9 and
 deepens the field through representational decontamination / epistemic probing:
 a receiver may change observation form without prescribing what must emerge;
 KA keeps the field wider than the representation and FDLA discriminates the
