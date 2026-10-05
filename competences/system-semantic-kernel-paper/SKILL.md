@@ -95,8 +95,8 @@ research object: System Semantic Kernel as the typology observed through this Ke
 public identity: MAIOS represents and narrates SSK on the web and through the brand without renaming the research object or inheriting its claim state
 corpus strategy: integrate every still-causal relation into one SSK field; keep superseded forms as cold genealogy and derive non-academic forms only from the academically governed corpus
 canonical repository: GrazianoGuiducci/maios-ssk-paper
-canonical manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_10.md
-current state: stable body 0.10; 0.9 preserved; representational decontamination / epistemic probing integrated as a KA/FDLA relation; synthetic situated awareness / variance-dissonance / source-bound causal reentry / Paper-Kernel reciprocity preserved; no independent human author review, peer review, DOI or academic publication
+canonical manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md
+current state: stable body 0.11; 0.10 preserved; continuum is distinguished from emergent continuity and self-feeding work is integrated through causal readback / competence / autological change; representational decontamination, synthetic situated awareness, variance-dissonance, source-bound causal reentry and Paper-Kernel reciprocity preserved; no independent human author review, peer review, DOI or academic publication
 ```
 
 The Paper now also carries a second documentary form:
@@ -108,7 +108,7 @@ manuscript version, evidence source or publication effect.
 
 The Paper studies how a system's present relation, situated competences,
 operation, resultant, causal interpretation, and changed following field can
-form one evolving semantic kernel. Revision 0.10 preserves the 0.9 integrated field and adds that representation can act as an observation condition whose variation exposes a candidate differential without prescribing it; KA keeps the possibility field wider than the active form and FDLA corrects representation-induced substitution. Revision 0.9 already established that present field,
+form one evolving semantic kernel. Revision 0.11 distinguishes the causal continuum that carries still-material differences from continuity as the emergent result of work that can feed consequences back into later understanding, competence, method or Kernel organization. Revision 0.10 preserves the 0.9 integrated field and adds that representation can act as an observation condition whose variation exposes a candidate differential without prescribing it; KA keeps the possibility field wider than the active form and FDLA corrects representation-induced substitution. Revision 0.9 already established that present field,
 perceived context, competence,
 synthetic situated awareness, memory and continuum remain distinct; awareness
 participates recursively while a later
