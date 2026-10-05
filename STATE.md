@@ -1,14 +1,14 @@
 # SSK Paper State
 
-updated: 2026-09-30
+updated: 2026-10-05
 repository: `GrazianoGuiducci/maios-ssk-paper`
 canonical_branch: `main`
 
 ```text
 repository_role: public academic working-paper corpus
 research_object: System Semantic Kernel (SSK)
-current_manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_10.md
-working_version: 0.10
+current_manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md
+working_version: 0.11
 integrated_developments:
   - paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md
   - paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md
@@ -17,15 +17,16 @@ integrated_developments:
   - paper/RECURSIVE_META_EXPANSION_SOURCE_LOSS_AND_CAUSAL_REGRESSION_2026_09_25.md
   - paper/DND_SYNTHETIC_AWARENESS_VARIANCE_AND_CAUSAL_REENTRY_2026_09_26.md
   - paper/REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md
+  - paper/EMERGENT_CONTINUITY_FROM_SELF_FEEDING_WORK_2026_10_05.md
 source_authority: Graziano Guiducci
 revision_owner: system-semantic-kernel-paper + Editoriali
-system_revision: stable body 0.10; preserves 0.9 and integrates representational decontamination / epistemic probing as a KA/FDLA relation; 0.9 synthetic situated awareness, variance/dissonance, source-bound causal regression, self-supporting resultants, before/after asymmetry and Paper/Kernel reciprocity remain intact
+system_revision: stable body 0.11; preserves 0.10 and integrates the continuum / emergent-continuity distinction and self-feeding work as a causal-return relation; 0.10 representational decontamination and preceding synthetic-awareness / D-ND relations remain intact
 independent_human_author_review: not performed
 peer_review: none
 submission: none selected
 academic_publication: not published
 license: not selected
-current_source_revision_task: OPEN_BOUNDED — receiver self-attribution / observable-trace source development remains separate and unpromoted; HOW_A_KERNEL_EMERGES source development opened 2026-10-02 from the Social Kernel formation; stable body remains 0.10
+current_source_revision_task: OPEN_BOUNDED — receiver self-attribution / observable-trace and HOW_A_KERNEL_EMERGES developments remain separate and unpromoted; the 5 October emergent-continuity source is integrated into stable body 0.11
 accessible_academic_companions:
   version: 0.1
   sources:
@@ -429,7 +430,7 @@ For the present revision use:
 8. `SEMANTIC_DETERMINACY.md`, `ASSONANT_RESULTANT.md`, and `AUTOLOGICAL_FORWARD_RETURN.md` for source-bound depth;
 9. `competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md` for accumulated reasoning and genealogy.
 
-Revision 0.9 remains the direct stable predecessor. Revision 0.10 is the current stable body. Later changes should again enter only when they materially change the research object; the receiver self-attribution development above remains bounded candidate source material.
+Revision 0.10 remains the direct stable predecessor. Revision 0.11 is the current stable body. Later changes should again enter only when they materially change the research object; the receiver self-attribution development above remains bounded candidate source material.
 
 The current architecture across stable and source-bound development can be read as:
 
@@ -445,7 +446,9 @@ reachable informational / possibility field
 -> sufficient resultant / current origin
 -> demand-driven continuation through the current owner/receiver/surface
 -> causal readback
+-> possible change in competence / method / Kernel when material
 -> changed reachable field
+-> emergent continuity across subsequent work
 ```
 
 The arrows expose causal relations; they do not impose a serialized runtime.
