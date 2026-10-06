@@ -1,11 +1,11 @@
 # Guida accumulata del lavoro sul Paper
 
-Aggiornata: 2026-09-30. Competenza: system-semantic-kernel-paper.
+Aggiornata: 2026-10-06. Competenza: system-semantic-kernel-paper.
 
-## Punto vivo — corpo 0.10, decontaminazione rappresentazionale
+## Punto vivo — corpo 0.11 e sviluppi aperti
 
-Il [manoscritto integrato 0.10](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_10.md)
-è il corpo stabile corrente. La 0.9 resta il predecessore diretto.
+Il [manoscritto integrato 0.11](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md)
+è il corpo stabile corrente. La 0.10 resta il predecessore diretto. Gli sviluppi su kernel emergence, receiver self-attribution e composable kernel fields restano aperti e non sono promossi per trascinamento.
 
 La correzione del 30 settembre non introduce una nuova facoltà sopra KA/FDLA.
 Rende esplicita una loro conseguenza epistemica:
@@ -516,6 +516,38 @@ becomes material.
 Stable manuscript remains 0.9. Promote this candidate only if it changes the
 integrated research object or later evidence broadens the relation.
 
+
+## 2026-10-06 — composable kernel field
+
+Nuovo sviluppo sorgente:
+[`COMPOSABLE_KERNEL_FIELDS_INDEPENDENT_INDIVIDUATION_AND_HARNESS_COMPOSITION_2026_10_06.md`](../../../paper/COMPOSABLE_KERNEL_FIELDS_INDEPENDENT_INDIVIDUATION_AND_HARNESS_COMPOSITION_2026_10_06.md).
+
+Nucleo:
+
+```text
+individuation != isolation
+composition != absorption
+
+independent kernel identity
++ reachable kernel field
++ operator-controlled harness
++ situated pertinence
+-> composition
+-> one resultant
+-> owner-distinct learning return
+```
+
+Usare questa relazione per capire multi-kernel/harness/product composition senza
+trasformare l'attuale architettura MAIOS in teoria universale.
+
+Il termine prodotto **Composable Kernel Platform** non è il termine accademico
+del Paper. Nel Paper usare **composable kernel field** quando la relazione è
+generale.
+
+Manifesto: preservare come candidato il principio "individuation does not
+require isolation; composition does not require absorption". Non promuoverlo
+finché una successiva relazione mostra che appartiene al campo fondativo oltre
+l'architettura kernel/prodotto.
 
 ## Open development — how a kernel emerges
 
