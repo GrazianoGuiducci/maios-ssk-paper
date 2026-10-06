@@ -1,7 +1,7 @@
 # AI Kernel Paper — Dossier corrente
 
-updated: 2026-09-30
-status: stable body SSK 0.10; preserves 0.9 and integrates representational decontamination / epistemic probing; prior synthetic awareness, variance/dissonance, causal reentry and Paper/Kernel reciprocity remain intact
+updated: 2026-10-06
+status: stable body SSK 0.11; preserves 0.10 and integrates emergent continuity from self-feeding work; composable-kernel-field and kernel-emergence developments remain open
 artifact_owner: maios-ssk-paper
 kernel_meaning_owner: maintain-kernel-knowledge
 editorial_competence_owner: Editoriali / system-semantic-kernel-paper
@@ -9,7 +9,7 @@ source_authority: Graziano Guiducci
 
 ## Oggetto e punto corrente
 
-Il [corpo stabile 0.10](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_10.md) è
+Il [corpo stabile 0.11](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md) è
 l'argomento unitario corrente. Integra il modello di evento e il nucleo
 generativo della 0.3 con una distinzione più precisa fra identità
 semantico-relazionale del Kernel e mezzi della sua incarnazione.
@@ -31,6 +31,44 @@ conserva le ragioni e la genealogia precedenti. Gli sviluppi integrati sono pres
 [Distributed reachability, reconstruction economy, and situated delegation](DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md) e
 [D-ND Assonant Movement, Non-Identical Observation, and Situated Sufficiency](DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md).
 Gli stati di revisione, pubblicazione e fonte restano in [STATE.md](../STATE.md).
+
+## Sviluppo sorgente aperto — campo di kernel componibili
+
+Il movimento del 6 ottobre aggiunge un nuovo sviluppo sorgente:
+[Composable Kernel Fields — Independent Individuation and Harness Composition](COMPOSABLE_KERNEL_FIELDS_INDEPENDENT_INDIVIDUATION_AND_HARNESS_COMPOSITION_2026_10_06.md).
+
+La relazione candidata è:
+
+```text
+independent kernel identity
++ reachable kernel field
++ operator-controlled harness
++ situated pertinence
+-> composition without absorption
+-> resultant
+-> owner-distinct learning return
+```
+
+Il punto generale non è la piattaforma MAIOS come prodotto, ma la possibilità
+che kernel sufficientemente individuati restino autonomi e partecipino a una
+composizione situata senza fondersi in un unico owner.
+
+Distinzioni:
+
+```text
+individuation != isolation
+composition != absorption
+harness != semantic owner
+reachability != pertinence != participation
+```
+
+Lo sviluppo approfondisce receiver-relative incarnation, distributed
+reachability, morphogenetic kernel formation e continuità emergente. Il
+catalogo MAIOS corrente resta specimen/source field, non ontologia universale.
+
+Il principio "individuation does not require isolation; composition does not
+require absorption" resta candidato manifesto e non modifica il Manifesto in
+questa fase.
 
 ## Delta 0.10 — rappresentazione come sonda epistemica e decontaminazione
 

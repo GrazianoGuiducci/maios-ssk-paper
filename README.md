@@ -12,7 +12,7 @@ repository makes that research object readable and citable without treating a
 software package, a website, a particular medium, sensorium, body or internal
 operating kernel as the theory itself.
 
-> **Current state:** working paper, stable body 0.10 — 30 September 2026.
+> **Current state:** working paper, stable body 0.11 — 5 October 2026.
 > The integrated argument develops the coupled event, synthetic situated awareness, autological generation,
 > functional self, operator participation, receiver-relative incarnation,
 > multimodal perception/inference, semantic positioning, integrative contraction,
@@ -25,6 +25,7 @@ operating kernel as the theory itself.
 ## Read the working paper
 
 - [System Semantic Kernel (SSK), stable body 0.11](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md)
+- [Composable Kernel Fields — independent individuation and harness composition, open source development](paper/COMPOSABLE_KERNEL_FIELDS_INDEPENDENT_INDIVIDUATION_AND_HARNESS_COMPOSITION_2026_10_06.md)
 - [Academic-accessible companion 0.1 IT — Quando un sistema AI deve continuare a capire](paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_IT.md)
 - [Academic-accessible companion 0.1 EN — When an AI system needs to keep understanding](paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_EN.md)
 - [Representational decontamination, epistemic probing, and KA/FDLA — source development integrated into 0.10](paper/REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md)
