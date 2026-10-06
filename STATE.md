@@ -1,6 +1,6 @@
 # SSK Paper State
 
-updated: 2026-10-05
+updated: 2026-10-06
 repository: `GrazianoGuiducci/maios-ssk-paper`
 canonical_branch: `main`
 
@@ -26,7 +26,7 @@ peer_review: none
 submission: none selected
 academic_publication: not published
 license: not selected
-current_source_revision_task: OPEN_BOUNDED — receiver self-attribution / observable-trace and HOW_A_KERNEL_EMERGES developments remain separate and unpromoted; the 5 October emergent-continuity source is integrated into stable body 0.11
+current_source_revision_task: OPEN_BOUNDED — receiver self-attribution / observable-trace, HOW_A_KERNEL_EMERGES and COMPOSABLE_KERNEL_FIELDS developments remain separate and unpromoted; the 5 October emergent-continuity source is integrated into stable body 0.11
 accessible_academic_companions:
   version: 0.1
   sources:
@@ -77,6 +77,44 @@ product incarnation before repeatability and receiver-relative persistence.
 
 These are integrated into the open source development only. Stable body 0.10
 remains unchanged and no meta-kernel refoundation is claimed.
+
+## Open source development — Composable Kernel Fields
+
+The 6 October 2026 kernel-platform movement opens a general SSK relation on
+**independent individuation plus optional situated composition**:
+
+```text
+independent kernel identity
++ reachable kernel field
++ operator-controlled harness
++ situated pertinence
+-> composition without absorption
+-> resultant
+-> owner-distinct learning return
+-> changed kernel field
+```
+
+Current source development:
+`paper/COMPOSABLE_KERNEL_FIELDS_INDEPENDENT_INDIVIDUATION_AND_HARNESS_COMPOSITION_2026_10_06.md`.
+
+The candidate distinctions are:
+
+```text
+individuation != isolation
+composition != absorption
+harness != semantic owner
+reachability != pertinence != participation
+```
+
+This development composes receiver-relative incarnation, distributed
+reachability, morphogenetic competence/kernel formation, emergent continuity and
+the open How a Kernel Emerges work. The current MAIOS product family is a
+bounded source field, not a universal architecture.
+
+Stable body 0.11 remains unchanged. The formulation
+"individuation does not require isolation; composition does not require
+absorption" is preserved as a **manifesto candidate**, not a selected Manifesto
+axiom.
 
 ## Open source development — How a Kernel Emerges
 
