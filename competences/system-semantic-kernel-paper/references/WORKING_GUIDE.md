@@ -544,6 +544,26 @@ quando pertinenti. Il documento resta uno sviluppo aperto, collegato a SSK 0.11
 e ai campi componibili; non è la competenza specifica o il runtime realizzato.
 Una nuova formulazione dell'operatore o una conseguenza d'uso può riformarlo.
 
+Il successivo mandato «potresti avere attive competenze migliori, trovale e
+ripeti» fa partecipare Meta_Metodo, apprendimento da dimostrazioni, Signal
+Intelligence e delegazione cognitiva. La domanda si riforma: il codice è il
+medium, il sapere di costruzione deve entrare nella competenza UX-AI che
+darà vista al kernel. La conoscenza d'uso si forma insieme all'interfaccia;
+osservazione deterministica resta più ampia della ricostruibilità del rendering;
+il nuovo evento può lasciare sufficiente la forma attuale; la latenza comprende
+anche ricostruzione e intervento umano. La velocità di evoluzione era già
+esplicita nel primo manifesto e non viene registrata come omissione.
+
+L'[incarico completo per GPT](../../../paper/UX_AI_CODE_MEDIUM_RESEARCH_ASSIGNMENT_2026_10_07.md)
+è pronto per copia/incolla, scelta esplicita dell'operatore. Cerca sapere di
+costruzione da documentazione, codice e dimostrazioni; richiede esempi utili e
+una proposta di ritorno al metodo UX-AI owner-native, composto con Design
+quando pertinente. La ricerca ampia resta affidata a GPT; le fonti già
+raggiunte sono ingressi iniziali, non un catalogo esaustivo o una scelta di
+stack. Contributo esterno, integrazione della competenza e runtime mantengono
+le proprie identità. Il prossimo movimento riprende dal ritorno di GPT o da
+una nuova precisazione dell'operatore.
+
 ## 2026-10-06 — composable kernel field (accumulated source)
 
 Nuovo sviluppo sorgente:

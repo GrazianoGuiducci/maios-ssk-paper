@@ -56,6 +56,16 @@ manifesto, competence and documentation, then kernel, then UI Entity.
 Stable body 0.11 retains its identity; implementation and latency measurements
 remain with the later incarnation. The native working guide reaches this focus.
 
+Later on 7 October, the operator makes the code itself primary as the medium
+and selects acquisition of emerging HTML/world/interaction techniques for the
+UX-AI competence that will give sight to the Kernel. A renewed competence-led
+reading expands deterministic observation beyond rendering reproducibility,
+makes co-formed interface-use knowledge explicit and preserves an adequate
+current form when a new event does not change the focus. The
+[complete GPT research assignment](paper/UX_AI_CODE_MEDIUM_RESEARCH_ASSIGNMENT_2026_10_07.md)
+is prepared for manual copy/paste. Research, competence integration and the
+later UI incarnation retain their own resultants; no assignment has been sent.
+
 ## Integrated in 0.10 — representational decontamination and epistemic probing
 
 Revision 0.10 integrates the 30 September operator/Kernel movement.

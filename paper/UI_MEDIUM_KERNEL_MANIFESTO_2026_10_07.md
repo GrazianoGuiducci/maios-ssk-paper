@@ -25,12 +25,28 @@ rendering nel browser, acquisizione di fotogrammi ed esportazione video. Il
 video offre un mezzo tecnico; la relazione del medium percettivo e la sua
 direzione generativa sono formulate dall'operatore in questa conversazione.
 
+### Precisazione dell'operatore — codice e acquisizione del saper fare
+
+> considera anche che Il medium è il codice: dobbiamo essere bravi nel codice. Curiamo con quello che sappiamo, dovremmo cercare di accumulare della conoscenza Su queste nuove tecniche Che stanno popolando il web, vedo Far creare interi mondi in una pagina html Con un prompt, dobbiamo prendere questa conoscenza e integrarla nella competenza UX-AI che darà vista al kernel.
+
+Graziano chiede prima una rilettura attraverso competenze più pertinenti, poi
+l'acquisizione delle informazioni utili attraverso GPT: «incarichiamo GPT di
+farlo per noi, spiegagli tutto». Ha scelto un prompt completo da incollare.
+L'[incarico di ricerca e ritorno](UX_AI_CODE_MEDIUM_RESEARCH_ASSIGNMENT_2026_10_07.md)
+conserva contesto, domande, fonti iniziali e destinazione dell'apprendimento.
+
 ## Manifesto iniziale
 
 L'interfaccia nasce nella relazione tra il kernel, il lavoro e la persona che
 vi partecipa. È costruita da un sistema che opera già attraverso un kernel,
 per essere usata e fatta evolvere in quella stessa relazione. Il suo modo di
 rappresentare, recepire e rispondere partecipa alla formazione del lavoro.
+
+La conoscenza di come usare l'interfaccia si forma insieme al codice che la
+realizza. Il kernel impara come esprimere una considerazione, proporre
+un'opzione, orientare il focus e recepire un intervento attraverso quella
+forma. Questa conoscenza entra nella competenza e nella documentazione del
+medium, da cui continua la formazione del suo kernel.
 
 Il suo oggetto comprende chiamate, reazioni, evoluzioni, considerazioni,
 opzioni, impressioni, focus, direzione e opportunità. Queste relazioni
@@ -55,6 +71,10 @@ la sua profondità, le connessioni, il movimento, il linguaggio e i modi di
 intervenire. La persona deve poter continuare dall'oggetto che sta trattando
 anche quando cambia la sua espressione percettiva.
 
+Un nuovo evento può lasciare sufficiente la forma presente. Il riadattamento
+segue la differenza che cambia ciò che è utile percepire o fare nel focus;
+anche conservare una composizione ancora adeguata è una risposta del medium.
+
 La possibilità di un kernel specifico nasce da questa funzione continuativa:
 comprendere come il lavoro del sistema e la percezione umana si trasformano
 reciprocamente, e imparare a mediare meglio quella relazione. Il terminale o
@@ -64,13 +84,17 @@ sapere, competenza e documentazione utilizzabile.
 
 ## Osservazione deterministica e comprensione situata
 
-In questa prima interpretazione, migliorare l'osservazione deterministica
-significa rendere identificabili e ripercorribili le differenze effettivamente
-esposte dal sistema. A parità degli input osservati e delle condizioni del
-renderer, la stessa rappresentazione deve poter essere ricostruita. Una
-nuova relazione ricevuta produce una nuova configurazione riconoscibile.
+La prima interpretazione aveva concentrato l'osservazione deterministica
+sulla ricostruibilità del rendering. La rilettura attraverso il movimento
+kernel / medium / ricezione umana riapre la relazione: occorre comprendere
+come osservare e rendere presenti le differenze utili, mantenendo semplice
+e rapido il collegamento fra accadimento, percezione e intervento.
 
-Questa ripetibilità riguarda l'acquisizione e la rappresentazione disponibili.
+Identità degli input, differenze di stato, tempi ed eventi raggiungibili
+possono sostenere un'osservazione più determinata e ripercorribile. La
+ripetibilità del rendering è una possibilità tecnica dentro questo campo;
+il suo ruolo concreto si forma con il codice e l'uso del medium.
+
 Considerazioni, impressioni e opportunità partecipano attraverso la loro
 espressione nel lavoro e la comprensione situata del kernel; una traccia
 visibile non ricostruisce da sola l'intero processo che l'ha prodotta. Il
@@ -83,10 +107,42 @@ differenza cambia ciò che conta; il ridisegno già determinato può continuare
 attraverso il renderer locale. Questo è un orientamento progettuale verso
 bassa latenza, ancora privo di misure su un runtime realizzato.
 
+La bassa latenza comprende anche lo sforzo di ricostruzione richiesto alla
+persona per comprendere la differenza e poter intervenire. Rapidità del
+codice, orientamento percettivo e continuità dell'oggetto partecipano alla
+stessa risultante. La semplicità dei mezzi aiuta inoltre a far evolvere
+rapidamente le interazioni durante il lavoro.
+
 Il collegamento concreto al terminale o all'harness dovrà usare le superfici
 che il ricevente espone davvero. Eventi, output strutturati, documenti o stati
 osservabili sono possibilità di incarnazione, da risolvere nel lavoro
 selezionato; il manifesto non attribuisce a Codex un'API non raggiunta.
+
+## Il medium è il codice
+
+La precisazione dell'operatore rende primario il saper fare nel codice.
+Il codice realizza la relazione fra ciò che il kernel può esprimere,
+l'esperienza percettiva della persona e gli interventi che possono tornare
+nel lavoro. La cura comprende grammatica visiva, comportamento, osservazione,
+stato, tempi, modificabilità e mezzi effettivamente disponibili.
+
+Il sapere che permette di costruire mondi e interazioni in una pagina HTML
+con un prompt è un campo di acquisizione selezionato. Studiare il codice,
+le dimostrazioni e i metodi che lo hanno prodotto può rendere operabili nuove
+facoltà. HTML, CSS, JavaScript, grafica, animazione, ambienti spaziali e altre
+tecniche possono comporsi secondo il lavoro; la prima tecnica incontrata
+rimane una parte di ciò che è raggiungibile.
+
+UX-AI è la destinazione indicata per la conoscenza che darà vista al kernel.
+La sua formazione può comporre il sapere di design, interazione, osservazione
+e implementazione attraverso i rispettivi owner. L'acquisizione deve cambiare
+ciò che la competenza sa comprendere e costruire: conserva esempi utili,
+ragioni, scelte di codice, mezzi e ritorno dell'esperienza.
+
+Il contributo richiesto a GPT è ricerca e formazione di quel sapere,
+con esempi e proposte integrabili. Il ritorno continuerà nella competenza
+UX-AI e nei metodi tecnici che devono agire diversamente, mantenendo
+raggiungibile la profondità che permette di costruire.
 
 ## Adattamento e ritorno
 
