@@ -66,6 +66,12 @@ current form when a new event does not change the focus. The
 is prepared for manual copy/paste. Research, competence integration and the
 later UI incarnation retain their own resultants; no assignment has been sent.
 
+The operator's Rive/Treasure Valley/Contra resources now enter the assignment.
+A [bounded local interaction source](paper/UX_AI_RIVE_INTERACTION_SOURCE_2026_10_07.md)
+records the provided file, Canvas runtime 2.44.0 and the exercised
+selection/property/rendering relation. CLI/RML, MCP and the live kernel
+connection retain their documented or prospective state.
+
 ## Integrated in 0.10 — representational decontamination and epistemic probing
 
 Revision 0.10 integrates the 30 September operator/Kernel movement.

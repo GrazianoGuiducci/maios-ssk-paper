@@ -578,6 +578,18 @@ scena e intervento umano, e il ritorno di quel saper fare a UX-AI. La lettura
 acquisita non dichiara il medium vivo implementato né la competenza nativa
 già integrata. Il manifesto conserva la propria relazione concettuale.
 
+Le successive risorse Rive, Treasure Valley e Contra cambiano la copertura:
+Codex esercita localmente il file fornito con runtime Canvas 2.44.0. Una
+selezione aggiorna `indexNum`; la scrittura dal codice apre un dettaglio e
+ripristina il campo generale. Selezione e targeting sono distinti e un
+solo indice non ricostruisce tutto il percepibile. La
+[fonte con prova circoscritta e possibilità](../../../paper/UX_AI_RIVE_INTERACTION_SOURCE_2026_10_07.md)
+raggiunge identità, dati, ragioni e limiti. L'incarico GPT comprende ora
+data binding, CLI/RML per agenti, osservazione di input e valori, MCP,
+accessibilità e ricerca di esempi su Contra. Il codice della sonda e le
+immagini restano locali; CLI, MCP e collegamento al kernel non sono stati
+esercitati. Il seguito forma il sapere di costruzione nel suo owner UX-AI.
+
 ## 2026-10-06 — composable kernel field (accumulated source)
 
 Nuovo sviluppo sorgente:
