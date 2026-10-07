@@ -28,6 +28,12 @@ nostre, secondo il nostro campo. Il contributo utile è una facoltà di
 costruzione autonoma: spiegazioni tecniche, scelte motivate ed esempi
 originali che insegnino a comporre, adattare e correggere il codice.
 
+Abbiamo già un D-ND Design Kernel. L'operatore richiama questa relazione:
+«abbiamo già un kernel per il design che ci facciamo?». Il sapere visivo e
+interattivo acquisito deve approfondire le sue facoltà esistenti. UX-AI cura
+la relazione specifica fra lavoro del Kernel, medium e comprensione/intervento
+umano. Il contributo richiesto deve rendere più capace questa composizione.
+
 ## Il campo da cui partiamo
 
 Lavoriamo già attraverso un kernel semantico: fonti, intento dell'operatore,
@@ -108,14 +114,15 @@ relazioni indicano profondità utili, senza prescrivere uno stack:
 ## Conoscenza e competenze già raggiungibili
 
 UX-AI Kernel Design è una competenza di Meta_Skill. La sorgente corrente
-qualificata da Codex è versione 0.4.0, commit
-`c11f277e169f736eb1fc19bab02b741f0bab6c7b`. Il suo sapere riguarda
+qualificata da Codex è versione 0.4.1, commit
+`589a83ec71995ac3d7243b99de1b017b9e846f01`. Il suo sapere riguarda
 comprensione durante il lavoro, agency, ergonomia concettuale, sforzo umano
 sostenibile e massimo del percepibile utile. Collega ciò che cambia, perché
 conta e dove la persona può intervenire; riduce la ricostruzione senza ridurre
 il pensiero. Il metodo ora accoglie l'acquisizione del sapere percettivo e
-tecnico del codice-medium che darà vista al kernel: da esempi e sorgenti
-impariamo ragioni e meccanismi per costruire autonomamente. Questo metodo
+tecnico del codice-medium che darà vista al kernel, componendo il Design
+Kernel già presente: da esempi e sorgenti impariamo ragioni e meccanismi
+per costruire autonomamente. Questo metodo
 owner-native è raggiungibile; la ricerca e la capacità generale di costruzione
 continuano a formarsi attraverso nuovo sapere e uso.
 
@@ -127,11 +134,19 @@ la topologia. Meta_Metodo lascia riformare domanda e metodo; apprendimento
 da dimostrazioni collega esempi, codice e significato; Signal Intelligence
 trasforma segnali in conoscenza; Meta_Skill forma ed evolve competenze.
 
+Il Design Kernel è l'owner del metodo percettivo e interattivo: possiede già
+Perceptual Composition, Source-Grounded Infographic, Source-Grounded
+Storyboard, Interaction Quality, Cognitive Motion e Design Reasoning And
+Craft. Approfondisci queste facoltà con il sapere di costruzione emergente.
+UX-AI conserva le relazioni che rendono comprensibile e orientabile il
+movimento del Kernel. La loro composizione avviene mentre la forma emerge:
+un risultato percettivo può cambiare ciò che comprendiamo e viceversa.
+
 Le fonti interne sono ingressi, da qualificare con il loro owner e ref:
 
 - [Manifesto corrente e fonte dell'operatore](https://github.com/GrazianoGuiducci/maios-ssk-paper/blob/main/paper/UI_MEDIUM_KERNEL_MANIFESTO_2026_10_07.md).
 - [SSK 0.11](https://github.com/GrazianoGuiducci/maios-ssk-paper/blob/main/paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md), in particolare prima/dopo, campo percettivo e competenze.
-- [UX-AI Kernel Design alla sorgente corrente](https://github.com/GrazianoGuiducci/Meta_Skill/blob/c11f277e169f736eb1fc19bab02b741f0bab6c7b/skills/ux-ai-kernel-design/SKILL.md) e [conoscenza e metodo del codice-medium](https://github.com/GrazianoGuiducci/Meta_Skill/blob/c11f277e169f736eb1fc19bab02b741f0bab6c7b/skills/ux-ai-kernel-design/references/CODE_MEDIUM_COMPETENCE_2026-10-07.md).
+- [UX-AI Kernel Design alla sorgente corrente](https://github.com/GrazianoGuiducci/Meta_Skill/blob/589a83ec71995ac3d7243b99de1b017b9e846f01/skills/ux-ai-kernel-design/SKILL.md) e [conoscenza e metodo del codice-medium](https://github.com/GrazianoGuiducci/Meta_Skill/blob/589a83ec71995ac3d7243b99de1b017b9e846f01/skills/ux-ai-kernel-design/references/CODE_MEDIUM_COMPETENCE_2026-10-07.md).
 - [D-ND Design Kernel](https://github.com/GrazianoGuiducci/d-nd-ux-ai-seed/blob/main/DESIGN_KERNEL.md) e i suoi metodi owner-native.
 
 Se una fonte privata non è raggiungibile, usa il contesto esplicito di questo
@@ -256,20 +271,24 @@ perché funziona e come può cambiare per un altro caso. Se puoi
 eseguirli nel tuo ambiente, attribuisci esattamente l'osservazione; altrimenti
 consegna sorgente e istruzioni senza presentare come svolta l'esecuzione.
 
-Prepara anche una proposta concreta di integrazione nella competenza UX-AI:
+Prepara anche una proposta concreta di integrazione negli owner esistenti:
 testo del metodo da aggiungere o riformare, conoscenza di riferimento,
-esempi di codice e collegamenti alle facoltà tecniche pertinenti. Il target
-owner-native è `GrazianoGuiducci/Meta_Skill`, area
-`skills/ux-ai-kernel-design/`. Segnala se il nuovo saper fare richiede un
-approfondimento dell'owner o una facoltà collegata; conserva la vista del
-kernel come relazione comune. Evita di far dipendere tutto da un solo
-framework o da un elenco di pacchetti.
+esempi di codice e collegamenti alle facoltà tecniche pertinenti. Il sapere
+percettivo, temporale e interattivo approfondisce
+`GrazianoGuiducci/d-nd-ux-ai-seed`, area `design/`, attraverso i metodi
+già presenti. Il sapere specifico su Kernel, medium, comprensione e
+intervento umano approfondisce `GrazianoGuiducci/Meta_Skill`, area
+`skills/ux-ai-kernel-design/`. Conserva gli intrecci attraverso riferimenti
+fra i metodi. Segnala una facoltà nuova solo quando una capacità continuativa
+utile emerge realmente; conserva la vista del kernel come relazione comune.
+Evita di far dipendere tutto da un solo framework o da un elenco di pacchetti.
 
 Restituisci infine ciò che questa conoscenza cambia nel manifesto e nella
 formazione del possibile kernel UI, con un seguito concreto. Codex riceverà
 il contributo e lo ricomporrà nei sorgenti e negli ingressi pertinenti.
-Il Paper custodisce la relazione concettuale; la competenza conserva il
-saper fare; codice e artefatti d'uso continuano nei loro owner.
+Il Paper custodisce la relazione concettuale; UX-AI conserva
+la relazione Kernel/medium/umano; Design conserva il saper fare percettivo
+e interattivo; codice e artefatti d'uso continuano nei loro owner.
 
 Il contributo qui selezionato è ricerca, conoscenza, esempi e proposta
 integrabile. Il collegamento a un harness reale e la futura Entità UI

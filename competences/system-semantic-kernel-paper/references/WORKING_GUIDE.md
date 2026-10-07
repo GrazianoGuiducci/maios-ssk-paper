@@ -595,11 +595,17 @@ codice, quando abbiamo le competenze facciamo da soli». La proiezione Codex
 aveva dato spazio al riuso degli asset; la correzione torna all'acquisizione
 di meccanismi e ragioni per una costruzione nostra. Fonte integrale nel
 manifesto, incarico GPT aggiornato verso quel saper fare ed esempi originali.
-La [competenza UX-AI 0.4.0](https://github.com/GrazianoGuiducci/Meta_Skill/blob/c11f277e169f736eb1fc19bab02b741f0bab6c7b/skills/ux-ai-kernel-design/SKILL.md)
-e la sua [guida del codice-medium](https://github.com/GrazianoGuiducci/Meta_Skill/blob/c11f277e169f736eb1fc19bab02b741f0bab6c7b/skills/ux-ai-kernel-design/references/CODE_MEDIUM_COMPETENCE_2026-10-07.md)
+La [competenza UX-AI 0.4.0](https://github.com/GrazianoGuiducci/Meta_Skill/blob/589a83ec71995ac3d7243b99de1b017b9e846f01/skills/ux-ai-kernel-design/SKILL.md)
+e la sua [guida del codice-medium](https://github.com/GrazianoGuiducci/Meta_Skill/blob/589a83ec71995ac3d7243b99de1b017b9e846f01/skills/ux-ai-kernel-design/references/CODE_MEDIUM_COMPETENCE_2026-10-07.md)
 ora conservano nativamente metodo, ragioni, osservazioni iniziali e seguito.
 La ricerca ampia è ancora da ricevere; una costruzione del medium e la
 padronanza generale continuano dalla competenza in formazione.
+
+Il richiamo dell'operatore al Design Kernel già presente corregge il target:
+GPT approfondisce i suoi metodi percettivi e interattivi e il sapere UX-AI
+sulla relazione Kernel/medium/umano. UX-AI 0.4.1 rende questa composizione
+esplicita; il Design Kernel letto al commit locale `d0d013f` possiede già
+metodi, apprendimento dalle fonti e criteri di costruzione originali.
 
 ## 2026-10-06 — composable kernel field (accumulated source)
 

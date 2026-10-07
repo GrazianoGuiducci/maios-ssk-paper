@@ -42,7 +42,13 @@ conserva contesto, domande, fonti iniziali e destinazione dell'apprendimento.
 Le risorse fornite illuminano meccanismi e ragioni di costruzione. La
 conoscenza entra nella competenza affinché possiamo concepire e scrivere il
 nostro medium, dalla relazione del kernel con il lavoro e la persona. UX-AI
-conserva quel saper fare e lo evolve dalle conseguenze delle costruzioni.
+approfondisce quella relazione dalle conseguenze delle costruzioni.
+
+Il successivo richiamo «abbiamo già un kernel per il design che ci facciamo?»
+rende concreta la composizione con il Design Kernel presente. Il saper fare
+percettivo e interattivo approfondisce le sue facoltà; UX-AI cura ciò che
+il medium rende comprensibile e orientabile del lavoro del Kernel. Forma,
+codice e comprensione possono correggersi nello stesso movimento.
 
 ## Manifesto iniziale
 
@@ -151,7 +157,7 @@ ragioni, scelte di codice, mezzi e ritorno dell'esperienza.
 La capacità formata deve poter ricomporre il sapere in un caso nostro:
 scegliere, costruire, comprendere e correggere una forma che nasce dal
 presente. Il metodo di questa acquisizione è ora nella
-[competenza UX-AI owner-native](https://github.com/GrazianoGuiducci/Meta_Skill/blob/c11f277e169f736eb1fc19bab02b741f0bab6c7b/skills/ux-ai-kernel-design/references/CODE_MEDIUM_COMPETENCE_2026-10-07.md).
+[competenza UX-AI owner-native](https://github.com/GrazianoGuiducci/Meta_Skill/blob/589a83ec71995ac3d7243b99de1b017b9e846f01/skills/ux-ai-kernel-design/references/CODE_MEDIUM_COMPETENCE_2026-10-07.md).
 La disponibilità del metodo e l'esperienza iniziale aprono la continuazione;
 il nuovo sapere e l'uso ne formeranno la padronanza.
 
