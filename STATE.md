@@ -90,6 +90,13 @@ method for observing and improving quality. The existing connected Design
 Kernel is the producer; K-UX-AI is the public reusable UI product. The external
 contribution remains pending and Nautico keeps its own domain work.
 
+The operator subsequently asks Codex to organize reachable input files and
+repository writes for GPT. A private development area and return branch have
+been prepared; the public kernel/product receives selected updates from that
+internal competence. The public assignment preserves conceptual context while
+the private operative assignment governs file delivery. GPT's actual return
+remains pending.
+
 ## Integrated in 0.10 — representational decontamination and epistemic probing
 
 Revision 0.10 integrates the 30 September operator/Kernel movement.

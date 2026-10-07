@@ -6,6 +6,13 @@ scelta dall'operatore; questa preparazione non dichiara invio o ricerca svolta
 da GPT. Il testo seguente contiene il contesto necessario anche senza accesso
 ai repository privati.
 
+Questo documento conserva il contesto esteso della formazione. Il successivo
+presente dell'operatore organizza lettura dei file e scrittura del contributo
+GPT in una sorgente privata predisposta da Codex. L'incarico operativo privato
+integra questo testo e governa quella consegna: la competenza interna è il
+campo di sviluppo, il kernel/prodotto pubblico riceve aggiornamenti selezionati.
+Il contributo GPT resta da ricevere.
+
 ---
 
 Questo incarico è preparato da Codex/TM9 su richiesta di Graziano Guiducci.

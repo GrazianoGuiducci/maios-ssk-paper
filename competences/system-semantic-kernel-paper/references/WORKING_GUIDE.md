@@ -618,6 +618,15 @@ La formazione della competenza è il lavoro di questa chat; il dominio Nautico
 conserva il proprio owner. Consegna manuale scelta dall'operatore e ritorno
 GPT ancora da ricevere. Il manoscritto stabile resta distinto e invariato.
 
+L'operatore seleziona poi l'organizzazione concreta del lavoro GPT: deve
+leggere i file e aggiungere i risultati nel repository. La competenza interna
+è il campo di sviluppo; il kernel/prodotto pubblico riceve gli aggiornamenti
+fatti nella nostra sorgente. Codex predispone una destinazione privata con
+incarico operativo, sorgenti attribuite e ramo di ritorno. Il testo del Paper
+custodisce il contesto esteso; la consegna operativa privata lo integra con
+mezzi e destinazione della scrittura. Preparazione e ritorno GPT restano
+distinti, con manoscritto stabile invariato.
+
 ## 2026-10-06 — composable kernel field (accumulated source)
 
 Nuovo sviluppo sorgente:
