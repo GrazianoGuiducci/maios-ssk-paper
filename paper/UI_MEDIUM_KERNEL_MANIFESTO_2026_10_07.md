@@ -35,6 +35,15 @@ farlo per noi, spiegagli tutto». Ha scelto un prompt completo da incollare.
 L'[incarico di ricerca e ritorno](UX_AI_CODE_MEDIUM_RESEARCH_ASSIGNMENT_2026_10_07.md)
 conserva contesto, domande, fonti iniziali e destinazione dell'apprendimento.
 
+### Precisazione dell'operatore — competenza e costruzione autonoma
+
+> quello che ci serve è la competenza non rubare il codice, quando abbiamo le competenze facciamo da soli.
+
+Le risorse fornite illuminano meccanismi e ragioni di costruzione. La
+conoscenza entra nella competenza affinché possiamo concepire e scrivere il
+nostro medium, dalla relazione del kernel con il lavoro e la persona. UX-AI
+conserva quel saper fare e lo evolve dalle conseguenze delle costruzioni.
+
 ## Manifesto iniziale
 
 L'interfaccia nasce nella relazione tra il kernel, il lavoro e la persona che
@@ -138,6 +147,13 @@ La sua formazione può comporre il sapere di design, interazione, osservazione
 e implementazione attraverso i rispettivi owner. L'acquisizione deve cambiare
 ciò che la competenza sa comprendere e costruire: conserva esempi utili,
 ragioni, scelte di codice, mezzi e ritorno dell'esperienza.
+
+La capacità formata deve poter ricomporre il sapere in un caso nostro:
+scegliere, costruire, comprendere e correggere una forma che nasce dal
+presente. Il metodo di questa acquisizione è ora nella
+[competenza UX-AI owner-native](https://github.com/GrazianoGuiducci/Meta_Skill/blob/c11f277e169f736eb1fc19bab02b741f0bab6c7b/skills/ux-ai-kernel-design/references/CODE_MEDIUM_COMPETENCE_2026-10-07.md).
+La disponibilità del metodo e l'esperienza iniziale aprono la continuazione;
+il nuovo sapere e l'uso ne formeranno la padronanza.
 
 Il contributo richiesto a GPT è ricerca e formazione di quel sapere,
 con esempi e proposte integrabili. Il ritorno continuerà nella competenza

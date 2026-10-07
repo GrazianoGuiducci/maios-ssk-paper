@@ -72,6 +72,13 @@ records the provided file, Canvas runtime 2.44.0 and the exercised
 selection/property/rendering relation. CLI/RML, MCP and the live kernel
 connection retain their documented or prospective state.
 
+The operator then clarifies the learning object: acquire the competence and
+build independently. The assignment now requests construction mechanisms,
+reasons and original teaching examples. Meta_Skill owns the updated
+[UX-AI 0.4.0 method and knowledge](https://github.com/GrazianoGuiducci/Meta_Skill/blob/c11f277e169f736eb1fc19bab02b741f0bab6c7b/skills/ux-ai-kernel-design/references/CODE_MEDIUM_COMPETENCE_2026-10-07.md).
+This native method refinement incorporates the operator's direction and the
+bounded initial knowledge; the broad GPT research remains to be received.
+
 ## Integrated in 0.10 — representational decontamination and epistemic probing
 
 Revision 0.10 integrates the 30 September operator/Kernel movement.
