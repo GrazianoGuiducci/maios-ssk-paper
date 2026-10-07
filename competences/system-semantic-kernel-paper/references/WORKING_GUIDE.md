@@ -517,7 +517,34 @@ Stable manuscript remains 0.9. Promote this candidate only if it changes the
 integrated research object or later evidence broadens the relation.
 
 
-## 2026-10-06 — composable kernel field
+## 2026-10-07 — manifesto del medium percettivo / Kernel UI
+
+Presente operatore: nella conversazione Codex
+`01a114f3-b77d-7ff2-8eca-43423e59d0b8` Graziano seleziona un manifesto per
+il Paper e per il nuovo kernel dell'interfaccia, da aggiornare fino alla
+formazione di competenza e documentazione, kernel ed Entità UI.
+
+La [fonte integrale e il manifesto iniziale](../../../paper/UI_MEDIUM_KERNEL_MANIFESTO_2026_10_07.md)
+conservano la relazione: la UI nasce nel lavoro con il kernel e media tra
+terminale/harness e percezione umana. Chiamate, reazioni, evoluzioni,
+considerazioni, opzioni, impressioni, focus, direzione e opportunità entrano
+nella percezione di ciò che accade e di come è recepito nel campo seguente.
+
+La prima risposta Codex aveva trasferito dal video la possibilità di una scena
+programmabile. Il presente dell'operatore rende primario il medium che nasce
+già con il kernel: la forma segue focus e conseguenze, e può formare un proprio
+sapere continuativo. Determinismo riguarda osservazione e rappresentazione
+ripercorribili; la comprensione situata resta parte dello stesso movimento.
+La bassa latenza orienta i mezzi semplici e il ridisegno locale quando già
+determinato, senza attribuire misure o API al ricevente prima del loro uso.
+
+Continuare la formazione da questa relazione, raggiungendo i metodi owner-native
+di design, interazione, spiegazione in-processo e formazione delle competenze
+quando pertinenti. Il documento resta uno sviluppo aperto, collegato a SSK 0.11
+e ai campi componibili; non è la competenza specifica o il runtime realizzato.
+Una nuova formulazione dell'operatore o una conseguenza d'uso può riformarlo.
+
+## 2026-10-06 — composable kernel field (accumulated source)
 
 Nuovo sviluppo sorgente:
 [`COMPOSABLE_KERNEL_FIELDS_INDEPENDENT_INDIVIDUATION_AND_HARNESS_COMPOSITION_2026_10_06.md`](../../../paper/COMPOSABLE_KERNEL_FIELDS_INDEPENDENT_INDIVIDUATION_AND_HARNESS_COMPOSITION_2026_10_06.md).

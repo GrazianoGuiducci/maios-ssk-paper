@@ -1,6 +1,6 @@
 # SSK Paper State
 
-updated: 2026-10-06
+updated: 2026-10-07
 repository: `GrazianoGuiducci/maios-ssk-paper`
 canonical_branch: `main`
 
@@ -26,7 +26,7 @@ peer_review: none
 submission: none selected
 academic_publication: not published
 license: not selected
-current_source_revision_task: OPEN_BOUNDED — receiver self-attribution / observable-trace, HOW_A_KERNEL_EMERGES and COMPOSABLE_KERNEL_FIELDS developments remain separate and unpromoted; the 5 October emergent-continuity source is integrated into stable body 0.11
+current_source_revision_task: OPEN_BOUNDED — receiver self-attribution / observable-trace, HOW_A_KERNEL_EMERGES, COMPOSABLE_KERNEL_FIELDS and UI_MEDIUM_KERNEL_MANIFESTO developments remain separate and unpromoted; the 5 October emergent-continuity source is integrated into stable body 0.11
 accessible_academic_companions:
   version: 0.1
   sources:
@@ -38,6 +38,23 @@ accessible_academic_companions:
   publication_state: repository sources; public site projection may be selected separately; no journal submission / DOI selected
 programme_relation: upstream source/representation owner for current ChatGPT Kernel evolution; not runtime controller
 ```
+
+## Open source development — UI medium kernel manifesto, 7 October 2026
+
+Graziano selects the initial manifesto of an interface born through work with
+the Kernel. Its continuing object is the mediation between agentic events and
+human perception, direction and intervention, adapting to the present focus
+with low latency through improved deterministic observation.
+
+Source and initial manifesto:
+[`paper/UI_MEDIUM_KERNEL_MANIFESTO_2026_10_07.md`](paper/UI_MEDIUM_KERNEL_MANIFESTO_2026_10_07.md).
+The development preserves calls, reactions, evolution, considerations, options,
+impressions, focus, direction and opportunities through the before/after
+relation. Repeatable observation/rendering and situated semantic comprehension
+remain connected and distinct. The operator's selected maturation is an evolving
+manifesto, competence and documentation, then kernel, then UI Entity.
+Stable body 0.11 retains its identity; implementation and latency measurements
+remain with the later incarnation. The native working guide reaches this focus.
 
 ## Integrated in 0.10 — representational decontamination and epistemic probing
 
