@@ -564,6 +564,20 @@ stack. Contributo esterno, integrazione della competenza e runtime mantengono
 le proprie identità. Il prossimo movimento riprende dal ritorno di GPT o da
 una nuova precisazione dell'operatore.
 
+Graziano aggiunge `cth9191/animate`; Codex legge il commit
+`7e5eb56feb2dd573f890e1b7b34748af43d58263`. Il caso rende concreto il
+codice-medium: sorgenti modulari assemblate in un HTML, rendering di un tempo
+scelto, stile separato dai meccanismi di transizione e osservazione tramite
+hash di frame e geometria del testo campionato. `craft.md` conserva sapere
+e correzioni di costruzione. Le prove offerte dagli strumenti restano legate
+alla loro copertura; Codex non ha installato o eseguito il repository.
+
+Il caso e i riferimenti al codice sono ora nell'incarico GPT. Il seguito
+approfondisce il passaggio dalla timeline video a eventi, stato reale, focus,
+scena e intervento umano, e il ritorno di quel saper fare a UX-AI. La lettura
+acquisita non dichiara il medium vivo implementato né la competenza nativa
+già integrata. Il manifesto conserva la propria relazione concettuale.
+
 ## 2026-10-06 — composable kernel field (accumulated source)
 
 Nuovo sviluppo sorgente:
