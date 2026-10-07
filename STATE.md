@@ -75,12 +75,20 @@ connection retain their documented or prospective state.
 The operator then clarifies the learning object: acquire the competence and
 build independently. The assignment now requests construction mechanisms,
 reasons and original teaching examples. Meta_Skill owns the updated
-[UX-AI 0.4.1 method and knowledge](https://github.com/GrazianoGuiducci/Meta_Skill/blob/589a83ec71995ac3d7243b99de1b017b9e846f01/skills/ux-ai-kernel-design/references/CODE_MEDIUM_COMPETENCE_2026-10-07.md).
+[UX-AI 0.4.1 method and knowledge](https://github.com/GrazianoGuiducci/Meta_Skill/blob/e1eb55d5703cc605cc4530edd44054f83d104f9b/skills/ux-ai-kernel-design/references/CODE_MEDIUM_COMPETENCE_2026-10-07.md).
 This native method refinement incorporates the operator's direction and the
 bounded initial knowledge; the broad GPT research remains to be received.
 The subsequent operator recall of the existing Design Kernel refines the
 assignment: construction learning deepens its native design faculties; UX-AI
 learns the Kernel/medium/human relation through their composition.
+
+The current operator clarification assigns GPT formation of the competence
+that writes original code for results of the visual and interaction quality
+shown by the supplied resources. The manual assignment now requests complete
+operating files, construction knowledge, executable teaching examples and a
+method for observing and improving quality. The existing connected Design
+Kernel is the producer; K-UX-AI is the public reusable UI product. The external
+contribution remains pending and Nautico keeps its own domain work.
 
 ## Integrated in 0.10 — representational decontamination and epistemic probing
 

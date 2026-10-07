@@ -607,6 +607,17 @@ sulla relazione Kernel/medium/umano. UX-AI 0.4.1 rende questa composizione
 esplicita; il Design Kernel letto al commit locale `d0d013f` possiede già
 metodi, apprendimento dalle fonti e criteri di costruzione originali.
 
+La precisazione corrente rende concreto il ritorno GPT: «l punto è creare
+la competenza che scrive il codice per avere i risultati simili a quelli
+esposti nelle documentazioni che ti ho fornito, facendo fare il lavoro a GPT».
+L'incarico richiede ora una competenza operativa completa, sapere tecnico,
+guida accumulabile, esempi originali eseguibili e metodo di osservazione
+e correzione della qualità. Il Design Kernel già connesso resta il produttore;
+K-UX-AI diventa il prodotto pubblico utilizzabile da kernel differenti.
+La formazione della competenza è il lavoro di questa chat; il dominio Nautico
+conserva il proprio owner. Consegna manuale scelta dall'operatore e ritorno
+GPT ancora da ricevere. Il manoscritto stabile resta distinto e invariato.
+
 ## 2026-10-06 — composable kernel field (accumulated source)
 
 Nuovo sviluppo sorgente:

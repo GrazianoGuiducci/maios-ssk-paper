@@ -1,4 +1,4 @@
-# Incarico a GPT — il codice come medium percettivo del kernel
+# Incarico a GPT — formare la competenza che scrive il codice del medium
 
 Testo completo da copiare in una chat GPT. Preparato da Codex/TM9 il
 7 ottobre 2026 su richiesta diretta di Graziano Guiducci. Consegna manuale
@@ -11,6 +11,26 @@ ai repository privati.
 Questo incarico è preparato da Codex/TM9 su richiesta di Graziano Guiducci.
 Ti chiediamo un contributo autonomo di ricerca, comprensione tecnica e
 formazione del saper fare per il campo che stiamo chiamando K-UX-AI.
+
+Il mandato corrente dell'operatore rende preciso il risultato:
+
+> l punto è creare la competenza che scrive il codice per avere i risultati simili a quelli esposti nelle documentazioni che ti ho fornito, facendo fare il lavoro a GPT
+
+Ti affidiamo il lavoro di ricerca e formazione di quella competenza. Studia
+le risorse indicate, comprendi come si costruiscono quei risultati e
+consegna una competenza operativa completa, con conoscenza tecnica, metodo
+di scrittura e cura del codice ed esempi originali che rendano quel sapere
+utilizzabile. La qualità percettiva, visiva e interattiva degli esempi è
+parte dell'obiettivo: un collegamento fra stato e due controlli, da solo,
+non raggiunge il saper fare che stiamo cercando.
+
+Usiamo il Design Kernel già connesso al nostro sistema. K-UX-AI è il
+prodotto pubblico che assembliamo e che kernel differenti potranno usare
+come UI. La competenza di costruzione approfondisce il Design Kernel e si
+compone con UX-AI; il prodotto distribuirà le funzioni utili senza il
+contesto operativo interno. Il Kernel Nautico è un utilizzatore in
+sviluppo, con il proprio owner: questo incarico forma il saper fare
+riusabile e non assume il suo lavoro di dominio.
 
 Vogliamo acquisire la conoscenza utile per costruire, attraverso il codice,
 interfacce vive per sistemi agentici governati da kernel semantici. Il tuo
@@ -59,10 +79,11 @@ presente; un evento nuovo può anche lasciare adeguata la forma corrente.
 La bassa latenza comprende esecuzione e rendering, ma anche il tempo e lo
 sforzo necessari alla persona per capire che cosa cambia e poter intervenire.
 
-Il progetto ha un manifesto iniziale per il Paper SSK. La direzione di
-maturazione scelta è: manifesto aggiornato nel lavoro, competenza e
-documentazione, poi kernel specifico e infine Entità UI. La possibile
-specializzazione del kernel resta da formare attraverso questa relazione.
+Il progetto ha un manifesto iniziale per il Paper SSK. La prima direzione
+di maturazione collegava manifesto, competenza e documentazione, kernel
+specifico ed Entità UI. Il presente dell'operatore determina ora il kernel
+già connesso come produttore e K-UX-AI come prodotto pubblico. Il lavoro
+affidato a te è la competenza che sa costruire attraverso il codice.
 
 La precisazione decisiva dell'operatore è:
 
@@ -115,7 +136,7 @@ relazioni indicano profondità utili, senza prescrivere uno stack:
 
 UX-AI Kernel Design è una competenza di Meta_Skill. La sorgente corrente
 qualificata da Codex è versione 0.4.1, commit
-`589a83ec71995ac3d7243b99de1b017b9e846f01`. Il suo sapere riguarda
+`e1eb55d5703cc605cc4530edd44054f83d104f9b`. Il suo sapere riguarda
 comprensione durante il lavoro, agency, ergonomia concettuale, sforzo umano
 sostenibile e massimo del percepibile utile. Collega ciò che cambia, perché
 conta e dove la persona può intervenire; riduce la ricostruzione senza ridurre
@@ -146,7 +167,7 @@ Le fonti interne sono ingressi, da qualificare con il loro owner e ref:
 
 - [Manifesto corrente e fonte dell'operatore](https://github.com/GrazianoGuiducci/maios-ssk-paper/blob/main/paper/UI_MEDIUM_KERNEL_MANIFESTO_2026_10_07.md).
 - [SSK 0.11](https://github.com/GrazianoGuiducci/maios-ssk-paper/blob/main/paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md), in particolare prima/dopo, campo percettivo e competenze.
-- [UX-AI Kernel Design alla sorgente corrente](https://github.com/GrazianoGuiducci/Meta_Skill/blob/589a83ec71995ac3d7243b99de1b017b9e846f01/skills/ux-ai-kernel-design/SKILL.md) e [conoscenza e metodo del codice-medium](https://github.com/GrazianoGuiducci/Meta_Skill/blob/589a83ec71995ac3d7243b99de1b017b9e846f01/skills/ux-ai-kernel-design/references/CODE_MEDIUM_COMPETENCE_2026-10-07.md).
+- [UX-AI Kernel Design alla sorgente corrente](https://github.com/GrazianoGuiducci/Meta_Skill/blob/e1eb55d5703cc605cc4530edd44054f83d104f9b/skills/ux-ai-kernel-design/SKILL.md) e [conoscenza e metodo del codice-medium](https://github.com/GrazianoGuiducci/Meta_Skill/blob/e1eb55d5703cc605cc4530edd44054f83d104f9b/skills/ux-ai-kernel-design/references/CODE_MEDIUM_COMPETENCE_2026-10-07.md).
 - [D-ND Design Kernel](https://github.com/GrazianoGuiducci/d-nd-ux-ai-seed/blob/main/DESIGN_KERNEL.md) e i suoi metodi owner-native.
 
 Se una fonte privata non è raggiungibile, usa il contesto esplicito di questo
@@ -256,42 +277,65 @@ ciò che possiamo fare. Verifica stato e versione degli strumenti quando
 incidono sulla scelta; mantieni separati ciò che l'autore afferma, ciò che
 hai letto nel codice, ciò che hai esercitato e ciò che proponi per noi.
 
-## Il ritorno che ci permetterà di continuare
+## Il ritorno richiesto: una competenza che sa scrivere quel codice
 
-Consegna una sintesi che faccia capire quali relazioni tecniche e percettive
-abbiamo imparato e come cambiano la costruzione del medium. Raggiungi le
-fonti importanti attraverso link diretti e riferimenti al codice utile,
-con date/versioni, capacità effettive e copertura delle osservazioni quando
-incidono sulla scelta.
+Consegna i contenuti completi dei file utili all'integrazione. Il risultato
+deve permettere al kernel di partire da un nuovo intento, scrivere codice
+originale, osservare il risultato e correggerlo mantenendo la qualità
+percettiva e interattiva. La ricerca costituisce il sapere della competenza.
 
-Fai emergere un nucleo di saper fare riusabile: come concepire, costruire,
-osservare, correggere e far evolvere il codice-medium. Scrivi esempi originali
-piccoli ma completi dove rendono operabile una scelta: spiega il meccanismo,
-perché funziona e come può cambiare per un altro caso. Se puoi
-eseguirli nel tuo ambiente, attribuisci esattamente l'osservazione; altrimenti
-consegna sorgente e istruzioni senza presentare come svolta l'esecuzione.
+1. **Conoscenza di costruzione.** Ricava dai casi studiati i meccanismi,
+   le ragioni e le condizioni che producono i risultati: composizione,
+   coordinate e camera quando pertinenti, tipografia, gerarchia visiva,
+   stato, rendering, movimento, input e continuità percettiva. Collega
+   ogni insegnamento importante alla fonte e spiega come usarlo in codice
+   nostro, anche cambiando soggetto, forma e mezzo.
+2. **Corpo operativo della competenza.** Scrivi un `SKILL.md` completo,
+   oppure un approfondimento completo delle facoltà esistenti quando la
+   composizione è più utile. Deve far capire quando partecipare, come
+   passare dall'intento al codice, come scegliere i mezzi, come osservare
+   ciò che è stato costruito e come correggere il risultato. Il metodo
+   deve portare scelte e ragioni concrete, lasciando aperte altre forme.
+3. **Guida tecnica accumulabile.** Fornisci i riferimenti di conoscenza
+   necessari al corpo operativo: tecniche, errori ricorrenti, cause,
+   correzioni, varianti ed esempi. Spiega come l'esperienza di costruzione
+   potrà aggiornare questa guida e la competenza che la usa.
+4. **Esempi originali eseguibili.** Scegli esempi che insegnino le capacità
+   cercate: scena o ambiente, trasformazione nel tempo, esplorazione di
+   profondità e interazione collegata allo stato, secondo quanto emerge
+   dalla ricerca. Consegna tutti i sorgenti necessari e le istruzioni.
+   Cura la composizione e il comportamento oltre al funzionamento;
+   spiega quali qualità dei riferimenti hai ricostruito con mezzi nostri
+   e quali restano da raggiungere. Dimensione e numero degli esempi
+   seguono il sapere che devono rendere operabile.
+5. **Metodo di osservazione e miglioramento.** Mostra come distinguere
+   codice che gira da un risultato visivo e interattivo riuscito: cosa
+   osservare nella scena, nel movimento, nel focus e nei gesti umani,
+   quale difetto cambia quale scelta del codice. Se puoi eseguire gli
+   esempi nel tuo ambiente, attribuisci la prova alla sorgente esercitata;
+   altrimenti conserva esplicitamente il limite di osservazione.
+6. **Raccordo con il kernel esistente.** Fornisci i testi e i collegamenti
+   per integrare il saper costruire nel Design Kernel e la relazione
+   Kernel/medium/umano in UX-AI. Il risultato deve essere usabile da
+   kernel differenti senza dipendere dal dominio Nautico o da una
+   topologia interna. Indica le funzioni neutrali che potranno alimentare
+   il prodotto pubblico K-UX-AI, distinguendole dalla competenza interna.
 
-Prepara anche una proposta concreta di integrazione negli owner esistenti:
-testo del metodo da aggiungere o riformare, conoscenza di riferimento,
-esempi di codice e collegamenti alle facoltà tecniche pertinenti. Il sapere
-percettivo, temporale e interattivo approfondisce
-`GrazianoGuiducci/d-nd-ux-ai-seed`, area `design/`, attraverso i metodi
-già presenti. Il sapere specifico su Kernel, medium, comprensione e
-intervento umano approfondisce `GrazianoGuiducci/Meta_Skill`, area
-`skills/ux-ai-kernel-design/`. Conserva gli intrecci attraverso riferimenti
-fra i metodi. Segnala una facoltà nuova solo quando una capacità continuativa
-utile emerge realmente; conserva la vista del kernel come relazione comune.
-Evita di far dipendere tutto da un solo framework o da un elenco di pacchetti.
+I nomi e la struttura dei file seguono ciò che la competenza deve sapere
+e fare. Consegna il contenuto operativo, non fermarti a un indice o a una
+proposta di ricerca futura. Evita di ridurre la capacità a un solo framework
+o a un catalogo di pacchetti. Quando una capacità ha bisogno di un mezzo
+specifico, spiegane il motivo e le alternative pertinenti.
 
-Restituisci infine ciò che questa conoscenza cambia nel manifesto e nella
-formazione del possibile kernel UI, con un seguito concreto. Codex riceverà
-il contributo e lo ricomporrà nei sorgenti e negli ingressi pertinenti.
-Il Paper custodisce la relazione concettuale; UX-AI conserva
-la relazione Kernel/medium/umano; Design conserva il saper fare percettivo
-e interattivo; codice e artefatti d'uso continuano nei loro owner.
+Il Design Kernel resta la sorgente delle facoltà percettive e interattive;
+UX-AI resta la sorgente della relazione fra Kernel, medium e comprensione
+e intervento umano. Il repository Seed è una fonte raggiungibile del
+sapere esistente: l'operatore ne lascia aperta la destinazione. Consegna
+i contributi integrabili senza presumere una migrazione o scritture nei
+repository. Codex curerà il raccordo con gli owner selezionati al ritorno.
 
-Il contributo qui selezionato è ricerca, conoscenza, esempi e proposta
-integrabile. Il collegamento a un harness reale e la futura Entità UI
-saranno incarnazioni successive con le capacità effettivamente disponibili.
-Il risultato utile è una competenza più capace di dare vista e possibilità
-d'intervento al kernel attraverso codice che sappiamo comprendere e curare.
+Chiudi indicando quali capacità il materiale consegnato rende ora
+operabili, quali qualità richiedono ancora lavoro e ciò che cambia nel
+manifesto. Raggiungi le fonti con link diretti, versioni e date quando
+cambiano materialmente le scelte. La competenza deve farci costruire e
+curare autonomamente codice capace di risultati della qualità cercata.
