@@ -32,7 +32,7 @@ rappresentazione dello stato che un altro componente riceve.
 Due passaggi sullo **stesso** ricevente sintetico V8 hanno esercitato i
 contratti JavaScript originali dello store Nautico e del medium K-UX-AI:
 9/9 e 11/11 controlli locali. Non sono verifiche indipendenti, né prove di
-asimilazione LLM, collaborazione fra kernel di dominio, comprensione umana,
+assimilazione LLM, collaborazione fra kernel di dominio, comprensione umana,
 multiutenza, hosting o autorità aziendale.
 
 Connetti questo ritorno alle relazioni già presenti nel corpo 0.11
