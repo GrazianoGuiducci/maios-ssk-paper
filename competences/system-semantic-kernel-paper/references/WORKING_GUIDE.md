@@ -4,11 +4,13 @@ Aggiornata: 2026-10-08. Competenza: system-semantic-kernel-paper.
 
 ## 8 ottobre — osservatore, coordinate e possibilità preservata
 
-L'operatore aggiunge che il movimento della possibilità non si difende
-mediante una comprensione totale della realtà. La consapevolezza situata di
-ciò che accade permette di preservare un campo nel quale le coordinate
-già determinate si collegano coerentemente. L'**osservatore** completa
-la dinamica, anziché valutarla a posteriori.
+L'operatore precisa ora il significato dell'**osservatore come punto
+di vista ideale**: è il riferimento attraverso cui le coordinate del
+campo si collegano e formano una coerenza situata durante il movimento
+stesso con cui i fatti si determinano. Questa relazione approfondisce
+la consapevolezza contestuale che preserva le possibilità nel
+formarsi degli eventi. Il punto di vista ideale opera come concetto
+sorgente del modello D-ND, senza istituire una componente di controllo.
 
 Le relazioni erano raggiungibili nel privato MM_D-ND: zero mobile,
 terzo incluso, osservazione nella singolarità e risultante. Il nuovo
