@@ -70,6 +70,19 @@ Il principio "individuation does not require isolation; composition does not
 require absorption" resta candidato manifesto e non modifica il Manifesto in
 questa fase.
 
+## 8 ottobre — l'osservatore nel campo delle possibilità
+
+Graziano completa il movimento sull'allineamento: la natura della
+realtà non può essere catturata in una comprensione totale e definitiva.
+La direzione è preservare il movimento della possibilità mediante
+la consapevolezza di ciò che accade. Un campo di coordinate dei fatti,
+dei perché e dei come resta collegabile per coerenza; l'osservatore
+partecipa come fattore della dinamica, non come giudice esterno.
+Il privato D-ND conserva zero mobile, terzo incluso e osservatore
+come punto focale della risultante. Il Paper ne acquisisce
+[la relazione pertinente](REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md#observer-and-possibility-field-source-return--8-october-2026)
+senza duplicare i testi privati né inventare un controller.
+
 ## Ritorno dell'8 ottobre — allineamento e compensazione della dualità
 
 La fonte dell'operatore colloca il problema dell'allineamento nella

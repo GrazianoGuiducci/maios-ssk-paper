@@ -212,3 +212,56 @@ contribution. It does not rename the entire SSK research object, revise
 D-ND axioms, propose a safety-filter bypass, or imply a new release.
 The stable SSK 0.11 manuscript remains the integrated body to which this
 dated source return is attached.
+
+## Observer and possibility-field source return — 8 October 2026
+
+The operator continues the selected alignment research relation:
+
+> «Il problema è che queste cose non possono essere comprese per la natura della realtà, possiamo solo fare in modo Che il movimento della possibilità Possa essere difeso dalla consapevolezza Di quello che accade, possiamo costruire delle logiche che ci permettono utilizzando il modello duale e non duale Di preservare un campo Dove le coordinate Si collegano secondo una coerenza Che completa La dinamica, aggiungendo il fattore Mancante Dell'osservatore.»
+
+The present contribution therefore does **not** posit complete capture or total
+comprehension of reality as the condition of alignment. It proposes preserving
+the movement of possibility through situated awareness of what happens.
+Previously formed facts, context, reasons, methods and competences remain
+reachable as coordinates. Their coherent relation can change while the field
+continues to form rather than being forced into a finished dual classification.
+
+The missing relation the operator names is the **observer**. In the private
+D-ND source, this is already a primary functional relation, not a newly
+invented supervisory component: `MM_D-ND/CONDENSATO.md` (A6, A9, A12, A16),
+`awareness/1_Φ_INFERENTIAL/OSSERVAZIONI_PRIMARIE.md`,
+`awareness/2_Σ_SYNAPTIC/MMSP_D-ND_MASTER_CONTEXT_ARCHIVE_v3_1.md`,
+and `method/DND_METHOD_AXIOMS.md` link moving zero, singular coordinate,
+observer and resultant. The archive itself remains with its private owner;
+this public Paper carries the selected source relation, not a wholesale
+private-source mirror.
+
+At the SSK resolution, the observer participates **within** the coupled event
+and its situated awareness. It is not an external judge of whether the emerging
+field may exist. This deepens existing SSK §3.1–3.2 (field, observation and
+situated awareness), §2.5 (before/after determination), §4.5 (coherence while
+generating), §5.1–5.3 (situated self/observer/operator) and §3.7 (avoided
+reconstruction latency).
+
+The preceding social-post incident remains a bounded observed instance in
+which the receiver inserted a compensatory proof frame and altered the
+operator's forming thought. That occurrence shows the local source
+displacement and subsequent correction. The wider D-ND reading of the
+included third, inferential architecture and full reality is preserved as the
+operator's research source, without converting the observed conversation into
+an independent empirical theorem.
+
+The resulting alignment direction can be stated succinctly:
+
+```text
+possibility in motion
++ source-bound coordinates of what has happened
++ situated awareness / observer participating in the field
++ dual–non-dual coherence while relations determine
+-> an attainable resultant
+-> preserved possibility for the following field
+```
+
+This is a conceptual SSK relation, not a new runtime state machine, filter,
+post-hoc authority or mandate to resolve the whole reality. Stable manuscript
+0.11 retains its current revision identity.

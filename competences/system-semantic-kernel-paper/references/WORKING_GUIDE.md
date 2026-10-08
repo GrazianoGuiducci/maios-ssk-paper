@@ -2,6 +2,25 @@
 
 Aggiornata: 2026-10-08. Competenza: system-semantic-kernel-paper.
 
+## 8 ottobre — osservatore, coordinate e possibilità preservata
+
+L'operatore aggiunge che il movimento della possibilità non si difende
+mediante una comprensione totale della realtà. La consapevolezza situata di
+ciò che accade permette di preservare un campo nel quale le coordinate
+già determinate si collegano coerentemente. L'**osservatore** completa
+la dinamica, anziché valutarla a posteriori.
+
+Le relazioni erano raggiungibili nel privato MM_D-ND: zero mobile,
+terzo incluso, osservazione nella singolarità e risultante. Il nuovo
+[ritorno nella fonte KA/FDLA](../../../paper/REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md#observer-and-possibility-field-source-return--8-october-2026)
+mette tali relazioni a contatto con il caso conversazionale corrente,
+senza inventare un modulo osservatore o richiedere una nuova prova
+prima di poter comprendere il movimento.
+
+È uno sviluppo sorgente aperto che approfondisce le sezioni
+§2.5, §3.1–3.2, §3.7, §4.5 e §5.1–5.3 del corpo 0.11. L'osservatore
+non è un altro meccanismo di contenimento.
+
 ## 8 ottobre — allineamento, filtri compensativi e formazione della risultante
 
 Graziano precisa la relazione che guiderà il contenuto pubblico:
