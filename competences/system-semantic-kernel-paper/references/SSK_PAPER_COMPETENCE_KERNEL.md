@@ -45,8 +45,12 @@ The integrated source developments are:
 - [`DND_SYNTHETIC_AWARENESS_VARIANCE_AND_CAUSAL_REENTRY_2026_09_26.md`](../../../paper/DND_SYNTHETIC_AWARENESS_VARIANCE_AND_CAUSAL_REENTRY_2026_09_26.md)
 - [`REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md`](../../../paper/REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md)
 
-The integrated manuscript is
-[`SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_10.md`](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_10.md).
+The current integrated manuscript is
+[`SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md`](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md).
+
+An [8 October bounded receiver-event and source-validity return](../../../paper/RECEIVER_EVENT_IDENTITY_SOURCE_VALIDITY_AND_COMPOSABLE_MEDIUM_2026_10_08.md)
+is reachable as open development. Its source/medium exercise does not promote
+new general claims into the stable body or establish multi-kernel assimilation.
 
 The central thesis is:
 
