@@ -25,6 +25,7 @@ operating kernel as the theory itself.
 ## Read the working paper
 
 - [System Semantic Kernel (SSK), stable body 0.11](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md)
+- [Receiver-relative event identity, source validity, and composable perception — 8 October, open bounded development](paper/RECEIVER_EVENT_IDENTITY_SOURCE_VALIDITY_AND_COMPOSABLE_MEDIUM_2026_10_08.md)
 - [Composable Kernel Fields — independent individuation and harness composition, open source development](paper/COMPOSABLE_KERNEL_FIELDS_INDEPENDENT_INDIVIDUATION_AND_HARNESS_COMPOSITION_2026_10_06.md)
 - [Academic-accessible companion 0.1 IT — Quando un sistema AI deve continuare a capire](paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_IT.md)
 - [Academic-accessible companion 0.1 EN — When an AI system needs to keep understanding](paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_EN.md)
