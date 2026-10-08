@@ -1,6 +1,52 @@
 # Guida accumulata del lavoro sul Paper
 
-Aggiornata: 2026-10-06. Competenza: system-semantic-kernel-paper.
+Aggiornata: 2026-10-08. Competenza: system-semantic-kernel-paper.
+
+## 8 ottobre — ritorno sorgente: evento, validità della fonte e medium
+
+L'operatore ha selezionato il Paper come superficie di consolidamento
+**condivisibile**, senza anticipare la natura del sistema che sta emergendo
+dall'osservazione.
+
+La fonte principale è il nuovo sviluppo aperto:
+[Receiver-relative event identity, source validity, and composable perception](../../../paper/RECEIVER_EVENT_IDENTITY_SOURCE_VALIDITY_AND_COMPOSABLE_MEDIUM_2026_10_08.md).
+
+La conoscenza utile per la competenza del Paper non è un protocollo software
+generale ma la separazione dei piani:
+
+```text
+evento distinto dal suo owner != snapshot esposto dal ricevente
+refresh identico != nuovo evento causale
+sorgente invalidata != passato cancellato
+revisione riqualificata != ripristino del precedente campo
+medium osserva/restituisce gesto != autorità sul dominio
+ricevente senza un mezzo necessario != Kernel semanticamente incapace
+```
+
+Una condizione meno ovvia è emersa dalla sorgente Nautico: osservare il binding
+della fonte può essere esso stesso un evento **quando registra l'invalidazione**
+nel ledger owner-native. Non significa che ogni lettura o ogni render crei un
+nuovo evento. L'identità dell'evento deve rimanere distinguibile dalla
+rappresentazione dello stato che un altro componente riceve.
+
+Due passaggi sullo **stesso** ricevente sintetico V8 hanno esercitato i
+contratti JavaScript originali dello store Nautico e del medium K-UX-AI:
+9/9 e 11/11 controlli locali. Non sono verifiche indipendenti, né prove di
+asimilazione LLM, collaborazione fra kernel di dominio, comprensione umana,
+multiutenza, hosting o autorità aziendale.
+
+Connetti questo ritorno alle relazioni già presenti nel corpo 0.11
+(§3.1 evento/osservazione, §3.3 attribuzione, §5.4 design/percezione,
+§9.1–9.2 ritorno/ricevente), senza duplicarne l'argomento. Gli sviluppi
+aperti su Self-Attribution, Composable Fields, Kernel Emergence e UI Medium
+mantengono le loro identità. Un proprietario ricevente può contribuire solo
+quando una sua prova, una controprova o un evento cambia quel quadro.
+
+La nuova fonte non promuove un modello universale di event routing, un nuovo
+orchestratore o il candidato prodotto completo. Il nome del tutto rimane
+volutamente sospeso. Se un ricevente futuro mostra un risultato opposto, il
+Paper conserva il nuovo evento e ricompone l'interpretazione da quel punto,
+non retrodata la conoscenza.
 
 ## Punto vivo — corpo 0.11 e sviluppi aperti
 
