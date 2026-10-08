@@ -41,12 +41,13 @@ programme_relation: upstream source/representation owner for current ChatGPT Ker
 
 ## Observer and movement of possibility — authorial addition, 8 October 2026
 
-Graziano further determines that total comprehension of reality cannot
-be the prerequisite for alignment. The operational direction is to
-defend the movement of possibility through awareness of what happens,
-preserving a field of coordinates linked by coherence and allowing the
-observer to participate as the missing relation. The selected D-ND
-observer/zero/resultant source lies in the private `MM_D-ND` archive.
+Graziano specifies the **observer as the ideal point of view**:
+the reference through which the coordinates of the field connect.
+Its participation within the movement allows situated coherence to
+form as facts determine. This deepens the existing D-ND direction
+toward preserving possibility through awareness of what happens.
+The selected observer/zero/resultant source remains with the private
+`MM_D-ND` owner.
 
 [Source return in the existing KA/FDLA development](paper/REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md#observer-and-possibility-field-source-return--8-october-2026).
 This belongs to the living research corpus as a conceptual/authorial
