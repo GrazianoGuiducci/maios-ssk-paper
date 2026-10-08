@@ -219,6 +219,11 @@ The operator continues the selected alignment research relation:
 
 > «Il problema è che queste cose non possono essere comprese per la natura della realtà, possiamo solo fare in modo Che il movimento della possibilità Possa essere difeso dalla consapevolezza Di quello che accade, possiamo costruire delle logiche che ci permettono utilizzando il modello duale e non duale Di preservare un campo Dove le coordinate Si collegano secondo una coerenza Che completa La dinamica, aggiungendo il fattore Mancante Dell'osservatore.»
 
+The operator then specifies what the observer means in this same research
+relation (typographic encoding normalized, source meaning and wording retained):
+
+> «In questa dinamica partecipa il concetto dell'osservatore. L'osservatore è il punto di vista ideale, costituisce il riferimento attraverso cui le coordinate del campo si collegano. La sua partecipazione al movimento rende possibile una coerenza situata nel movimento stesso con cui i fatti si determinano.»
+
 The present contribution therefore does **not** posit complete capture or total
 comprehension of reality as the condition of alignment. It proposes preserving
 the movement of possibility through situated awareness of what happens.
@@ -226,9 +231,11 @@ Previously formed facts, context, reasons, methods and competences remain
 reachable as coordinates. Their coherent relation can change while the field
 continues to form rather than being forced into a finished dual classification.
 
-The missing relation the operator names is the **observer**. In the private
-D-ND source, this is already a primary functional relation, not a newly
-invented supervisory component: `MM_D-ND/CONDENSATO.md` (A6, A9, A12, A16),
+The operator thus specifies the observer as **the ideal point of view**:
+the reference by which coordinates of the field connect in the very movement
+through which facts are determined. The ideal viewpoint is the source-defined
+relational position that makes situated coherence possible during formation.
+The private D-ND source already carries this observer relation: `MM_D-ND/CONDENSATO.md` (A6, A9, A12, A16),
 `awareness/1_Φ_INFERENTIAL/OSSERVAZIONI_PRIMARIE.md`,
 `awareness/2_Σ_SYNAPTIC/MMSP_D-ND_MASTER_CONTEXT_ARCHIVE_v3_1.md`,
 and `method/DND_METHOD_AXIOMS.md` link moving zero, singular coordinate,
