@@ -72,12 +72,13 @@ questa fase.
 
 ## 8 ottobre — l'osservatore nel campo delle possibilità
 
-Graziano completa il movimento sull'allineamento: la natura della
-realtà non può essere catturata in una comprensione totale e definitiva.
-La direzione è preservare il movimento della possibilità mediante
-la consapevolezza di ciò che accade. Un campo di coordinate dei fatti,
-dei perché e dei come resta collegabile per coerenza; l'osservatore
-partecipa come fattore della dinamica, non come giudice esterno.
+L'osservatore è ora specificato dalla fonte autoriale come **punto di
+vista ideale**: il riferimento attraverso cui le coordinate del campo
+si collegano. La sua partecipazione rende possibile una coerenza
+situata nel movimento stesso con cui i fatti si determinano. Questa
+relazione unisce consapevolezza di ciò che accade, coordinate
+già determinate e possibilità ancora in formazione nella ricerca
+sull'allineamento.
 Il privato D-ND conserva zero mobile, terzo incluso e osservatore
 come punto focale della risultante. Il Paper ne acquisisce
 [la relazione pertinente](REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md#observer-and-possibility-field-source-return--8-october-2026)
