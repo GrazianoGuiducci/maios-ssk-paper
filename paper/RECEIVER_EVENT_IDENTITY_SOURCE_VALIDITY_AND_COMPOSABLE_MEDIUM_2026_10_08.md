@@ -122,6 +122,8 @@ Original inspectable code sources:
 - [Nautico supporting product contract](https://github.com/GrazianoGuiducci/kernel-nautico/blob/82896de01829752614d04cfa6e3ffacbd9544a0a/workstations/visual-presentation/production/threejs-first-encounter/app/src/product/contract.js), source blob `d3ef95b5a4a0e8526f7e61d1a1e97a6939a25093`.
 - [K-UX-AI `createMedium`](https://github.com/GrazianoGuiducci/k-ux-ai/blob/68cb9c82631aae2d1d5ad4fa22cd255d67e5f57b/src/medium.js), source blob `e9c104096ec59422e1285f3164307843cdc876f2`.
 
+The two passes share the same receiving environment, source corpus and synthetic-case family; they are **not independent validations** or evidence that two autonomous domain kernels interoperated.
+
 The exercise occurred inside an isolated V8 runtime with imported source bindings supplied for the fetched code and a local encoding accommodation. The original code was not changed by the exercise. The receipt and chronology remain in the producing owner; this Paper note is an attributed public conceptual return, not a replacement raw test archive.
 
 No full Node/browser installation, live model, DSH/OpenCode/Codex/ChatGPT agent session, enterprise/vessel source, independent replication, multi-user operation, or human comprehension experiment was exercised. The checks are local contract checks and cannot support stronger system-product claims.
