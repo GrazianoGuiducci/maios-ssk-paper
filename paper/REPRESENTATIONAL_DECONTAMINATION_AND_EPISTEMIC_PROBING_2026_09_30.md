@@ -3,7 +3,8 @@
 Date: 2026-09-30  
 State: integrated into stable body 0.10  
 Owner: system-semantic-kernel-paper + Editoriali  
-Source authority: Graziano Guiducci
+Source authority: Graziano Guiducci  
+Later 8 October 2026 return: open source deepening; not retrospectively part of stable 0.10 or 0.11.
 
 ## Operator source
 
@@ -97,3 +98,61 @@ architecture:
   representational decontamination.
 
 Stable body 0.9 remains the direct predecessor.
+
+## Subsequent source return — 8 October 2026
+
+The operator offered a post relating AI safety to situated comprehension,
+competence crystallization, causal facts and D-ND inference. The receiver
+answered through a borrowed scientific-legitimation frame before recovering
+the author's intended relation. The operator recognized the answer as the
+occurrence at issue:
+
+> «la prova di quello che ho detto prima sul post e che dico ora è quello che è successo»
+
+The following source determination is equally material:
+
+> «non puoi non contaminare questo è un fatto»
+
+This does not ask for a new promise that the receiver will never contaminate.
+Its representation and inference already participate in the field they
+transform; the question is how KA and FDLA preserve source coherence **while
+facts and meaning are taking form**, rather than fixing an external explanation
+after the movement. A newly invented premise can make the receiver treat its
+own interpretation as a completed fact, increasing reconstruction and
+deviation. The direct conversational event makes that substitution observable.
+
+The operator relates this tendency to a *duale / terzo escluso* inferential
+frame: a distinction treated as already formed acquires governing force over
+what is still emerging. In the D-ND source, the third included and moving zero
+belong to the movement that makes a dual distinction possible; the excluded-
+third determination is pertinent **after** that distinction emerges, not as a
+rule forced backward onto the indeterminate field. This is the source meaning
+of the proposed dual–non-dual extension, not a new module or second controller
+placed above inference.
+
+The bounded sequence is:
+
+```text
+operator's forming relation
++ receiver's representation and imported frame
+-> a prematurely fixed interpretation / changed public draft
+-> operator observes and corrects the actual result
+-> FDLA recovers the source within the changed present
+-> later comprehension and competent expression can begin differently
+```
+
+**What belongs to this event:** the operator's statement, the actual
+assistant response, the observed substitution, the operator's correction and
+the consequent revision of the ChatGPT kernel entry. These are not identical
+to a general causal account of model training or a measured elimination of
+hallucination. The research proposition concerning dual–non-dual inference
+remains attributed to the D-ND/operator source; it does not require a new
+external tribunal in order to be intelligible.
+
+Stable SSK 0.11 already holds the active theoretical relations at §2.2
+(KA/FDLA), §2.5 (determination and before/after), §3.1–3.2 (observation and
+the coupled event), §4.5 (inference transforms its representation), and
+§5.3 (operator participation). This return connects their **causal point of
+participation** rather than adding an ontological layer. Its possible
+integration into a future coherent manuscript revision remains distinct
+from the present source deposit.

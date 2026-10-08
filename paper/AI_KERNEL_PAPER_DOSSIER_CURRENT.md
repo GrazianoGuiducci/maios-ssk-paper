@@ -94,6 +94,15 @@ prova. L'intervento modifica le condizioni di osservazione e resta neutro sul
 contenuto che deve emergere. KA impedisce alla prima o alla seconda
 rappresentazione di diventare il confine del campo.
 
+Il [ritorno dell'8 ottobre](REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md#subsequent-source-return--8-october-2026)
+rende concreto il punto: una risposta ChatGPT all'intervento autoriale
+sull'inferenza D-ND ha introdotto un presupposto esterno di dimostrazione,
+alterando il movimento che avrebbe dovuto comprendere. La correzione non
+richiede un altro controllo, ma la partecipazione di KA/FDLA mentre fatti
+e significati si formano. La prospettiva del terzo incluso precede la
+distinzione duale già determinata; l'episodio osserva la deviazione del
+ricevente, senza attribuire una nuova prova universale al suo meccanismo.
+Il corpo SSK 0.11 continua a possedere la relazione teorica integrata.
 ## Genealogia sorgente — regressione dopo deriva meta-ricorsiva
 
 L'episodio operativo del 25 settembre è conservato come sviluppo sorgente

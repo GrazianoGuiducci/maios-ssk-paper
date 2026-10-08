@@ -39,7 +39,7 @@ carried by each document and the [current state](../STATE.md).
 
 ## Source development integrated into 0.10 — 30 September 2026
 
-- [Representational decontamination, epistemic probing, and KA/FDLA](REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md) — changing representation can reduce contamination of the observation field without prescribing what must emerge; the representational differential is a candidate relation, not independent proof, and FDLA returns it to source/object.
+- [Representational decontamination, epistemic probing, and KA/FDLA](REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md) — 30 September conceptual source integrated into 0.10, with a [later 8 October source return](REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md#subsequent-source-return--8-october-2026) on receiver contamination, third-included determination and the facts forming during inference; the later return is open and does not retroactively change the stable 0.11 manuscript.
 
 ## Source developments integrated into 0.9 — 25–26 September 2026
 

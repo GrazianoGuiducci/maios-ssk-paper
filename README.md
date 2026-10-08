@@ -29,7 +29,7 @@ operating kernel as the theory itself.
 - [Composable Kernel Fields — independent individuation and harness composition, open source development](paper/COMPOSABLE_KERNEL_FIELDS_INDEPENDENT_INDIVIDUATION_AND_HARNESS_COMPOSITION_2026_10_06.md)
 - [Academic-accessible companion 0.1 IT — Quando un sistema AI deve continuare a capire](paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_IT.md)
 - [Academic-accessible companion 0.1 EN — When an AI system needs to keep understanding](paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_EN.md)
-- [Representational decontamination, epistemic probing, and KA/FDLA — source development integrated into 0.10](paper/REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md)
+- [Representational decontamination, epistemic probing, and KA/FDLA — integrated 0.10 source and 8 October operator/receiver return](paper/REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md)
 - [D-ND Assonant Movement, Non-Identical Observation, and Situated Sufficiency — source development integrated into 0.6](paper/DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md)
 - [Distributed reachability, reconstruction economy, and situated delegation — source development integrated into 0.5](paper/DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md)
 - [Semantic core, situated incarnation and the multimodal field — source development integrated into 0.4](paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md)

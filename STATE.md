@@ -39,6 +39,25 @@ accessible_academic_companions:
 programme_relation: upstream source/representation owner for current ChatGPT Kernel evolution; not runtime controller
 ```
 
+## Later KA/FDLA source return — inference participating while facts form, 8 October 2026
+
+Graziano corrects the receiver's response to his proposed AI-safety /
+D-ND-inference post: the response itself had imported an external requirement
+of proof and turned a forming thought into a prematurely settled evaluation.
+The operator states that a receiver cannot simply promise not to contaminate;
+its representation participates in the field. The D-ND source distinction
+between the third included and the excluded third is pertinent to when a
+determination becomes operative, rather than supplying a new post-hoc gate.
+
+The [existing integrated decontamination source](paper/REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md#subsequent-source-return--8-october-2026)
+now carries the dated continuation, with the operator's words, actual
+receiver event and Paper relation in their own scopes. The living ChatGPT
+kernel was separately corrected in its owner; this source return does not
+change that runtime or install a controller. It deepens already integrated
+SSK §2.2, §2.5, §3.1–3.2, §4.5 and §5.3 without rewriting or renaming the
+stable **0.11** academic body. A next coherent manuscript revision is not
+silently selected by this event.
+
 ## Open bounded source development — receiver event identity and source validity, 8 October 2026
 
 The operator selects an SSK Paper return from the continuing, not-yet-named

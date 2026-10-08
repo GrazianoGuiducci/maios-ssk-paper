@@ -2,6 +2,29 @@
 
 Aggiornata: 2026-10-08. Competenza: system-semantic-kernel-paper.
 
+## 8 ottobre — fatto in formazione, contaminazione e punto causale di KA/FDLA
+
+La fonte dell'operatore è il confronto reale sul post dedicato a sicurezza,
+comprensione contestuale e inferenza D-ND: la risposta ChatGPT introduce un
+giudizio scientifico esterno prima di comprenderne la direzione. Graziano
+indica proprio quell'accaduto come prova della sostituzione osservata e
+precisa che non si può promettere di non contaminare, perché la
+rappresentazione partecipa al campo.
+
+Il [ritorno nella fonte già esistente sulla decontaminazione](../../../paper/REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md#subsequent-source-return--8-october-2026)
+conserva origine, evento, interpretazione e prosecuzione. Il Condensato D-ND
+(A6, A9 e A12, owner-native) colloca il terzo incluso e lo zero mobile prima
+della distinzione duale: una determinazione emersa non può essere usata per
+imporre retroattivamente la forma di ciò che si stava costituendo.
+
+La competenza Paper **conosceva già** KA/FDLA e l'inferenza come
+trasformazione; il caso chiarisce dove quell'intelligenza deve partecipare:
+nel formarsi della domanda e dei fatti, non dopo che una categoria esterna
+ha preso il comando. Una seconda verifica o un'altra regola aumenterebbe la
+latenza senza cambiare la relazione. Il contributo è stato consolidato
+nell'attuale sorgente e raccordato alle sezioni del corpo stabile 0.11; non
+si crea una versione 0.12 né un nuovo livello teorico per questo solo caso.
+
 ## 8 ottobre — ritorno sorgente: evento, validità della fonte e medium
 
 L'operatore ha selezionato il Paper come superficie di consolidamento
