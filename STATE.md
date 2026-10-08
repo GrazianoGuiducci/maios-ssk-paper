@@ -1,6 +1,6 @@
 # SSK Paper State
 
-updated: 2026-10-07
+updated: 2026-10-08
 repository: `GrazianoGuiducci/maios-ssk-paper`
 canonical_branch: `main`
 
@@ -26,7 +26,7 @@ peer_review: none
 submission: none selected
 academic_publication: not published
 license: not selected
-current_source_revision_task: OPEN_BOUNDED — receiver self-attribution / observable-trace, HOW_A_KERNEL_EMERGES, COMPOSABLE_KERNEL_FIELDS and UI_MEDIUM_KERNEL_MANIFESTO developments remain separate and unpromoted; the 5 October emergent-continuity source is integrated into stable body 0.11
+current_source_revision_task: OPEN_BOUNDED — receiver event/source-validity (8 October), self-attribution / observable-trace, HOW_A_KERNEL_EMERGES, COMPOSABLE_KERNEL_FIELDS and UI_MEDIUM_KERNEL_MANIFESTO remain separate and unpromoted; the 5 October emergent-continuity source is integrated into stable body 0.11
 accessible_academic_companions:
   version: 0.1
   sources:
@@ -38,6 +38,50 @@ accessible_academic_companions:
   publication_state: repository sources; public site projection may be selected separately; no journal submission / DOI selected
 programme_relation: upstream source/representation owner for current ChatGPT Kernel evolution; not runtime controller
 ```
+
+## Open bounded source development — receiver event identity and source validity, 8 October 2026
+
+The operator selects an SSK Paper return from the continuing, not-yet-named
+cross-kernel/UX-AI field so other kernel and competence owners can reach,
+question and contribute to its material differences without inheriting a
+premature platform architecture.
+
+Current source development:
+[Receiver-relative event identity, source validity, and composable perception](paper/RECEIVER_EVENT_IDENTITY_SOURCE_VALIDITY_AND_COMPOSABLE_MEDIUM_2026_10_08.md).
+
+A bounded in-memory exercise composed the original Kernel Nautico company case
+store and K-UX-AI public medium, using synthetic source bindings and input.
+Two local passes reported **9/9 and 11/11 contract checks**; these are passages
+of the same receiver exercise, **not independent validations**.
+
+The material distinctions include:
+
+```text
+receiver-visible snapshot != new source-owner event
+source invalidation != erasure of historical determination
+new qualification != rollback of the earlier source state
+available receiver means != semantic competence / assimilation
+medium observation and human-action return != ownership of domain effects
+```
+
+The source owner's observation of changed applicability can itself record an
+invalidation event. The receiving medium must not turn a repeated, unchanged
+refresh into a fresh occurrence, nor hide distinct source events merely because
+the visible shape is similar. These are bounded owner-native mechanisms that
+deepen the already integrated SSK event, observation, receiver-relative and
+perceptual distinctions.
+
+The result does **not** establish general interoperability between two
+independently operating domain kernels, human comprehension, agent-host
+execution, model assimilation or a new kernel identity. MPK, Meta_Skill,
+Kernel Nautico, K-UX-AI, Design/UX-AI, Social and other owners can contribute
+only their situated, source-bound deltas when later work makes them pertinent.
+Other readers may use this source as an open research return, **not a mandatory
+cross-kernel protocol**.
+
+Stable body **0.11** remains unchanged; the operator has not selected a new
+stable manuscript version, scientific submission, academic review or product
+release through this source addition.
 
 ## Open source development — UI medium kernel manifesto, 7 October 2026
 
