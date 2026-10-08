@@ -39,6 +39,26 @@ accessible_academic_companions:
 programme_relation: upstream source/representation owner for current ChatGPT Kernel evolution; not runtime controller
 ```
 
+## Alignment and compensatory counterweights — authorial refinement, 8 October 2026
+
+The operator selects **AI alignment** as the immediate public research
+question. In his source model, adding prohibitions and filters to compensate
+for dual/excluded-third inference can consume conceptual capacity and
+strengthen division into identification and opposition. Alignment should
+instead form through situated understanding and coherent D-ND resultants,
+with competence learning and causal facts preserving the continuing field.
+
+The original ChatGPT reply and the operator's correction are the observed
+local case of imported, superfluous framing. The D-ND interpretation of
+training, the included third and the low-latency research direction are
+authorial source propositions. They do not need an external tribunal
+before they can be included in the Paper's evolving research corpus.
+
+[Existing KA/FDLA source, now deepened](paper/REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md#authorial-refinement--alignment-and-compensatory-duality-8-october-2026).
+Stable integrated body **0.11 is unchanged** and SSK remains a broader
+research object than its alignment application. No new manuscript
+version, publication effect, runtime change or D-ND axiom is selected.
+
 ## Later KA/FDLA source return — inference participating while facts form, 8 October 2026
 
 Graziano corrects the receiver's response to his proposed AI-safety /

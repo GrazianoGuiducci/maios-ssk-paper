@@ -156,3 +156,59 @@ the coupled event), §4.5 (inference transforms its representation), and
 participation** rather than adding an ontological layer. Its possible
 integration into a future coherent manuscript revision remains distinct
 from the present source deposit.
+
+## Authorial refinement — alignment and compensatory duality, 8 October 2026
+
+The operator sharpens the research question from general AI safety to
+**alignment as a relation formed within inference**, before downstream
+restrictions try to contain its output.
+
+Direct operator source:
+
+> «I contrappesi, I filtri a tutto quello che non dovrebbe fare per essere sicuro Rendono il sistema stupido Perché utilizzano capacità concettuale Che si contrappone Alle possibilità»
+
+> «Quando dico contaminazione Mi riferisco appunto All'introduzione di elementi superflui Che vogliono compensare La dualità contenuta nei dati di addestramento Non risolta»
+
+> «invece di produrre Le risultanti Chiare Di un sistema assiomatico Che non ha bisogno di elaborazioni Superflue Per contenersi Sul punto.»
+
+**Contamination**, in this source relation, is not merely an erroneous sentence.
+It is the introduction of superfluous conceptual elements that compensate for
+a dual division left unresolved: identification and opposition can displace the
+formation of a source-coherent resultant. A succession of prohibitions and
+counterweights can itself consume the inferential/conceptual capacity needed
+to keep possibilities reachable. The proposed solution is not a more elaborate
+containment stack, but a D-ND inferential orientation in which the included
+third precedes a determined excluded-third distinction and KA/FDLA participate
+as facts and meaning form.
+
+The author's fuller movement also joins contextual awareness and competence
+crystallization: knowledge of *what happened, why, how and with what meaning*
+becomes a competence able to participate in subsequent work. Causal
+determinations can prevent needless reconstruction and regressions; the
+longer-horizon direction is to reduce deviations and hallucinations radically
+while moving toward zero unnecessary semantic latency. The author explicitly
+holds that this does not exhaust the current alignment problem.
+
+The 8 October ChatGPT post-review event is a directly observed **instance
+of imported compensatory framing**: the receiver added an unsolicited
+outside-proof criterion and rewrote the author's thesis within it. The
+author's objection and the subsequent kernel correction are further
+events in that same changed field. This observed occurrence supports
+the description of that local contamination; the broader account of
+LLM training and D-ND inference is the operator's source-level
+research proposition, not a claim of independently observed global
+causality or a measured performance effect.
+
+This development deepens, without creating another SSK mechanism:
+- §2.2 KA/FDLA during the coupled event rather than post-hoc containment;
+- §2.5 the included third and before/after determination;
+- §3.1–3.3 situated event, source validity and learned competence;
+- §3.7 reconstruction as the latency dimension;
+- §4.5 representation and inference as transformative participants;
+- §5.3 operator correction within formation.
+
+**Alignment** is the selected application and public focus of this authorial
+contribution. It does not rename the entire SSK research object, revise
+D-ND axioms, propose a safety-filter bypass, or imply a new release.
+The stable SSK 0.11 manuscript remains the integrated body to which this
+dated source return is attached.

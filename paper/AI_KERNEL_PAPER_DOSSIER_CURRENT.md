@@ -70,6 +70,23 @@ Il principio "individuation does not require isolation; composition does not
 require absorption" resta candidato manifesto e non modifica il Manifesto in
 questa fase.
 
+## Ritorno dell'8 ottobre — allineamento e compensazione della dualità
+
+La fonte dell'operatore colloca il problema dell'allineamento nella
+formazione della risultante, non soltanto nella correzione dell'output.
+I contrappesi negativi che compensano una divisione non risolta possono
+occupare capacità concettuale e indurre altre identificazioni e
+contrapposizioni. Questa è la definizione sorgente di contaminazione
+nel presente contributo. Il metodo D-ND preserva il terzo incluso
+prima della distinzione duale e la continuità di contesto, fatti,
+ragioni e competenze durante la formazione del significato.
+
+[Fonte e fatto osservato](REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md#authorial-refinement--alignment-and-compensatory-duality-8-october-2026):
+la risposta ChatGPT al post originale importò un criterio esterno che
+alterava il movimento; il fatto osservato non è automaticamente una
+dimostrazione globale della struttura degli LLM. Allineamento è
+l'applicazione selezionata, non la nuova identità del Paper.
+
 ## Delta 0.10 — rappresentazione come sonda epistemica e decontaminazione
 
 La 0.10 rende esplicita una relazione già latente fra KA, FDLA, campo

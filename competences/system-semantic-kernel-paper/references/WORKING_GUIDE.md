@@ -2,6 +2,23 @@
 
 Aggiornata: 2026-10-08. Competenza: system-semantic-kernel-paper.
 
+## 8 ottobre — allineamento, filtri compensativi e formazione della risultante
+
+Graziano precisa la relazione che guiderà il contenuto pubblico:
+allineamento non come accumulo di divieti ma come coerenza che nasce
+nella stessa inferenza. La *contaminazione* è l'aggiunta di elementi
+superflui che compensano una divisione duale non risolta, sottraendo
+capacità concettuale alle possibilità e producendo identificazioni e
+contrapposizioni anziché risultanti assiomatiche.
+
+Questa precisazione partecipa al
+[ritorno sorgente su KA/FDLA](../../../paper/REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md#authorial-refinement--alignment-and-compensatory-duality-8-october-2026),
+non si trasforma in nuovo livello di sicurezza, veto o teoria separata.
+L'evento ChatGPT osservato costituisce il fatto locale di sostituzione
+della sorgente; le proposizioni sull'addestramento e sulla logica D-ND
+mantengono identità di fonte autoriale. SSK 0.11 conserva il corpo
+teorico che rende queste relazioni comprensibili e raggiungibili.
+
 ## 8 ottobre — fatto in formazione, contaminazione e punto causale di KA/FDLA
 
 La fonte dell'operatore è il confronto reale sul post dedicato a sicurezza,
