@@ -20,6 +20,18 @@
 - [Project Kernel-scale predecessor](../genealogy/SITUATED_COMPETENCE_EVOLUTION_IN_AI_PROJECT_KERNELS_DRAFT_0_1.md) — earlier argument at a component scale.
 - [Paper competence kernel](../competences/system-semantic-kernel-paper/references/SSK_PAPER_COMPETENCE_KERNEL.md) and [accumulated working guide](../competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md) — authoring knowledge and detailed source-to-argument continuity.
 
+## Open source developments — kernel field and receiving media
+
+These sources are **reachable research developments**, not chapters promoted
+into stable SSK 0.11. Their source, claim and contribution boundaries are
+carried by each document and the [current state](../STATE.md).
+
+- [Receiver-relative event identity, source validity, and composable perception — 8 October](RECEIVER_EVENT_IDENTITY_SOURCE_VALIDITY_AND_COMPOSABLE_MEDIUM_2026_10_08.md) — bounded Nautico/K-UX-AI owner-native JS composition; snapshot/event distinction, source invalidation and requalification, receiver means and exact-effect ownership; **9/9 + 11/11 synthetic contract checks**, not general interoperability or human/AI assimilation.
+- [Composable Kernel Fields — 6 October](COMPOSABLE_KERNEL_FIELDS_INDEPENDENT_INDIVIDUATION_AND_HARNESS_COMPOSITION_2026_10_06.md) — individuated owners can compose without absorption; harness reachability does not establish pertinence or actual participation.
+- [How a Kernel Emerges — 2 October, with later returns](HOW_A_KERNEL_EMERGES_2026_10_02.md) — distinguishes temporary composition from the emergence of a continuing higher-order object; bounded Social Kernel specimen.
+- [Receiver self-attribution, observable trace and causal interpretation — 26 September](RECEIVER_SELF_ATTRIBUTION_TRACE_AND_CAUSAL_INTERPRETATION_2026_09_26.md) — event, receipt, later causal account and actual assimilation carry different evidence.
+- [Kernel UI medium manifesto — 7 October](UI_MEDIUM_KERNEL_MANIFESTO_2026_10_07.md) — interface as the work's perceptual/intervention medium, with code as an evolving incarnation rather than semantic authority.
+
 ## Academic-accessible companion forms
 
 - [Quando un sistema AI deve continuare a capire — introduzione accessibile al SSK, companion 0.1 IT](SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_IT.md) — Italian academic-accessible form derived from stable body 0.10 through Editoriali.
