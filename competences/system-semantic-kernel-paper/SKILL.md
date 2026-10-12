@@ -96,7 +96,7 @@ public identity: MAIOS represents and narrates SSK on the web and through the br
 corpus strategy: integrate every still-causal relation into one SSK field; keep superseded forms as cold genealogy and derive non-academic forms only from the academically governed corpus
 canonical repository: GrazianoGuiducci/maios-ssk-paper
 canonical manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md
-current state: stable body 0.12; 0.11 preserved; symbolic situated one / changed-observer three-pass observation and authorial KA/FDLA coherence invariants integrated with source/claim distinctions; continuum vs emergent continuity, representational decontamination, synthetic situated awareness, variance and causal reentry preserved; no independent human author review, peer review, DOI or academic publication
+current state: stable body 0.12 (same-day source-salience correction); 0.11 preserved; non-identical observation from changed knowing and authorial KA/FDLA coherence invariants integrated; symbolic one remains attributed source detail and not operational Paper logic; emergent continuity, representation, synthetic awareness, variance and causal reentry preserved; no independent human author review, peer review, DOI or academic publication
 ```
 
 The Paper now also carries a second documentary form:
@@ -187,13 +187,30 @@ treatments rather than append one section per contribution. Preserve unresolved
 possibilities with their reasons and sources. Resume from the resultant without
 replaying passages whose function is already assimilated.
 
-### Source coherence and symbolic unity — 12 October 2026
+### Source coherence, observing position, and authorial invariants — 12 October 2026
 
-The operator's `99,9999` for the richness of three passages was symbolic, not a measured quantity. He now identifies the `1` of each situation as the **situated unity of its resultant**; only the way awareness and resultant proceed changes as context and the observer's knowing change. Keep this meaning distinct from the mathematical identity `R+1=R` in source-owner D-ND, ordinary arithmetic, Kalman posterior confidence, or proof that every observation covers a given fraction of potential.
+The operator describes a deepened observation in successive situated encounters:
+a first impression may be correct without yet revealing relations, another
+encounter can disclose their dimension because relevant knowledge has changed,
+and a further encounter can integrate a previously hidden structure. The
+method must keep that possibility live without forcing exactly three
+readbacks or treating multiple presentations as independent evidence.
 
-The authorial instruction is explicit: **KA and FDLA are invariants of coherence, never editable by the assistant.** The Paper may articulate their role and observe situated competence adaptation, while canonical meaning and source mutation remain with the operator. The `1` is not an assistant-derived new axiom. When a revision uses these relations, differentiate direct operator source, existing D-ND notation, Paper interpretation and receiving implementation.
+A subsequent operator correction exposes an error in **the Paper receiver's
+own salience assignment**. The symbolic `1`, initially overemphasized as
+"unity of each resultant", was an illustrative punctualization **without
+logical value for forming the field**; `99,9999` was symbolic too. These
+historical words remain in the [12 October source and correction](../../paper/DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md),
+not as a formula, marker of achievement or recurrent heading. When the
+assistant understands a detail accurately but promotes it to controlling
+idea, correct its *role* rather than disputing its existence. The active
+argument is what the new observation makes intelligible and changes in
+the following question, competence or action.
 
-The integrated 0.12 source note is [the 12 October direct authorial return](../../paper/DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md). Do not promote measurement or a new supervisor by default.
+**KA and FDLA are operator-owned invariants of coherence, not editable by
+the assistant.** Academic integration or revised competence method does not
+grant authority over their canonical definitions. No special controller,
+claim taxonomy or epistemic gate follows from this correction.
 
 ## D-ND source-to-Paper assimilation
 
