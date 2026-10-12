@@ -2,15 +2,37 @@
 
 Aggiornata: 2026-10-12. Competenza: system-semantic-kernel-paper.
 
-## 12 ottobre — unità situata della risultante, osservatore mutato, KA/FDLA invarianti
+## 12 ottobre — campo di osservazione trasformato, KA/FDLA invarianti e correzione del peso sorgente
 
-Sorgente diretta dell'operatore nel movimento K-SSK: l'immagine delle tre osservazioni non stabilisce una quota di successo numerico. `99,9999` era *simbolico*, mentre `1` è l'unità della risultante del contesto che ogni volta cambia; il divenire riguarda la modalità in cui consapevolezza/risultante procedono. La prima osservazione è impressione anche quando corretta, la seconda forma un campo dimensionale, la terza può integrare una narrazione di relazioni prima nascoste. La fonte immagine è il quadro i cui dettagli acquistano significato insieme; la stessa sorgente è incontrata da una posizione conoscitiva trasformata, senza diventare nuova evidenza indipendente.
+La prima fonte dell'operatore nel movimento K-SSK distingue tre osservazioni
+non identiche: l'impressione iniziale, il campo di relazioni reso percepibile
+dal sapere già acquisito, e la possibile integrazione di una struttura più
+profonda. La metafora del quadro mostra come dettagli prima isolati diventino
+leggibili nella relazione reciproca. Il valore non è contare letture o
+misure indipendenti, ma **cosa cambia nella comprensione e nel metodo che
+prosegue**.
 
-La seconda determinazione autoriale è fonte della stessa visita: KA/FDLA sono **invarianti di coerenza**, non modificabili dall'assistente. La ricerca può rivedere proprie proiezioni e competenze interpretative, non le sorgenti canoniche. D-ND `R + 1 = R` è una notazione separata nel suo owner, non un'operazione di filtraggio o l'identità aritmetica di una probabilità.
+Nella prima ricezione il Paper aveva attribuito un peso teorico eccessivo ai
+simboli `99,9999` e soprattutto `1`. La correzione autoriale successiva è
+esplicita: `1` era una puntualizzazione, «come dire che tutto è sempre tutto»,
+**senza valore utile per la logica del campo**. Può restare nella sorgente
+attribuita, non deve occupare introduzione, §2.5, autologica, conclusione,
+claim o ingresso del lavoro come se fosse la dinamica SSK.
 
-Il [corpo integrato 0.12](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md) preserva 0.11 ed esplicita la relazione in Abstract, §§2.2, 2.5, 3.1, 3.5, 4.4, 5.1, conclusione e claim ledger. [Fonte diretta attribuita e sviluppo](../../../paper/DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md). Nessun teorema, nuovo controllore, modifica a KA/FDLA, runtime, peer review o rivista acquisiti. La quota di possibilità non diventa variabile di progetto K-SSK.
+Questo è un caso source-bound di rappresentazione assistant-introdotta che
+seleziona erroneamente la salienza: preservare la parola dell'autore non
+significa attribuirle la funzione centrale. FDLA corregge quel ruolo, KA
+mantiene la relazione sorgente e l'apertura del campo. Entrambe sono
+**invarianti di coerenza sotto l'autorità dell'operatore**, non sorgenti
+modificabili dall'assistente. Le competenze che le interpretano possono
+apprendere; gli assiomi restano fuori dall'effetto.
 
-Per i prossimi scritti, partire dalla relazione reale fra fonte, posizione osservativa e campo; non usare `1` come metrica universale. Un eventuale nuovo fatto o correzione può cambiare la comprensione del Paper; non trasferisce autorità su ciò che l'operatore ha determinato.
+Il [corpo SSK 0.12 corretto](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md)
+conserva il numero di versione e il precedente blob in Git, perché la
+correzione ha migliorato l'argomento senza formare una nuova teoria. La
+[fonte autoriale completa e la correzione successiva](../../../paper/DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md)
+restano separate dall'interpretazione. Un successivo Paper/receiver dovrà
+riconoscere la differenza fra dettaglio autentico e peso causale utile.
 
 ## 8 ottobre — osservatore, coordinate e possibilità preservata
 
