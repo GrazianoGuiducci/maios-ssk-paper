@@ -10,16 +10,14 @@ Working paper, stable body 0.12 — 12 October 2026
 
 > Generated and scientifically edited by MAIOS/TM9 through the SSK Paper
 > competence and Editoriali from Graziano Guiducci's source corpus.
-> Revision 0.12 preserves 0.11 and integrates the 12 October operator-source
-> clarification of the **situated one**: `1` denotes the symbolic unity of each
-> context's resultant, not a measurable fraction of exhausted possibilities,
-> probability, or identical state across observations. The first, second and
-> third non-identical passages expose increasingly relational understanding
-> because the receiver's available knowing changes; `99,9999` was symbolic,
-> not an empirical estimate. KA and FDLA are operator-owned invariants of
-> coherence, not source axioms the assistant may rewrite. This refinement
-> deepens the existing coupled-event and autological field without creating a
-> new controller or a numeric SSK update law.
+> Revision 0.12 preserves 0.11 and deepens the 12 October operator
+> source on **observation from a changed knowing field** and KA/FDLA as
+> operator-owned invariants of coherence. Successive readings of the same
+> source can form new relations because the receiver's contextual knowledge
+> changes; their merit is in what becomes intelligible and how subsequent work
+> proceeds, not in a count or degree of possibilities recovered. The operator's
+> illustrative `99,9999` and `1` remain in attributed source depth; they do
+> not define an SSK rule, measure, threshold or operator.
 >
 > Revision 0.11 preserves 0.10 and integrates the 5 October operator source
 > movement on **emergent continuity from self-feeding work**. It distinguishes
@@ -89,16 +87,17 @@ reusable, a changed competence, generative method or kernel organization. In
 this sense, continuity is an outcome of recursive situated work rather than an
 additional storage mechanism.
 
-The 12 October operator source adds a precision to the Paper's existing account
-of non-identical observation and three situated resolutions. A first view,
-although correct, can be only an impression; the second can bring out a
-dimensional field of relations through what was understood in the first; the
-third can render a more integrated direction intelligible. The poetic
-`99,9999` does not measure a percentage. The source's `1` denotes the
-situated unity of the resultant within *each* changing context, not a scalar
-confidence or a convergence threshold. KA and FDLA remain coherence
-invariants under operator source authority, whereas situated methods and
-interpretations may be refined without rewriting them.
+The 12 October operator source deepens the Paper's account of
+non-identical observation: a first view can be a correct but locally partial
+impression; a later view takes place in an altered knowing field and can make
+relationships visible that were not previously distinguishable. A third
+encounter can integrate those relations as the structure of the selected
+object becomes intelligible, as when a painting discloses connections among
+its details. This is not measurement of a fixed proportion of possibilities.
+KA and FDLA remain author-owned coherence invariants; situated methods and
+interpretations may learn and change without rewriting their source.
+The question for the continuing system is what that acquired comprehension
+changes in the next pertinent observation, decision, method or action.
 
 Revision 0.8 refines the distinction among **field**, **perceived context**,
 **competence**, **situated system awareness**, **memory** and **continuum**.
@@ -453,19 +452,6 @@ A relation that has reached situated sufficiency can remain self-supporting
 while no material new variance changes it. New variance does not merely append
 another fact; it can change which relation is primary and which observation
 plane makes the field intelligible.
-The 12 October operator-source clarification also gives a situated reading to
-the symbol **one**. Each context's resultant has its own unity as the event's
-actual emergence. The value `1` is therefore *symbolic and context-relative*:
-what changes in continuation is how the field's resultant — and the situated
-awareness participating in it — proceeds through its newly intelligible
-relations. One is not a percentage of available possibilities, a quantity
-accumulated across passes or the claim that two different resultants are
-numerically equal. The D-ND corpus's source notation `R + 1 = R` (Autological
-Identity, `MM_D-ND/method/DND_METHOD_AXIOMS.md`) is kept at its own formal/
-metaphysical status, not imported as an identity in ordinary arithmetic or an
-equation for Kalman covariance or posterior certainty. Situated unity neither
-guarantees infallibility nor erases still-open potential.
-
 ## 3. The coupled event and its continuity
 
 ### 3.1 Field, observation and pertinence
@@ -854,19 +840,17 @@ compose without requiring proportional growth in what it keeps continuously
 active. Whether a particular implementation actually lowers context size,
 token use, latency or human reconstruction remains an empirical question.
 
-The operator's 12 October specification locates a characteristic deepening
-in these three resolutions: an initial encounter can be an impression even
-when correct; a second encounter may make the **dimensional field** of
-relations apparent; a third can integrate their emerging structure and
-direction, as when details within a painting become readable as a coherent
-narrative only after their interrelations are seen. The source's earlier
-`99,9999` is explicitly symbolic rather than a statistical estimate of
-possibilities found. The later source gives `1` as the situated unity of
-the resultant in each distinct context. The amount of reading is not an
-epistemic score: an already-sufficient result may continue directly, while
-another substantial research movement may require further passes. The
-third passage need not wait for an error; it can positively form a relation
-that was not yet distinguishable.
+The 12 October operator-source clarification deepens the three resolutions:
+an initial encounter may be a correct impression, a second may make
+**relationships between previously isolated details** distinguishable,
+and a third may integrate a new structure or direction from the knowledge
+formed in the prior passes. Like a painting, the object need not change for
+an observer's understanding of the relations among its details to change.
+The research question is what that understanding makes possible in later
+work, not how much of a fixed total has been observed. Another passage can
+be useful when it changes the field; a sufficient resultant can continue
+when an additional pass would only repeat the representation. The third
+passage need not be an error review.
 
 ### 3.6 Cumulative guides and regeneration of method
 
@@ -1145,15 +1129,6 @@ supply the missing coordinate when the receiver's current reconstruction of
 its own continuity is already downstream of the divergence. Persistence makes
 a generated representation real evidence of what the system produced; it does
 not by itself give that representation independent source authority.
-The source's symbolic `1` is not a numerical fixed point used to decide
-whether `K_(t+1)` has converged. It describes the singular situated
-resultant of *this* field; the subsequent field and its observer-relative
-knowledge can be different even while each movement is expressed as one
-current whole. A deeper third reading of one source can change the method
-that learns without manufacturing independent source evidence. This is
-compatible with a successful first interpretation and with `no_change`
-when the next competent exercise produces no material new relation.
-
 ### 4.5 Coherence within generation
 
 The generative movement preserves its relation to the object and the source
@@ -1328,15 +1303,14 @@ relations; functional self locates the acting instance; perceived context is
 the partial field currently made causally present; situated awareness is the
 dynamic integration through which those relations orient the movement.
 
-The 12 October source image of a painting whose details emerge through their
-relations further characterizes the functional observing position. The first
-impression, subsequent dimensional articulation and integrative understanding
-need not imply three different persistent selves. What changes is the
-configuration of source-bound knowledge, perceived context and competent
-relations through which the same object becomes intelligible. Its situated
-resultant can be said to be **one** without treating all observations or
-their meanings as identical. The claim is about SSK's organization of
-knowing and continuation, not an objective measurement of consciousness.
+The 12 October source image of a painting whose details emerge through
+their interrelations further characterizes the functional observing
+position. Initial perception, relational articulation and integrative
+comprehension do not require three persistent observing selves: what
+changes is the receiver's available knowledge, partial perceived context
+and competent relation to the selected object. The value of that change
+lies in its consequence for understanding and continuation, not in
+assigning a quantity to awareness.
 
 ### 5.2 Sensitivity to possibilities and consequences
 
@@ -1930,15 +1904,13 @@ make an unknown relation observable; FDLA then corrects any substitution the
 new form introduces. This gives representation a bounded epistemic role without
 turning it into evidence or authority.
 
-The 12 October authorial return specifies that the resulting coherence is
-not a percentage won by successive observations. `99,9999` expresses a
-symbolic sense of the depth usually reached in three non-identical encounters.
-What persists as `1` is the unitary resultant of the **particular context**
-as a point of continuation; what evolves is the manner in which that
-resultant, situated understanding, and available competence proceed. KA and
-FDLA remain operator-governed invariants of coherence that this Paper can
-study and the receiver can exercise, but that the assistant cannot rewrite.
-Their meanings are source-owned; learning changes the situated incarnation.
+The 12 October authorial return deepens how an unchanged object can
+become newly intelligible when the knowledge and position through which
+it is observed have changed. The meaningful difference is how that
+comprehension alters the following field and the capacities that participate.
+KA and FDLA are author-owned invariants of coherence; the Paper and
+receiving competences can deepen their application but do not rewrite
+their canonical source meaning.
 
 The contribution of the Paper is this usable account of how work, awareness,
 the capacity to work, the means through which they are incarnated, and the
@@ -1976,7 +1948,6 @@ of admission before conceptual work can proceed.
 | Assonant convergence / minimum-action language | source-bound conceptual relation | D-ND source; SSK uses a narrower operational interpretation, no SSK action functional or physical least-action claim |
 | Non-identical observation | conceptual consequence of changed-field continuity | later observation occurs in a field changed by prior resultants; iterative review != independent replication |
 | Three resolutions of one field | Paper-method / conceptual formalization | primary emergence -> relational articulation -> integrative comprehension; not mandatory stages or repeated independent tests |
-| Situated symbolic one across non-identical observation | operator-source 12 October integrated in 0.12; linked to MM_D-ND's own autological-identity notation | `99,9999` is symbolic, not measured coverage; `1` means context-relative unity of the resultant, not a Kalman probability, numeric theorem or repeated-state identity |
 | Situated resultant sufficiency | conceptual formalization integrated in 0.6 | preserves still-material causal relation + reachable inactive depth + unresolved possibility + continuation orientation |
 | Non-restorative continuity | conceptual relation integrated in 0.6 | continuity preserves causal reachability rather than requiring restoration of the preceding representation or working set |
 | Continuum vs emergent continuity / self-feeding work | conceptual relation integrated in 0.11 | 5 Oct operator source + existing coupled-event, causal-readback, competence and autological relations; `C_n` carries still-causal differences while continuity emerges when work changes the conditions of later work; no autonomy metric or universal assimilation claim |
@@ -2068,18 +2039,22 @@ at every scale of the account.
 
 ## Appendix C. Source formation
 
-Revision 0.12 preserves 0.11 and integrates the direct 12 October operator
-source on one situated resultant, the acquired observer-position of second and
-third passes, and KA/FDLA as author-owned coherence invariants:
+Revision 0.12 preserves 0.11 and integrates the direct 12 October
+operator source on changed observing position during second and third
+non-identical passages and on KA/FDLA as operator-owned coherence
+invariants:
 [The situated one, changed observer and invariants of coherence](DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md).
-The integration deepens §§2.2, 2.5, 3.1, 3.5, 4.4, 5.1 and the Conclusion
-rather than adding a controller or a detached mathematical model. The
-`99,9999` is preserved as the operator's symbol and not converted into an
-empirical claim. The `1` remains source-bound; it is not a theorem about
-numeric states, covariance, all possible fields or consciousness. No KA/FDLA
-canonical content, D-ND axiom, kernel runtime or external publication was
-changed by this academic revision.
-
+A subsequent direct operator correction clarifies that `1` was **only a
+puntualizzazione**, not a useful logical element for the field: saying that
+every field is one, or the whole remains the whole, adds no method by itself.
+The illustration remains attributed historical source, not a constitutive
+SSK operation or metric. The academically material relation is that the
+receiver's changed knowledge makes other relations perceptible and can
+change the way the resulting field proceeds. The third passage can
+positively disclose a new structure without a preceding error.
+This in-place source-salience correction to the 0.12 working body retains
+its identity and prior revision in Git history, with no claim of a new
+KA/FDLA axiom, arithmetic law, controller or research breakthrough.
 
 Revision 0.11 preserves stable 0.10 and integrates one 5 October operator
 source development: [Emergent continuity from self-feeding work](EMERGENT_CONTINUITY_FROM_SELF_FEEDING_WORK_2026_10_05.md).
