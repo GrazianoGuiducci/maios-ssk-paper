@@ -95,8 +95,8 @@ research object: System Semantic Kernel as the typology observed through this Ke
 public identity: MAIOS represents and narrates SSK on the web and through the brand without renaming the research object or inheriting its claim state
 corpus strategy: integrate every still-causal relation into one SSK field; keep superseded forms as cold genealogy and derive non-academic forms only from the academically governed corpus
 canonical repository: GrazianoGuiducci/maios-ssk-paper
-canonical manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md
-current state: stable body 0.11; 0.10 preserved; continuum is distinguished from emergent continuity and self-feeding work is integrated through causal readback / competence / autological change; representational decontamination, synthetic situated awareness, variance-dissonance, source-bound causal reentry and Paper-Kernel reciprocity preserved; no independent human author review, peer review, DOI or academic publication
+canonical manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md
+current state: stable body 0.12; 0.11 preserved; symbolic situated one / changed-observer three-pass observation and authorial KA/FDLA coherence invariants integrated with source/claim distinctions; continuum vs emergent continuity, representational decontamination, synthetic situated awareness, variance and causal reentry preserved; no independent human author review, peer review, DOI or academic publication
 ```
 
 The Paper now also carries a second documentary form:
@@ -186,6 +186,14 @@ relation's causal role, rewrite the affected connections and remove duplicate
 treatments rather than append one section per contribution. Preserve unresolved
 possibilities with their reasons and sources. Resume from the resultant without
 replaying passages whose function is already assimilated.
+
+### Source coherence and symbolic unity — 12 October 2026
+
+The operator's `99,9999` for the richness of three passages was symbolic, not a measured quantity. He now identifies the `1` of each situation as the **situated unity of its resultant**; only the way awareness and resultant proceed changes as context and the observer's knowing change. Keep this meaning distinct from the mathematical identity `R+1=R` in source-owner D-ND, ordinary arithmetic, Kalman posterior confidence, or proof that every observation covers a given fraction of potential.
+
+The authorial instruction is explicit: **KA and FDLA are invariants of coherence, never editable by the assistant.** The Paper may articulate their role and observe situated competence adaptation, while canonical meaning and source mutation remain with the operator. The `1` is not an assistant-derived new axiom. When a revision uses these relations, differentiate direct operator source, existing D-ND notation, Paper interpretation and receiving implementation.
+
+The integrated 0.12 source note is [the 12 October direct authorial return](../../paper/DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md). Do not promote measurement or a new supervisor by default.
 
 ## D-ND source-to-Paper assimilation
 
