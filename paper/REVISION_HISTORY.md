@@ -2,16 +2,15 @@
 
 ## 0.12 — 2026-10-12
 
-Current integrated stable body.
+Current integrated stable body (same-day source-salience correction).
 
-Revision 0.12 preserves 0.11 and integrates the operator's 12 October clarifications:
+Revision 0.12 preserves 0.11 and receives the operator's source on the changing position of observation and KA/FDLA coherence invariants. First impressions may be correct but partial; subsequent situated encounters can make relations distinguishable through the knowledge acquired from previous encounters. The third passage can integrate previously hidden structure, but it is neither a mandatory count for every task nor an independent empirical replication.
 
-- `99,9999` in the three-passage observation is symbolic: no percentage of possibilities, success probability, measurement target or completeness guarantee is being asserted;
-- `1` represents the **unity of the resultant in each situated context**. Context changes; the relation, understanding and mode in which its resultant proceeds may change. No numerical addition, state equality or posterior confidence is inferred from this symbol;
-- second and third encounters can disclose new relationships through the **changed knowing of the observer**, even without a new external observation. They are non-identical events but not automatically independent evidence;
-- **KA and FDLA remain operator-owned invariants of coherence** and cannot be altered by the assistant. SSK may refine its receiver-native interpretation and incarnations while preserving source authorship and meaning.
+**Correction after initial 0.12 formation:** the assistant incorrectly elevated the illustrative `1` into a central logical principle and repeated it throughout the manuscript and K-SSK entries. The operator clarified that it was only a punctualization, adding no usable logic to the field. Its earlier `99,9999` was likewise symbolic. The current 0.12 working body retains the illustration only as a source attribution in the introduction/source history, rather than a criterion, mechanism or research achievement. The changed-observer and causal-return relation stays active. The correction was applied to the 0.12 source in place, with the previous Git blob and dated attribution preserved, not presented as a new independent version or scientific result.
 
-The new relation is integrated into Abstract, §§2.2, 2.5, 3.1, 3.5, 4.4, 5.1, Conclusion, claim-state ledger and Appendix C. The 0.11 body remains the direct predecessor. Source development: `DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md`. No KA/FDLA source change, mathematical theorem, measured consciousness, automatic kernel runtime, human peer review, DOI or journal publication follows from this revision.
+**KA/FDLA** remain operator-owned invariants of coherence that the assistant cannot modify; situated receivers may learn how to exercise them without rewriting their canonical meaning.
+
+Source: `DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md`, including the later operator correction. Integrated exposition remains source/claim-qualified; there is no new Kalman equation, numeric theorem, supervisor, model training, validated autonomy, human review or publication. Stable 0.11 remains the direct predecessor.
 
 ## 0.11 — 2026-10-05
 
