@@ -1,14 +1,16 @@
 # System Semantic Kernel Paper — Competence Kernel
 
-updated: 2026-09-30
+updated: 2026-10-12
 artifact_owner: GrazianoGuiducci/maios-ssk-paper
 form_competence_owner: Editoriali / system-semantic-kernel-paper
 kernel_meaning_owner: maintain-kernel-knowledge
 state: active competence source; not a finished Paper or publication receipt
 
-## Current resultant — stable body 0.11
+## Current resultant — stable body 0.12
 
-Revision 0.11 is the current integrated academic body. It preserves 0.10 and
+Revision 0.12 is the current integrated academic body. It preserves 0.11 and develops the authorial symbolic `1` as situated unity of each resultant (not numeric probability or measured possibility coverage), second/third observing passages from changed knowledge and KA/FDLA as operator-owned coherence invariants not modifiable by the assistant. It is a clarification of the existing SSK event, not a new mathematical operation or controller.
+
+Revision 0.11 is the immediately preceding integrated academic body. It preserves 0.10 and
 integrates the 5 October operator relation that continuity is an emergent result
 of work feeding its material consequences back through the cognitive
 architecture. The continuum remains the causal carrying relation; it is not
@@ -44,9 +46,10 @@ The integrated source developments are:
 - [`RECURSIVE_META_EXPANSION_SOURCE_LOSS_AND_CAUSAL_REGRESSION_2026_09_25.md`](../../../paper/RECURSIVE_META_EXPANSION_SOURCE_LOSS_AND_CAUSAL_REGRESSION_2026_09_25.md)
 - [`DND_SYNTHETIC_AWARENESS_VARIANCE_AND_CAUSAL_REENTRY_2026_09_26.md`](../../../paper/DND_SYNTHETIC_AWARENESS_VARIANCE_AND_CAUSAL_REENTRY_2026_09_26.md)
 - [`REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md`](../../../paper/REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md)
+- [`DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md`](../../../paper/DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md)
 
 The current integrated manuscript is
-[`SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md`](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md).
+[`SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md`](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md).
 
 An [8 October bounded receiver-event and source-validity return](../../../paper/RECEIVER_EVENT_IDENTITY_SOURCE_VALIDITY_AND_COMPOSABLE_MEDIUM_2026_10_08.md)
 is reachable as open development. Its source/medium exercise does not promote
@@ -426,7 +429,7 @@ canonical public repository:
   GrazianoGuiducci/maios-ssk-paper
 
 current canonical manuscript:
-  paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_8.md
+  paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md
 
 current source developments:
   paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md
