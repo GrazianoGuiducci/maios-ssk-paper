@@ -1,7 +1,7 @@
 # Current claim-state ledger
 
 The canonical detailed ledger is maintained in
-[Appendix A of stable body 0.11](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md#appendix-a-current-claim-state-ledger)
+[Appendix A of stable body 0.12](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md#appendix-a-current-claim-state-ledger)
 and is interpreted together with the
 [dossier's claim-state section](AI_KERNEL_PAPER_DOSSIER_CURRENT.md#stato-delle-affermazioni).
 
@@ -20,7 +20,7 @@ external_literature_claim
 retained_unknown
 ```
 
-Revision 0.11 uses these classes to preserve the 0.10 integrated body and to keep
+Revision 0.12 uses these classes to preserve the 0.11 integrated body, including the symbolic situated one (operator_source, not a numeric theorem), three non-identical observing positions (conceptual_formalization, not independent replications), and KA/FDLA authorial invariant ownership (operator_source), and to keep
 the D-ND source relation, assonant/minimum-action language, non-identical
 observation, three-resolution movement, situated resultant sufficiency,
 non-restorative continuity, synthetic situated awareness, source-bound causal regression, variance/dissonance, representational decontamination / epistemic probing, the continuum/emergent-continuity distinction, self-feeding work and before/after source propositions distinct from
