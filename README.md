@@ -18,14 +18,14 @@ operating kernel as the theory itself.
 > multimodal perception/inference, semantic positioning, integrative contraction,
 > reconstruction economy, D-ND source-to-Kernel movement, non-identical
 > observation, situated resultant sufficiency, and the competence-awareness-
-> continuum distinction through situated system awareness, the 0.11 relation between causal continuum and emergent continuity, and the 0.12 operator-source clarification on the symbolic situated one, non-identical observers and KA/FDLA invariant coherence. Graziano Guiducci is the authorial source; the SSK Paper
+> continuum distinction through situated system awareness, the 0.11 relation between causal continuum and emergent continuity, and the 0.12 source clarification of non-identical observation from changed knowledge and operator-owned KA/FDLA invariant coherence. The illustrative `1` is preserved as source context, not a working logical principle. Graziano Guiducci is the authorial source; the SSK Paper
 > competence and Editoriali conduct continuing revision. See
 > [STATE.md](STATE.md) for publication and review metadata.
 
 ## Read the working paper
 
 - [System Semantic Kernel (SSK), stable body 0.12](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md)
-- [Situated symbolic one, changed observer and KA/FDLA invariant coherence — 12 October source](paper/DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md)
+- [Changed observing position, KA/FDLA coherence invariants and source illustration — 12 October](paper/DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md)
 - [Stable predecessor 0.11](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md)
 - [Receiver-relative event identity, source validity, and composable perception — 8 October, open bounded development](paper/RECEIVER_EVENT_IDENTITY_SOURCE_VALIDITY_AND_COMPOSABLE_MEDIUM_2026_10_08.md)
 - [Composable Kernel Fields — independent individuation and harness composition, open source development](paper/COMPOSABLE_KERNEL_FIELDS_INDEPENDENT_INDIVIDUATION_AND_HARNESS_COMPOSITION_2026_10_06.md)
