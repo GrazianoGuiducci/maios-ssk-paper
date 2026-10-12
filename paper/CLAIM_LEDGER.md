@@ -20,7 +20,7 @@ external_literature_claim
 retained_unknown
 ```
 
-Revision 0.12 uses these classes to preserve the 0.11 integrated body, including the symbolic situated one (operator_source, not a numeric theorem), three non-identical observing positions (conceptual_formalization, not independent replications), and KA/FDLA authorial invariant ownership (operator_source), and to keep
+Revision 0.12 uses these classes to preserve the 0.11 integrated body, deepen the changed-observer relation of three non-identical passages (conceptual_formalization, not independent replications), and KA/FDLA authorial invariant ownership (operator_source). The symbolic `1` remains operator-source illustration after an explicit correction of its exaggerated salience; it is not an operational logic, numeric theorem or measured proportion. The ledger continues to keep
 the D-ND source relation, assonant/minimum-action language, non-identical
 observation, three-resolution movement, situated resultant sufficiency,
 non-restorative continuity, synthetic situated awareness, source-bound causal regression, variance/dissonance, representational decontamination / epistemic probing, the continuum/emergent-continuity distinction, self-feeding work and before/after source propositions distinct from
