@@ -2,7 +2,9 @@
 
 ## Canonical corpus
 
-- [Stable body 0.11](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md) — current integrated argument: preserves 0.10 and distinguishes continuum from emergent continuity, integrating self-feeding work through causal readback, competence/method change and the autological generative core.
+- [Stable body 0.12](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md) — current integrated argument, preserves 0.11 and develops the symbolic situated one, the changed-observer three-pass source, and operator-owned KA/FDLA coherence invariants.
+- [Situated one, changed observer and KA/FDLA invariant coherence — 12 October](DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md) — authorial source integrated in 0.12, not a measured probability, arithmetic law or runtime source modification.
+- [Stable body 0.11](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md) — former integrated argument: preserves 0.10 and distinguishes continuum from emergent continuity, integrating self-feeding work through causal readback, competence/method change and the autological generative core.
 - [Emergent continuity from self-feeding work — 5 October](EMERGENT_CONTINUITY_FROM_SELF_FEEDING_WORK_2026_10_05.md) — operator-source development integrated into 0.11; continuity emerges from recursive consequential work rather than naming a memory store or restored state.
 - [Stable body 0.10](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_10.md) — current integrated argument: preserves 0.9 and integrates representational decontamination / epistemic probing as a KA/FDLA relation.
 - [Stable body 0.9](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_9.md) — direct stable predecessor: preserves 0.8 and integrates synthetic situated awareness, source-bound causal regression, variance/dissonance, self-supporting resultants, before/after asymmetry and Paper/Kernel reciprocity.
@@ -23,7 +25,7 @@
 ## Open source developments — kernel field and receiving media
 
 These sources are **reachable research developments**, not chapters promoted
-into stable SSK 0.11. Their source, claim and contribution boundaries are
+into stable SSK 0.12. Their source, claim and contribution boundaries are
 carried by each document and the [current state](../STATE.md).
 
 - [Receiver-relative event identity, source validity, and composable perception — 8 October](RECEIVER_EVENT_IDENTITY_SOURCE_VALIDITY_AND_COMPOSABLE_MEDIUM_2026_10_08.md) — bounded Nautico/K-UX-AI owner-native JS composition; snapshot/event distinction, source invalidation and requalification, receiver means and exact-effect ownership; **9/9 + 11/11 synthetic contract checks**, not general interoperability or human/AI assimilation.
