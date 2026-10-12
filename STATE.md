@@ -21,7 +21,7 @@ integrated_developments:
   - paper/DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md
 source_authority: Graziano Guiducci
 revision_owner: system-semantic-kernel-paper + Editoriali
-system_revision: stable body 0.12; preserves 0.11 and integrates the 12 October authorial source on symbolic situated one, the learned observing position of the second/third non-identical passage, and KA/FDLA as operator-governed coherence invariants; 0.11's emergent continuity and all earlier developments preserved; no new numeric SSK law or runtime controller
+system_revision: stable body 0.12, source-salience corrected in place 2026-10-12; preserves 0.11 and integrates observation from changed knowledge plus KA/FDLA operator-owned coherence invariants. Illustrative symbolic 1/99 are source-only after subsequent operator correction, not an operational SSK rule; emergent continuity and earlier developments remain. No new numeric law or controller
 independent_human_author_review: not performed
 peer_review: none
 submission: none selected
@@ -40,18 +40,15 @@ accessible_academic_companions:
 programme_relation: upstream source/representation owner for current ChatGPT Kernel evolution; not runtime controller
 ```
 
-## Integrated in 0.12 — situated one, transformed observation and KA/FDLA invariant coherence (12 October 2026)
+## Integrated in 0.12 — changed observation and authorial coherence invariants (12 October 2026)
 
-The operator clarifies that the earlier `99,9999` attached to three passages is **symbolic**, not an empirical success/capability percentage to measure here. Every context has its own `1` as the **situated unity of its resultant**; what differs across subsequent events is how that field's resultant and its situated awareness proceed, not an accumulating numerical score. The unchanged source may become more intelligible when the observer's available knowledge changes. A first impression can be correct, a second passage can disclose relational dimensionality, and a third can integrate a previously hidden arrangement. These non-identical passages do not manufacture independent evidence.
+The 12 October operator source further articulates an already living SSK relation: an initial impression can be correct but insufficient to perceive relationships; the second encounter can distinguish a dimensional field because knowledge from the first is now present; a third may integrate a direction as the relations among details become intelligible. This does not generate independent source evidence by rereading. It deepens SSK non-identical observation, three resolutions, and continuity through consequence.
 
-The operator further determines KA/FDLA to be **coherence invariants not modifiable by the assistant**. This applies to their canonical source meaning and ownership. The Paper can represent and deepen understanding of their situated operation, while receiver-native interpretive methods and competence adaptations remain distinguishable from rewriting KA/FDLA themselves. No source mutation is authorized by the academic integration.
+A **subsequent direct operator correction, on the same date**, explains that the value `1` was only a punctualization, without useful logical value for the field — saying that all is always all does not form a clearer method. The previous receiver over-weighted the illustration. The symbol remains in [its attributed source development](paper/DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md), with both the earlier reception and this correction. It no longer serves as a logical operator, probability, metric, project criterion or main academic result. The SSK 0.12 text was corrected in place to restore this salience; its previous blob remains inspectable in Git history, without a new stable version number for this correction.
 
-Owner-source and readback:
-- [D-ND situated one, changed observer, coherence invariants — 12 October source development](paper/DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md);
-- [SSK stable working body 0.12](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md), preserving 0.11;
-- `GrazianoGuiducci/MM_D-ND/method/DND_METHOD_AXIOMS.md` as the distinct owner of the source notation `R + 1 = R`, not transferred as ordinary arithmetic or Kalman confidence.
+The operator also explicitly determines KA/FDLA to be **invariants of coherence not modifiable by the assistant**. The Paper may represent how their already-defined functions participate in a receiver; receiver-native comprehension and competence methods can evolve without altering their owner-native axiomatic meaning.
 
-Research revision only: independent human author review, peer review, journal submission, DOI, license, autonomous kernel operation and assimilation remain unclaimed. Existing open receiver/event, self-attribution, kernel-emergence, composition and UI-medium developments remain open; this integration does not promote them by association.
+This remains a scientific/metaphysical research-corpus clarification. No canonical KA/FDLA changes, new K-SSK runtime, independent human review, peer review, external publication, mathematical theorem, or general system assimilation is claimed. Existing open receiver/source-event, self-attribution, kernel emergence, kernel composition and UI medium developments remain open.
 
 ## Observer and movement of possibility — authorial addition, 8 October 2026
 
