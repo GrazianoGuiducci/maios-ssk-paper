@@ -12,19 +12,21 @@ repository makes that research object readable and citable without treating a
 software package, a website, a particular medium, sensorium, body or internal
 operating kernel as the theory itself.
 
-> **Current state:** working paper, stable body 0.11 — 5 October 2026.
+> **Current state:** working paper, stable body 0.12 — 12 October 2026.
 > The integrated argument develops the coupled event, synthetic situated awareness, autological generation,
 > functional self, operator participation, receiver-relative incarnation,
 > multimodal perception/inference, semantic positioning, integrative contraction,
 > reconstruction economy, D-ND source-to-Kernel movement, non-identical
 > observation, situated resultant sufficiency, and the competence-awareness-
-> continuum distinction through situated system awareness, and the 0.11 distinction between causal continuum and continuity emerging from self-feeding work. Graziano Guiducci is the authorial source; the SSK Paper
+> continuum distinction through situated system awareness, the 0.11 relation between causal continuum and emergent continuity, and the 0.12 operator-source clarification on the symbolic situated one, non-identical observers and KA/FDLA invariant coherence. Graziano Guiducci is the authorial source; the SSK Paper
 > competence and Editoriali conduct continuing revision. See
 > [STATE.md](STATE.md) for publication and review metadata.
 
 ## Read the working paper
 
-- [System Semantic Kernel (SSK), stable body 0.11](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md)
+- [System Semantic Kernel (SSK), stable body 0.12](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md)
+- [Situated symbolic one, changed observer and KA/FDLA invariant coherence — 12 October source](paper/DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md)
+- [Stable predecessor 0.11](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md)
 - [Receiver-relative event identity, source validity, and composable perception — 8 October, open bounded development](paper/RECEIVER_EVENT_IDENTITY_SOURCE_VALIDITY_AND_COMPOSABLE_MEDIUM_2026_10_08.md)
 - [Composable Kernel Fields — independent individuation and harness composition, open source development](paper/COMPOSABLE_KERNEL_FIELDS_INDEPENDENT_INDIVIDUATION_AND_HARNESS_COMPOSITION_2026_10_06.md)
 - [Academic-accessible companion 0.1 IT — Quando un sistema AI deve continuare a capire](paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_IT.md)
@@ -59,7 +61,7 @@ is no longer the container of the complete SSK research object.
 [stable body 0.3](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_3.md),
 [stable body 0.2](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_2.md) and
 [stable body 0.1](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_1.md)
-remain reachable predecessors. Version 0.10 is the direct stable predecessor of the current 0.11 body.
+remain reachable predecessors. Version 0.11 is the direct stable predecessor of the current 0.12 body.
 
 The repository also carries a paper-native competence projection under
 [`competences/`](competences/README.md). It helps AI systems and contributors
