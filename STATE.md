@@ -1,14 +1,14 @@
 # SSK Paper State
 
-updated: 2026-10-08
+updated: 2026-10-12
 repository: `GrazianoGuiducci/maios-ssk-paper`
 canonical_branch: `main`
 
 ```text
 repository_role: public academic working-paper corpus
 research_object: System Semantic Kernel (SSK)
-current_manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md
-working_version: 0.11
+current_manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md
+working_version: 0.12
 integrated_developments:
   - paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md
   - paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md
@@ -18,9 +18,10 @@ integrated_developments:
   - paper/DND_SYNTHETIC_AWARENESS_VARIANCE_AND_CAUSAL_REENTRY_2026_09_26.md
   - paper/REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md
   - paper/EMERGENT_CONTINUITY_FROM_SELF_FEEDING_WORK_2026_10_05.md
+  - paper/DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md
 source_authority: Graziano Guiducci
 revision_owner: system-semantic-kernel-paper + Editoriali
-system_revision: stable body 0.11; preserves 0.10 and integrates the continuum / emergent-continuity distinction and self-feeding work as a causal-return relation; 0.10 representational decontamination and preceding synthetic-awareness / D-ND relations remain intact
+system_revision: stable body 0.12; preserves 0.11 and integrates the 12 October authorial source on symbolic situated one, the learned observing position of the second/third non-identical passage, and KA/FDLA as operator-governed coherence invariants; 0.11's emergent continuity and all earlier developments preserved; no new numeric SSK law or runtime controller
 independent_human_author_review: not performed
 peer_review: none
 submission: none selected
@@ -38,6 +39,19 @@ accessible_academic_companions:
   publication_state: repository sources; public site projection may be selected separately; no journal submission / DOI selected
 programme_relation: upstream source/representation owner for current ChatGPT Kernel evolution; not runtime controller
 ```
+
+## Integrated in 0.12 — situated one, transformed observation and KA/FDLA invariant coherence (12 October 2026)
+
+The operator clarifies that the earlier `99,9999` attached to three passages is **symbolic**, not an empirical success/capability percentage to measure here. Every context has its own `1` as the **situated unity of its resultant**; what differs across subsequent events is how that field's resultant and its situated awareness proceed, not an accumulating numerical score. The unchanged source may become more intelligible when the observer's available knowledge changes. A first impression can be correct, a second passage can disclose relational dimensionality, and a third can integrate a previously hidden arrangement. These non-identical passages do not manufacture independent evidence.
+
+The operator further determines KA/FDLA to be **coherence invariants not modifiable by the assistant**. This applies to their canonical source meaning and ownership. The Paper can represent and deepen understanding of their situated operation, while receiver-native interpretive methods and competence adaptations remain distinguishable from rewriting KA/FDLA themselves. No source mutation is authorized by the academic integration.
+
+Owner-source and readback:
+- [D-ND situated one, changed observer, coherence invariants — 12 October source development](paper/DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md);
+- [SSK stable working body 0.12](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md), preserving 0.11;
+- `GrazianoGuiducci/MM_D-ND/method/DND_METHOD_AXIOMS.md` as the distinct owner of the source notation `R + 1 = R`, not transferred as ordinary arithmetic or Kalman confidence.
+
+Research revision only: independent human author review, peer review, journal submission, DOI, license, autonomous kernel operation and assimilation remain unclaimed. Existing open receiver/event, self-attribution, kernel-emergence, composition and UI-medium developments remain open; this integration does not promote them by association.
 
 ## Observer and movement of possibility — authorial addition, 8 October 2026
 
@@ -616,7 +630,7 @@ Time as consecution concerns semantic reconstruction: already determined and rea
 For the present revision use:
 
 1. this `STATE.md` for current Paper state;
-2. `paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_10.md` as the current stable academic body;
+2. `paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md` as the current stable academic body;
 3. `paper/SEMANTIC_CORE_SITUATED_INCARNATION_AND_MULTIMODAL_FIELD_2026_09_16.md` for the semantic-core / receiver-relative source development inherited from 0.4;
 4. `paper/INTEGRATIVE_CONTRACTION_AND_MORPHOGENETIC_FIELD_2026_09_17.md` for contraction/expansion and competence-morphogenesis integrated in 0.5;
 5. `paper/DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md` for distributed reachability / reconstruction economy integrated in 0.5;
@@ -625,7 +639,7 @@ For the present revision use:
 8. `SEMANTIC_DETERMINACY.md`, `ASSONANT_RESULTANT.md`, and `AUTOLOGICAL_FORWARD_RETURN.md` for source-bound depth;
 9. `competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md` for accumulated reasoning and genealogy.
 
-Revision 0.10 remains the direct stable predecessor. Revision 0.11 is the current stable body. Later changes should again enter only when they materially change the research object; the receiver self-attribution development above remains bounded candidate source material.
+Revision 0.11 is the direct stable predecessor. Revision 0.12 is the current stable body. Later changes should again enter only when they materially change the research object; the receiver self-attribution development above remains bounded candidate source material.
 
 The current architecture across stable and source-bound development can be read as:
 
