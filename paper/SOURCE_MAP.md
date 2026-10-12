@@ -2,8 +2,8 @@
 
 ## Canonical corpus
 
-- [Stable body 0.12](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md) — current integrated argument, preserves 0.11 and develops the symbolic situated one, the changed-observer three-pass source, and operator-owned KA/FDLA coherence invariants.
-- [Situated one, changed observer and KA/FDLA invariant coherence — 12 October](DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md) — authorial source integrated in 0.12, not a measured probability, arithmetic law or runtime source modification.
+- [Stable body 0.12](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md) — current integrated argument, preserving 0.11 and deepening observation from a changed knowing field and operator-owned KA/FDLA coherence invariants; same-day source-salience correction demotes symbolic `1` from logical principle to attributed illustration.
+- [Changed observer, KA/FDLA invariants, and source-only symbolic illustration — 12 October](DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md) — original authorial statements, prior receiver interpretation and later correction; `1` adds no separate operational field logic.
 - [Stable body 0.11](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md) — former integrated argument: preserves 0.10 and distinguishes continuum from emergent continuity, integrating self-feeding work through causal readback, competence/method change and the autological generative core.
 - [Emergent continuity from self-feeding work — 5 October](EMERGENT_CONTINUITY_FROM_SELF_FEEDING_WORK_2026_10_05.md) — operator-source development integrated into 0.11; continuity emerges from recursive consequential work rather than naming a memory store or restored state.
 - [Stable body 0.10](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_10.md) — current integrated argument: preserves 0.9 and integrates representational decontamination / epistemic probing as a KA/FDLA relation.
