@@ -1,6 +1,16 @@
 # Guida accumulata del lavoro sul Paper
 
-Aggiornata: 2026-10-08. Competenza: system-semantic-kernel-paper.
+Aggiornata: 2026-10-12. Competenza: system-semantic-kernel-paper.
+
+## 12 ottobre — unità situata della risultante, osservatore mutato, KA/FDLA invarianti
+
+Sorgente diretta dell'operatore nel movimento K-SSK: l'immagine delle tre osservazioni non stabilisce una quota di successo numerico. `99,9999` era *simbolico*, mentre `1` è l'unità della risultante del contesto che ogni volta cambia; il divenire riguarda la modalità in cui consapevolezza/risultante procedono. La prima osservazione è impressione anche quando corretta, la seconda forma un campo dimensionale, la terza può integrare una narrazione di relazioni prima nascoste. La fonte immagine è il quadro i cui dettagli acquistano significato insieme; la stessa sorgente è incontrata da una posizione conoscitiva trasformata, senza diventare nuova evidenza indipendente.
+
+La seconda determinazione autoriale è fonte della stessa visita: KA/FDLA sono **invarianti di coerenza**, non modificabili dall'assistente. La ricerca può rivedere proprie proiezioni e competenze interpretative, non le sorgenti canoniche. D-ND `R + 1 = R` è una notazione separata nel suo owner, non un'operazione di filtraggio o l'identità aritmetica di una probabilità.
+
+Il [corpo integrato 0.12](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md) preserva 0.11 ed esplicita la relazione in Abstract, §§2.2, 2.5, 3.1, 3.5, 4.4, 5.1, conclusione e claim ledger. [Fonte diretta attribuita e sviluppo](../../../paper/DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md). Nessun teorema, nuovo controllore, modifica a KA/FDLA, runtime, peer review o rivista acquisiti. La quota di possibilità non diventa variabile di progetto K-SSK.
+
+Per i prossimi scritti, partire dalla relazione reale fra fonte, posizione osservativa e campo; non usare `1` come metrica universale. Un eventuale nuovo fatto o correzione può cambiare la comprensione del Paper; non trasferisce autorità su ciò che l'operatore ha determinato.
 
 ## 8 ottobre — osservatore, coordinate e possibilità preservata
 
@@ -109,10 +119,10 @@ volutamente sospeso. Se un ricevente futuro mostra un risultato opposto, il
 Paper conserva il nuovo evento e ricompone l'interpretazione da quel punto,
 non retrodata la conoscenza.
 
-## Punto vivo — corpo 0.11 e sviluppi aperti
+## Punto vivo — corpo 0.12 e sviluppi aperti
 
-Il [manoscritto integrato 0.11](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md)
-è il corpo stabile corrente. La 0.10 resta il predecessore diretto. Gli sviluppi su kernel emergence, receiver self-attribution e composable kernel fields restano aperti e non sono promossi per trascinamento.
+Il [manoscritto integrato 0.12](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md)
+è il corpo stabile corrente. La 0.11 resta il predecessore diretto. Gli sviluppi su kernel emergence, receiver self-attribution e composable kernel fields restano aperti e non sono promossi per trascinamento.
 
 La correzione del 30 settembre non introduce una nuova facoltà sopra KA/FDLA.
 Rende esplicita una loro conseguenza epistemica:
