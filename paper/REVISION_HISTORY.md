@@ -1,8 +1,21 @@
 # SSK Paper revision history
 
-## 0.11 — 2026-10-05
+## 0.12 — 2026-10-12
 
 Current integrated stable body.
+
+Revision 0.12 preserves 0.11 and integrates the operator's 12 October clarifications:
+
+- `99,9999` in the three-passage observation is symbolic: no percentage of possibilities, success probability, measurement target or completeness guarantee is being asserted;
+- `1` represents the **unity of the resultant in each situated context**. Context changes; the relation, understanding and mode in which its resultant proceeds may change. No numerical addition, state equality or posterior confidence is inferred from this symbol;
+- second and third encounters can disclose new relationships through the **changed knowing of the observer**, even without a new external observation. They are non-identical events but not automatically independent evidence;
+- **KA and FDLA remain operator-owned invariants of coherence** and cannot be altered by the assistant. SSK may refine its receiver-native interpretation and incarnations while preserving source authorship and meaning.
+
+The new relation is integrated into Abstract, §§2.2, 2.5, 3.1, 3.5, 4.4, 5.1, Conclusion, claim-state ledger and Appendix C. The 0.11 body remains the direct predecessor. Source development: `DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md`. No KA/FDLA source change, mathematical theorem, measured consciousness, automatic kernel runtime, human peer review, DOI or journal publication follows from this revision.
+
+## 0.11 — 2026-10-05
+
+Prior stable body.
 
 Revision 0.11 preserves 0.10 and integrates the 5 October operator source
 movement on **emergent continuity from self-feeding work**.
