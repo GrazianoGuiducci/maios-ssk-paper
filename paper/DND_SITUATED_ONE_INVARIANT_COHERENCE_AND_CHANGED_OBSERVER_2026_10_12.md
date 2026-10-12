@@ -6,6 +6,20 @@ Autorità semantica della fonte: Graziano Guiducci, dichiarazioni dirette nel co
 Stato: sviluppo sorgente integrabile nel corpo SSK; non modifica i canonici KA, FDLA o MM_D-ND, non è teorema matematico o misura di performance.
 Relazione precedente: SSK stabile 0.11, §§2.2, 2.5, 3.1, 3.5, 4.4–4.5, 5.1, e `MM_D-ND/method/DND_METHOD_AXIOMS.md`, identità autologica `R + 1 = R` (espressione nel corpus D-ND, non operazione nell'aritmetica ordinaria).
 
+## Correzione autoriale successiva — peso del simbolo nel campo (12 ottobre 2026)
+
+Il medesimo operatore precisa ulteriormente, dopo l'integrazione accademica della fonte precedente:
+
+> Il valore simbolico è sempre 1 era solo una puntualizzazione ma non ha un valore per la logica del campo per è come dire che tutto è sempre tutto , osservatore determina sempre il contesto della possibilità totale, etc. se vuoi puoi tenere il concetto, cerchiamo di le logiche migliori e chiare da usare
+
+Il valore `1` rimane perciò **una puntualizzazione/espressione nella fonte**, non una logica utile a determinare la domanda, il movimento, la pertinenza di una competenza, una decisione, una risultante o un aggiornamento numerico. La precedente ricezione assistente aveva elevato questo dettaglio a perno dell'argomento SSK e degli ingressi K-SSK senza che il suo ruolo causale lo giustificasse. La correzione **non retrodata né cancella** l'osservazione originaria o il primo tentativo interpretativo: ne ricalibra il peso presente.
+
+La relazione che continua è la capacità di riconoscere come una nuova posizione conoscitiva renda visibili relazioni prima non intelligibili e come tale comprensione cambi l'Agire, la domanda, le condizioni di osservazione e la competenza futura. KA/FDLA restano invarianti di coerenza sotto l'autorità dell'operatore; questa modifica interessa soltanto le letture/argomentazioni riceventi. In K-SSK, il contributo tecnicamente quantificabile del filtro di Kalman resta distinto dal nuovo punto di vista semantico. Conservarne il simbolo nella fonte genealogica è lecito, ma non deve costringere il sistema a parlarne o calcolarlo in ogni giro.
+
+## Limite delle interpretazioni precedenti
+
+La precedente sezione «Seconda risoluzione: il valore simbolico 1» resta leggibile come *interpretazione storica dell'assistente*, non come principio attivo convalidato dall'operatore. L'incarnazione successiva, compreso il corpo Paper 0.12 corretto in luogo, deve favorire le relazioni che cambiano effettivamente comprensione, metodo e conseguenze. Il `99,9999` e l'uno non costituiscono un modello estimativo, un criterio di copertura o una nuova legge D-ND.
+
 ## Fonte autoriale: tre attraversamenti
 
 Intervento diretto nel progetto K-SSK:
