@@ -8,7 +8,7 @@ state: active competence source; not a finished Paper or publication receipt
 
 ## Current resultant — stable body 0.12
 
-Revision 0.12 is the current integrated academic body. It preserves 0.11 and develops the authorial symbolic `1` as situated unity of each resultant (not numeric probability or measured possibility coverage), second/third observing passages from changed knowledge and KA/FDLA as operator-owned coherence invariants not modifiable by the assistant. It is a clarification of the existing SSK event, not a new mathematical operation or controller.
+Revision 0.12 is the current integrated academic body, corrected in place after a later same-day authorial clarification. It preserves 0.11 and deepens non-identical observation from acquired knowledge, and KA/FDLA as operator-owned coherence invariants not modifiable by the assistant. An initial reception overemphasized the symbolic `1`; the operator clarified it has no distinct logical function for the field. Retain this as attributed historical source, not as a generative principle, score or leading concept of the Paper. The useful relation is what newly intelligible connections change in the next question, competent movement and causal return. No new mathematical operation or controller is implied.
 
 Revision 0.11 is the immediately preceding integrated academic body. It preserves 0.10 and
 integrates the 5 October operator relation that continuity is an emergent result
