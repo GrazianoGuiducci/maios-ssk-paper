@@ -26,12 +26,13 @@ decisione corretta e tuttavia riprendere il lavoro nel modo sbagliato, perché h
 perso la relazione che rendeva quella decisione appropriata: la fonte, il
 motivo, le condizioni, la competenza coinvolta o la conseguenza prodotta.
 
-Il System Semantic Kernel (SSK) propone di descrivere questa continuità come
-un’organizzazione semantico-relazionale che collega sorgenti, intento, contesto
-percepito, competenze, azioni, risultati e conseguenze mentre il campo di lavoro
-cambia. La proposta distingue la relazione semantica dai suoi supporti
-specifici: memoria, file, prompt, interfacce, strumenti, sensori o runtime
-possono partecipare alla continuità senza coincidere con essa.
+Il System Semantic Kernel (SSK) studia l’organizzazione semantico-relazionale
+che mantiene connessi sorgenti, intento, contesto percepito, competenze, azioni,
+risultati e conseguenze mentre il campo di lavoro cambia. Memorie, file, prompt,
+interfacce, strumenti, sensori e runtime possono rendere disponibili queste
+relazioni senza coincidere con esse. **La continuità emerge quando il lavoro
+successivo riesce effettivamente a procedere dalle differenze prodotte da quello
+precedente**: la loro conservazione, da sola, non è ancora quel risultato.
 
 Questo articolo presenta il modello senza presupporre la terminologia D-ND,
 KA o FDLA. Introduce progressivamente il problema della continuità, il ruolo
@@ -92,9 +93,10 @@ comprende, agisce e riceve conseguenze. Un risultato non chiude soltanto un
 compito: può modificare le condizioni da cui il compito successivo dovrà essere
 compreso.
 
-La continuità, in questa prospettiva, non consiste nel conservare tutto.
-Consiste nel preservare o rendere nuovamente raggiungibili le relazioni la cui
-assenza cambierebbe il significato del lavoro successivo.
+Conservare tutto non è necessario. Occorre rendere raggiungibili le relazioni
+la cui assenza cambierebbe il significato del lavoro successivo, e saperle
+riconoscere quando tornano pertinenti. La conservazione sostiene il seguito;
+non dimostra, da sola, che quel seguito sia capace di utilizzarla.
 
 ## 2. Dal contesto memorizzato alla continuità del significato
 
@@ -129,11 +131,10 @@ Il primo è comportarsi come se ogni nuova sessione dovesse ricostruire tutto da
 zero. Il secondo è trattare una vecchia conclusione come se fosse ancora
 sufficiente soltanto perché è stata memorizzata.
 
-La continuità semantica occupa lo spazio fra questi due estremi.
-
-La conclusione ricordata ha quindi valore solo quando il sistema sa
-rientrare nel motivo e nelle condizioni che la sostengono. L'obiettivo
-non è conservare tutto, ma rendere operante ciò che conta nel presente.
+Per questo il problema presenta due aspetti collegati: **recuperare il
+perché di una conclusione** e **renderlo operante nel nuovo contesto**.
+La prima capacità permette il rientro nella relazione sorgente; la seconda
+mostra se quella relazione partecipa al lavoro attuale.
 
 ## 3. Che cos’è il System Semantic Kernel
 
@@ -349,6 +350,28 @@ alle condizioni del lavoro successivo. Questa relazione viene descritta
 come **lavoro che alimenta il proprio seguito**, non come crescita
 automatica del numero di file o delle skill.
 
+### Un evento editoriale documentato nel Paper
+
+Il Paper tecnico (§7) conserva un episodio concreto. Durante la preparazione
+di un articolo sul ritorno a un contesto già affrontato, l'operatore ha
+richiamato una distinzione decisiva: due informazioni possono essere
+singolarmente corrette, ma non essere mai state vere *insieme* nelle
+condizioni attribuite loro. Riunirle in una narrazione fluida può quindi
+produrre un presente inesistente.
+
+Questa relazione ha cambiato la domanda editoriale e il modo di costruire
+l'argomento. Il lavoro ha prodotto un articolo locale e una proposta di
+confronto; la competenza Editoriali ha anche **rappresentato un cambiamento
+del proprio metodo**, distinguendo meglio la formazione dell'argomento
+dalla sua successiva calibrazione per il pubblico.
+
+È un evento interno documentato, non un benchmark indipendente. Il Paper
+non registra ancora un successivo esercizio non identico che dimostri
+l'assimilazione di quel metodo. Proprio tale distinzione mostra perché
+**un artefatto prodotto, una competenza aggiornata e una capacità poi
+esercitata** non siano la stessa cosa.
+
+
 ## 8. Continuità attraverso diverse forme di discontinuità
 
 Il Paper mette in relazione diversi problemi che normalmente vengono trattati
@@ -363,9 +386,9 @@ separatamente:
 
 Il Paper non sostiene che questi siano un unico meccanismo.
 
-La domanda comune è un’altra: **quale relazione deve restare sufficientemente
-preservata perché il lavoro successivo possa continuare senza ricostruire tutto
-e senza fingere che nulla sia cambiato?**
+La domanda comune è un’altra: **quali relazioni devono rimanere raggiungibili
+e come possono partecipare al nuovo lavoro, senza ricostruire tutto né fingere
+che nulla sia cambiato?**
 
 Questa domanda diventa particolarmente importante nei sistemi distribuiti.
 
@@ -375,12 +398,14 @@ aumentare rumore e lavoro duplicato. Se invece esiste già un risultato
 sufficientemente formato, una parte distinta del lavoro può essere trasferita a
 un altro ricevente insieme alle relazioni necessarie per comprenderla.
 
-La distribuzione, quindi, non è automaticamente un vantaggio. Dipende dalla
-qualità della continuità semantica che attraversa il passaggio.
+La distribuzione, quindi, non è automaticamente un vantaggio. Dipende
+sia dalle relazioni che diventano raggiungibili nel nuovo ambiente,
+sia dalla capacità del ricevente di usarle nel proprio lavoro.
 
-### Continuum e continuità: che cosa cambia nella versione 0.11
+### Conservare e continuare: due relazioni diverse
 
-La revisione 0.11 distingue due relazioni spesso sovrapposte.
+La revisione 0.11 permette di distinguere due relazioni che si sostengono
+a vicenda, senza coincidere.
 
 Il **continuum** conserva o rende recuperabili le differenze ancora
 causalmente pertinenti: ragioni, fonti, determinazioni, competenze
@@ -424,16 +449,18 @@ integra abbastanza del proprio contesto percepito per orientare:
 
 Questa consapevolezza è parziale.
 
-Il campo può contenere relazioni che il sistema non sta percependo. La memoria
-può conservare elementi non attivi. Una competenza può restare disponibile ma
-non pertinente. Il Paper chiama **continuum** la persistenza selettiva delle relazioni ancora
-causalmente utili fra un evento e il successivo. Non deve riprodurre
-integralmente uno stato precedente: deve mantenere raggiungibili le differenze
-che cambierebbero il modo di comprendere o agire nel seguito.
+Il campo può contenere relazioni che il sistema non sta percependo.
+Una memoria può conservarle e una competenza può essere disponibile
+senza diventare pertinente in questo momento. La consapevolezza situata
+non coincide quindi con l’intero patrimonio conservato: riguarda la
+composizione delle relazioni che effettivamente partecipano all'evento.
 
-In questo senso il SSK non cerca una memoria totale. Il continuum
-mantiene raggiungibili le relazioni utili; la continuità si rende
-riconoscibile quando esse cambiano il lavoro che segue.
+Il continuum può mantenere raggiungibile una ragione senza renderla
+immediatamente presente nella consapevolezza. Il sistema mostra continuità
+quando, in un evento successivo, quella ragione torna pertinente e modifica
+concretamente la comprensione o l'azione. Questa differenza è essenziale
+per non attribuire al solo archivio una capacità che deve ancora essere
+esercitata.
 
 ## 10. Un risultato sufficiente non è una chiusura definitiva
 
@@ -455,24 +482,21 @@ Il Paper usa anche l’immagine del **moving zero**, uno zero mobile: il risulta
 non è la fine del processo, ma il nuovo punto da cui il processo successivo
 diventa possibile.
 
-Questo aiuta a capire perché una seconda lettura può essere utile senza
-trasformarsi in revisione infinita.
+La sufficienza permette di continuare senza ripetere sempre lo stesso
+lavoro, ma non impedisce di osservare di nuovo quando il campo è cambiato.
 
-Il primo passaggio produce una forma. Il secondo osserva quella forma da un
-campo già modificato. Un terzo passaggio può integrare la relazione emersa.
-Quando un altro passaggio non cambia più nulla di materialmente rilevante,
-“nessun cambiamento” è un risultato valido.
+Una prima lettura può produrre un'impressione corretta senza rendere
+visibili tutte le relazioni pertinenti. Nel secondo incontro, il sapere
+acquisito consente di riconoscere legami fra dettagli prima isolati;
+un terzo può integrarli in una struttura più chiara. Come davanti a un
+quadro, riconoscere un particolare può cambiare il significato degli
+altri, anche se il dipinto è rimasto identico.
 
-La 0.12 approfondisce il significato di una lettura successiva.
-La prima osservazione può essere corretta e tuttavia non far riconoscere
-tutte le relazioni utili. Una seconda lettura avviene da una posizione
-conoscitiva già modificata; una terza può integrare i rapporti emersi.
-
-È come tornare a guardare un quadro: un dettaglio riconosciuto cambia il
-modo in cui vengono compresi gli altri. Il dipinto può restare identico,
-mentre il campo della comprensione cambia. Le riletture non diventano
-per questo prove esterne indipendenti e non è necessario fissarne un
-numero per ogni attività. Conta ciò che cambia effettivamente nel seguito.
+Questa nuova comprensione non è per ciò stesso una nuova prova esterna.
+Il suo valore emerge da ciò che rende possibile comprendere o fare
+diversamente. I passaggi non sono un numero obbligatorio: quando un
+nuovo attraversamento non cambia più nulla di materialmente pertinente,
+anche **nessun cambiamento** è una risultante valida.
 
 ## 11. Dove si colloca rispetto alla ricerca sugli agenti
 
@@ -600,9 +624,11 @@ ricostruzione invece di ridurla.
 Il System Semantic Kernel nasce da questo tipo di problema.
 
 La sua proposta centrale non è aggiungere un ulteriore componente alla pila
-degli agenti, ma rendere esplicita la continuità delle relazioni che permettono
-al sistema di capire dove si trova mentre il lavoro cambia: sorgenti, intento,
-contesto percepito, competenze, mezzi, azioni, risultati e conseguenze.
+degli agenti, ma descrivere l'organizzazione che rende pertinenti e
+raggiungibili sorgenti, intento, contesto percepito, competenze, mezzi,
+azioni, risultati e conseguenze. **La continuità emerge quando tale
+organizzazione permette al lavoro successivo di procedere dalle relazioni
+effettivamente trasformate dal lavoro precedente.**
 
 KA mantiene il campo più ampio della rappresentazione corrente. FDLA corregge
 le sostituzioni introdotte dal sistema mentre il lavoro prende forma. Le
