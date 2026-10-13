@@ -34,6 +34,17 @@ carried by each document and the [current state](../STATE.md).
 - [Receiver self-attribution, observable trace and causal interpretation — 26 September](RECEIVER_SELF_ATTRIBUTION_TRACE_AND_CAUSAL_INTERPRETATION_2026_09_26.md) — event, receipt, later causal account and actual assimilation carry different evidence.
 - [Kernel UI medium manifesto — 7 October](UI_MEDIUM_KERNEL_MANIFESTO_2026_10_07.md) — interface as the work's perceptual/intervention medium, with code as an evolving incarnation rather than semantic authority.
 
+## SSK Social Field — public editorial sources
+
+- [SSK Social Field](SSK_SOCIAL_FIELD.md) — five research-grounded IT/EN concepts for social explanations, visual essays and website articles. Each has source links, claim boundaries and a candidate status.
+- [README introduction](../README.md) — short living overview for readers and independent AI assistants.
+- [Accessible IT / EN introductions](SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_2_IT.md) and [English](SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_2_EN.md) — reader-facing context for the concepts.
+
+These sources are accessible to AI readers outside the private MAIOS system.
+They do not authorize publication on MAIOS-owned channels. Final outgoing
+content and destination require the operator's approval through the current
+private email-validation procedure.
+
 ## Academic-accessible companion forms
 
 **Current accessible edition 0.2 — 13 October 2026**, faithful to canonical SSK 0.12:
