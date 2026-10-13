@@ -1,6 +1,46 @@
 # Guida accumulata del lavoro sul Paper
 
-Aggiornata: 2026-10-12. Competenza: system-semantic-kernel-paper.
+Aggiornata: 2026-10-13. Competenza: system-semantic-kernel-paper.
+
+## 13 ottobre — nuova edizione accessibile bilingue 0.2 derivata da SSK 0.12
+
+Graziano ha selezionato l'allineamento delle due introduzioni per lettori esterni
+alla versione canonica del Paper, mantenendone leggibilità e natura accademica.
+
+La competenza ha letto direttamente i due companion 0.1 e il corpo 0.12,
+concentrandosi sulla differenza materiale acquisita in 0.11 e 0.12, e ha
+formato due artefatti nuovi che conservano la genealogia:
+- `paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_2_IT.md`
+- `paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_2_EN.md`
+
+**Il passaggio che mancava nei due testi 0.1:** persistenza di informazioni,
+fonti e competenze nel continuum non equivale già a continuità. La forma
+accessibile ora presenta il continuum come relazione portante e la continuità
+come capacità emergente da lavoro le cui conseguenze cambiano un lavoro
+successivo. L'illustrazione della nota «B non funziona in queste condizioni»
+descrive questa distinzione al lettore non specialista: non è un nuovo
+evento sperimentale o una prova di assimilazione.
+
+**Il 0.12 da rendere leggibile:** rileggere lo stesso oggetto con sapere
+acquisito può aprire altre relazioni e influire su domanda/metodo/azione.
+KA/FDLA sono invarianti di coerenza sotto autorità dell'operatore; la
+loro comprensione ricevente può evolvere, non la sorgente stessa. La
+precisazione simbolica occasionale del 12 ottobre resta genealogia: non
+diventa un principio che il testo accessibile debba ripetere.
+
+L'edizione 0.2 conserva le tredici sezioni concettuali, l'autore, le citazioni
+storiche e la distinzione delle fonti. Le versioni 0.1 IT/EN restano
+raggiungibili e legate al corpo 0.10. Le nuove versioni sono testi di repository
+bilingui, non pubblicazione su maios.it, revisione umana indipendente,
+peer review, submission, DOI o validazione esterna. La versione canonica del
+Paper resta **0.12** e il suo corpo non è stato riscritto da questo lavoro.
+
+Per i prossimi derivati: recuperare la *differenza causale di tesi* fra
+revisioni prima di aggiornare un riferimento di versione; formare esempi
+simmetrici fra lingue, distinguere l'esempio dall'evento osservato, correggere
+in tutti i luoghi in cui il lettore potrebbe scambiare una memoria persistente
+per continuità effettivamente esercitata. Conservare la fonte e raffreddare
+dettagli che non modificano la comprensione del lettore.
 
 ## 12 ottobre — campo di osservazione trasformato, KA/FDLA invarianti e correzione del peso sorgente
 
