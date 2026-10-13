@@ -42,6 +42,45 @@ in tutti i luoghi in cui il lettore potrebbe scambiare una memoria persistente
 per continuità effettivamente esercitata. Conservare la fonte e raffreddare
 dettagli che non modificano la comprensione del lettore.
 
+### Rilettura effettiva del prodotto 0.2 — integrazione e caso osservato
+
+Un successivo attraversamento ha verificato non soltanto titoli, parità
+linguistica e collegamenti, ma **la funzione delle relazioni per il lettore**.
+I due testi 0.2 iniziali avevano aggiunto la distinzione della 0.11 in
+una sottosezione, mantenendo altrove formulazioni ereditate dalla 0.1 che
+potevano identificare la continuità con la sola persistenza nel tempo;
+il terzo passaggio sull'osservazione era inoltre ripetuto due volte in §10.
+Questo era un difetto di *integrazione della tesi*, non di presenza
+materiale della nuova informazione.
+
+La stessa edizione 0.2, senza forzare una 0.3, è stata ricomposta in IT e EN:
+la distinzione continuum/continuità opera ora nell'Abstract, nell'ingresso
+del problema, nella domanda sulla distribuzione, nel rapporto fra
+consapevolezza situata e patrimonio raggiungibile e nella conclusione;
+§10 conserva una sola argomentazione sui successivi attraversamenti.
+
+È stato recuperato un **evento concreto già presente nel Paper tecnico,
+§7**, sulla formazione di un articolo Editoriali. Il caso spiega come
+l'osservazione che informazioni singolarmente corrette non fossero mai state
+contemporaneamente vere abbia cambiato il problema editoriale. La competenza
+ha rappresentato un metodo diverso; **un esercizio successivo che ne provi
+l'assimilazione non è attestato**. Questo limite è necessario proprio
+per il modello che distinguiamo: rappresentazione di una capacità,
+modifica della competenza, e uso successivo sono risultati distinti.
+Il caso è stato collegato direttamente alla sezione sorgente del Paper,
+in entrambe le lingue.
+
+Apprendimento del metodo editoriale, destinato al prossimo uso non identico:
+in un derivato che cambia revisione sorgente, non aggiungere soltanto
+i concetti nuovi. **Rileggere l'intero testo con la nuova distinzione
+come relazione causale**, ricomporre le affermazioni che altrimenti
+risulterebbero superate, e scegliere un caso attribuibile quando può far
+riconoscere al lettore la differenza fra capacità rappresentata ed
+esercitata. Conservare il senso originario senza trasformare
+una nuova sottosezione in prova di comprensione, né la buona forma in
+validazione presso lettori esterni. Nessuna modifica a KA/FDLA o al
+Paper canonico 0.12.
+
 ## 12 ottobre — campo di osservazione trasformato, KA/FDLA invarianti e correzione del peso sorgente
 
 La prima fonte dell'operatore nel movimento K-SSK distingue tre osservazioni
