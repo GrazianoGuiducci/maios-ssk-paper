@@ -332,7 +332,7 @@ files or more skills.
 
 ### A documented editorial event in the Paper
 
-The technical Paper (§7) preserves a concrete episode. While preparing an
+The [technical Paper, §7](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md#7-an-existing-editorial-event) preserves a concrete episode. While preparing an
 article on returning to an earlier context, the operator exposed a
 decisive distinction: two pieces of information can each be correct
 while never having been true *together* under the conditions ascribed
