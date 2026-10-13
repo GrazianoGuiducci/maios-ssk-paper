@@ -43,8 +43,30 @@ accessible_academic_companions:
   truth_relation: derivative; preserves canonical claim state; no new theory or independent empirical validation
   editorial_owner: GrazianoGuiducci/Editoriali@f5e9af01115e1d5e88f1098750711ac82aefc318
   publication_state: public repository sources; separate website, human review, journal submission and DOI effects not performed
+public_social_field:
+  path: paper/SSK_SOCIAL_FIELD.md
+  revision: 0.1
+  status: public source-qualified concepts for human and external AI readers
+  technical_source: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md
+  publication_status: editorial candidates; no approved MAIOS social post or site article
+  approval_owner: current private K-Social authority and operator email-validation workflow
 programme_relation: upstream source/representation owner for current ChatGPT Kernel evolution; not runtime controller
 ```
+
+## Social Field available to public and external AI readers — 13 October 2026
+
+The new [SSK Social Field](paper/SSK_SOCIAL_FIELD.md) exposes five concepts
+as source-qualified editorial possibilities, with IT/EN angles, conceptual
+visual directions and specific claim limits. Unlike private K-Social
+workflows, it is accessible to independent AI systems and human readers.
+Its presence does not assert that any derivative has been published,
+approved, independently validated, or adopted by those readers.
+
+MAIOS social posts, image assets and site articles remain exact external
+effects governed by the operator's validation via private email. The Paper
+is their factual source, not their distribution controller. No private
+mailbox, account or K-Social operational state is copied to the public
+research corpus. The technical manuscript stays at 0.12.
 
 ## Accessible academic companions 0.2 — 13 October 2026
 
