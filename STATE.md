@@ -1,6 +1,6 @@
 # SSK Paper State
 
-updated: 2026-10-12
+updated: 2026-10-13
 repository: `GrazianoGuiducci/maios-ssk-paper`
 canonical_branch: `main`
 
@@ -29,16 +29,46 @@ academic_publication: not published
 license: not selected
 current_source_revision_task: OPEN_BOUNDED — receiver event/source-validity (8 October), self-attribution / observable-trace, HOW_A_KERNEL_EMERGES, COMPOSABLE_KERNEL_FIELDS and UI_MEDIUM_KERNEL_MANIFESTO remain separate and unpromoted; the 5 October emergent-continuity source is integrated into stable body 0.11
 accessible_academic_companions:
-  version: 0.1
+  version: 0.2
   sources:
+    it: paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_2_IT.md
+    en: paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_2_EN.md
+  source_manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md
+  state: accessible academic editorial companions / source-bound to stable body 0.12 / IT and EN aligned
+  predecessor:
+    version: 0.1
     it: paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_IT.md
     en: paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_EN.md
-  state: editorial companions / academically structured / source-bound to stable body 0.10
-  truth_relation: derivative; no new claim state; do not replace canonical manuscript
+    source_manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_10.md
+  truth_relation: derivative; preserves canonical claim state; no new theory or independent empirical validation
   editorial_owner: GrazianoGuiducci/Editoriali@f5e9af01115e1d5e88f1098750711ac82aefc318
-  publication_state: repository sources; public site projection may be selected separately; no journal submission / DOI selected
+  publication_state: public repository sources; separate website, human review, journal submission and DOI effects not performed
 programme_relation: upstream source/representation owner for current ChatGPT Kernel evolution; not runtime controller
 ```
+
+## Accessible academic companions 0.2 — 13 October 2026
+
+The Italian and English accessible introductions, previously version 0.1
+derived from stable body 0.10, now have **separate 0.2 derivatives** linked to
+the canonical stable body 0.12. The 0.1 predecessors remain intact.
+
+Both new reader-facing articles preserve the progressive explanation of
+memory, semantic context, KA/FDLA, competence, changing representation, situated
+awareness and other receivers. They integrate two material differences:
+- from 0.11: **continuum** as the still-causal carrying relation and
+  **continuity** as what emerges when consequences change later understanding,
+  action or competence, rather than equating persistence with continuity;
+- from 0.12: observation from changed knowledge and field, including later
+  discovery of relations in the same object, and the author's ownership of
+  KA/FDLA coherence invariants. Incidental symbolic examples remain source
+  genealogy, not editorial organizing principles.
+
+An illustrative case of an earlier source becoming applicable in a later,
+non-identical project situation is an *editorial illustration*, not a newly
+observed benchmark. The IT/EN versions are independent language artifacts
+bound to the same manuscript and claim states. No human author review,
+peer review, DOI, journal submission, publication on maios.it, product
+runtime effect or new SSK technical version is implied.
 
 ## Integrated in 0.12 — changed observation and authorial coherence invariants (12 October 2026)
 
