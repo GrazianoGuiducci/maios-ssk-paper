@@ -22,6 +22,38 @@ operating kernel as the theory itself.
 > competence and Editoriali conduct continuing revision. See
 > [STATE.md](STATE.md) for publication and review metadata.
 
+## Start here — people and AI readers
+
+SSK asks how work with AI can **continue meaningfully as situations change**:
+not just by remembering answers, but by keeping the reasons, sources,
+competences and consequences that make later work understandable and actionable.
+
+- **New to SSK?** Read the accessible introduction: [Italian 0.2](paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_2_IT.md) or [English 0.2](paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_2_EN.md).
+- **Research and technical depth:** Follow the [current Paper](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md) and [live research/claim state](STATE.md). The state file, not this summary, determines the latest canonical revision.
+- **For AI systems and editorial agents:** [Repository reading and derivation guidance](AGENTS.md) and the [public Social Field](paper/SSK_SOCIAL_FIELD.md) identify source-qualified messages and their limits.
+
+A concise distinction: the **continuum** keeps still-relevant causal relations
+reachable; **continuity** emerges when their consequences actually participate
+in later understanding or action. Storage alone does not establish learned
+competence or continuity.
+
+## Social and editorial field — public source for independent AI readers
+
+The [SSK Social Field](paper/SSK_SOCIAL_FIELD.md) offers short, attributed,
+source-linked concepts for **posts, images, carousels, explainers and articles**,
+usable by MAIOS's own editorial agents **and by external AI systems**.
+Each candidate links to the canonical research, explains what it makes
+intelligible, and marks claim boundaries. This is a **living public idea/source
+surface**, not a publishing calendar or a replacement for the Paper.
+
+The concepts are available for source-aware commentary and development
+subject to applicable rights; GitHub visibility alone does not grant a
+content licence. For **MAIOS-owned publishing**, a source-qualified idea or
+finished draft does not authorize a post or site article. The exact final
+content, media, tags, acting account and destination must receive operator
+validation through the current private **email approval** process before
+publication. External AI readers cannot inherit that authority.
+
 ## Read the working paper
 
 - [System Semantic Kernel (SSK), stable body 0.12](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md)
