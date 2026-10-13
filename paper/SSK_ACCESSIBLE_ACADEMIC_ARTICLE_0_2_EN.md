@@ -24,12 +24,13 @@ system can retrieve the correct earlier decision and still resume the wrong
 work because it has lost the relation that made that decision appropriate: its
 source, reason, conditions, participating competence or later consequence.
 
-The System Semantic Kernel (SSK) proposes to describe continuity as a
-semantic-relational organization that keeps sources, intent, perceived context,
-competences, actions, resultants and consequences connected while the working
-field changes. It distinguishes that semantic relation from its specific
-carriers: memory, files, prompts, interfaces, tools, sensors and runtimes can
-participate in continuity without being identical to it.
+The System Semantic Kernel (SSK) studies the semantic-relational organization
+that keeps sources, intent, perceived context, competences, actions,
+resultants and consequences connected as the working field changes.
+Memory, files, prompts, interfaces, tools, sensors and runtimes can make
+those relations reachable without being identical to them. **Continuity
+emerges when later work genuinely proceeds from the differences made
+by earlier work**; preservation alone is not yet that result.
 
 This article presents the model without assuming prior familiarity with D-ND,
 KA or FDLA. It progressively introduces semantic continuity, competence,
@@ -84,8 +85,11 @@ that changes while the system observes, understands, acts and receives
 consequences. A result does not merely close a task. It can change the
 conditions from which the next task must be understood.
 
-Continuity, in this view, does not mean preserving everything. It means keeping
-available the relations whose absence would change the meaning of later work.
+Preserving everything is unnecessary. What matters is keeping reachable
+the relations whose loss would change the meaning of subsequent work,
+and being able to recognize them when they become pertinent again.
+Preservation supports continuation; it does not, by itself, prove that
+the receiver can put those relations to use.
 
 ## 2. From stored context to continuity of meaning
 
@@ -118,11 +122,11 @@ This prevents two opposite errors.
 The first is rebuilding everything from scratch at every new session. The
 second is treating an old conclusion as sufficient merely because it was stored.
 
-Semantic continuity occupies the space between those extremes.
-
-A remembered conclusion is useful when its reasons and conditions can also
-be recovered. SSK aims to make relevant relations available where they can
-actually influence the present work.
+The problem therefore has two connected aspects: **recovering why a
+conclusion was appropriate** and **making that reason operative in a
+changed context**. The first restores access to the source relation;
+the second shows whether that relation actually participates in
+present work.
 
 ## 3. What is the System Semantic Kernel?
 
@@ -326,6 +330,28 @@ in a later case, the work has contributed to the conditions of following
 work: **work feeding its own continuation**, rather than simply more
 files or more skills.
 
+### A documented editorial event in the Paper
+
+The technical Paper (§7) preserves a concrete episode. While preparing an
+article on returning to an earlier context, the operator exposed a
+decisive distinction: two pieces of information can each be correct
+while never having been true *together* under the conditions ascribed
+to them. A fluent account combining them can therefore construct
+a present that never existed.
+
+This changed the editorial question and how its argument was formed.
+The work produced a local article and a comparative research proposal;
+the Editoriali competence also **represented a change to its method**,
+better distinguishing argument formation from later audience
+calibration.
+
+This is a documented internal event, not an independent benchmark.
+The Paper does not yet record a later, non-identical exercise proving
+assimilation of that method. The example shows why **a produced
+artifact, an updated competence and an ability later exercised**
+are different results.
+
+
 ## 8. Continuity across different discontinuities
 
 The Paper relates several problems that are often treated separately:
@@ -338,9 +364,9 @@ The Paper relates several problems that are often treated separately:
 
 The Paper does not claim that these are one mechanism.
 
-The common question is: **which relation must remain sufficiently preserved for
-later work to continue without rebuilding everything and without pretending
-that nothing changed?**
+The common question is: **which relations must remain reachable, and
+how can they participate in later work without rebuilding everything
+or pretending that nothing changed?**
 
 This is especially relevant in distributed systems.
 
@@ -350,12 +376,14 @@ increase noise and duplicated work. If a sufficient resultant already exists,
 a distinct part of the work can move to another receiver together with the
 relations required to understand it.
 
-Distribution is therefore not automatically beneficial. Its value depends on
-the semantic continuity that survives the transfer.
+Distribution is therefore not automatically beneficial. Its value
+depends on what becomes reachable in the new environment and on the
+receiver's ability to use those relations in its own work.
 
-### Continuum and continuity: the distinction introduced in 0.11
+### Preserving and continuing: two distinct relations
 
-Revision 0.11 distinguishes two related but different functions.
+Revision 0.11 distinguishes two relations that can support one another
+without being identical.
 
 The **continuum** carries or makes reachable reasons and differences that
 still matter causally: a decision and its source, a changed competence,
@@ -399,18 +427,17 @@ enough of its perceived context to orient:
 
 This awareness is partial.
 
-The field may contain relations the system is not currently perceiving. Memory
-may preserve inactive elements. A competence may remain available but not
-pertinent.
+The field may contain relations the system is not currently perceiving.
+Memory can preserve them and a competence can remain available without
+becoming pertinent in the present situation. Situated awareness is not
+the entire stored corpus: it concerns the relations actually participating
+in this event.
 
-The Paper calls **continuum** the selective persistence of relations that remain
-causally useful between one event and the next. The continuum need not reproduce
-a complete previous state. It keeps reachable the differences whose loss would
-change later understanding or action.
-
-In this sense SSK does not seek total memory. The continuum keeps causal
-relations reachable; continuity becomes apparent when those relations
-actually change the work that follows.
+The continuum may keep a reason reachable without making it immediately
+present in awareness. The system displays continuity when, in a later
+event, that reason becomes pertinent and changes understanding or action.
+This distinction matters because the mere existence of an archive cannot
+establish a competence that has not yet been exercised.
 
 ## 10. A sufficient resultant is not final closure
 
@@ -430,25 +457,22 @@ A resultant can be **sufficient** when it:
 The Paper also uses the image of a **moving zero**: the resultant is not the end
 of the process, but the new point from which the next movement becomes possible.
 
-This helps explain why another reading can be useful without becoming endless
-review.
+A sufficient result lets work proceed without repeatedly reconstructing
+the same context. Yet another observation may be useful when the field
+has changed.
 
-The first passage produces a form. A second observes that form from a field
-already changed by the first. A third can integrate the newly visible relation.
-When another passage no longer changes anything materially relevant,
-**no change** is a valid result.
+A first encounter can produce an accurate impression while leaving
+important relationships unnoticed. On a second encounter, acquired
+knowledge may reveal connections among details that previously seemed
+separate; a third can integrate them into a clearer structure. As with
+a painting, recognizing one detail can change the meaning of the others
+even when the picture itself remains unchanged.
 
-Revision 0.12 develops non-identical observation further. A first
-impression can be correct while important relationships remain unrecognized.
-In a second encounter, acquired knowledge changes what the observer can
-distinguish; a third may integrate those relations into a clearer structure.
-
-It is like looking again at a painting: recognizing one detail changes
-how other details are understood. The painting may not have changed,
-but the understanding of its relationships has. Repeated readings do not
-thereby become independent evidence. A fixed number of passes does not
-govern every task: what matters is the comprehension and capacity that
-the next movement can actually use.
+This deepened comprehension is not, by itself, independent external
+evidence. Its value lies in what it makes possible to understand or do
+differently. The number of passages is not a requirement: when another
+encounter changes nothing materially pertinent, **no change** is a
+valid resultant.
 
 ## 11. Relation to agent research
 
@@ -567,10 +591,12 @@ reconstruction instead of reducing it.
 
 The System Semantic Kernel begins from this kind of problem.
 
-Its central proposal is not another component in the agent stack. It is to make
-explicit the continuity of the relations through which a system understands
-where it is while work changes: sources, intent, perceived context, competences,
-means, actions, resultants and consequences.
+Its central proposal is not another component in the agent stack. It is
+to describe the organization through which sources, intent, perceived
+context, competences, means, actions, resultants and consequences
+remain pertinent and reachable. **Continuity emerges when this
+organization lets later work proceed from the relations that earlier
+work actually changed.**
 
 KA keeps the field wider than the current representation. FDLA corrects
 substitutions introduced by the system while work is forming. Competences can
