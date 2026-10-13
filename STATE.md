@@ -53,6 +53,28 @@ public_social_field:
 programme_relation: upstream source/representation owner for current ChatGPT Kernel evolution; not runtime controller
 ```
 
+## Open source return — future of action and method saturation (13 October 2026)
+
+The operator source «quello lo dobbiamo dare per scontato, costruiamo per il
+futuro dell'azione, se abbiamo saturato significa che non abbiamo trovato
+ciò che manca» has been evaluated against the present SSK 0.12 manuscript.
+The existing §§3.2/3.5/4.4/5.2 already distinguish situated sufficiency,
+open possibility, competence/method evolution and a changed observation
+plane. The added emphasis is **constructive future action**: apparent
+saturation of a current method need not close the field; the absent enabling
+relation may belong to the question, means, competence, receiver or
+conditions that would make subsequent Agire different.
+
+The [source development](paper/FUTURE_OF_ACTION_AND_METHOD_SATURATION_2026_10_13.md)
+preserves the author's exact wording and differentiates it from the
+receiver's bounded interpretation. **OPEN_BOUNDED: not integrated into
+canonical 0.12, no new law, model parameter, kernel controller or claim
+of observed later assimilation.** Local sufficiency remains legitimate
+and this proposition does not demand endless exploration or negate a
+well-grounded no_change. The later Editoriali Paper movement can
+consider integration into the existing argument without presuming a
+version bump from this source note alone. KA/FDLA are unchanged.
+
 ## Social Field available to public and external AI readers — 13 October 2026
 
 The new [SSK Social Field](paper/SSK_SOCIAL_FIELD.md) exposes five concepts
