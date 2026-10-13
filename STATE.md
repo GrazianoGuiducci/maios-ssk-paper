@@ -70,6 +70,20 @@ bound to the same manuscript and claim states. No human author review,
 peer review, DOI, journal submission, publication on maios.it, product
 runtime effect or new SSK technical version is implied.
 
+**Second editorial readback, 13 October.** After publishing the repository
+sources for companion 0.2, a non-identical review found some inherited
+sentences still identifying continuity with preservation and a repeated
+three-passage explanation. The existing IT/EN 0.2 artifacts were
+recomposed *in place*: the continuum/emergent-continuity distinction
+now governs the argument across sections rather than residing only
+in an inserted subheading. Both editions also include an
+explicitly bounded, source-linked instance from canonical Paper §7
+(the Editoriali contextual-return event). It documents an artifact and
+a represented method change, **not** later assimilation or an
+independent validation. This readback changes only companion prose
+and the accumulating editorial method; the canonical technical
+SSK 0.12 and other owner-native axioms remain unchanged.
+
 ## Integrated in 0.12 — changed observation and authorial coherence invariants (12 October 2026)
 
 The 12 October operator source further articulates an already living SSK relation: an initial impression can be correct but insufficient to perceive relationships; the second encounter can distinguish a dimensional field because knowledge from the first is now present; a third may integrate a direction as the relations among details become intelligible. This does not generate independent source evidence by rereading. It deepens SSK non-identical observation, three resolutions, and continuity through consequence.
