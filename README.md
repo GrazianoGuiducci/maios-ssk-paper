@@ -29,8 +29,9 @@ operating kernel as the theory itself.
 - [Stable predecessor 0.11](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md)
 - [Receiver-relative event identity, source validity, and composable perception — 8 October, open bounded development](paper/RECEIVER_EVENT_IDENTITY_SOURCE_VALIDITY_AND_COMPOSABLE_MEDIUM_2026_10_08.md)
 - [Composable Kernel Fields — independent individuation and harness composition, open source development](paper/COMPOSABLE_KERNEL_FIELDS_INDEPENDENT_INDIVIDUATION_AND_HARNESS_COMPOSITION_2026_10_06.md)
-- [Academic-accessible companion 0.1 IT — Quando un sistema AI deve continuare a capire](paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_IT.md)
-- [Academic-accessible companion 0.1 EN — When an AI system needs to keep understanding](paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_EN.md)
+- [Introduzione accessibile 0.2 IT — Quando un sistema AI deve continuare a capire](paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_2_IT.md) — aligned to SSK 0.12.
+- [Accessible introduction 0.2 EN — When an AI system needs to keep understanding](paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_2_EN.md) — aligned to SSK 0.12.
+- [Accessible predecessor 0.1 IT](paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_IT.md) and [0.1 EN](paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_EN.md) — source-bound to SSK 0.10.
 - [Representational decontamination, epistemic probing, and KA/FDLA — integrated 0.10 source and 8 October operator/receiver return](paper/REPRESENTATIONAL_DECONTAMINATION_AND_EPISTEMIC_PROBING_2026_09_30.md)
 - [D-ND Assonant Movement, Non-Identical Observation, and Situated Sufficiency — source development integrated into 0.6](paper/DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md)
 - [Distributed reachability, reconstruction economy, and situated delegation — source development integrated into 0.5](paper/DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md)
@@ -40,6 +41,13 @@ operating kernel as the theory itself.
 - [Public source map](paper/SOURCE_MAP.md)
 - [Revision history](paper/REVISION_HISTORY.md)
 - [Preliminary development integrated into 0.3: semantic formation and situated method](paper/SEMANTIC_FORMATION_AND_SITUATED_METHOD_2026_09_12.md)
+
+The 0.2 companion articles are **academic introductions for external readers**.
+They progressively explain why storing a result differs from carrying its
+reason into later work, how changed understanding can expose new relationships
+in the same object, and why the continuum is distinct from emergent
+continuity. They preserve the technical Paper's claim state; neither is a
+separate theory, peer-reviewed paper or live product demonstration.
 
 ## What this repository owns
 
