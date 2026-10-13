@@ -2,6 +2,18 @@
 
 Aggiornata: 2026-10-13. Competenza: system-semantic-kernel-paper.
 
+## 13 ottobre — ingresso AGENTS allineato al campo divulgativo corrente
+
+Il raccordo selezionato dall'operatore corregge l'ingresso che indicava ancora
+corpo0.11 e introduzioni0.1: AGENTS raggiunge ora STATE, corpo0.12, IT/EN0.2
+e Social Field quando un lettore o un derivato lo rende pertinente. Il campo
+pubblico resta una sorgente per persone/AI esterne; formazione editoriale,
+artefatto finale e convalida email della pubblicazione MAIOS hanno owner ed
+effetti distinti. Nessuna copia di stato privato entra nel Paper. Lo sviluppo
+sul futuro dell'azione resta OPEN_BOUNDED; nessuna tesi o versione canonica
+è modificata da questo raccordo. Il seguito delle revisioni passa da STATE,
+senza congelare i numeri citati nell'ingresso come autorità permanente.
+
 ## 13 ottobre — Social Field pubblico per persone e AI esterne
 
 L'operatore seleziona una superficie divulgativa del Paper non riservata

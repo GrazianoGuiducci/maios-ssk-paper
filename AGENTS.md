@@ -11,14 +11,23 @@ Read only the depth required by the selected work:
 1. `STATE.md` for the current revision and claim boundary.
    Follow `competences/system-semantic-kernel-paper/references/WORKING_GUIDE.md`
    for the accumulated reasons, acquired knowledge and active development.
-2. The stable academic body identified by `STATE.md` (currently
-   `paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md`). Use `paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_IT.md`
-   or `_EN.md` when the selected reader needs the academic-accessible entry.
+2. The stable academic body identified by [STATE.md](STATE.md) (currently
+   [SSK working Paper 0.12](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md)).
+   Use the accessible introductions [IT 0.2](paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_2_IT.md)
+   or [EN 0.2](paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_2_EN.md) when pertinent
+   to the selected reader. STATE selects later revisions; historical bodies
+   and introductions retain their own source period.
 3. `paper/AI_KERNEL_PAPER_DOSSIER_CURRENT.md` when the argument, research
    programme, source relation, or next movement is material.
 4. `competences/system-semantic-kernel-paper/SKILL.md` when revising the Paper
    or producing a faithful derivative.
 5. `genealogy/` only when a current relation requires its predecessor.
+
+When forming a source-qualified explanation, post, image or article for a
+real reader, reach [SSK Social Field](paper/SSK_SOCIAL_FIELD.md). This public
+entry serves human and external AI readers without private K-Social access.
+Follow the relevant concept's canonical section and claim state; it does not
+require loading the whole corpus at every entry or select a posting schedule.
 
 ## Writing relation
 
@@ -59,6 +68,21 @@ language and depth, but it must identify the source revision and retain the
 claim state, alternative, limitation, and unknown that materially affect its
 meaning. Put new derivative competences under `competences/` only when a real,
 repeated transformation has emerged.
+
+Social Field concepts are editorial possibilities, not approved artifacts or
+publication authority. Editoriali and Design may form a derivative through
+their own competence; the actual publication owner controls the exact effect.
+For MAIOS posts and site articles the operator's explicit email validation of
+the exact final text, visible media, links, tags, identity and destination is
+required. A sent approval request or silence does not approve the revision.
+Private accounts, contacts, approval exchanges and execution receipts remain
+outside this public research repository. Independent use retains applicable
+rights; a public repository does not itself establish an open-content licence.
+
+The [future-of-action source development](paper/FUTURE_OF_ACTION_AND_METHOD_SATURATION_2026_10_13.md)
+remains OPEN_BOUNDED, separate from canonical 0.12. This reentry does not
+promote it to a theorem, canonical argument or public derivative. KA/FDLA
+remain operator-owned coherence invariants, not modifiable by the assistant.
 
 ## External effects
 
