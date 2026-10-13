@@ -352,7 +352,7 @@ automatica del numero di file o delle skill.
 
 ### Un evento editoriale documentato nel Paper
 
-Il Paper tecnico (§7) conserva un episodio concreto. Durante la preparazione
+Il [Paper tecnico, §7](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md#7-an-existing-editorial-event) conserva un episodio concreto. Durante la preparazione
 di un articolo sul ritorno a un contesto già affrontato, l'operatore ha
 richiamato una distinzione decisiva: due informazioni possono essere
 singolarmente corrette, ma non essere mai state vere *insieme* nelle
