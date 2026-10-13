@@ -99,12 +99,21 @@ canonical manuscript: paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md
 current state: stable body 0.12 (same-day source-salience correction); 0.11 preserved; non-identical observation from changed knowing and authorial KA/FDLA coherence invariants integrated; symbolic one remains attributed source detail and not operational Paper logic; emergent continuity, representation, synthetic awareness, variance and causal reentry preserved; no independent human author review, peer review, DOI or academic publication
 ```
 
-The Paper now also carries a second documentary form:
-`paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_IT.md`. It is an Editoriali-owned
-academic-accessible companion derived from stable body 0.10. The companion
-reconstructs reader premises and introduces terminology progressively while
-preserving the canonical claim state. It does not become another truth owner,
-manuscript version, evidence source or publication effect.
+The Paper also has bilingual **accessible academic companions** for
+readers who have not encountered the D-ND/KA/FDLA vocabulary. Their
+current edition is 0.2, source-bound to stable body 0.12:
+- `paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_2_IT.md`
+- `paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_2_EN.md`
+
+Both inherit the conceptual route of 0.1 (derived from stable body 0.10),
+then explain the 0.11 distinction between causal continuum and emergent
+continuity, and the 0.12 relation between altered observing position and
+author-owned KA/FDLA coherence invariants. The earlier 0.1 IT/EN artifacts
+remain separate predecessors. The accessible form changes reader premises,
+sequence, and examples; it cannot change source claim state, become a
+second independent theory or claim reception in an external product. Future
+public summaries should normally link 0.2 as the accessible introduction
+while technical/scientific claims continue to link canonical 0.12.
 
 The Paper studies how a system's present relation, situated competences,
 operation, resultant, causal interpretation, and changed following field can
