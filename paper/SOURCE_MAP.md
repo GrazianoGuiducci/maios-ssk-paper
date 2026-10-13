@@ -36,8 +36,15 @@ carried by each document and the [current state](../STATE.md).
 
 ## Academic-accessible companion forms
 
-- [Quando un sistema AI deve continuare a capire — introduzione accessibile al SSK, companion 0.1 IT](SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_IT.md) — Italian academic-accessible form derived from stable body 0.10 through Editoriali.
-- [When an AI system needs to keep understanding — accessible introduction to SSK, companion 0.1 EN](SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_EN.md) — English companion from the same semantic and claim-state source. Both companions reconstruct reader entry and are not replacement manuscripts or new evidence sources.
+**Current accessible edition 0.2 — 13 October 2026**, faithful to canonical SSK 0.12:
+- [Quando un sistema AI deve continuare a capire — companion 0.2 IT](SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_2_IT.md) — preserves gradual explanation, integrates the 0.11 continuum/emergent-continuity distinction and the 0.12 changing-observer and KA/FDLA source relation.
+- [When an AI system needs to keep understanding — companion 0.2 EN](SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_2_EN.md) — corresponding English academic introduction, with equivalent substantive relations and claim boundaries.
+
+**Preserved predecessors**, source-bound to canonical SSK 0.10:
+- [Italian companion 0.1](SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_IT.md).
+- [English companion 0.1](SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_1_EN.md).
+
+These companions are reader-facing editorial derivatives, **not** substitute manuscripts, independently validated claims, or published journal articles. Language parity concerns conceptual function rather than literal sentence identity. The original Paper's detailed source and claim ledger remain the academic reference.
 
 ## Source development integrated into 0.10 — 30 September 2026
 
