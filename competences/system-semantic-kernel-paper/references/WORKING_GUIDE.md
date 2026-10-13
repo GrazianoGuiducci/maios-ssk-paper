@@ -2,6 +2,35 @@
 
 Aggiornata: 2026-10-13. Competenza: system-semantic-kernel-paper.
 
+## 13 ottobre — Social Field pubblico per persone e AI esterne
+
+L'operatore seleziona una superficie divulgativa del Paper non riservata
+all'istanza privata K-Social: ogni lettore/AI può reperire concetti pubblici
+già qualificati alla fonte per elaborare post, immagini o articoli autonomi.
+
+È stato creato `paper/SSK_SOCIAL_FIELD.md`, collegato alla sezione di ingresso
+aggiornabile nel README, alla mappa delle fonti e allo stato corrente del
+Paper. I cinque nuclei iniziali (memoria/continuità; continuum/continuità;
+osservazione cambiata; competenza/esercizio; fatti corretti in contesti non
+compresenti) restano **possibilità editoriali**, con fonte IT/EN, contesto di
+lettura, claim limit e ipotesi di media. Non sono testi finali, poster o
+contenuti pubblicati sui profili. La disponibilità pubblica di una fonte
+non certifica il suo riuso da AI esterne.
+
+Conseguenza per la competenza Paper: mantenere una sola sede pubblica per
+i concept e linkarla, evitando duplicare nel README le stesse schede;
+raccogliere nuovi candidati solo quando un progresso scientifico/editoriale
+forma una nuova relazione utile. La premessa per il lettore rimane il
+corpo canonico e le introduzioni accessibili, non la campagna di turno.
+
+**Confine di effetto:** la creazione di questa fonte nel repository pubblico
+è distinta dalle pubblicazioni social o degli articoli sul sito MAIOS.
+L'attuale authority privata K-Social conserva la convalida dell'operatore
+via email dell'esatta revisione finale (testo, immagini, tag, identità/canale
+e destinazione) prima della pubblicazione. Nell'owner Paper pubblico non
+entrano dati privati, identità/account, indirizzi o ricevute. KA/FDLA
+restano invarianti di coerenza non modificati.
+
 ## 13 ottobre — nuova edizione accessibile bilingue 0.2 derivata da SSK 0.12
 
 Graziano ha selezionato l'allineamento delle due introduzioni per lettori esterni
