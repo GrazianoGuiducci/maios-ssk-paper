@@ -320,6 +320,27 @@ an academic case.
 8. Let real critique, use, and later resultants change the closest owning
    relation. Accumulation alone is not competence evolution.
 
+## Public social and editorial concept surface
+
+The [SSK Social Field](../../paper/SSK_SOCIAL_FIELD.md) is a public,
+AI-readable editorial source derived from the current technical Paper and
+accessible companion articles. It is intended for both MAIOS receivers and
+independent AI readers. The Paper competence keeps each concept tied to
+its exact source relation, claim state and possible reader use, without
+promoting editorial candidates into scientific claims or released assets.
+
+The public source can supply concepts to K-Social, Editoriali and Design.
+It does not select a publishing account, final copy, image, platform or time.
+For MAIOS-controlled publications the operator validates the exact final
+derivative and destination through the existing private email approval route.
+That authority lives with K-Social's current operating policy, not inside
+this public Paper owner.
+
+When a new Paper revision changes a concept materially, update its public
+source-bound entry; if not, `no_change` is appropriate. An external AI
+may use the published concepts as a cited source but does not acquire
+MAIOS account credentials or publication authority.
+
 ## External Contact Surface
 
 For readers who need recognizable handles, provide a compact observational
