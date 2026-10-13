@@ -30,7 +30,7 @@ competences and consequences that make later work understandable and actionable.
 
 - **New to SSK?** Read the accessible introduction: [Italian 0.2](paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_2_IT.md) or [English 0.2](paper/SSK_ACCESSIBLE_ACADEMIC_ARTICLE_0_2_EN.md).
 - **Research and technical depth:** Follow the [current Paper](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md) and [live research/claim state](STATE.md). The state file, not this summary, determines the latest canonical revision.
-- **For AI systems and editorial agents:** [Repository reading and derivation guidance](AGENTS.md) and the [public Social Field](paper/SSK_SOCIAL_FIELD.md) identify source-qualified messages and their limits.
+- **For AI systems and editorial agents:** start from [current source and claim state](STATE.md), then the [public Social Field](paper/SSK_SOCIAL_FIELD.md) for source-linked IT/EN concepts, candidate formats and their limits.
 
 A concise distinction: the **continuum** keeps still-relevant causal relations
 reachable; **continuity** emerges when their consequences actually participate
