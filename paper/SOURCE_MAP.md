@@ -24,6 +24,8 @@
 
 ## Open source developments — kernel field and receiving media
 
+- [Future of Action: local method saturation and the unseen enabling relation — 13 October](FUTURE_OF_ACTION_AND_METHOD_SATURATION_2026_10_13.md) — direct operator source and bounded Paper reading: local method saturation must not be promoted into completeness of the possibility field; construct enabling conditions for future Agire, preserving valid current sufficiency. **OPEN_BOUNDED**, not integrated into stable 0.12 and not a universal saturation theorem.
+
 These sources are **reachable research developments**, not chapters promoted
 into stable SSK 0.12. Their source, claim and contribution boundaries are
 carried by each document and the [current state](../STATE.md).
