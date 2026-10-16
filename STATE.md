@@ -1,6 +1,6 @@
 # SSK Paper State
 
-updated: 2026-10-13
+updated: 2026-10-16
 repository: `GrazianoGuiducci/maios-ssk-paper`
 canonical_branch: `main`
 
@@ -52,6 +52,12 @@ public_social_field:
   approval_owner: current private K-Social authority and operator email-validation workflow
 programme_relation: upstream source/representation owner for current ChatGPT Kernel evolution; not runtime controller
 ```
+
+## Meta-Activity — owner-native persistence and situated autonomy (16 October 2026)
+
+**OPEN_BOUNDED research development:** [Meta-Activity owner-native persistence, temporal continuity and bounded autonomy](paper/META_ACTIVITY_OWNER_NATIVE_PERSISTENCE_AND_SITUATED_AUTONOMY_2026_10_16.md) preserves the operator's source distinction: general Meta-Activity learning in its Meta_Skill repository, a project's useful knowledge in its current qualified owner-native surface, and the executable job/trigger in its real controller. Source-preserving condensation and protection against an activity becoming captive of its own accumulated method are part of the research relation. **This is not a revision of canonical 0.12**, a claim that every ChatGPT scheduled job can write, a promise of Codex permissions, an observed universal self-improvement, or evidence of autonomous self-determination.
+
+The existing [bounded K-SSK self-governance case](paper/SSK_BOUNDED_SELF_GOVERNANCE_CASE_2026_10_16.md) is a separate host-relative specimen. Its operator-selected native prompt remains its only live activity memory; this new general research note does not retroactively move it into GitHub or duplicate its private state. Later changes to Meta-Activity, a receiving job, the Paper argument, an article, site publication or social distribution have their distinct owners and evidentiary boundaries. Revise this note when a material source/consequence actually changes its research claim; do not update the Paper per scheduler tick.
 
 ## Open source return — future of action and method saturation (13 October 2026)
 
