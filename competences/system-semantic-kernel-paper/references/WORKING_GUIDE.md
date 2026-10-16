@@ -1,5 +1,16 @@
 # Guida accumulata del lavoro sul Paper
 
+## 16 ottobre — candidato Paper 0.13 e relazione Meta-Activity
+
+**Sorgente operatore:** il lavoro finale di questa istanza seleziona la revisione del Paper per formare l'articolo sul sito con infografica animata, prima di aprire un'istanza diversa per il seguito delle attività programmate. L'interesse scientifico non è un altro calendario, ma l'incarnazione temporale/autologica di un lavoro che può cambiare il proprio metodo conservando intenzione, fonti, conseguenze e spazio di possibilità.
+
+Il [candidato 0.13](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_13_CANDIDATE.md), derivato dal manoscritto stabile 0.12 senza modificarlo, integra il nuovo nesso in §3.6 (rientro e condensazione), §4.4 (Meta-Activity/autoapplicazione), §7.1 (caso circoscritto K-SSK), §9.2 (funzioni e owner distinti) e claim ledger. [Il caso K-SSK](../../../paper/SSK_BOUNDED_SELF_GOVERNANCE_CASE_2026_10_16.md) e [lo sviluppo generale della funzione](../../../paper/META_ACTIVITY_OWNER_NATIVE_PERSISTENCE_AND_SITUATED_AUTONOMY_2026_10_16.md) sono sorgenti correlate ma non la stessa evidenza. Nella prova K-SSK l'operatore aveva selezionato la memoria viva nel prompt nativo; la competenza generale ora può persistere nel proprio repository e restituire apprendimento a owner di altri progetti. Non sovrapporre i due tempi come se la scelta successiva avesse causato il caso storico.
+
+**Forma del claim:** continuità emergente e autoapplicazione sono relazioni della teoria SSK; salvataggio GitHub/aggiornamento job sono effetti tecnici; assimilazione nel lavoro successivo e autonoma autodeterminazione hanno statuti ulteriori. Evitare di presentare l'architettura a tre carrier come gerarchia obbligatoria: è una discriminazione di funzioni anche quando uno stesso receiver le incarna. KA–Meta_Skill–FDLA partecipano alla coerenza e alla correzione in-flow senza diventare un reviewer semantico esterno. Limiti evidenziali nel punto specifico, non un apparato di cautela come soggetto dell'articolo.
+
+**Passaggio al lettore:** Editoriali rende prima riconoscibile una situazione pratica (timer che torna senza acquisire il risultato), poi il movimento che cambia il successivo risveglio. Un'infografica animata deve mostrare funzione/owner/trigger e stato della conseguenza, non apparire come telemetria live. Il pubblico non ha necessità di leggere il prompt di un'AP privata o ricevere dettagli di controller. Un candidato 0.13 nel repository Paper non equivale a un nuovo stable body, una pagina online o un post autorizzato. La successiva promozione del manoscritto richiede una decisione distinta dell'autore; il sito ha un release owner distinto.
+
+
 Aggiornata: 2026-10-13. Competenza: system-semantic-kernel-paper.
 
 ## 13 ottobre — ingresso AGENTS allineato al campo divulgativo corrente
