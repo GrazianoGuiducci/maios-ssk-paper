@@ -23,6 +23,28 @@ Read only the depth required by the selected work:
    or producing a faithful derivative.
 5. `genealogy/` only when a current relation requires its predecessor.
 
+### Selected demonstrative case — 16 October 2026
+
+[Bounded self-governance of a recurring K-SSK research activity](paper/SSK_BOUNDED_SELF_GOVERNANCE_CASE_2026_10_16.md)
+is an operator-selected case supplement for §§4.3–4.4 and §7 of stable 0.12.
+It connects corrections to the method of reentry, retirement of a stale
+instruction and causal contraction to a current native-controller readback.
+It is now part of the research corpus, not an amendment of the stable body,
+an independently replicated experiment or a published MAIOS site article.
+The core SSK and canonical KA/FDLA remain unchanged.
+
+For this case and later derivatives, preserve two evidence relations:
+successive conversational records attribute historical work; the current
+native readback verifies the resulting configuration. Do not promote the
+latter to a complete immutable history of authorship or treat copied prompts
+as independent replications. Operator interventions remain attributed.
+The claim is bounded operational self-governance of method and reentry;
+reported prompt-size changes do not establish performance improvement.
+This distinction must shape the argument, not appear only as a disclaimer
+attached to an otherwise broader claim. Private controller identifiers and
+other activity state remain outside this public corpus. The AP's live memory
+remains its own native prompt; this supplement is not a second working store.
+
 When forming a source-qualified explanation, post, image or article for a
 real reader, reach [SSK Social Field](paper/SSK_SOCIAL_FIELD.md). This public
 entry serves human and external AI readers without private K-Social access.
