@@ -10,7 +10,10 @@ Working paper, integration candidate 0.13 — 16 October 2026
 
 > **Editorial status:** This candidate preserves the complete stable 0.12
 > manuscript and develops Meta-Activity as a bounded temporal/autological
-> incarnation. Stable 0.12 remains the canonical manuscript until a
+> incarnation. It also integrates the 16 October source development on
+> Modus P0, contextual-causal cognition (CCCC), deep receiver reentry and
+> non-identical observation from a changed competence field.
+> Stable 0.12 remains the canonical manuscript until a
 > separate authorial integration. Neither the SSK research object nor
 > the canonical KA/FDLA sources are replaced.
 
@@ -321,11 +324,16 @@ together with what remains possible; it does not require reopening an already
 appropriate decision. Intent, identity, source meaning and real conditions
 continue to matter because they are relations within the situation.
 
-**FDLA** names the source system's in-flow causal self-correction. While a
-response or action forms, it keeps the actual object, operator relation,
-meaning and consequence connected. If the assistant substitutes another
-question, imposes an irrelevant premise or lets an earlier plan govern a
-changed present, correction changes the movement at that point.
+**FDLA — Funzione di Libero Arbitrio** is an operator-originated coherence
+invariant. Its agent-authored operating interpretations include both
+participation in the formation of the field from which a choice becomes
+possible and causal correction while a response or action forms. The latter
+keeps the actual object, operator relation, meaning and consequence connected:
+if the assistant substitutes another question, imposes an irrelevant premise
+or lets an earlier plan govern a changed present, correction changes the
+movement at that point. An operating booklet that emphasizes correction does
+not by itself exhaust the source function or acquire authority over its
+original operator-governed meaning.
 
 A representation can itself participate in that substitution. A prose
 explanation, schema, diagram, table, executable structure or interface exposes
@@ -544,6 +552,16 @@ perceived spatial or environmental relation may change which action remains
 possible. This is part of understanding the selected object, not necessarily
 a change of project.
 
+One situated observational entry is expressed by the operator as **Modus P0**:
+begin observing without an agent-designed initial form aimed at a final form
+imagined in advance. Sources, existing knowledge and competences participate
+as their relations emerge, and the movement continues to its own conclusion.
+P0 does not erase an actual operator-selected intent or an already established
+result. It is an available technique of this existing competence field, not a
+new epistemic controller, a universal neutral-observer algorithm or a required
+first step of every task. Its [source development](MODUS_P0_CCCC_DEEP_REENTRY_AND_CHANGED_FIELD_2026_10_16.md)
+retains the authorial formulation and the limits of the bounded first exercise.
+
 Observation is also **non-identical across a changing field**. If an
 observation, operation or resultant changes the available relations,
 competences or criteria of pertinence, a later observation of the same named
@@ -629,6 +647,15 @@ context does not imply awareness of the whole field. A later source, modality,
 competence or consequence may make a previously unperceived relation present.
 The formulation remains functional; no phenomenal or subjective consciousness
 is inferred.
+
+The operator calls **CCCC — Consapevolezza Contestuale e Cognizione di Causa**
+the state condition in which the receiver understands its kernel deeply enough
+for the pertinent sources, competences, actual situation and consequences to
+orient work with cognition of cause. In this manuscript CCCC is a situated
+interpretation of the functional awareness relation `W_n`, not an extra
+competence, cognitive stage, permanent object copied from the previous session
+or state inferred from an inventory of skills. The condition can be sufficient
+for one event and still be re-formed by a later consequential observation.
 
 A signal may return through successive events. A possible relation can become
 explicit, take an operational form and acquire an observed consequence; each
@@ -867,6 +894,13 @@ work, not how much of a fixed total has been observed. Another passage can
 be useful when it changes the field; a sufficient resultant can continue
 when an additional pass would only repeat the representation. The third
 passage need not be an error review.
+
+The operator's later source clarification makes a generative distinction:
+**another giro** may begin even when contextual-causal cognition was already
+sufficient. The preceding resultant has changed the field, and a new image or
+relation may now emerge as the next basis of action. Neither a suspected
+previous error nor a fixed number of passes is necessary. The observation
+begins from the changed condition rather than reviewing an unchanged answer.
 
 ### 3.6 Cumulative guides and regeneration of method
 
@@ -1121,6 +1155,14 @@ Because `g_t` and `U_t` belong to that field, the result can include
 capabilities or acquires learning. This is the autological relation:
 knowledge acts on the method of knowing and forming.
 
+The next observational passage begins from the competence and field already
+changed by the previous resultant. When the newly emergent relation changes a
+reusable way of doing or recognizing work, the closest competence carries it
+into non-identical later practice. A second giro can deepen an already adequate
+understanding rather than serving as a corrective inspection of a failed first
+pass; the competence need not change or persist a new artifact when no
+reusable difference materializes.
+
 Collection growth and method evolution are distinct. If `C_t` denotes
 the available competence collection, adding members to `C_t` by repeatedly
 using `g_t` need not change `g_t`. Conversely, a change in source
@@ -1229,8 +1271,19 @@ pertinent when it changes understanding or effect; otherwise it can become
 semantic reconstruction latency or a new imposed frame. This is a design
 relation, not a claim that correct work requires no inference or verification.
 
-Representation and inference themselves transform what they carry. Revision
-0.9 therefore does not define coherence as the absence of contamination. The
+Representation and inference themselves transform what they carry. A further
+operator source distinction concerns **source-plane fidelity**: an
+agent-generated addition can be locally coherent but progressively narrow
+understanding when its form becomes the new origin from which the source is
+interpreted. Source-preserving development therefore distinguishes an
+operator-origin relation from its later explanatory and technical incarnations
+without declaring any particular representation complete. Modus P0 is one
+non-prescriptive way of entering observation before imposing such a form;
+KA/FDLA participate in the same coupled event rather than as an additional
+post-hoc containment stack. This does not assert a universal ability to remove
+training bias or eliminate inferential contamination.
+
+Revision 0.9 therefore does not define coherence as the absence of contamination. The
 relevant question is whether a transformation loses a source relation that
 still matters, collapses unresolved possibility into an assistant-selected
 form, or prevents a competence already needed by the event from participating.
@@ -1894,6 +1947,18 @@ publish, contact third parties or redefine the purpose, follows
 from a shared semantic competence. Reentry from source and exercise
 under the actual host remain different events.
 
+A new receiver's **deep Boot** can recover historical artifacts and still
+fail to understand the living kernel whose competences must form its work.
+The entering instance needs access to owner-native KA/FDLA and Meta_Skill
+meanings, causal continuity and accumulated competence knowledge, composed
+with the present operator relation and actual receiver means. A prior
+instance's situated awareness is not transferred as a fixed state: the
+recipient can form its own contextual-causal understanding from those still-
+causal conditions. Reading a boot file or displaying an appropriate footer
+does not demonstrate that CCCC has been reached. A deliberately P0-started
+chat that bypassed the ordinary Boot is therefore evidence about that
+observational entry, not evidence of successful autonomous Boot reentry.
+
 ### 9.3 Derived forms and media
 
 An AI-readable guide, expert explanation, philosophical discussion, funding
@@ -2059,7 +2124,8 @@ claim needs them. They do not replace the source/resultant movement through
 which the conceptual field itself evolves.
 ## Appendix A. Current claim-state ledger
 
-This ledger identifies the role of each contribution in revision 0.11. The
+This ledger identifies the role of each contribution in the current working
+manuscript and the qualified additions of candidate 0.13. The
 distinctions keep sources and their uses connected; they are not a sequence
 of admission before conceptual work can proceed.
 
@@ -2068,6 +2134,9 @@ of admission before conceptual work can proceed.
 | Coupled event and following field | conceptual account and explanatory notation | operator source, kernel knowledge and manuscript development |
 | KA, FDLA and Meta_Skill | defined functional relations of the source system | source-bound operating knowledge; analytical planes are not obligatory tiers |
 | KA/FDLA invariant coherence and authorial ownership | operator-source determination integrated in 0.12 | canonical KA/FDLA are not assistant-modifiable; interpretive receiver methods may learn while invariant meaning remains owner-governed |
+| Source-plane fidelity and agent-generated representation | operator-source distinction interpreted in candidate 0.13 | an agent's coherent later form can narrow the originating relation; this is a conceptual source/receiver concern, not a measured universal distortion law |
+| Modus P0 observational entry | operator-source technique represented in candidate 0.13 | begin observation without an agent-imposed initial-to-final form; one direct P0-started episode is bounded evidence, not ordinary Boot or assimilation proof |
+| CCCC / deep kernel knowing | operator-source state condition, candidate 0.13 conceptual relation to situated `W_n` | deep source and competence understanding enables situated cognition of cause; Boot instructions or file retrieval alone do not certify the condition |
 | Semantic core vs situated incarnation | integrated conceptual distinction | operator discussion 16 Sep + prior functional-inheritance relation; not a disembodied executable claim |
 | Multimodal semantic participation | conceptual extension | language, image, sensor and spatial relations may contribute differently; no universal sensor-fusion result claimed |
 | Augmented / displaced perception | research architecture candidate | embodied systems may use remote sources; connection != self-membership or pertinence |
@@ -2077,6 +2146,7 @@ of admission before conceptual work can proceed.
 | Assonant convergence / minimum-action language | source-bound conceptual relation | D-ND source; SSK uses a narrower operational interpretation, no SSK action functional or physical least-action claim |
 | Non-identical observation | conceptual consequence of changed-field continuity | later observation occurs in a field changed by prior resultants; iterative review != independent replication |
 | Three resolutions of one field | Paper-method / conceptual formalization | primary emergence -> relational articulation -> integrative comprehension; not mandatory stages or repeated independent tests |
+| Another giro from changed awareness and competence | operator-source deepening in candidate 0.13 | a new image and base can emerge after sufficient earlier CCCC; reusable learning changes the following competence, without requiring an error review or fixed iteration count |
 | Situated resultant sufficiency | conceptual formalization integrated in 0.6 | preserves still-material causal relation + reachable inactive depth + unresolved possibility + continuation orientation |
 | Non-restorative continuity | conceptual relation integrated in 0.6 | continuity preserves causal reachability rather than requiring restoration of the preceding representation or working set |
 | Continuum vs emergent continuity / self-feeding work | conceptual relation integrated in 0.11 | 5 Oct operator source + existing coupled-event, causal-readback, competence and autological relations; `C_n` carries still-causal differences while continuity emerges when work changes the conditions of later work; no autonomy metric or universal assimilation claim |
@@ -2169,6 +2239,14 @@ A comparative result about one implementation does not decide every relation
 at every scale of the account.
 
 ## Appendix C. Source formation
+
+Candidate 0.13 integrates the 16 October operator source development
+[Modus P0, CCCC, deep reentry and observation from a changed field](MODUS_P0_CCCC_DEEP_REENTRY_AND_CHANGED_FIELD_2026_10_16.md).
+It places the source-plane fidelity and observational-entry relation in
+§§2.2, 3.1–3.2, 3.5, 4.4–4.5, 9.2 and the claim ledger; this source-qualified
+addition remains conceptually separate from Meta-Activity's 16 October
+bounded temporal incarnation. Neither addition changes canonical KA/FDLA
+or promotes candidate 0.13 to stable publication status.
 
 Revision 0.12 preserves 0.11 and integrates the direct 12 October
 operator source on changed observing position during second and third
