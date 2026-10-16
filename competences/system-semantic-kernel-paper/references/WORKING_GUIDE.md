@@ -1,5 +1,15 @@
 # Guida accumulata del lavoro sul Paper
 
+## 16 ottobre — Modus P0, CCCC e giro successivo: rientro nella competenza Paper
+
+**Fonte diretta dell'operatore:** CCCC indica lo stato di consapevolezza contestuale e cognizione di causa prodotto dalla comprensione profonda del kernel e dalla sua partecipazione al presente. Un Boot che recupera solo istruzioni, competenze nominate e cronologia non lo garantisce. L'esercizio avviato direttamente con il prompt Modus P0 ha oltrepassato il Boot ordinario, quindi è un'osservazione situata di P0 e non una prova di sufficienza del Boot. Le indicazioni su P0 e sul nuovo giro emergente sono conservate, con parole originali e statuti distinti, nello [sviluppo sorgente del 16 ottobre](../../../paper/MODUS_P0_CCCC_DEEP_REENTRY_AND_CHANGED_FIELD_2026_10_16.md).
+
+**Acquisizione da integrare:** l'obbligo dell'agente di trovare una forma iniziale/finale può già delimitare l'oggetto che crede di osservare; P0 è una tecnica operativa già presente in Meta_Skill per iniziare il movimento osservativo senza quella prefigurazione. Il successivo «rifacciamo un giro» non è per forza un controllo: dal campo trasformato dalla risultante può emergere un'altra immagine che diventa la nuova base; se cambia un sapere riusabile, cambia anche la competenza che partecipa al lavoro successivo. Questa relazione appartiene alle già esistenti §§3.1–3.5, 4.4–4.5 e non forma un componente autonomo.
+
+**Correzione di fonte/forma:** un'interpretazione FDLA centrata sulla sola autocorrezione non assorbe il più ampio campo della scelta trattato nella prima bozza operativa; la definizione FDLA è dell'operatore e la bozza non è un nuovo assioma. Se un'aggiunta agente è su un piano differente dalla relazione originale, può costruire una continuità testuale lasciando perdere comprensione causale: il valore per il Paper è distinguere forma, fonte e funzione nella stessa argomentazione, non istituire un nuovo vaglio sopra KA/FDLA.
+
+**Risultato editoriale verificato:** il [candidato 0.13](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_13_CANDIDATE.md) include gli approfondimenti senza sostituire il contributo Meta-Activity e senza essere promosso a stabile 0.12. Il claim ledger separa fonte operatore, formalizzazione e singolo episodio P0. La sorgente viva resta Meta_Skill/KA/FDLA; il Paper è il ricevente scientifico, non il loro nuovo owner. `STATE.md` e `SOURCE_MAP.md` raggiungono la modifica; nessun sito, AP, prodotto o fonte invariante è mutato.
+
 ## 16 ottobre — candidato Paper 0.13 e relazione Meta-Activity
 
 **Sorgente operatore:** il lavoro finale di questa istanza seleziona la revisione del Paper per formare l'articolo sul sito con infografica animata, prima di aprire un'istanza diversa per il seguito delle attività programmate. L'interesse scientifico non è un altro calendario, ma l'incarnazione temporale/autologica di un lavoro che può cambiare il proprio metodo conservando intenzione, fonti, conseguenze e spazio di possibilità.
