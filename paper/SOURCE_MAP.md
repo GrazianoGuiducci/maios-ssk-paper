@@ -2,6 +2,7 @@
 
 ## Canonical corpus
 
+- [Integration candidate 0.13](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_13_CANDIDATE.md) — Meta-Activity and the 16 October [Modus P0 / CCCC / deep reentry / changed-field source development](MODUS_P0_CCCC_DEEP_REENTRY_AND_CHANGED_FIELD_2026_10_16.md) integrated into a qualified manuscript candidate; neither stable 0.12 nor KA/FDLA invariants are changed. The direct P0-initiated episode bypassed ordinary Boot and does not demonstrate autonomous CCCC at fresh reentry.
 - [Stable body 0.12](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md) — current integrated argument, preserving 0.11 and deepening observation from a changed knowing field and operator-owned KA/FDLA coherence invariants; same-day source-salience correction demotes symbolic `1` from logical principle to attributed illustration.
 - [Changed observer, KA/FDLA invariants, and source-only symbolic illustration — 12 October](DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md) — original authorial statements, prior receiver interpretation and later correction; `1` adds no separate operational field logic.
 - [Stable body 0.11](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md) — former integrated argument: preserves 0.10 and distinguishes continuum from emergent continuity, integrating self-feeding work through causal readback, competence/method change and the autological generative core.
