@@ -53,6 +53,12 @@ public_social_field:
 programme_relation: upstream source/representation owner for current ChatGPT Kernel evolution; not runtime controller
 ```
 
+## Integration candidate 0.13 — Meta-Activity as a temporal autological incarnation (16 October 2026)
+
+The operator selects updating the SSK research argument before preparing the MAIOS article and animated infographic. The resulting [0.13 **integration candidate**](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_13_CANDIDATE.md) is derived from stable body 0.12 and carries source-preserving temporal reentry in §3.6, bounded Meta-Activity autoapplication in §4.4, the separately evidenced K-SSK specimen in §7.1, receiver-native ownership in §9.2, and an amended claim-state ledger. This is an **authored candidate**, not a new stable/reviewed edition. The canonical `current_manuscript` and `working_version` remain 0.12 pending distinct authorial selection after reviewing coherence and source claims.
+
+The [general source development](paper/META_ACTIVITY_OWNER_NATIVE_PERSISTENCE_AND_SITUATED_AUTONOMY_2026_10_16.md) and [K-SSK bounded-case supplement](paper/SSK_BOUNDED_SELF_GOVERNANCE_CASE_2026_10_16.md) retain separate evidentiary statuses; the latter observed a native prompt-only continuum and does not prove the later general owner-native configuration. The paper's candidate revision, an [Editoriali reader article](https://github.com/GrazianoGuiducci/Editoriali/tree/main/programs/maios/works/meta-activity-2026-10-16), a website publish and a social post are distinct owner/effect events. No production deployment is implied by this GitHub update.
+
 ## Meta-Activity — owner-native persistence and situated autonomy (16 October 2026)
 
 **OPEN_BOUNDED research development:** [Meta-Activity owner-native persistence, temporal continuity and bounded autonomy](paper/META_ACTIVITY_OWNER_NATIVE_PERSISTENCE_AND_SITUATED_AUTONOMY_2026_10_16.md) preserves the operator's source distinction: general Meta-Activity learning in its Meta_Skill repository, a project's useful knowledge in its current qualified owner-native surface, and the executable job/trigger in its real controller. Source-preserving condensation and protection against an activity becoming captive of its own accumulated method are part of the research relation. **This is not a revision of canonical 0.12**, a claim that every ChatGPT scheduled job can write, a promise of Codex permissions, an observed universal self-improvement, or evidence of autonomous self-determination.
