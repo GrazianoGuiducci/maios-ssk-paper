@@ -22,6 +22,12 @@ operating kernel as the theory itself.
 > competence and Editoriali conduct continuing revision. See
 > [STATE.md](STATE.md) for publication and review metadata.
 
+## D-ND research return — 20 October 2026
+
+[Relational continuity and representational sufficiency](paper/DND_RELATIONAL_CONTINUITY_AND_REPRESENTATIONAL_SUFFICIENCY_2026_10_20.md) develops a precise question already present in SSK: what must remain distinguishable for a result to support its selected continuation? It contains a bounded quotient proposition, the two-support example, and a source-attribution case. [Executable finite checks](paper/checks/verifica_quoziente_continuazioni.py) and their [recorded output](paper/checks/risultati_quoziente_continuazioni.json) accompany the mathematical examples.
+
+This contribution is available in the research corpus. Its integration into the paragraphs of [candidate 0.13](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_13_CANDIDATE.md) is pending; it does not change stable 0.12. Conditions that can support continuation are not evidence of their actual exercise or of a later receiver's assimilation. The complete D-ND manuscript remains a distinct, unpublished working text, not a new SSK edition.
+
 ## Start here — people and AI readers
 
 SSK asks how work with AI can **continue meaningfully as situations change**:
@@ -57,6 +63,7 @@ publication. External AI readers cannot inherit that authority.
 ## Read the working paper
 
 - [System Semantic Kernel (SSK), stable body 0.12](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md)
+- [Integration candidate 0.13 — Meta-Activity, P0 and deep reentry](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_13_CANDIDATE.md) — unpromoted candidate; the separate D-ND contribution above remains pending paragraph integration.
 - [Changed observing position, KA/FDLA coherence invariants and source illustration — 12 October](paper/DND_SITUATED_ONE_INVARIANT_COHERENCE_AND_CHANGED_OBSERVER_2026_10_12.md)
 - [Stable predecessor 0.11](paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md)
 - [Receiver-relative event identity, source validity, and composable perception — 8 October, open bounded development](paper/RECEIVER_EVENT_IDENTITY_SOURCE_VALIDITY_AND_COMPOSABLE_MEDIUM_2026_10_08.md)
@@ -140,11 +147,13 @@ open research question.
 
 ## D-ND source relation and situated sufficiency
 
-Revision 0.6 makes explicit that selected D-ND relations enter SSK through
-their operational participation in the living Kernel rather than by importing
-the complete D-ND model. Assonance, resultant, third-included and minimum-action
-language remain source-bound to D-ND; SSK formalizes the system-semantic
-relations that become observable through Kernel movement and causal readback.
+Selected D-ND source relations can enter the SSK research object directly,
+with their authorial status preserved, or through their operational
+participation in the living Kernel. These are distinct source relations,
+not a requirement to implement every proposition before it can be studied.
+Assonance, resultant, third-included and minimum-action language remain
+source-bound to D-ND; SSK does not absorb the complete D-ND model or infer
+runtime evidence from source availability.
 
 A later self-observation occurs in a field already changed by prior resultants,
 so iterative autological review is not independent replication. A resultant is

@@ -30,3 +30,7 @@ Kernel movement remain bounded internal specimens, not independent validation
 or measured performance evidence. Update the manuscript ledger first
 whenever a claim changes. Update this index only if the classification contract
 or canonical location changes.
+
+## Linked development — 20 October 2026
+
+The [D-ND relational-continuity contribution](DND_RELATIONAL_CONTINUITY_AND_REPRESENTATIONAL_SUFFICIENCY_2026_10_20.md#claim-boundary) keeps its own bounded claim account: a proved proposition for declared deterministic operations, finite illustrative checks, a source-attribution comparison and an SSK receiving interpretation. It is available in the corpus; integration into the existing 0.13 candidate is pending. This link does not change the canonical 0.12 ledger, promote a candidate or establish runtime assimilation. The mathematical proposition and the documentary comparison are not independent evidence of SSK efficacy.
