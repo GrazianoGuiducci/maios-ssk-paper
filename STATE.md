@@ -53,6 +53,11 @@ public_social_field:
 programme_relation: upstream source/representation owner for current ChatGPT Kernel evolution; not runtime controller
 ```
 
+## Constructive human–AI kernel formulation — 20 October 2026
+
+The operator directly proposes a representative description of a **semantic kernel as a system for building something**, potentially an application, and as a way for people and AI to interact through **a shared conceptual design**. The [attributed source development](paper/KERNEL_AS_CONSTRUCTION_AND_SHARED_CONCEPTUAL_DESIGN_2026_10_20.md) retains the exact wording and differentiates it from the Paper's elaboration and an earlier Editoriali-sourced variant.
+
+The **existing candidate 0.13** receives this meaning in its Abstract, §2.1, §5.3 and claim ledger, making the constructive and collaborative consequence of the constitutive relation explicit. The shared design is not introduced as a mandatory finished blueprint, a new controller, or evidence that human and AI roles or effect authorities coincide. Existing source-to-context, K-SSK, D-ND, Meta-Activity and P0 developments retain their source roles and dates. **Stable 0.12 remains canonical**; no product, site, social or runtime effect is selected.
 ## D-ND continuation contribution received in candidate 0.13 — 20 October 2026
 
 The operator selected integration of the completed D-ND manuscript's pertinent

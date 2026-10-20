@@ -1,5 +1,12 @@
 # Guida accumulata del lavoro sul Paper
 
+## 20 ottobre — formulazione costruttiva e design concettuale condiviso
+
+La nuova [formulazione diretta dell'operatore](../../../paper/KERNEL_AS_CONSTRUCTION_AND_SHARED_CONCEPTUAL_DESIGN_2026_10_20.md) rende riconoscibile la sostanza del kernel dal lavoro che permette: costruire qualcosa attraverso la collaborazione fra persone e AI secondo un design concettuale condiviso; il risultato può essere anche un'applicazione. Non trasformarla nella definizione esaustiva di SSK, in un'app già disponibile o nell'obbligo di un piano concettuale fisso. La relazione costitutiva rimane quella sviluppata nel Paper; la formulazione ne rende esplicita una conseguenza costruttiva al livello umano–AI.
+
+Il ricevente conserva le parole esatte, compresa l'eventuale imperfezione della dettatura, e le distingue dalla lettura scientifica. Un'altra istanza aveva già preservato in Editoriali una formulazione antecedente, differente, destinata a possibili usi comunicativi: l'aggiunta al Paper non riscrive quella sorgente né pubblica un contenuto su altri canali. «Condiviso» significa poter operare su una relazione concettuale intelligibile fra i partecipanti, senza sovrapporre intenzione, competenza, comprensione e autorizzazione. L'evoluzione del design durante il lavoro è una lettura possibile derivata da SSK, non una citazione letterale.
+
+La [candidata 0.13](../../../paper/SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_13_CANDIDATE.md) accoglie questo raccordo nell'Abstract e nei luoghi §§2.1 e 5.3, con claim separato. La competenza di scrittura applica la relazione quando deve spiegare identità, potenzialità costruttiva e partecipazione umana, senza importare o duplicare il metodo narrativo di Editoriali. La 0.12 resta stabile; il successivo esercizio di questa conoscenza in un ricevente diverso rimane un altro evento.
 ## 20 ottobre — ricezione D-ND e sufficienza per il seguito
 
 Il nuovo contributo non introduce per la prima volta la distinzione SSK fra

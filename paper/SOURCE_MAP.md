@@ -1,5 +1,9 @@
 # Public source map
 
+## Constructive human–AI design source — 20 October 2026
+
+- [Semantic kernel as a system for building through a shared conceptual design](KERNEL_AS_CONSTRUCTION_AND_SHARED_CONCEPTUAL_DESIGN_2026_10_20.md) — latest direct operator formulation preserved exactly, with a separate earlier Editoriali variant distinguished; bounded scientific reading in candidate 0.13, Abstract, §§2.1/5.3 and claim ledger. An application is a possible resultant rather than an exhaustive identity of the kernel. No claim of an installed shared-design mechanism or published communication.
+- [Paper candidate 0.13](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_13_CANDIDATE.md) — this is a new constructive explanatory resolution of the existing kernel relation, not an amended stable body or a new KA/FDLA invariant.
 ## D-ND receiving contribution — 20 October 2026
 
 - [Relational continuity and representational sufficiency](DND_RELATIONAL_CONTINUITY_AND_REPRESENTATIONAL_SUFFICIENCY_2026_10_20.md) — selected receiving development from D-ND manuscript 1.0; full bounded proposition and proof, outcome/update distinction, two-support and documentary cases. Integrated in candidate 0.13, not stable 0.12. The D-ND manuscript and private archive retain their separate owners and publication states.

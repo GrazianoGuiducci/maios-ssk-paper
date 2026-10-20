@@ -70,6 +70,12 @@ result becomes possible. The System Semantic Kernel (SSK) describes the
 organization of this continuing relation among meaning, intent, sources,
 situated competence, operation and consequence.
 
+At the human–AI scale, this organization can support building something
+through a shared conceptual design: an application may emerge from the work,
+but it does not exhaust the semantic system through which participants
+understand, form and continue that work. This constructive expression is a
+representative authorial view, not the only possible receiving configuration.
+
 SSK distinguishes its semantic-relational identity from any one software
 mechanism, runtime, medium or body. A receiving field supplies its own sources,
 perceptual modalities, tools, interfaces, persistence, constraints and
@@ -308,6 +314,17 @@ spatial relation perceptible; a sensor can expose a change in the environment;
 the result can teach the competence something that none of those carriers yet
 expressed as a reusable method. The kernel comprises this movement across
 forms without becoming identical to any one of them.
+
+**Constructive expression of the kernel.** In a [direct operator formulation](KERNEL_AS_CONSTRUCTION_AND_SHARED_CONCEPTUAL_DESIGN_2026_10_20.md),
+a semantic kernel is a system for building something—possibly an application—
+and a way for humans and artificial intelligence to interact according to a
+shared conceptual design. This makes the constitutive organization legible
+from the work it enables. In the present SSK interpretation, the shared
+design is an intelligible relation among purpose, meanings, competences,
+decisions and consequences; it is not necessarily a finished plan or a
+separate software module. The application may be a resultant or situated
+incarnation, without becoming the kernel's complete identity. This
+constructive reading supplements rather than replaces the definition above.
 
 The central distinction is:
 
@@ -1559,6 +1576,17 @@ make possibilities intelligible while the operator supplies distinctions that
 the system had not formed. Neither contribution needs to be reduced to
 command issuance or passive reception.
 
+The [operator's constructive formulation](KERNEL_AS_CONSTRUCTION_AND_SHARED_CONCEPTUAL_DESIGN_2026_10_20.md)
+also gives a human–AI expression to that reciprocal relation: people and AI
+can contribute to building something according to a shared conceptual design.
+Sharing a conceptual organization need not mean identical understanding,
+equal means or shared authority over effects. The design can be supplied,
+clarified or transformed during work as its actual participants and
+consequences permit; that further possibility is a situated interpretation
+of the existing SSK field, not a requirement already specified by the
+operator's sentence. An application is one possible result, not the limit
+of the collaboration or the semantic organization through which it continues.
+
 A system can support this relation by making the consequential difference
 legible. It can explain why a method fits, what has changed or which possibility
 a result opens. The amount of explanation follows the situation. Requiring
@@ -2330,6 +2358,7 @@ of admission before conceptual work can proceed.
 | Competence / awareness / memory / continuum distinction | analytical relation integrated in 0.7 | competences retain durable capacity; awareness is situated integration; memory/source preserve reachability; continuum carries only causal differences needed by following fields |
 | Awareness-to-continuum return | conceptual continuity relation refined in 0.8 | `W_n + R_n + I_n` can expose still-causal differences preserved through `C_(n+1)`; the continuum conditions but does not recreate later awareness |
 | Cumulative guides and method regeneration | operating knowledge developed as an argument | reasons, source access and present conditions make reuse or regeneration intelligible |
+| Construction through a shared human–AI conceptual design (0.13 candidate) | direct operator representative formulation, with situated SSK interpretation | system for building something, sometimes an application; the shared design does not imply a fixed prior blueprint, equal effect authority, a finished product or a new constitutive axiom |
 | Operator participation and design | conceptual development with an illustrative situation | notebook source; the illustration is not an added empirical case |
 | Reconstruction latency toward zero | operator direction and comparative question | `L_rec` concerns reconstruction, separately from inference, sensing and tool time; no measured zero-latency result |
 | Editoriali contextual-return episode | retained source-bound observation and represented competence change | original local article event |
