@@ -1,5 +1,20 @@
 # SSK Paper revision history
 
+## Candidate 0.13 — D-ND continuation return, 2026-10-20
+
+The existing candidate receives the selected D-ND continuation contribution
+without promotion to stable. The addition distinguishes output sufficiency,
+autonomous representation update and exercised SSK continuity; it links the
+bounded quotient proof, finite support/cycle cases and a source-attribution
+comparison. Meta-Activity and P0/CCCC are preserved. Stable 0.12 is unchanged.
+
+The receiving knowledge returns to the existing resultant competence reference
+and guide. Current citation metadata is corrected from stale 0.10 to 0.12;
+the dossier's stale 0.11 opening is reconciled. Historical revision entries
+remain attributed to their dates. The source manuscript D-ND 1.0 is a completed
+working text, not an academically published or independently reviewed result.
+No runtime, product, website, scheduler or canonical-invariant effect follows.
+
 ## 0.12 — 2026-10-12
 
 Current integrated stable body (same-day source-salience correction).

@@ -1,6 +1,6 @@
 # SSK Paper State
 
-updated: 2026-10-16
+updated: 2026-10-20
 repository: `GrazianoGuiducci/maios-ssk-paper`
 canonical_branch: `main`
 
@@ -52,6 +52,29 @@ public_social_field:
   approval_owner: current private K-Social authority and operator email-validation workflow
 programme_relation: upstream source/representation owner for current ChatGPT Kernel evolution; not runtime controller
 ```
+
+## D-ND continuation contribution received in candidate 0.13 — 20 October 2026
+
+The operator selected integration of the completed D-ND manuscript's pertinent
+contribution, not transfer of the entire D-ND corpus or promotion to stable.
+The [receiving development](paper/DND_RELATIONAL_CONTINUITY_AND_REPRESENTATIONAL_SUFFICIENCY_2026_10_20.md) contains the bounded
+quotient proposition, the outcome/update distinction, finite support cases and
+a documentary source-attribution comparison. Their relations now participate
+in the existing 0.13 candidate at §§2.2, 3.2, 3.6, 7.2, 8, Conclusion and the
+candidate claim ledger. Meta-Activity and P0/CCCC contributions are preserved.
+
+The existing resultant competence reference retains the reusable method; its
+working guide and entry link that knowledge rather than form a second writing
+system. The D-ND 1.0 manuscript remains a separate completed working text, not
+an academically published or independently reviewed source. The repository
+publishes only the selected receiving development and bounded checks.
+
+**Canonical state remains 0.12.** Citation metadata has been corrected from
+stale 0.10 to stable 0.12, and the dossier's stale 0.11 opening is reconciled.
+The mathematical result supplies conditions for selected continuations; it
+does not establish their use, assimilation, semantic contraction or empirical
+SSK efficacy. No invariant, runtime, product, website, social publication,
+DOI or scheduler effect follows from this integration.
 
 ## Integration candidate 0.13 — Meta-Activity as a temporal autological incarnation (16 October 2026)
 

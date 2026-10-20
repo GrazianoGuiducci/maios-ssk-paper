@@ -2,9 +2,11 @@
 
 ## A bounded D-ND contribution to SSK reentry and revision
 
-Date: 20 October 2026. Research and editorial owner: SSK Paper competence + Editoriali. Source: Graziano Guiducci, *D-ND: distinzione relazionale e continuita della risultante*, manuscript 1.0, 20 October 2026, §§2–6. The source manuscript is completed as a working text, not an independently reviewed or academically published result. This development makes the selected contribution readable here without publishing the complete private D-ND corpus.
+Date: 20 October 2026. Research and editorial owner: SSK Paper competence + Editoriali. Source: Graziano Guiducci, *D-ND: distinzione relazionale e continuità della risultante*, manuscript 1.0, 20 October 2026, §§2–6. The source manuscript is completed as a working text, not an independently reviewed or academically published result. This development makes the selected contribution readable here without publishing the complete private D-ND corpus.
 
 Integration target: [SSK candidate 0.13](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_13_CANDIDATE.md), particularly §§2.2, 3.2, 3.6–3.7 and its claim-state ledger. [Stable 0.12](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md) remains unchanged. The D-ND manuscript, this receiving interpretation, a later kernel exercise and academic publication are distinct objects and events.
+
+Integration completed in the existing candidate and its source/competence entries. The [finite checks](checks/verifica_quoziente_continuazioni.py) were executed during preparation on 20 October 2026; their [recorded output](checks/risultati_quoziente_continuazioni.json) qualifies only the four declared models, not the whole SSK theory.
 
 ## 1. The relation already present in SSK, and the added precision
 

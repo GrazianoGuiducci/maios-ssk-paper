@@ -130,6 +130,19 @@ progressively only where they become operationally material in the Kernel. It as
 projects, organizations, embodied systems and societies through the meaning and
 consequences of those relations.
 
+## Continuation sufficiency — receiving method, 20 October 2026
+
+When continuation or source revision is material, use the existing
+[ASSONANT_RESULTANT reference](references/ASSONANT_RESULTANT.md#continuazione-dipendenza-e-rappresentazione--20-ottobre-2026)
+and its [bounded research contribution](../../paper/DND_RELATIONAL_CONTINUITY_AND_REPRESENTATIONAL_SUFFICIENCY_2026_10_20.md).
+Preserve the difference between information sufficient for selected outcomes,
+autonomous updating of the complete representation and exercised continuity.
+Keep a support's inferential role where it changes revision; do not turn the
+quotient into the definition of contraction or demand an inventory of all
+future questions. The 0.13 candidate receives this relation; 0.12 remains the
+stable body. No new competence, empirical efficacy claim or source-invariant
+mutation is introduced.
+
 ## Revision Responsibility
 
 Graziano Guiducci remains the operator and authorial source authority. The SSK

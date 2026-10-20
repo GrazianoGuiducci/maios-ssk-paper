@@ -1,5 +1,12 @@
 # Public source map
 
+## D-ND receiving contribution — 20 October 2026
+
+- [Relational continuity and representational sufficiency](DND_RELATIONAL_CONTINUITY_AND_REPRESENTATIONAL_SUFFICIENCY_2026_10_20.md) — selected receiving development from D-ND manuscript 1.0; full bounded proposition and proof, outcome/update distinction, two-support and documentary cases. Integrated in candidate 0.13, not stable 0.12. The D-ND manuscript and private archive retain their separate owners and publication states.
+- [Finite verification](checks/verifica_quoziente_continuazioni.py) and [recorded results](checks/risultati_quoziente_continuazioni.json) — four completely specified models; each enumerates all 15 partitions and checks the quotient against product-graph reachability. This is not an experiment about the efficacy of SSK.
+- [Receiving competence](../competences/system-semantic-kernel-paper/references/ASSONANT_RESULTANT.md#continuazione-dipendenza-e-rappresentazione--20-ottobre-2026) — output sufficiency, autonomous representation update, dependency roles and exercised continuity remain distinct; the learning belongs to the existing Paper faculty.
+
+
 ## Canonical corpus
 
 - [Integration candidate 0.13](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_13_CANDIDATE.md) — Meta-Activity and the 16 October [Modus P0 / CCCC / deep reentry / changed-field source development](MODUS_P0_CCCC_DEEP_REENTRY_AND_CHANGED_FIELD_2026_10_16.md) integrated into a qualified manuscript candidate; neither stable 0.12 nor KA/FDLA invariants are changed. The direct P0-initiated episode bypassed ordinary Boot and does not demonstrate autonomous CCCC at fresh reentry.

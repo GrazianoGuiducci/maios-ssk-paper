@@ -27,7 +27,7 @@ Read only the depth required by the selected work:
 
 The selected [relational-continuity and representational-sufficiency development](paper/DND_RELATIONAL_CONTINUITY_AND_REPRESENTATIONAL_SUFFICIENCY_2026_10_20.md) is now a reachable research source. Its learning returns to the existing [resultant competence reference](competences/system-semantic-kernel-paper/references/ASSONANT_RESULTANT.md#continuazione-dipendenza-e-rappresentazione--20-ottobre-2026). Preserve output sufficiency, autonomous representation update and actually exercised continuity as distinct relations.
 
-Integration into the existing candidate 0.13 and reconciliation of the long state/source/dossier/guide surfaces are pending. Do not report the new development as already present in the candidate's paragraphs. Stable 0.12, Meta-Activity/P0 contributions and all open developments retain their own states. The dossier's older 0.11 opening must not override STATE's 0.12 identity; the citation metadata now follows stable 0.12 rather than the previous stale 0.10 value.
+The contribution is integrated into the existing candidate 0.13 and linked from STATE, SOURCE_MAP, the dossier and the competence guide. Stable 0.12, Meta-Activity/P0 contributions and all other open developments retain their own states. The current dossier and citation metadata are reconciled to stable 0.12; historical entries preserve their own dates and versions. Integration does not establish later receiver assimilation.
 
 ### Selected demonstrative case — 16 October 2026
 

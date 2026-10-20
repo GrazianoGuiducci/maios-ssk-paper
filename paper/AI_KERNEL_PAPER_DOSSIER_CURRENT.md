@@ -1,7 +1,7 @@
 # AI Kernel Paper — Dossier corrente
 
-updated: 2026-10-06
-status: stable body SSK 0.11; preserves 0.10 and integrates emergent continuity from self-feeding work; composable-kernel-field and kernel-emergence developments remain open
+updated: 2026-10-20
+status: stable body SSK 0.12; unpromoted candidate 0.13 includes Meta-Activity, P0/CCCC and the bounded D-ND continuation return; other open developments retain their own state
 artifact_owner: maios-ssk-paper
 kernel_meaning_owner: maintain-kernel-knowledge
 editorial_competence_owner: Editoriali / system-semantic-kernel-paper
@@ -9,10 +9,12 @@ source_authority: Graziano Guiducci
 
 ## Oggetto e punto corrente
 
-Il [corpo stabile 0.11](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_11.md) è
+Il [corpo stabile 0.12](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_12.md) è
 l'argomento unitario corrente. Integra il modello di evento e il nucleo
 generativo della 0.3 con una distinzione più precisa fra identità
 semantico-relazionale del Kernel e mezzi della sua incarnazione.
+La [candidata 0.13](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_13_CANDIDATE.md)
+conserva uno stato distinto, non promosso.
 
 La relazione costitutiva resta:
 
@@ -31,6 +33,21 @@ conserva le ragioni e la genealogia precedenti. Gli sviluppi integrati sono pres
 [Distributed reachability, reconstruction economy, and situated delegation](DISTRIBUTED_REACHABILITY_AND_RECONSTRUCTION_ECONOMY_2026_09_23.md) e
 [D-ND Assonant Movement, Non-Identical Observation, and Situated Sufficiency](DND_ASSONANT_MOVEMENT_AND_SITUATED_SUFFICIENCY_2026_09_24.md).
 Gli stati di revisione, pubblicazione e fonte restano in [STATE.md](../STATE.md).
+
+## 20 ottobre — continuazione D-ND ricevuta nella candidata
+
+Il [contributo sulla sufficienza rappresentazionale](DND_RELATIONAL_CONTINUITY_AND_REPRESENTATIONAL_SUFFICIENCY_2026_10_20.md)
+precisa quali distinzioni una rappresentazione deve conservare per un insieme
+di continuazioni dichiarate. Il suo quoziente formale, il caso delle ragioni e
+il confronto documentale entrano nella candidata 0.13 con statuti distinti:
+dimostrazione condizionata, modello finito e interpretazione documentale.
+Non sostituiscono la continuità emergente SSK e non dimostrano assimilazione.
+
+Sono conservati il riferimento ricostruibile, il ruolo delle fonti e il motivo
+della trasformazione, senza obbligare a mantenere tutta la cronologia attiva.
+La competenza esistente ne riceve il sapere; il testo D-ND completo resta
+separato. Il riallineamento di questo ingresso da 0.11 a 0.12 è una correzione
+attuale, non una riscrittura della cronologia delle revisioni.
 
 ## Sviluppo sorgente aperto — campo di kernel componibili
 

@@ -17,6 +17,13 @@ Working paper, integration candidate 0.13 — 16 October 2026
 > separate authorial integration. Neither the SSK research object nor
 > the canonical KA/FDLA sources are replaced.
 
+> **20 October 2026 — D-ND continuation contribution.** This same candidate
+> now integrates the bounded distinction between outcome sufficiency,
+> autonomous representation update and exercised continuity, together with
+> a source-attribution case. The [source development](DND_RELATIONAL_CONTINUITY_AND_REPRESENTATIONAL_SUFFICIENCY_2026_10_20.md)
+> contains the full proposition and its proof. Stable 0.12 remains unchanged;
+> Meta-Activity and P0/CCCC contributions remain preserved.
+
 > Generated and scientifically edited by MAIOS/TM9 through the SSK Paper
 > competence and Editoriali from Graziano Guiducci's source corpus.
 > Revision 0.12 preserves 0.11 and deepens the 12 October operator
@@ -359,6 +366,13 @@ application or competence method, while the source invariants remain under
 the operator's authority. Their invariant character does not add an
 independent supervisor or a prohibition on the evolution of other methods.
 
+The D-ND continuation contribution distinguishes a founding assumption, the
+occurrence of a resultant and the justification of a derived statement. An
+invariant can orient work without certifying every representation produced by
+a receiver. Correcting that representation may preserve the source relation
+rather than modify it. This qualifies the specific attribution or inference;
+it does not add a reviewer above KA/FDLA or rewrite their owner-native meaning.
+
 The notebook's question about placing metaphysics in an agentic system opens
 a related inquiry: the categories through which a system recognizes an object,
 a possibility or a consequence shape its movement. The D-ND source language
@@ -683,6 +697,15 @@ where its causal relation is still material; the present is sufficiently
 determined in the resultant; the future remains open where the field has not
 determined it.
 
+A bounded criterion for interpreting that sufficiency is developed in the
+[D-ND continuation contribution](DND_RELATIONAL_CONTINUITY_AND_REPRESENTATIONAL_SUFFICIENCY_2026_10_20.md). Reference must remain
+reconstructible, distinctions material to the selected continuation must remain
+usable or genuinely recoverable, and the transformation of use must have
+intelligible reasons. These are relations through which a continuation can be
+examined, not a sequence of gates. They qualify its available conditions; SSK
+continuity still concerns whether those relations actually participate in
+subsequent work.
+
 Revision 0.9 calls the awareness relation described by `W_n` **synthetic
 situated awareness** when the receiver is an artificial/synthetic system. The
 term names the organization of the relation rather than requiring it to copy
@@ -944,6 +967,34 @@ native-prompt continuum; the storage form does not supply semantic
 authority. A different receiver may possess a different write or
 scheduler capability. The critical relation is that a later event
 can reach and use the reasons, not that one storage form is universal.
+
+**Representational sufficiency for selected continuations.** A precise local
+model sharpens the distinction above. Let h describe the observations to
+preserve and U_e be declared deterministic total operations on a state set X.
+Two states are equivalent when all h-outcomes agree after every finite sequence
+of those operations, including the empty sequence. This is the coarsest
+h-preserving equivalence stable under all U_e; its quotient admits exact
+updates. The [linked proof and finite cases](DND_RELATIONAL_CONTINUITY_AND_REPRESENTATIONAL_SUFFICIENCY_2026_10_20.md) state the
+hypotheses and do not claim novelty for this ordinary mathematical construction.
+
+A representation can determine all those outcomes without being autonomously
+updateable in every detail it carries. Autonomous update requires its own
+fibres to remain stable under the operations. In the four-state cycle, parity
+predicts its future exactly, while parity enriched with the current is-zero
+indicator is not closed as a description of its own future. The earlier
+prediction is still valid; the requested future description has changed.
+
+The two-support case shows why reasons matter. The same present verdict can
+come from one sufficient support or two alternative supports. Removing the
+first support requires different conclusions in the two situations. A list of
+sources can also omit whether they were alternative or jointly necessary.
+Retain or recover the role that changes the selected revision, not every past
+detail indiscriminately. Lost support is not the same as a false proposition.
+
+This model concerns a specified representation, not integrative contraction
+or the entire semantic field. A source address counts as a possibility of
+recovery, not a successful recovery. Neither a saved entry nor a proved
+quotient establishes a receiver's comprehension or later assimilation.
 
 ### 3.7 Reconstruction economy and continuity across discontinuity
 
@@ -1742,6 +1793,27 @@ readback supports the smaller claim that one job's method can be
 revised and persist under its actual controller and the selected
 authority.
 
+### 7.2 A bounded D-ND source-attribution comparison
+
+The [20 October contribution](DND_RELATIONAL_CONTINUITY_AND_REPRESENTATIONAL_SUFFICIENCY_2026_10_20.md) preserves a comparison between
+an attributed quotation in the historical Paper D and the identified source
+observations. The derived passage includes a sentence about every subsequent
+elaboration introducing entropy that is not part of the cited NID 557. NID 566
+explicitly includes rereading before generating the response. The comparison
+corrects an attribution; interpreting the relation between first impression
+and elaboration is a further argument, not a second independent measurement.
+
+The document remains an occurrence while one use of it is withdrawn. A source
+supporting the general content would not repair its exact literal attribution.
+The follow-up question about the method is motivated by the recovered source
+and research intent, not logically forced by the error alone. Rereading before
+emission and later document correction retain their different times.
+
+This is a documentary and interpretive specimen, not an experiment showing
+SSK superiority or autonomous learning. The complete private corpus and
+controller state are not imported. The case illustrates why represented
+sufficiency, source fidelity and subsequent exercise have distinct evidence.
+
 ## 8. Connections to agent research
 
 The following connections locate mechanisms discussed in this Paper. They
@@ -1817,6 +1889,15 @@ conceptual extension of the source field. This revision does not add a broad
 survey of multimodal robotics, sensor fusion or distributed perception
 literature; those comparisons remain a later research surface when an exact
 claim selects them.
+
+**Formal descriptions and dependency structure.** The D-ND contribution
+connects SSK reentry to a bounded behavioural quotient and to the distinction
+between alternative and joint supports. These mathematical mechanisms are not
+claimed as D-ND inventions. The paper by Green, Karvounarakis and Tannen, *Provenance
+Semirings* (PODS 2007, §§3–4; DOI 10.1145/1265530.1265535), provides a direct
+precedent for the latter distinction. The [source development](DND_RELATIONAL_CONTINUITY_AND_REPRESENTATIONAL_SUFFICIENCY_2026_10_20.md)
+keeps this comparison separate from the claim that a particular SSK receiver
+has exercised or assimilated the represented relation.
 
 ## 9. The Paper, transfer and independent lineages
 
@@ -2106,6 +2187,15 @@ method-level self-governance in a particular host, not universal
 self-determination. The conceptual reach extends beyond that case;
 its practical efficacy remains a question for subsequent real work.
 
+The 20 October D-ND return makes one informational condition exact without
+replacing that account: a representation must preserve the distinctions that
+produce different outcomes under its selected continuations. Outcome
+sufficiency is not autonomous updating of every represented detail, and
+neither property is exercised semantic continuity. The documentary case
+likewise separates occurrence, attribution and changed use. These relations
+clarify what can support a later movement while leaving its actual exercise
+and the source-governed meaning of the Kernel distinct.
+
 The contribution of the Paper is this usable account of how work, awareness,
 the capacity to work, the means through which they are incarnated, and the
 organization of reachable knowledge and potential can evolve together.
@@ -2147,6 +2237,11 @@ of admission before conceptual work can proceed.
 | Non-identical observation | conceptual consequence of changed-field continuity | later observation occurs in a field changed by prior resultants; iterative review != independent replication |
 | Three resolutions of one field | Paper-method / conceptual formalization | primary emergence -> relational articulation -> integrative comprehension; not mandatory stages or repeated independent tests |
 | Another giro from changed awareness and competence | operator-source deepening in candidate 0.13 | a new image and base can emerge after sufficient earlier CCCC; reusable learning changes the following competence, without requiring an error review or fixed iteration count |
+| D-ND continuation criterion | bounded methodological receiving interpretation, candidate 0.13 | reconstructible reference, relevant distinctions and motivated transformation; not a replacement definition of emergent SSK continuity |
+| Continuation quotient | mathematical proposition with proof in the 20 Oct linked development | declared states, observations and deterministic total operations; no priority claim, universal semantic model or context-cost optimum |
+| Outcome sufficiency vs representation update | demonstrated distinction with a finite cycle example | predicting selected outcomes does not imply autonomous update of arbitrary additional state |
+| Two-support continuation cases | exact finite illustrative checks | four models, 15 partitions enumerated per model; not empirical agent-performance or assimilation evidence |
+| D-ND source-attribution comparison | bounded documentary comparison plus present interpretation | occurrence, literal attribution and changed use distinguished; no hidden-cognition or autonomous-learning inference |
 | Situated resultant sufficiency | conceptual formalization integrated in 0.6 | preserves still-material causal relation + reachable inactive depth + unresolved possibility + continuation orientation |
 | Non-restorative continuity | conceptual relation integrated in 0.6 | continuity preserves causal reachability rather than requiring restoration of the preceding representation or working set |
 | Continuum vs emergent continuity / self-feeding work | conceptual relation integrated in 0.11 | 5 Oct operator source + existing coupled-event, causal-readback, competence and autological relations; `C_n` carries still-causal differences while continuity emerges when work changes the conditions of later work; no autonomy metric or universal assimilation claim |

@@ -1,10 +1,21 @@
 # System Semantic Kernel Paper — Competence Kernel
 
-updated: 2026-10-12
+updated: 2026-10-20
 artifact_owner: GrazianoGuiducci/maios-ssk-paper
 form_competence_owner: Editoriali / system-semantic-kernel-paper
 kernel_meaning_owner: maintain-kernel-knowledge
 state: active competence source; not a finished Paper or publication receipt
+
+## Candidate return — D-ND continuation, 20 October 2026
+
+Stable identity remains 0.12; the existing 0.13 candidate receives the
+[bounded D-ND continuation contribution](../../../paper/DND_RELATIONAL_CONTINUITY_AND_REPRESENTATIONAL_SUFFICIENCY_2026_10_20.md).
+The reusable method is kept in [ASSONANT_RESULTANT](ASSONANT_RESULTANT.md#continuazione-dipendenza-e-rappresentazione--20-ottobre-2026): distinguish sufficiency for selected outcomes, autonomous updating of a representation and actual exercise in subsequent work; retain the inferential role of a support when it changes revision. This deepens the existing writing faculty, not canonical KA/FDLA or the whole D-ND model.
+
+A mathematical quotient is not integrative contraction. A founding relation
+does not certify every derived attribution, and a prepared entry does not
+prove assimilation. The working guide records the rationale and source state;
+no new stable version, runtime effect or independent review is implied.
 
 ## Current resultant — stable body 0.12
 

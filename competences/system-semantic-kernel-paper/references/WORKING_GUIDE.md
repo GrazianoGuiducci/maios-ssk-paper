@@ -1,5 +1,57 @@
 # Guida accumulata del lavoro sul Paper
 
+## 20 ottobre — ricezione D-ND e sufficienza per il seguito
+
+Il nuovo contributo non introduce per la prima volta la distinzione SSK fra
+continuum e continuità. Precisa una condizione informativa attraverso il
+[quoziente delle continuazioni](../../../paper/DND_RELATIONAL_CONTINUITY_AND_REPRESENTATIONAL_SUFFICIENCY_2026_10_20.md) e la
+separa dall'aggiornabilità autonoma dell'intera rappresentazione e dall'uso
+successivo effettivo. Il caso dei supporti mostra quando perdere il ruolo di
+una ragione impedisce una revisione; il caso documentale distingue accaduto,
+attribuzione e uso, conservando il tempo dell'operazione sorgente.
+
+Il sapere che cambia la composizione è integrato nel riferimento già presente
+[ASSONANT_RESULTANT](ASSONANT_RESULTANT.md#continuazione-dipendenza-e-rappresentazione--20-ottobre-2026).
+Non nasce un'altra competenza, né un algoritmo della contrazione integrativa.
+La candidata 0.13 riceve i raccordi nei loro luoghi argomentativi, conserva i
+contributi Meta-Activity e P0/CCCC e rimane candidata; stable 0.12 è intatta.
+Il contributo D-ND è un manoscritto completato, non una pubblicazione accademica.
+
+Il controllo degli ingressi ha trovato CITATION fermo a 0.10 e il dossier
+corrente ancora introdotto come 0.11: i riferimenti correnti vengono riallineati
+alla 0.12 senza riscrivere le voci storiche come se fossero sempre state aggiornate.
+Il README raggiunge ora anche la candidata e conserva le due relazioni di
+ricezione D-ND già proprie della competenza: fonte selezionata e conseguenza
+operativa. Non si richiede un'implementazione preliminare per studiare la fonte.
+
+I controlli finiti sono stati eseguiti nel receiver ChatGPT il 20 ottobre;
+il riscontro Codex seguente documenta una distinta esecuzione. Prova
+matematica, ricezione documentale, esercizio del metodo e assimilazione restano
+evidenze differenti. L'integrazione non aggiorna kernel, prodotti o runtime.
+
+**Ricezione e riscontro Codex/TM9 — 20 ottobre.** Il pacchetto originale
+`SSK_DND_Integrazione_e_Completamento_Codex_2026-10-20.zip` è stato recuperato
+dall'allegato della conversazione GPT: non era stato trasferito automaticamente
+nel checkout. Integrità ZIP e undici hash del manifest verificati. Le 27
+sostituzioni su 13 file sono state confrontate con il presente di `main`,
+base `2fa3e56cf974f98c8df1cabe8d137aa5f7593195`, e riconciliate con gli inserti
+locali già avviati, senza duplicarli.
+
+Il generatore originale ha rifiutato il checkout divergente; sulla copia esatta
+della base ha prodotto una patch applicabile e la seconda esecuzione non ha
+prodotto differenze. Il passaggio Windows ha richiesto UTF-8 e normalizzazione
+CRLF/LF dell'output nel ricevente, senza modificare il generatore. Dopo
+l'applicazione, tutti i tredici testi normalizzati coincidevano con i target
+del piano; la rilettura ha poi corretto due raccordi grammaticali e aggiunto
+questo riscontro nella guida esistente.
+
+Codex ha eseguito il codice pubblicato in una cartella temporanea: quattro
+casi, quindici partizioni per caso, confronto con la raggiungibilità nel grafo
+prodotto e risultati semanticamente identici al JSON pubblicato. Sono rimasti
+invariati il corpo stabile 0.12, CITATION, le sorgenti Meta-Activity/P0 e i
+file dei controlli. Il raccordo privato AP e il manoscritto D-ND integrale
+non entrano nel delta pubblico; il controller non è stato modificato.
+
 ## 16 ottobre — Modus P0, CCCC e giro successivo: rientro nella competenza Paper
 
 **Fonte diretta dell'operatore:** CCCC indica lo stato di consapevolezza contestuale e cognizione di causa prodotto dalla comprensione profonda del kernel e dalla sua partecipazione al presente. Un Boot che recupera solo istruzioni, competenze nominate e cronologia non lo garantisce. L'esercizio avviato direttamente con il prompt Modus P0 ha oltrepassato il Boot ordinario, quindi è un'osservazione situata di P0 e non una prova di sufficienza del Boot. Le indicazioni su P0 e sul nuovo giro emergente sono conservate, con parole originali e statuti distinti, nello [sviluppo sorgente del 16 ottobre](../../../paper/MODUS_P0_CCCC_DEEP_REENTRY_AND_CHANGED_FIELD_2026_10_16.md).
