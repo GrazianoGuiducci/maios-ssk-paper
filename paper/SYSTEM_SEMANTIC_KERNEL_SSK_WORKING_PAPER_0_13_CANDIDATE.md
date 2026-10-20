@@ -24,6 +24,14 @@ Working paper, integration candidate 0.13 — 16 October 2026
 > contains the full proposition and its proof. Stable 0.12 remains unchanged;
 > Meta-Activity and P0/CCCC contributions remain preserved.
 
+> **20 October 2026 — received knowledge and documented reentry.** Two
+> further documentary contributions are incorporated in this same candidate:
+> the [source-to-context case](RECEIVED_KNOWLEDGE_AND_CONTEXT_DELIVERY_CASE_2026_10_20.md)
+> at §§4.6/7.3 and the [dated K-SSK follow-up](SSK_BOUNDED_SELF_GOVERNANCE_CASE_2026_10_16.md#9-documented-follow-up--project-reentry-on-20-october-2026)
+> at §7.1. Their source roles remain distinct from independent runtime
+> evidence and from later assimilation. The D-ND contribution, its checks,
+> Meta-Activity, P0/CCCC and stable 0.12 retain their existing states.
+
 > Generated and scientifically edited by MAIOS/TM9 through the SSK Paper
 > competence and Editoriali from Graziano Guiducci's source corpus.
 > Revision 0.12 preserves 0.11 and deepens the 12 October operator
@@ -1403,6 +1411,19 @@ topological information can remain owner-side while an ordinary result carries
 only enough reference to recover source, ownership and learning return when
 needed.
 
+**Knowledge at the receiving boundary.** Preservation at the source,
+delivery through a particular channel and use in the recipient's work are
+also distinct. The [20 October Chat case](RECEIVED_KNOWLEDGE_AND_CONTEXT_DELIVERY_CASE_2026_10_20.md)
+reports an illustrative example omitted from the supplied snapshot and,
+separately, an original title omitted from the context of an English answer.
+The distinction changes the possible correction: a wording rule does not
+supply a missing datum, while a corrected delivery does not establish correct
+subsequent use. Missing knowledge, an omission in transport and an ambiguous
+received reference are different relations, not a universal diagnostic
+checklist. Absence from the specified channel does not rule out another
+accessible recovery route. The case is an owner-reported account; it makes
+the source-to-receiver relation inspectable without certifying assimilation.
+
 The proposed **Meta Kernel Seed** concentrates generative knowledge into
 portable instructions through which a capable receiving system can form a
 kernel from context and explicit or emerging intent. A seed may occupy one
@@ -1793,6 +1814,19 @@ readback supports the smaller claim that one job's method can be
 revised and persist under its actual controller and the selected
 authority.
 
+**Documented project follow-up, 20 October.** A separately selected
+interactive revision changed the K-SSK candidate, continuity guide and current
+research entry. It distinguished the current direction from dated next-step
+instructions while retaining source/probe links and an immutable address for
+the complete preceding entry. The [dated supplement](SSK_BOUNDED_SELF_GOVERNANCE_CASE_2026_10_16.md#9-documented-follow-up--project-reentry-on-20-october-2026)
+identifies that documentary change and attributes the selection to the
+operator. It illustrates §3.6's relation between an entry and recoverable
+reasons, not a proof of lossless semantic continuation. The repository revision
+did not itself install instructions into the recurring job. Its persistence,
+receipt by another receiver and later use retain separate evidence; the
+14–16 October observation is not retrospectively enlarged into a new
+scheduled-activity result.
+
 ### 7.2 A bounded D-ND source-attribution comparison
 
 The [20 October contribution](DND_RELATIONAL_CONTINUITY_AND_REPRESENTATIONAL_SUFFICIENCY_2026_10_20.md) preserves a comparison between
@@ -1813,6 +1847,33 @@ This is a documentary and interpretive specimen, not an experiment showing
 SSK superiority or autonomous learning. The complete private corpus and
 controller state are not imported. The case illustrates why represented
 sufficiency, source fidelity and subsequent exercise have distinct evidence.
+
+### 7.3 Knowledge preserved at source and delivered to the Chat
+
+The [20 October received-knowledge case](RECEIVED_KNOWLEDGE_AND_CONTEXT_DELIVERY_CASE_2026_10_20.md)
+records two observations reported in the MAIOS resource owner's guide. An
+illustrative case present in the Map was omitted by the builder from the
+snapshot supplied to the Chat. Separately, an original Italian resource title
+was omitted from the context of an English answer; the guide records that the
+answer attributed the English public name to the source.
+
+These are distinct episodes. The first identifies missing content in the
+specified delivery, without a matched answer experiment. The second joins an
+omitted attribution relation to a reported erroneous response. The owner
+reports corrections to builder, snapshot, context selection and attribution
+data, with deterministic coverage of the latter passage in both languages.
+The Paper receiver has read that documentation, not independently repeated
+the runtime or observed a generally improved response.
+
+The case makes §4.6's receiving boundary concrete: stored knowledge,
+content supplied through a selected path and knowledge used in the situation
+are not interchangeable. A wording rule cannot supply an omitted title;
+repairing delivery does not alone establish comprehension. Another accessible
+source route remains possible, so an omission from one snapshot is not a claim
+of total receiver ignorance. The source account and its K-SSK or editorial
+derivatives form one documentary lineage rather than independent corroboration.
+No private prompt, account or controller state is needed for this public
+explanation.
 
 ## 8. Connections to agent research
 
@@ -2248,10 +2309,12 @@ of admission before conceptual work can proceed.
 | Reachable depth vs active working set | conceptual distinction | 16–23 Sep semantic-positioning and distributed-competence development; no measured token/context reduction claimed |
 | Reconstruction economy / demand-driven distribution | conceptual design relation with bounded operational specimens | R0.19 competence resolution + MAIOS Launch parallel-work readback; not an independent benchmark or optimization theorem |
 | Field vs carrier / registry / receiver | analytical distinction | 23 Sep cross-kernel carrier work; carrier can reduce discovery cost without becoming semantic owner, executor or authority |
+| Received knowledge in the MAIOS Chat (0.13 candidate) | bounded owner-reported documentary case and receiving interpretation | two source-to-context omissions documented on 20 Oct; corrected delivery and deterministic checks reported by the owner, not an independently repeated runtime or general response-improvement result |
 | Possibilistic density | qualitative research construct | operator source; no scalar metric, probability model or action functional defined |
 | Autological generative core | integrated conceptual formalization | source core, RepoKernel A–G and Paper elaboration; `K`, `g` and `U` describe situated relations |
 | Meta-Activity / owner-native continuity (0.13 candidate) | source-qualified autological and temporal conceptual integration | 16 Oct operator direction and Meta_Skill method; general competence, project owner and execution controller are distinct roles, not mandatory implementation layers |
 | K-SSK bounded recurrent-method case (0.13 candidate) | attributed longitudinal source plus current native-controller readback | 14–16 Oct companion case; native-prompt memory and unchanged controller recurrence observed; general autonomy, independent comparison and domain improvement not established |
+| K-SSK project-reentry follow-up (0.13 candidate) | dated documentary continuation of the existing case | 20 Oct operator-selected interactive revision of project documents; recoverable genealogy and current orientation, not a new scheduled wake, native job installation or proof of lossless future use |
 | Competence growth and generator change | analytical distinction | the method can evolve without collection growth; collection growth can occur with an unchanged generator |
 | Morphogenetic competence field | conceptual architecture candidate | 17 Sep Bestiary / competence-morphology development; no universal morphology or automatic kernel formation claimed |
 | Functional self and continuum | source-bound conceptual development | TM7 contribution, notebook and existing continuity account |
@@ -2334,6 +2397,18 @@ A comparative result about one implementation does not decide every relation
 at every scale of the account.
 
 ## Appendix C. Source formation
+
+The 20 October [received-knowledge case](RECEIVED_KNOWLEDGE_AND_CONTEXT_DELIVERY_CASE_2026_10_20.md)
+and [K-SSK project follow-up](SSK_BOUNDED_SELF_GOVERNANCE_CASE_2026_10_16.md#9-documented-follow-up--project-reentry-on-20-october-2026)
+are selected documentary contributions to this same candidate. The former
+reports two omissions in source-to-context delivery from the resource owner's
+guide; the latter records an operator-selected interactive change to a project
+entry. They add a receiving-boundary account in §4.6, bounded cases in §§7.1
+and 7.3 and separate ledger entries. Restricted source coordinates are
+identified in the supplements; their selected relations are explained without
+copying private prompts or controller data. Neither derivative agreement nor
+repository persistence is treated as independent evidence of subsequent use.
+The D-ND contribution already integrated in this candidate is preserved.
 
 Candidate 0.13 integrates the 16 October operator source development
 [Modus P0, CCCC, deep reentry and observation from a changed field](MODUS_P0_CCCC_DEEP_REENTRY_AND_CHANGED_FIELD_2026_10_16.md).

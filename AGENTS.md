@@ -29,6 +29,24 @@ The selected [relational-continuity and representational-sufficiency development
 
 The contribution is integrated into the existing candidate 0.13 and linked from STATE, SOURCE_MAP, the dossier and the competence guide. Stable 0.12, Meta-Activity/P0 contributions and all other open developments retain their own states. The current dossier and citation metadata are reconciled to stable 0.12; historical entries preserve their own dates and versions. Integration does not establish later receiver assimilation.
 
+### Received knowledge and K-SSK follow-up — 20 October 2026
+
+The [received-knowledge case](paper/RECEIVED_KNOWLEDGE_AND_CONTEXT_DELIVERY_CASE_2026_10_20.md)
+and the [dated K-SSK continuation](paper/SSK_BOUNDED_SELF_GOVERNANCE_CASE_2026_10_16.md#9-documented-follow-up--project-reentry-on-20-october-2026)
+are incorporated in the existing candidate 0.13 at §4.6, §7.1, §7.3 and its
+claim ledger. The original 14–16 October case remains intact; the 20 October
+project revision is operator-selected interactive work, not a scheduled wake.
+The Chat case is an owner-reported source-to-context account, not a runtime
+experiment independently repeated by the Paper receiver.
+
+The existing [resultant competence reference](competences/system-semantic-kernel-paper/references/ASSONANT_RESULTANT.md#ricezione-del-sapere-e-seguito-documentato--20-ottobre-2026)
+carries the reusable distinction among knowledge preserved, delivered and
+exercised, with the original source role and time retained. The new case contains
+its source coordinates; do not count its K-SSK or editorial derivatives as
+independent corroboration. Stable 0.12, the D-ND contribution and checks,
+Meta-Activity and P0/CCCC remain unchanged. No controller state, private prompt,
+website or social publication is included in this effect.
+
 ### Selected demonstrative case — 16 October 2026
 
 [Bounded self-governance of a recurring K-SSK research activity](paper/SSK_BOUNDED_SELF_GOVERNANCE_CASE_2026_10_16.md)

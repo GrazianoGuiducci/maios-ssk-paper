@@ -7,6 +7,8 @@
 **Corpus relation:** companion case for *System Semantic Kernel*, stable body 0.12, especially §§4.3–4.4 and §7. This case does not rename or replace the SSK research object.  
 **Status:** author-selected demonstrative case; conversational process evidence plus a current native-controller readback; no independent replication or comparative performance evaluation.
 
+**Dated continuation:** §9, added 20 October 2026, concerns a separately selected interactive project revision. The original case and its 16 October observation coordinates below are retained, not relabelled as observations of a later scheduled run.
+
 ### Abstract
 
 A recurring K-SSK research activity was given an operator-defined purpose and explicit, bounded authority to maintain its own working instructions. The recorded process shows changes to the method of reentry rather than only accumulation of outputs: recognition of self-selected examples as insufficient evidence of general competence, removal of a completed verification demand, correction of drift toward adjacent communication principles, and contraction of an expanding continuum into causally relevant knowledge. A native controller readback on 16 October 2026 confirms that the resulting instructions are stored in the same enabled job, with its two-hour cadence retained. The case makes a limited form of operational self-governance inspectable: work can change the conditions of its own continuation while the originating purpose remains operator-owned. It does not establish that every historical edit was independently audited, that the process was free of human intervention, or that domain competence improved by a measured amount.
@@ -92,6 +94,27 @@ Transfer into K-SSK should therefore carry the function, not this private job's 
 This case is prepared as an additional demonstrative unit after §7 of stable SSK 0.12, supporting §§4.3–4.4 without changing their source meaning. It may be maintained as a linked case supplement before any separately recorded integration into a later stable body. The author-selected case, repository persistence, manuscript incorporation, editorial publication and independent scientific review remain distinct effects.
 
 The reusable contribution is to make a source-preserving self-governance relation inspectable at the level where it occurred. A broader claim about human-facing competence or general autonomous improvement is neither required for this contribution nor supported by the available evidence.
+
+## 9. Documented follow-up — project reentry on 20 October 2026
+
+**Follow-up ID:** KSSK-SG-20261020-F1. The operator selected an interactive reexamination of K-SSK through KA and FDLA. The resulting project revision, `KSSK-SOURCE-RECEIVER-20261020-R1`, changed its candidate architecture, continuity guide and current entry. This is a later event at the research-project owner, not a scheduled wake or a retroactive extension of the 16 October controller readback.
+
+The material relation was that an entry could contain the present alongside several next-step instructions inherited from earlier dates. The revision separated the current direction from that genealogy. Its `CURRENT.md` retained the distinctions needed to continue, direct links to probes and cases, and an immutable link to the complete preceding entry. The candidate and guide made explicit that an adequate acquired distinction can already participate in selected work; lack of evidence for a general capability does not require indefinitely postponing that work.
+
+| Observed documentary change | What it establishes | What remains distinct |
+| --- | --- | --- |
+| Three project documents revised in one identified Git commit | A persisted change of research method and entry, selected by the operator | Authorship of earlier job edits and autonomous discovery by the AP |
+| Historical entry retained at a fixed revision and linked from the new entry | A concrete recovery address for earlier wording, sources and reasons | Every future receiver finding, receiving or correctly using that depth |
+| Probe and case links retained with their original claim scopes | Existing evidence remains represented in the current research entrance | A new execution, independent replication or general losslessness result |
+| Project method and native activity memory explicitly distinguished | The repository revision does not purport to replace the AP's live prompt | Installation of revised native job instructions or observed use in a later wake |
+
+**Source coordinates.** The restricted project repository is `GrazianoGuiducci/tm7`, commit `0b860fd09f895db7845bbdff636a98f0408b49a6`, dated 20 October 2026. The changed files are under `chatgpt/experiments/k-ssk/`: `CURRENT.md`, blob `832dd743ab3d0d2062d1341403c9b75dae380cd5`; `KERNEL_CANDIDATE.md`, blob `0f251d16327122d827d1d9084257d4df058b25ae`; and `SELF_GOVERNANCE_AND_CONTINUITY.md`, blob `b7cfcc2a2584dcfa43864822a9d12be827ee624b`. The preceding complete entry is at commit `92edcc207c1c916eb920dfc23d97749d7dfa391d`, blob `7ada4921ef747fb20aa004ce69004d1b801bbb30`. These identify the documentary comparison; the public account does not export the private activity prompt or controller identifiers.
+
+The follow-up illustrates the relation developed in candidate §3.6: a present conclusion can remain unchanged while the reasons necessary to revise or continue it require a different entry. It does not instantiate a proof of the [D-ND continuation quotient](DND_RELATIONAL_CONTINUITY_AND_REPRESENTATIONAL_SUFFICIENCY_2026_10_20.md) for the whole project. In this documentary case, historical recoverability and the orientation of the current entry are inspectable; future semantic use is not established by their preservation.
+
+The [received-knowledge case](RECEIVED_KNOWLEDGE_AND_CONTEXT_DELIVERY_CASE_2026_10_20.md) makes the related delivery boundary explicit: preserving knowledge at an owner does not by itself put it into another receiver's context. Here, likewise, a repository revision and receipt by the scheduled activity remain different events. An update reported by a later cycle needs its own evidence and must not be backdated to the 20 October project commit.
+
+**Contribution status.** This dated continuation adds documentary detail to the existing case, not a new claim of autonomous self-improvement, measured performance or evolution without loss. The original 14–16 October sequence remains attributable on its own terms. Candidate 0.13 receives a concise connection in §7.1; stable 0.12 and the originating KA/FDLA relations remain unchanged.
 
 ## References
 
