@@ -1,0 +1,65 @@
+{
+  "all_assertions_passed": true,
+  "changed_rules_closure_from_ab": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e"
+  ],
+  "closure_checks": {
+    "extensive": true,
+    "finite_bound": true,
+    "idempotent": true,
+    "inclusion_pairs": 243,
+    "minimal": true,
+    "monotone": true,
+    "seed_sets": 32
+  },
+  "joint_trace_from_a": [
+    [
+      "a"
+    ]
+  ],
+  "naive_graph_closure_from_a": [
+    "a",
+    "c",
+    "d"
+  ],
+  "scope": "Fixed positive rules on a finite declared universe; not a cognitive experiment.",
+  "shared_trace_from_ab": [
+    [
+      "a",
+      "b"
+    ],
+    [
+      "a",
+      "b",
+      "c"
+    ],
+    [
+      "a",
+      "b",
+      "c",
+      "d"
+    ]
+  ],
+  "single_trace_from_a": [
+    [
+      "a"
+    ],
+    [
+      "a",
+      "c"
+    ],
+    [
+      "a",
+      "c",
+      "d"
+    ]
+  ],
+  "uniform_selection_weight_a": [
+    "1",
+    "1/4"
+  ]
+}

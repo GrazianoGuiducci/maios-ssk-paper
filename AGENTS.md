@@ -23,6 +23,24 @@ Read only the depth required by the selected work:
    or producing a faithful derivative.
 5. `genealogy/` only when a current relation requires its predecessor.
 
+### Bounded D-ND learning for orientation — 22 October 2026
+
+When an inference's conditions or an observed result's explanation are in doubt,
+reach the [joint-premises and rule-identification supplement](paper/JOINT_PREMISES_AND_RULE_IDENTIFICATION_2026_10_22.md)
+and the existing [resultant competence reference](competences/system-semantic-kernel-paper/references/ASSONANT_RESULTANT.md#premesse-osservazioni-e-identificazione-delle-regole--22-ottobre-2026).
+They distinguish joint requirements from separate links, availability from
+selection weight, local closure from a changed rule set, and an observed trace
+from an identified mechanism. The two explicit rule hypotheses agree on one
+whole trace and differ on a stated additional input; proofs and reproducible
+finite checks delimit what is acquired.
+
+This is an operator-selected research supplement and a return to the existing
+competence, not a new stable edition or a required preliminary test. Stable
+0.12, candidate 0.13 and all earlier contributions remain unchanged. No private
+source excerpts, controller state or operational prompts are imported. A later
+receiver must actually reach and use the knowledge; this addition does not
+claim installation, hidden cognition, general efficacy or assimilation.
+
 ### D-ND continuation contribution — 20 October 2026
 
 The selected [relational-continuity and representational-sufficiency development](paper/DND_RELATIONAL_CONTINUITY_AND_REPRESENTATIONAL_SUFFICIENCY_2026_10_20.md) is now a reachable research source. Its learning returns to the existing [resultant competence reference](competences/system-semantic-kernel-paper/references/ASSONANT_RESULTANT.md#continuazione-dipendenza-e-rappresentazione--20-ottobre-2026). Preserve output sufficiency, autonomous representation update and actually exercised continuity as distinct relations.
