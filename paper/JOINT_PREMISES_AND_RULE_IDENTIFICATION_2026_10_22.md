@@ -69,6 +69,12 @@ Q_S: {a} -> {a,c} -> {a,c,d}
 
 This input distinguishes the two declared hypotheses. It does not uniquely identify a theory among all possible theories. Both traces were calculated from stipulated models; neither is a measurement of a real cognitive system. In a real receiver, whether an analogous discriminating observation is available, meaningful and authorized is a separate situated question.
 
+### The observable and the way it is obtained
+
+The second initial set {a} is a counterfactual contrast in this finite model, not a second passive observation of the original trace. In a live receiver, a naturally occurring {a} case could provide another observational trace; deliberately setting or resetting the initial state would instead be an intervention with its own effect, source conditions and authority. Re-examining the same evidence through a different representation is a third operation: it may expose a relation missed previously but is not independent evidence. The source-relative meaning and attainable means decide which distinction is pertinent, without making a probe mandatory.
+
+Not all differently written rule sets are distinguishable even by varying every initial set under a fixed observation contract. On U={a,b,c}, let Q1={a->b,b->c} and Q2=Q1 union {{a,b}->c}. For any S subset U, whenever the extra joint rule could add c, b is already present, so b->c also adds c in the same synchronous step. Thus the one-step transformations, and hence every set-valued trace, coincide for all eight possible initial sets. The added rule changes the syntactic description but not these observable consequences. Identifying source code, rule provenance or labelled firings would require different observations. This exact equivalence is local to the stipulated positive synchronous semantics; it does not make all mechanisms indistinguishable or rule provenance irrelevant.
+
 Learning Horn formulas through queries has a specific precedent in Angluin, Frazier and Pitt [2]. Only the publisher's abstract and bibliographic metadata were consulted. The closure-input query used here is not automatically their membership query over Boolean assignments; their algorithm, oracles and complexity guarantees are not transferred to SSK.
 
 ## 4. Availability is different from selection weight

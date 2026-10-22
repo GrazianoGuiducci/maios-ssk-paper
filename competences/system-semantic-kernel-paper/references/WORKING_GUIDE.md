@@ -1,5 +1,11 @@
 # Guida accumulata del lavoro sul Paper
 
+## 22 ottobre — dubbi su premesse e meccanismo, prova passiva e intervento
+
+Il [supplemento D-ND ricevuto](../../../paper/JOINT_PREMISES_AND_RULE_IDENTIFICATION_2026_10_22.md) esercita nel Paper il metodo già custodito da [ASSONANT_RESULTANT](ASSONANT_RESULTANT.md#premesse-osservazioni-e-identificazione-delle-regole--22-ottobre-2026). Distingue condizioni congiunte, uscita osservata e regola identificata. Il presente incrocio precisa che un ingresso alternativo è un confronto controfattuale: la sua osservazione spontanea, la predisposizione mediante intervento e una diversa lettura della medesima fonte non sono lo stesso evento. In un secondo esempio due liste di regole distinte sono equivalenti per tutte le tracce ammesse, dunque non si impone una ricerca senza fine della differenza. Far partecipare questa conoscenza quando il dubbio riguarda davvero causa, prova o continuazione, senza sostituire sorgente e autorità del ricevente.
+
+Il manoscritto SSK 0.12 resta stabile, 0.13 candidata e non modificata. Questo è approfondimento del supplemento e del metodo già raggiungibile, non prova che un altro Kernel lo abbia esercitato. Il D-ND manoscritto 1.0 è ora conservato presso il proprio owner privato MM_D-ND: quel deposito non autorizza la pubblicazione dei suoi estratti né diventa una citazione pubblicamente accessibile.
+
 ## 20 ottobre — formulazione costruttiva e design concettuale condiviso
 
 La nuova [formulazione diretta dell'operatore](../../../paper/KERNEL_AS_CONSTRUCTION_AND_SHARED_CONCEPTUAL_DESIGN_2026_10_20.md) rende riconoscibile la sostanza del kernel dal lavoro che permette: costruire qualcosa attraverso la collaborazione fra persone e AI secondo un design concettuale condiviso; il risultato può essere anche un'applicazione. Non trasformarla nella definizione esaustiva di SSK, in un'app già disponibile o nell'obbligo di un piano concettuale fisso. La relazione costitutiva rimane quella sviluppata nel Paper; la formulazione ne rende esplicita una conseguenza costruttiva al livello umano–AI.

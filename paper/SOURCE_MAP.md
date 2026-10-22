@@ -4,6 +4,11 @@
 
 - [Semantic kernel as a system for building through a shared conceptual design](KERNEL_AS_CONSTRUCTION_AND_SHARED_CONCEPTUAL_DESIGN_2026_10_20.md) — latest direct operator formulation preserved exactly, with a separate earlier Editoriali variant distinguished; bounded scientific reading in candidate 0.13, Abstract, §§2.1/5.3 and claim ledger. An application is a possible resultant rather than an exhaustive identity of the kernel. No claim of an installed shared-design mechanism or published communication.
 - [Paper candidate 0.13](SYSTEM_SEMANTIC_KERNEL_SSK_WORKING_PAPER_0_13_CANDIDATE.md) — this is a new constructive explanatory resolution of the existing kernel relation, not an amended stable body or a new KA/FDLA invariant.
+## D-ND orientation supplement — 22 October 2026
+
+- [Joint premises, observed resultants and rule identification](JOINT_PREMISES_AND_RULE_IDENTIFICATION_2026_10_22.md) — bounded forward/inverse examples and the new precise distinction among passive later observation, a different initial condition requiring intervention, and re-representation of fixed evidence. A separate exact case shows that distinct rule lists can be observationally equivalent on every declared seed. The cases clarify the scope of a doubt, not a mandatory rule-testing stage or an SSK implementation claim.
+- [Receiving competence and its guide](../competences/system-semantic-kernel-paper/references/ASSONANT_RESULTANT.md#premesse-osservazioni-e-identificazione-delle-regole--22-ottobre-2026) — the reusable method remains in the existing SSK Paper competence, not a second kernel. This supplement is reached from AGENTS and the guide but has not been merged into stable 0.12 or candidate 0.13.
+
 ## D-ND receiving contribution — 20 October 2026
 
 - [Relational continuity and representational sufficiency](DND_RELATIONAL_CONTINUITY_AND_REPRESENTATIONAL_SUFFICIENCY_2026_10_20.md) — selected receiving development from D-ND manuscript 1.0; full bounded proposition and proof, outcome/update distinction, two-support and documentary cases. Integrated in candidate 0.13, not stable 0.12. The D-ND manuscript and private archive retain their separate owners and publication states.

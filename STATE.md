@@ -1,6 +1,6 @@
 # SSK Paper State
 
-updated: 2026-10-20
+updated: 2026-10-22
 repository: `GrazianoGuiducci/maios-ssk-paper`
 canonical_branch: `main`
 
@@ -52,6 +52,12 @@ public_social_field:
   approval_owner: current private K-Social authority and operator email-validation workflow
 programme_relation: upstream source/representation owner for current ChatGPT Kernel evolution; not runtime controller
 ```
+
+## Bounded D-ND orientation supplement — 22 October 2026
+
+The [joint-premises and rule-identification supplement](paper/JOINT_PREMISES_AND_RULE_IDENTIFICATION_2026_10_22.md) is a separate research contribution and a return to the *existing* [resultant competence reference](competences/system-semantic-kernel-paper/references/ASSONANT_RESULTANT.md#premesse-osservazioni-e-identificazione-delle-regole--22-ottobre-2026). The latest cross-reading sharpens the distinction among a counterfactual input, a passively observed additional event, an authorized intervention and a different representation of the same evidence; it also supplies a finite example of two rule descriptions yielding identical traces under all declared inputs. That example is a limited mathematical equivalence, not a claim about hidden AI cognition or a demand to run tests whenever the receiver is uncertain. The precise source scope, proofs and finite observations stay with the supplement and its guide.
+
+The private MM_D-ND owner now holds the completed D-ND 1.0 working manuscript and provenance. Its existence does not make the private archive public, validate its contents externally, or change the distinct SSK publication state. This addition improves the research entry/routing only: stable 0.12 and existing candidate 0.13 remain byte-unchanged. The living SSK kernel, ChatGPT/Codex receivers, controller jobs and other repositories are not automatically updated or shown to have used this material.
 
 ## Constructive human–AI kernel formulation — 20 October 2026
 
