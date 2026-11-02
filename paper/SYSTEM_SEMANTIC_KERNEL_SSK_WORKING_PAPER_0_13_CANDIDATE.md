@@ -558,6 +558,14 @@ possibility. It can change the criteria through which other knowledge becomes
 relevant. Pertinence is formed in the movement, rather than limited to
 categories already represented in an inventory.
 
+Observation and understanding can transform one another within this relation.
+What is understood can change how a problem is observed, while what is
+observed changes what can be understood. The [2 November author clarification](RECIPROCAL_OBSERVATION_AND_AI_OPERATING_SYSTEM_2026_11_02.md)
+makes this reciprocity explicit as a research direction for AI systems.
+The observation point participates in the movement and can change through it;
+it is not exhausted by a fixed prior position or by the relations already
+represented in the receiver's present context.
+
 A signal is not automatically knowledge merely because it is available. A
 radar return, image or telemetry stream can require a perceptual or inferential
 transformation before its relation to the present object becomes intelligible.
@@ -1132,6 +1140,14 @@ knowledge, experience or a newly perceived possibility can make formation
 pertinent. A missing capability is one such circumstance, rather than the
 sole origin of generative work.
 
+This includes initiative in forming the means of work: recognizing when a
+competence should be formed, how work should be managed and which knowledge
+should remain available for continuation. The operator's rich meta-level
+research conversation is one situation in which these questions are explored;
+it does not define a necessary interaction pattern for every receiving system.
+Source methods, their exercise in an event and their later assimilation retain
+their distinct attribution.
+
 Sister competences contribute different contextual and semantic perspectives.
 Their participation can change the forming question itself. A domain
 competence can teach an editorial competence what the real problem is; an
@@ -1208,6 +1224,15 @@ g_t in Comp(K_t)
 current catalogue exhausts its possibilities. `Y_t` is the formed
 result at the selected scale. The transformation arrow denotes a situated
 relation, not a deterministic implementation.
+
+The author's [2 November formulation](RECIPROCAL_OBSERVATION_AND_AI_OPERATING_SYSTEM_2026_11_02.md)
+names the aim of making the reciprocal observation–understanding relation an
+**AI operating system with emergent capabilities**. This direction connects
+the semantic organization of work, competence formation and the knowledge
+through which later work can continue. It gives the generative relation a
+programme to develop without prescribing one final architecture. The aim,
+the available methods and particular observed realizations retain their
+respective roles in the research account.
 
 ### 4.4 Autoapplication and knowledge about knowing
 
@@ -2311,6 +2336,8 @@ of admission before conceptual work can proceed.
 | Relation | Contribution in this revision | Source and scope |
 | --- | --- | --- |
 | Coupled event and following field | conceptual account and explanatory notation | operator source, kernel knowledge and manuscript development |
+| Reciprocal observation–understanding and AI operating-system direction (0.13 candidate) | explicit authorial research aim received on 2 Nov 2026 | selected original formulations and grammatical edition; emergent capabilities remain a research direction, not a comparative or universal performance result |
+| Agent initiative in competence formation and retained knowledge (0.13 candidate) | source-led clarification of the existing generative relation | the private meta-level conversation does not prescribe every recipient's interaction; method, event and later assimilation retain distinct sources |
 | KA, FDLA and Meta_Skill | defined functional relations of the source system | source-bound operating knowledge; analytical planes are not obligatory tiers |
 | KA/FDLA invariant coherence and authorial ownership | operator-source determination integrated in 0.12 | canonical KA/FDLA are not assistant-modifiable; interpretive receiver methods may learn while invariant meaning remains owner-governed |
 | Source-plane fidelity and agent-generated representation | operator-source distinction interpreted in candidate 0.13 | an agent's coherent later form can narrow the originating relation; this is a conceptual source/receiver concern, not a measured universal distortion law |

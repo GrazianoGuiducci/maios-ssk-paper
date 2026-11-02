@@ -143,6 +143,18 @@ future questions. The 0.13 candidate receives this relation; 0.12 remains the
 stable body. No new competence, empirical efficacy claim or source-invariant
 mutation is introduced.
 
+## Reciprocal observation and the operating-system aim — 2 November 2026
+
+The [source-led development](../../paper/RECIPROCAL_OBSERVATION_AND_AI_OPERATING_SYSTEM_2026_11_02.md)
+and the accumulated working guide preserve the author's reciprocal relation
+and aim of an AI operating system with emergent capabilities. Keep that aim
+available when forming the research object and faithful derivatives. A
+shorter explanation about directing questions and methods cannot silently
+replace the wider selected aim. Distinguish original words, an authorized
+grammatical edition and scientific development; a question or uncertain
+dictation is not completed into a new axiom. The existing 0.13 candidate
+receives the relation; stable 0.12 retains its identity.
+
 ## Revision Responsibility
 
 Graziano Guiducci remains the operator and authorial source authority. The SSK

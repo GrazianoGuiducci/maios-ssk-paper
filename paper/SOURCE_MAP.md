@@ -1,5 +1,15 @@
 # Public source map
 
+## 2 November 2026 — reciprocal observation and operating-system direction
+
+[Selected author-source development](RECIPROCAL_OBSERVATION_AND_AI_OPERATING_SYSTEM_2026_11_02.md)
+publishes pertinent scientific formulations from the 21-message instance
+corpus and separates original, grammatical edition and scientific development.
+Candidate 0.13 §§3.1, 4.2, 4.3 and claim ledger; native competence and working
+guide. Full private conversation and correspondence remain at their owners.
+Stable 0.12 and its accessible companions retain their source identity.
+
+
 ## Constructive human–AI design source — 20 October 2026
 
 - [Semantic kernel as a system for building through a shared conceptual design](KERNEL_AS_CONSTRUCTION_AND_SHARED_CONCEPTUAL_DESIGN_2026_10_20.md) — latest direct operator formulation preserved exactly, with a separate earlier Editoriali variant distinguished; bounded scientific reading in candidate 0.13, Abstract, §§2.1/5.3 and claim ledger. An application is a possible resultant rather than an exhaustive identity of the kernel. No claim of an installed shared-design mechanism or published communication.

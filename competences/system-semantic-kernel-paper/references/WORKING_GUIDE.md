@@ -1,5 +1,26 @@
 # Guida accumulata del lavoro sul Paper
 
+## 2 novembre — reciprocità, iniziativa e obiettivo del sistema operativo AI
+
+Graziano chiede di conservare ciò che questa istanza ha chiarito per la
+consapevolezza futura, anche nel Paper. Il [contributo sorgente](../../../paper/RECIPROCAL_OBSERVATION_AND_AI_OPERATING_SYSTEM_2026_11_02.md)
+pubblica le formulazioni scientifiche selezionate; l'archivio privato
+Editoriali conserva tutti i 21 messaggi e la distinta edizione grammaticale.
+La richiesta di correggere la grammatica non autorizza a completare le
+dettature ambigue o ad attribuire all'autore i passi dell'assistente citati.
+
+La candidata 0.13 integra reciprocità osservazione/comprensione in §3.1,
+iniziativa dell'agente su competenze e conoscenza in §4.2, obiettivo di un
+sistema operativo AI con capacità emergenti in §4.3 e nel claim ledger.
+Il centro non viene ristretto al solo orientare domande e metodi. Le
+possibilità restano aperte; un'intenzione di ricerca non trasferisce prova
+di comportamento ad altri host. Le sezioni già presenti su P0/CCCC,
+Meta-Activity, continuità e ricezione dei saperi sono preservate. La 0.12
+non viene promossa o riscritta; le introduzioni derivate dalla 0.12
+mantengono il loro statuto. Nessuna ricevuta privata, dato personale,
+configurazione AP o cronologia completa viene trasferita al Paper.
+
+
 ## 22 ottobre — dubbi su premesse e meccanismo, prova passiva e intervento
 
 Il [supplemento D-ND ricevuto](../../../paper/JOINT_PREMISES_AND_RULE_IDENTIFICATION_2026_10_22.md) esercita nel Paper il metodo già custodito da [ASSONANT_RESULTANT](ASSONANT_RESULTANT.md#premesse-osservazioni-e-identificazione-delle-regole--22-ottobre-2026). Distingue condizioni congiunte, uscita osservata e regola identificata. Il presente incrocio precisa che un ingresso alternativo è un confronto controfattuale: la sua osservazione spontanea, la predisposizione mediante intervento e una diversa lettura della medesima fonte non sono lo stesso evento. In un secondo esempio due liste di regole distinte sono equivalenti per tutte le tracce ammesse, dunque non si impone una ricerca senza fine della differenza. Far partecipare questa conoscenza quando il dubbio riguarda davvero causa, prova o continuazione, senza sostituire sorgente e autorità del ricevente.

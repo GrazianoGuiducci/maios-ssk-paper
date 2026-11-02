@@ -1,6 +1,6 @@
 # SSK Paper State
 
-updated: 2026-10-22
+updated: 2026-11-02
 repository: `GrazianoGuiducci/maios-ssk-paper`
 canonical_branch: `main`
 
@@ -52,6 +52,20 @@ public_social_field:
   approval_owner: current private K-Social authority and operator email-validation workflow
 programme_relation: upstream source/representation owner for current ChatGPT Kernel evolution; not runtime controller
 ```
+
+## 2 November — reciprocal observation and the AI operating-system aim
+
+The operator selects preservation of this instance's clarifications in the
+Paper and its writing competence. The [author-source development](paper/RECIPROCAL_OBSERVATION_AND_AI_OPERATING_SYSTEM_2026_11_02.md)
+publishes the pertinent scientific formulations, with their grammatical
+edition distinguished from the source and the Paper's elaboration.
+The existing 0.13 candidate integrates reciprocal observation–understanding,
+agent initiative in competence formation/retained knowledge, and the aim of
+an AI operating system with emergent capabilities at §§3.1, 4.2, 4.3 and
+the claim ledger. Stable 0.12 remains canonical. Existing candidate
+contributions, private-owner boundaries and publication states are preserved.
+The working guide and competence continue from this acquired relation.
+
 
 ## Bounded D-ND orientation supplement — 22 October 2026
 
